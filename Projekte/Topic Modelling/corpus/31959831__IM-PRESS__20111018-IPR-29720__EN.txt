@@ -1,0 +1,28 @@
+Crack down on short selling and sovereign debt speculation
+Economic and monetary affairs
+Committees Economic and Monetary Affairs
+2011-10-18 - 21:34
+John SCHRANZ BXL (+32) 2 28 44264 STR (+33) 3 881 74076 PORT (+32) 498 98 14 02 EMAIL econ-press@europarl.europa.eu Lead MEPs and the Polish Presidency on Tuesday clinched a deal on the regulation beefing up standards and requirements for the practices of short selling and trading in credit default swaps (CDS), a financial product insuring against default. The rules will impose much more transparency, increase the powers of the EU's financial watchdog and virtually ban certain CDS trades, thereby making speculation on a country's default more difficult.
+This is one of the key regulations pushed through by the Commission to tackle the financial crisis. It will strengthen rules on short selling and CDS trading, two practices accused of fuelling market volatility. CDS trades have been widely blamed for potentially aggravating Greece's troubles.
+Limiting speculation on a country's default - a key win for Parliament
+Parliament's negotiators obtained a ban on naked CDS trading (purchasing default insurance contracts without owning the related bonds), with the sole exception of an option for a national authority to lift the ban temporarily in cases where its sovereign debt market is no longer functioning properly. Even this possibility would be closely circumscribed, because the text specifies a limited number of indicators which could justify the regulator's action. Moreover, within 24 hours, the European Securities and Markets Authority (ESMA) would publish an opinion on its web site as to the utility of suspending the ban. A negative opinion from ESMA would have a political weight.
+Welcoming the ban, rapporteur Pascal Canfin (Greens, FR) said: " The majority in Parliament composed of Greens, Socialists and the EPP fought hard to put an end to sovereign debt speculation in Europe. These rules also prove that the EU can act against speculation when the political will is there. Today's compromise will make it impossible for a hedge fund to buy Greek or Italian CDS without already owning the bonds of those countries, for the sole purpose of speculating on the country's default."
+ESMA in the driving seat
+MEPs from groups sponsoring the deal also managed to preserve the powers of the EU's financial markets watchdog, ESMA, in particular to restrict short selling, as an arbiter of a national authority's wish to introduce measures to address exceptional situations, and also to require other authorities to introduce exceptional measures to deal with difficult situations.
+" The new powers for ESMA will allow for better coordination at the EU level in times of crisis", Mr Canfin said, adding however that "It would have been better had ESMA had similar powers over decisions relating to sovereign debt but the Member States refused ".
+More reporting
+Another key to strengthening the Commission proposal is stepping up reporting requirements. A lack of information was one of the main problems for supervisors before the crisis. The extra information to be provided to national and European supervisors will allow them to carry out their preventive work better by alerting them earlier to potential risks. For example, supervisors would be informed of large short positions already when this position accounts for 0.5% of the issued capital.
+The MEPs' wish that naked short sales would no longer be possible for more than one day was however diluted. The hard "locate and reserve rule", whereby a trader must not only notify from where it plans to borrow the shares in question but must also have a guarantee that it will indeed be able to borrow them, was diluted to requiring the trader to locate and have a "reasonable expectation" of being able to borrow the shares from the located party.
+Next steps
+Both Council and the full Parliament must now ratify the agreement. A plenary vote in Parliament is expected to be taken in the third week of November. The regulation is expected to enter into force in November 2012.
+20111018IPR29720 Profile of rapporteur Pascal Canfin Economic and Monetary Affairs Committee
+EN
+1
+LINK
+/members/expert/groupAndCountry/view.do?group=2965&country=FR&partNumber=1&language=EN&id=96711
+EN
+2
+LINK
+/activities/committees/homeCom.do?language=EN&body=ECON
+-//EP//DTD IM-PRESS 20050901 IPR DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 IPR DOC XML V0//EN

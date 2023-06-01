@@ -1,0 +1,38 @@
+Are your details caught in the World Wide Web?
+Justice and home affairs
+2008-01-22 - 16:04
+The internet - we use it in vast numbers and love the information it makes available. However, to what extent is our behaviour being monitored and recorded? Do internet search engines retain data on our preferences to build a "profile" of us to make it easier to sell us products? The extent to which our activity on the internet - including emails - is being monitored was discussed by MEPs, consumer groups and industry experts at a 21 January hearing by Parliament's Civil Liberties Committee.
+The hearing came against the background of the Commission's ongoing investigation into the merger of search engine and internet advertising giant "Google", with "DoubleClick" - the leader in online graphic ads.
+Across the 27-member European Union privacy laws differ markedly complicating the regulation of an internet that knows no frontiers. The European Data Protection supervisor Peter Hustinx has said that "community law applies on the internet" although some MEPs - notably Greek Socialist Stavros Lambrinidis - have disputed that.
+The true price of free internet access
+The hearing was told that on-line advertising was already a 27 billion dollar industry with the market is set to double in four years. With this kind of money available there is clearly pressure on the owners of sites to take advantage of this by selling products to their users. Many internet providers say they can only extend their services due to the investment that advertising revenue brings them.
+Much of what we access on the internet is free - so long as we are willing to tolerate advertisements and other inducements to part from our cash. Sites also have "cookies" which track our behaviour so that our preferences and tastes can be monitored.
+This means that when advertisements appear they are "personally" tailored to appeal to your tastes and interests. Cornelia Kutterer, for the consumer body "Bureau Européen des Unions de Consommateurs" (BEUC), told the hearing that these services "led to a loss of personal data and privacy".
+This data can be kept for a considerable period of time. At the hearing it was learnt that Google keep this information for 18 months. So, if you are reading this then internet searches you made with the firm in the last half of 2006 are still being held!
+Emails between yourself and..?
+The extent to which your emails are being monitored was a question raised by the Chair of the Civil Liberties Committee, French Liberal MEP Jean-Marie Cavada. For example users of "Googlemail" will be familiar with the fact that if you email a friend in, say Barcelona, then hotel and other information will appear about Barcelona in the sidebar of your page. Clearly the emails are being electronically screened.
+A representative of Google at the hearing admitted that emails sent using the internet were monitored "solely for advertising purposes" whilst a representative of Microsoft denied the company screened private email.
+IP address - personal data?
+Every computer has an Internet Protocol (IP) address (a 32-bit numeric address that serves as an identifier for each computer). The extent to which this constitutes "personal data" was also discussed at the hearing. A representative from the US Federal Trade Commissioner said that in the US there was "no consensus on the issue". Peter Fleischer of Google said the extent to which an IP address could be considered personal data "depended on the context and which personal information it reveals". Portuguese MEP Carlos Coelho of the Centre-right European People's Party and European Democrats advocated treating IP addresses as personal data.
+The need to tighten European legislation was also debated at the hearing. Achim Klabunde of the European Commission presented proposals which aim to define "the rights and duties of electronic communication". Mr Klabunde stressed that "any sanctions should be proportionate" to the intrusion of privacy. Clearly, as the use of the internet expands ever more rapidly then the debate over privacy and data protection issues will go on.
+20080121STO19257 Guide on your rights on data protection 2002 Directive on the processing of personal data Hearing programme and documents "A different kind of war" - US Homeland Security chief to Civil Liberty MEPs Do internet companies protect personal data well enough?
+EN
+1
+PHOTO
+20080121PHT19162.jpg
+EN
+2
+LINK
+http://ec.europa.eu/justice_home/fsj/privacy/guide/index_en.htm
+EN
+3
+LINK
+http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32002L0058:EN:NOT
+EN
+4
+LINK
+/meetdocs/2004_2009/organes/libe/libe_20080121_1500_audition.htm
+-//EP//TEXT IM-PRESS 20070514STO06591 0 NOT XML V0//EN
+-//EP//TEXT IM-PRESS 20080121IPR19236 0 NOT XML V0//EN
+-//EP//DTD IM-PRESS 20050901 STO DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 STO DOC XML V0//EN

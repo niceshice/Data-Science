@@ -1,0 +1,36 @@
+Parliament negotiators reach breakthrough with Council on roaming
+Information society
+2007-05-15 - 16:05
+After four rounds of negotiations with the Council Presidency, the team of MEPs representing Parliament has reached a tentative agreement on the “Roaming on public mobile networks” regulation. The text, finally endorsed, after modifications, by the Presidency in Tuesday's discussions, is likely to pave the way for a first-reading adoption of the dossier. It still needs the backing of the full Parliament. The Council is expected to give its approval to the compromise package tomorrow.
+The essence of the package deals with the issues which held the key to the roaming dossier from the outset: caps on wholesale and retail charges, the choice between ‘opt-in’ and ‘opt-out’ models, transparency requirements, entry into force and future review of the legislation. The proposed solutions – in the spirit of compromise – are slightly different from earlier ones.
+Prices
+According to the compromise, the average wholesale charge (excl. VAT) that a "visited" operator can levy on a roaming customer’s "home" operator for the provision of roaming calls will be capped at EUR 0.30 per minute. [The Council, at the outset of negotiations, had proposed placing a cap of EUR 0.36 on the average wholesale price.] The cap, in line with MEPs’ proposals, will decrease automatically by 2 eurocents per year over a 3-year period after the regulation's entry into force. The maximum retail charge (excl. VAT) for regulated roaming calls, meanwhile, will be capped at EUR 0.49 per minute for calls made and EUR 0.24 per minute for calls received. [The Industry Committee had voted, in its original report, for caps of EUR 0.40 for calls made and EUR 0.15 for calls received. The Council, meanwhile – having initially called for caps of EUR 0.50 for calls made and EUR 0.25 for calls received – entered negotiations with the EP by proposing caps of EUR 0.60 and EUR 0.30, respectively.] The cap for outgoing calls will decrease automatically by 3 eurocents per year; the cap for incoming calls will decrease by 2 eurocents after the first year and 3 eurocents after the second year.
+Retail outgoing
+Retail incoming
+Wholesale
+2007
+49 cents
+24 cents
+30 cents
+2008
+46 cents
+22 cents
+28 cents
+2009
+43 cents
+19 cents
+26 cents
+As MEPs insisted, home providers will have to offer these regulated tariffs to all their customers – and to do so actively, clearly and transparently.
+Opting
+One of the greatest bones of contention in the Parliament's negotiations with the Council was the issue of whether to make the regulated tariffs subject to an "opt-in" or an "opt-out" model. The former leaves customers with their old roaming tariffs, unless they deliberately choose to "opt into" the new EU system of price caps; the latter ensures that the EU tariff would apply by default (unless the customer chooses otherwise). The majority of the Industry Committee having voted in favour of the "opt-out", the EP's delegation to the trialogue defended this model vigorously throughout the negotiations with the Presidency.
+According to the compromise package forged today, all customers will be free to switch to or from the EU tariff plan at any time, free of charge, within one month after the regulation's entry into force. After another 2 months, all customers who have neither opted for the EU tariff nor switched to a different one will see the EU tariff apply automatically. Customers will therefore have three months after entry into force to make a choice; if they make none, they will be accorded the EU tariff. [In addition to the regulated tariffs, reads the compromise text, every home provider could also offer "a fair use, all-inclusive monthly flat-rate to which no charge limits apply". Such a flat rate would include both voice and data roaming services (including SMS and MMS).] At the same time, customers already benefiting from specific roaming tariffs or packages (and having been reminded of their contract by their operator) will not be switched automatically into the EU tariff.
+The cap on the average wholesale price, meanwhile, will take effect two months after the entry into force.
+Information requirements and future regulation
+As to ensure that customers are fully aware of what they pay for roaming services under the different tariff plans, MEPs included in the compromise package a series of transparency provisions. Home providers, they decided, will provide their customers with "personalised pricing information on the retail charges" to outgoing and incoming roaming calls.
+The Commission, according to the compromise text, will review the impact of the roaming dossier and report to the European Parliament and the Council "no later than eighteen months" after the regulation's entry into force. It will also keep track of developments in wholesale and retail charges for data communication services – including SMS and MMS – and, if necessary, make recommendations regarding the need to regulate in this area. Despite the fact that the compromise foresees the expiration of the roaming regulation after three years, it will also be up to the Commission to assess – in light of market developments and consumer protection concerns – whether there is need to propose a legislative act extending this period.
+The countdown to cheaper roaming
+The compromise package, still subject to the endorsement of the EP political groups and the formal approval of the Council, should now serve as the basis for the vote by the full Parliament. As a first step, the Industry Committee – the EP's lead committee on roaming – will vote on the compromise text during its meeting in Strasbourg on 21 May; this, in turn, will set the stage for a plenary vote three days later.
+Assuming the Council has already endorsed the compromise package this week, a June 7 meeting of the Member States’ ministers of telecommunication would then formally ratify the first-reading agreement. Publication in the Official Journal (and thus entry into force) should follow a few weeks later.
+20070514IPR06645
+-//EP//DTD IM-PRESS 20050901 IPR DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 IPR DOC XML V0//EN

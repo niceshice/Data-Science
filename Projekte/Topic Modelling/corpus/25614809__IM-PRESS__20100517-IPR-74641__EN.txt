@@ -1,0 +1,50 @@
+New energy labels for household appliances; low-energy buildings from 2020
+Energy
+Plenary sittings
+2010-05-19 - 14:15
+Labels on household appliances such as fridges, washing machines and ovens will have to include more information on energy consumption, following a vote by MEPs on Wednesday. Parliament approved a new layout of the EU energy efficiency label introducing additional "plus" classes to the familiar colour scheme. On Tuesday MEPs approved new energy efficiency legislation for buildings, to apply by 2020.
+The existing energy label already helps consumers assess the running costs when buying new household appliances such as fridges, freezers, washing machines, tumble driers, dishwashers, ovens and air-conditioners. Manufacturers are currently obliged to indicate the annual energy consumption irrespective of whether the product performs well (dark green “A” class) or poorly (red “G” class) on this measure. Depending on the kind of product, the label also shows water consumption, noise level or heat output.
+Seven classes, seven colours - new top marks
+Under the new legislation, the layout of the energy efficiency label will allow for up to three new energy classes, to reflect technological progress, but will still limit the total number of classes to seven. The present scale is from "A" to "G", so in future it could evolve as follows:
+- If a new product using less energy than existing ones is classified as "A+", then the least energy efficient class will be "F",
+- If a new product using less energy than existing ones is classified as "A++", then the least energy efficient class will be "E",
+- If a new product using less energy than existing ones is classified as "A+++", then the least energy efficient class will be "D".
+The labelling colour scheme - from dark green for most energy efficient products to red for least energy efficient ones - will be adjusted accordingly, so the highest energy efficiency class will remain dark green and the least energy efficiency one will be red.
+The energy classes and the specific products that must labelled will be determined by a Commission working group.
+Advertising of white goods must indicate energy efficiency
+Any advert mentioning the energy consumption or price of a specific model of household appliance will have to show the product's energy class. Advertising with additional information should help consumers make a choice based on the energy savings potential of products to reduce their energy bill in the long run.
+Similar provisions will apply to any technical promotional literature such as manuals and manufacturers' brochures, whether printed or available on the internet.
+Energy label for window frames and other energy-saving products
+In future, the label must also be attached to energy-consuming products for commercial and industrial use, such as cold storage rooms, display cabinets, industrial cooking appliances, vending machines and industrial motors.
+Additionally, the energy labelling obligation will apply to energy-related products, including construction products, which do not consume energy but "have a significant direct or indirect impact" on energy savings such as window glazing and frames or outer doors, says the final text.
+Once published in the EU Official Journal, Member States will have one year to adapt their national laws to the new rules on energy labelling.
+The directive approved at second reading on Wednesday is part of a wider energy efficiency legislative package. The EP's report was drafted by MEP Anni Podimata (S&D, GR).
+* * *
+Only low-energy buildings to be built after 2020
+On Tuesday 18 May, MEPs approved the EU's new energy efficiency legislation for buildings, which will help consumers to cut their energy bills and the EU as a whole to hit its climate change target of using 20% less energy in ten years' time. Member States will have to alter their building codes so that all new buildings constructed from the end of 2020 meet high energy-saving standards. Existing buildings will have to be upgraded where possible.
+Buildings account for around 40% of the EU's total energy use and are Europe's largest source of emissions, so improving their energy performance would help reach CO2 emission goals.
+The directive sets out rules for the energy performance of both new and existing buildings. Member States will have to take measures to achieve these requirements at "cost-optimal levels".
+Higher standards for new buildings
+All buildings put up from the end of 2020 must have high energy-saving standards and, to a large extent, use renewable energy. Public authorities' building projects are to lead the way two years earlier. Part of the funding for these changes will come from the EU budget.
+Upgrading of existing buildings
+Where feasible the energy performance of existing buildings will have to be improved during major renovations. When renovating, owners will be encouraged to install "smart meters" and replace heating, hot-water plumbing and air-conditioning systems with high-efficiency alternatives such as heat pumps. Regular inspections of boilers and air conditioning systems will be required.
+The directive approved at second reading on Tuesday is part of a wider energy efficiency legislative package. The EP's report was drafted by MEP Silvia-Adriana Ţicău (S&D, RO).
+20100517IPR74641 Broadcast quality video, audio and photo coverage of the plenary via FTP server Energy performance of buildings - final text (Council common position) Text adopted on 18 May (click on 18 May) Text adopted on 19 May will be available here (click on 19 May)
+EN
+1
+LINK
+ftp://epavvideoget:mo12ssb@ftpeps01.europarl.eu.int//epavvideo/EBS/Strasbourg/week20/
+EN
+2
+LINK
+/meetdocs/2009_2014/documents/cls/cons_cons(2010)05386(rev3)_/cons_cons(2010)05386(rev3)_en.pdf
+EN
+3
+LINK
+/activities/plenary/ta/calendar.do?language=EN
+EN
+4
+LINK
+/activities/plenary/ta/calendar.do?language=EN
+-//EP//DTD IM-PRESS 20050901 IPR DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 IPR DOC XML V0//EN

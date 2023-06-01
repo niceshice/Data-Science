@@ -1,0 +1,25 @@
+Ensuring pan-European coverage for mobile satellite services
+Free movement of services
+2008-03-06 - 13:54
+Draft rules providing for systems providing mobile satellite services - such as broadband internet or mobile TV - to be selected at EU level in the future was backed by the Industry Committee on Thursday. MEPs decided that each system should provide services in at least 60% of the EU's total area and might be switched to disaster relief services in case of emergencies.
+"The challenge is to get the best possible deal for citizens, especially for those in the more peripheral countries and regions of the EU, while ensuring that the requirements demanded of applicants are realistic", said Rapporteur Fiona Hall (ALDE, UK) with a view to upcoming negotiations with Commission and Council aiming at a first-reading agreement. She added that "time is also of the essence because the EU satellite service industry faces fierce competition on the global market".
+Mobile satellite systems can offer a wide range of pan-European telecommunications and broadcasting services - from high-speed internet through mobile TV to emergency communications. The proposed decision will lay down common procedures for the selection of operators providing mobile satellite services as well as provisions for a coordinated authorisation by national authorities. The aim is "to facilitate the development of a competitive internal market for mobile satellite services across the Community and to ensure gradual coverage in all Member States", says the text as amended by the Industry Committee.
+Selection should emphasise pan-European coverage and public policy objectives
+The committee added a provision to the proposal saying that no more than 15 MHz for Earth to space and 15 MHz for space to Earth can be assigned to one applicant. If the combined demand of all applicants exceeds the amount of radio spectrum available, the Commission will select operators following certain criteria.
+MEPs in the committee want these selection criteria to be clearly defined and weighted. Strong emphasis will be put on pan-European geographic coverage (with 40% weighting) and public policy objectives like public protection (30% weighting). Consumer and competitive benefits shall account for 20% of the eligibility, spectrum efficiency for 10%.
+Services have to reach at least half of the EU's population and 60 % of its land area
+Each system has to cover at least 60% of the EU's overall land area when it starts operating, says the co-decision report. After 7 years at the latest the mobile satellite service must be provided within all Member States covering at least 50% of their population and 60% of each Member States land area.
+Public protection and disaster relief
+According to the amended text, the selection process will also take into account whether the proposed system provides vital public interest services that contribute to the protection of the health safety and security of EU citizens. Moreover, MEPs determine that in case of emergencies Member States can require operators to switch their mobile satellite systems to public protection and disaster relief services for the time needed.
+Background
+The International Telecommunications Union (ITU) has designated the 2 GHz radio frequency band for use by mobile satellite systems. The radio spectrum from 1980 to 2010 MHz is used for Earth to space (upstream) communications and the spectrum from 2170 to 2200 MHz for space to Earth (downstream) communications. Member States, who own the radio spectrum, have agreed to give up their national rights on spectrum allocation to make these frequency bands available for a common European approach.
+Procedure: Co-decision, first reading -- Committee vote: unanimous -- Current plenary vote schedule: April II, Strasbourg
+2008-03-06 Committee on Industry, Research and Energy In the chair Catherine Trautmann PES FR
+Proposal for a decision of the European Parliament and of the Council on the selection and authorisation of systems providing mobile satellite services (MSS)
+20080303IPR22672 Committee on Industry, Research and Energy
+EN
+1
+LINK
+/activities/committees/homeCom.do?language=EN&body=ITRE
+-//EP//DTD IM-PRESS 20050901 IPR DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 IPR DOC XML V0//EN

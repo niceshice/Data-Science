@@ -1,0 +1,42 @@
+Telecoms package: EU-wide spectrum management for full benefits of wireless services
+Information society
+2008-07-08 - 10:58
+Radio spectrum use must be co-ordinated and harmonised across the EU to enable citizens to benefit from new electronic services like mobile broadband internet access, says the Industry Committee. In reports approved on Monday night, MEPs advocate setting up a new European body of national telecommunications regulators to ensure that measures apply consistently EU wide and also call for incentives to invest in new infrastructure, including "next generation" access networks.
+Spectrum owned by Member States is needed for many wireless services, from broadcasting and mobile TV through mobile communications and broadband internet to new electronic services such as e-government or e-health. To optimise frequency use and avoid harmful interference among services, Member States must co-operate with each other and the Commission in the strategic planning, co-ordination and harmonisation of radio spectrum use, says the report by Catherine Trautmann (PES, FR).
+The electronic communications framework directive, as amended by the Industry Committee, therefore asks the Commission to table a legislative proposal to establish a "radio spectrum action programme".
+The committee calls for a more coherent and integrated approach to allocating "digital dividend" frequencies freed up by the switchover from analogue to digital TV, to be completed by 2012.
+Manage spectrum flexibly, but safeguard media pluralism
+The draft directive, as amended, would require Member States to ensure that any technology or any service can use any frequency available for electronic communications services, in line with national frequency allocation plans and with the International Telecommunication Union's Radio Regulations. Measures requiring that a service be supplied in a specific frequency band would have to be justified by reference to general interest aims such as ensuring safety of life, promoting social, regional or territorial cohesion, avoiding inefficient use of radio frequencies, or promoting cultural and media aims such as cultural and linguistic diversity and media pluralism, say MEPs.
+Ensure fair competition by applying regulatory measures consistently in all Member States
+The Industry Committee also approved a report by Pilar del Castillo (EPP-ED, ES), which proposes setting up a Body of European Regulators in Telecommunications (BERT), composed of the 27 national regulatory authorities, as an alternative to the European Electronic Communications Market Authority (EECMA) advocated by the Commission.
+MEPs propose a new "co-regulation" procedure which would require national regulatory authorities consult the Commission and BERT before taking regulatory decisions. The Commission may require the national regulatory authority to amend the draft measure if BERT considers the measure inappropriate or ineffective.
+Separating network access products from other services seen as "an exceptional measure" to promote competition
+A national regulator may, as "an exceptional measure", require telecoms operators to separate their network access products from other services - known as "functional separation" - by creating a separate business unit to run the network access services. This unit should then provide all network user firms with access products and services on equal terms. However, the national regulator may apply this remedy only if both the Commission and BERT confirm that no other measure has achieved effective competition and that, without the remedy, there is little prospect of future infrastructure-based competition.
+Promote investment in next-generation access networks
+MEPs also advocate "appropriate incentives for investments in new high-speed networks that will support innovation in content-rich internet services and strengthen European international competitiveness". These "next generation access networks", using fibre optics, will provide ubiquitous and converged service infrastructure for electronic communications, computing and media.
+The Industry Committee asks national regulators to promote market-driven investment and innovation in new and enhanced infrastructures, for example by encouraging investment sharing and by ensuring appropriate risk-sharing among the investor and firms wanting access to new facilities.
+Funding BERT
+The new Body of European Regulators in Telecommunications (BERT) should be funded by the Community (one third) and by direct contributions from national regulatory authorities (two thirds), according to an amendment adopted by the committee. However, the rapporteur and shadow rapporteurs agreed to review these funding provisions ahead of the plenary vote.
+Keep BERT and ENISA separate
+BERT should not take over tasks relating to network and information security, says the amended proposal. The Commission had originally proposed merging the existing European Network and Information Security Agency (ENISA) with the new European Electronic Communications Market Authority (EECMA). However, the European Parliament has already prolonged ENISA's mandate until March 2012, in a vote at the June plenary session.
+BERT's mandate should be reviewed by 1 January 2014, to ascertain whether it needs to be extended, say MEPs.
+2008-07-07 Committee on Industry, Research and Energy In the chair Angelika NIEBLER EPP-ED DE
+Committee vote Trautmann report: 43 votes in favour, one abstention
+Committee vote Del Castillo report: 30 votes in favour, two against and two abstentions
+Procedure: co-decision -- First reading in plenary: September I
+20080707IPR33578 Website of the Committee on Industry, Research and Energy EP press release on the use of the "digital dividend" Press conference Trautmann, del Castillo and Harbour - EN Press conference Trautmann, del Castillo and Harbour - OR
+EN
+1
+LINK
+/activities/committees/homeCom.do?language=EN&body=ITRE
+EN
+3
+MULTIMEDIA
+20080708MLT33685.asf
+EN
+4
+MULTIMEDIA
+20080708MLT33687.asf
+-//EP//TEXT IM-PRESS 20080623IPR32510 0 NOT XML V0//EN
+-//EP//DTD IM-PRESS 20050901 IPR DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 IPR DOC XML V0//EN

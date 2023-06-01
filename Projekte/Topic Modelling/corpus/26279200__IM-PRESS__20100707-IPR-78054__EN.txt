@@ -1,0 +1,42 @@
+Parliament gives green light for SWIFT II
+Justice and home affairs
+Plenary sittings
+2010-07-08 - 13:13
+The new version of the SWIFT anti-terrorist agreement on bank data transfers to the USA was approved by the European Parliament on Thursday. MEPs rejected the agreement in its previous form four months ago but since then have negotiated certain safeguards for Europe's citizens and won an undertaking that the EU will start work in the second half of this year on a European data processing system that precludes the need to transfer data in bulk to the USA.
+The recommendation that Parliament approve the agreement, drafted by Alexander Alvaro (ALDE, DE), was adopted by 484 votes to 109 with 12 abstentions. The agreement is due to take effect on 1 August this year.
+"In February Parliament sent a very clear message. We made it known that the Lisbon Treaty has given us more opportunities and more responsibility", said Mr Alvaro in Tuesday's debate ahead of the vote. "During the negotiations, Parliament was able to make sure that improvements were incorporated into the agreement".
+Mr Alvaro also stressed that the agreement will not cover financial transactions between EU states but only those to non-EU countries. Article 4 of the accord rules out transfers of any data relating to the Single Euro Payments Area.
+The compromise was backed by the EPP, S&D, ALDE and ECR groups. The Greens/EFA, GUE/NGL and part of EFD opposed it. Two minority opinions were attached to the report (see below).
+Elimination of bulk data transfers
+The key to the deal for Parliament was the eventual elimination of "bulk" data transfers. In exchange for backing the agreement, MEPs won an undertaking that work on setting up an EU equivalent to the US "Terrorism Finance Tracking Program" (TFTP), which would preclude the need for bulk data transfers, will start within 12 months. Once Europe has a system enabling it to analyse data on its own territory, it need only transfer data relating to a specific terrorist track.
+A new role for Europol
+Another innovation of the new agreement is that it empowers "Europol", the EU's criminal intelligence agency based in The Hague, to block data transfers to the USA. Europol will have to check that every data transfer request by the US Treasury is justified by counter-terrorism needs and that the volume of data requested is as small as possible.
+An EU representative in the USA to monitor data processing
+The new version of the agreement also provides that the use of data by the Americans, which must be exclusively for counter-terrorism purposes, is to be supervised by a group of independent inspectors, including someone appointed by the European Commission and the European Parliament. This person will be entitled to request justification before any data is used and to block any searches he or she considers illegitimate.
+The agreement prohibits the US TFTP from engaging in "data mining" or any other type of algorithmic or automated profiling or computer filtering. Any searches of SWIFT data will have to be based on existing information showing that the object of the search relates to terrorism or terrorism finance.
+Right of redress for European citizens
+In February 2010, MEPs demanded that under any new version of the agreement European citizens should be guaranteed the same judicial redress procedures as those applied to data held on the territory of the European Union. The new proposal says this time that US law must provide a right of redress, regardless of nationality.
+Data retention and deletion
+Extracted data may be retained only for the duration of the specific procedures and investigations for which they are used. Each year, the US Treasury must take stock of any data that have not been extracted, and hence individualised, which will no longer be of use for counter-terrorism purposes, and delete them. Such data must be deleted after five years at the latest.
+Two minority opinions
+The first of two minority opinions, signed by six MEPs from the GUE/NGL and Greens/EFA groups, says that "The EU-US agreement on TFTP does not meet the guarantees requested by the EP in its previous resolutions", particularly on the transfer of "bulk data". Moreover, "The role of supervision of Europol is unclear and will imply a modification of its mandate and Europol is not a judicial authority". Furthermore, "Such an agreement represents a clear violation of EU legislation on data protection", say the MEPs, adding that the data retention period is "far too long" and that the provisions on data-subject rights "do not at all meet the European criteria".
+The second, signed by Gerard Batten (EFD, UK), deems the proposed legislation "democratically illegitimate". Furthermore, says Mr Batten, "the draft Agreement was only made available on 27th May to a restricted number of MEPs" and "this confidential and private financial data belongs to the individual not to the European Union or the Parliament".
+Next steps
+The agreement is due to enter into force on 1 August 2010, for five years, and will be renewable year-by-year thereafter. However, Europeans and Americans will have to assess how the agreement's safeguards and control systems are functioning, at the latest within six months of its entry into force. The Commission is to start work in the second half of 2010 on the creation of the European TFTP and must publish a progress report within three years.
+20100707IPR78054 Report on the processing and transfer of Financial Messaging Data from the European Union to the United States for the purposes of the Terrorist Finance Tracking Program Profile of rapporteur Alexander ALVARO (ALDE, DE) Text of the agreement between Parliament and Council Background note Adopted text will be available here (click on 8 July)
+EN
+2
+LINK
+/members/expert/alphaOrder/view.do?language=EN&id=28246
+EN
+3
+LINK
+http://register.consilium.europa.eu/pdf/en/10/st11/st11222-re01.en10.pdf
+EN
+5
+LINK
+/activities/plenary/ta/calendar.do?language=EN
+-//EP//TEXT REPORT A7-2010-0224 0 NOT XML V0//EN
+-//EP//TEXT IM-PRESS 20100205BKG68527 0 NOT XML V0//EN
+-//EP//DTD IM-PRESS 20050901 IPR DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 IPR DOC XML V0//EN

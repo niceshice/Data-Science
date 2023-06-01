@@ -1,0 +1,45 @@
+Background on the difference between commitments and payments
+Budget
+2010-10-27 - 12:02
+Parliament is raising the EU budget for 2011 by no more than 1.1%. It focuses on "commitments" because these are the real budgetary decisions. Commitments are legal promises to spend money on certain projects, contracts, research, etc - either in the same year as the commitment or later. "Payments" refers to the money that the EU actually expects to pay out in a given year. This background note looks at the implications of cutting payments, as opposed to commitments.
+Cutting payments now, while commitments remain the same, would simply mean having to pay the bills later. The European Commission is the institution which is best placed to ascertain which payments are needed a certain year, on the basis of the progress made in the execution of all relevant contracts, projects, etc.
+Commitments and payments
+The EU budget has two types of budgeting figures, commitments and payments .
+The proposed figures for 2011 are, per institution:
+2011 budget positions (all figures in million €)
+Commission
+Council
+Parliament
+Payments
+130,135.9
+126,527.1
+130,558.9
+Commitments
+142,565.2
+141,777.3
+143,069.6
+By suggesting a budget only slightly above the Commission's draft budget, Parliament broke with its tradition of proposing a budget above the limits of the long-term budget (also known as the "financial perspective" or multiannual financial framework, MFF), both in total and in all separate headings.
+20101027BKG90476
+Increase compared to the 2010 budget
+The 2010 budget is €141,462.225 million in commitments and €122,946.397 million in payments.
+Comparing commitments, the Commission suggested an increase of 0.8%, the Council an increase of 0.2% and Parliament an increase of 1.1%.
+All increases are below the EU inflation rate, which was 2.2% in September 2010.
+Comparing payments, the Commission suggests an increase of 5.8%, the Council an increase of 2.9% and Parliament an increase of 6.2%.
+Which figure should be used - commitments or payments?
+Everything that the EU commits itself to do must, sooner or later, be paid for. Payments result directly from commitments. If the EU cuts payments in a given year, it is not cutting costs, but simply removing them from this year's budget. Cutting payments simply postpones costs to a later year, but the bills must still be paid.
+If the EU really wants to cut the budget, it needs to reduce commitments - which for instance regulate the contracts the EU signs. If the EU signs contracts worth a reduced amount of money, payments will also be reduced. The Commission calculates an estimate of the payments needed in a given year, based on the commitments for the same year and previous years.
+The most important political decisions are one commitments, since they answer the question as to how much the EU should spend. The payments figure answers the question as to in which year a given cost should be paid.
+What are the main differences between Parliament and Council?
+The Council proposes a series of "cuts" - or rather postponements - of payments in 2011.
+Examples (all figures compared to Parliament's reading)
+7th framework programme: minus €392.5 million
+Competitiveness and innovation framework programme: minus €87 million
+Regional competitiveness and employment objective: minus €742 million
+Pre-accession instrument for pre-accession: minus €195.9 million
+Emergency aid reserve: minus €203 million
+On commitments, the main differences are about:
+research, education and competitiveness: MEPs propose more money for, among other things, lifelong learning (+ €20 million), Erasmus Mundus (+ €22 million) and a series of other posts. To finance this, they want to cut €47 million from the "ITER" fusion energy research project.
+agriculture, where MEPs want a dairy fund worth €300 million. The institutions also differ on how much agriculture money Member States will refund to the EU budget during next year. The Commission thinks that this amount will be €72 million, whereas the Council believes it could be as much as €492 million. MEPs believe that the Council estimate is too optimistic and therefore prefer the Commission's more cautious one. The real sum to be paid back to this budget line, called "clearance of accounts", does not depend on the institutions' estimates. However, MEPs prefer to work with a figure that is as realistic as possible, so as to avoid nasty surprises in the end of next year.
+foreign affairs, where MEPs want €100 million more for Palestine and the Middle East peace process, €57 million more for the pre-accession instrument and €48 million more for the instrument for co-operation with developed countries. To finance this, MEPs suggest cuts in the Common Foreign and Security Policy (minus €45.7 million), in the instrument for co-operation with industrial countries (minus €23 million) and in the "Banana accompanying measures".
+-//EP//DTD IM-PRESS 20050901 BKG DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 BKG DOC XML V0//EN

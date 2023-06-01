@@ -1,0 +1,27 @@
+MEPs want rules on PNR data transfers to non-EU states
+Institutions
+2010-03-05 - 11:26
+The European Parliament has been asked to approve or reject the agreement on the transfer of air passenger data to the USA and Australia. Members of the EP Civil Liberties Committee are proposing to postpone their vote on the matter so that a standard Passenger Name Record file model can be devised that meets Parliament's demands regarding data protection. PNR data, which was initially gathered for commercial purposes, is increasingly being used to combat crime.
+The idea would be to lay down at European level what data in a PNR file (which lists 19 data fields, including the passenger's itinerary, the place a ticket was purchased, the seat number and payment details) could be shared with non-EU states and on what conditions. Meanwhile Parliament would postpone its consent vote on the current PNR accord, which has long been criticised by MEPs.
+Towards postponement of vote and adoption of resolution in April
+Sophie In't Veld (ADLE, NL), the committee's rapporteur, recommended that Parliament should not say yes or no immediately, as in the SWIFT case. "The PNR case is more complicated", she said, since "the consequences will be much more serious": the flow of data will have to stop if there is a no vote. In addition, "the provision of PNR data is part of the conditions the United States have imposed in exchange for a derogation from the visa regime", she pointed out.
+A different approach should be used, said Ms In't Veld: "let's postpone the vote and use the time that would give us to devise a standard approach for the transfer of PNR data to third countries". She wanted a "package" to be ready "towards the end of the autumn".
+The rapporteur also pointed to the "minimum conditions" already drawn up by Parliament in its resolution of 2008: these relate to legal limits, the status of the agreement, data protection standards and the retention period. Moreover, "the Commission must keep Parliament informed and I hope the information we have been requesting since 2003 will be supplied to us", she said.
+She proposed that a resolution be put to the vote at the April plenary session and that it lay down the "minimum requirements to be included in a standard PNR model".
+A proposal for a standard data file model in the autumn?
+The Council representative said it was up to the Commission to draft a proposal. The Commission representative stated "we are preparing a communication on what could be a standard model for PNR with third countries" but also expressed doubt as to the timetable proposed by the rapporteur.
+The shadow rapporteurs of most of the political groups supported the approach proposed by Sophie In't Veld. Axel Voss (EPP, DE) said "we are in a digital age, which gives criminal of all kinds the benefits of mobility". He urged that "PNR be used to bring security to our citizens but we must also ensure their privacy is as well-protected as possible".
+Emin Bozkurt (S&D, NL), speaking on behalf of Birgit Sippel (S&D, DE), also backed the rapporteur's approach and wanted to have an idea as soon as possible of the measure that might be taken.
+Jan-Philipp Albrecht (Greens/EFA, DE) warned the Council "if you act as if there had been no SWIFT, this would not be proper cooperation. But I am glad to see the Commission is negotiating a shift of position and I hope the Council will move in the same direction". Rui Tavares (GUE/NGL, PT) argued that "we are arriving at a point where we must start a debate on the general principles" and he called for data to be collected "in a limited way and be kept for as short a time as possible".
+"I can entrust my data to the USA but to some others it would be difficult"
+"An agreement with the United States and Australia is one thing, but other countries are another matter", said Simon Busuttil (EPP, MT). "I can entrust my data to the USA but to some others it would be difficult". He asked what safeguard clauses could be devised "to ensure we are not exposed, rather than guaranteeing the security of our citizens".
+Background
+In a resolution adopted in 2008, MEPs voiced doubt as to the legal basis, the need and the effectiveness of a PNR data transfer system in relation to the desired objectives. MEPs called for proof that the system could work at EU level.
+The agreement was signed by members of the Council in July 2007 and applied provisionally but, following the entry into force of the Lisbon Treaty, it requires the consent of the European Parliament in order to be formally concluded and to preserve its legal effect. A no vote would render the accord null and void, something which happened with the SWIFT agreement, which was rejected by Parliament in February this year.
+20100301IPR69751 Website of the Civil Liberties, Justice and Home Affairs
+EN
+1
+LINK
+/activities/committees/homeCom.do?language=&body=LIBE
+-//EP//DTD IM-PRESS 20050901 IPR DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 IPR DOC XML V0//EN

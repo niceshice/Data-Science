@@ -1,0 +1,124 @@
+Distribution of UK Members of the European Parliament ahead of the European elections
+Institutions
+United Kingdom
+2007-06-05 - 15:09
+In June 2009, the UK will have 72 MEPs instead of the current 78 for 12 regions
+The UK's Electoral Commission must make recommendations to the Secretary of State on how to reduce the number of MEPs by region in time for the next European elections in 2009. For the purposes of the elections, the UK is divided into 12 regions and currently has a total of 78 MEPs. In 2009, given the accession of Romania and Bulgaria and the rules set out in the Treaty of Nice, the UK will have 72 MEPs - 6 less.
+The Electoral Commission is now consulting on how this process should be carried out and which regions should "lose" MEPs.
+Under the European Parliament (Representation) Act 2003, the Electoral Commission is required to undertake regular reviews of the number of Members of the European Parliament (MEPs) returned by each electoral region of the United Kingdom (UK) and to make recommendations to the Secretary of State. In making such recommendations, the Electoral Commission must ensure that each electoral region is allocated at least three MEPs and that the ratio of electors to MEPs is as nearly as possible the same in each electoral region.
+The Electoral Commission's first recommendation was made to the Secretary of State in October 2003, prior to ten new states acceding to the European Union (EU). On that occasion, the UK's total number of MEPs was reduced from 87 to 78 at the time of the last European elections in June 2004. This necessitated a recalculation of the number of MEPs to be returned for each of the UK's 12 electoral regions.
+The Electoral Commission has recently received a direction from the Secretary of State to undertake a further review following, on 1 January 2007, the accession of Bulgaria and Romania to the EU. Under the terms of the Treaty of Nice, this will necessitate a reduction of the number of UK MEPs from 78 to 72. The reduction will take effect at the next European Parliamentary elections, scheduled for June 2009. The Secretary of State has therefore asked the Electoral Commission to recommend an appropriate distribution of the 72 seats across the 12 electoral regions of the UK.
+The Electoral Commission consulted in 2003 on the formula to be used to determine the apportionment recommendation. Following consultation, and validation from expert sources (including the Royal Statistical Society, the Statistics Commission, the Office for National Statistics and the McDougall Trust), the Electoral Commission concluded that the Sainte Lague method enabled the Electoral Commission most closely to adhere to the statutory criterion to ensure that the ratio of electors to MEPs is as nearly as possible the same in each electoral region. The 2003 recommendation , which was accepted by the UK Parliament, was therefore based on the Sainte Lague method, which the Electoral Commission stated it intended to use for future apportionment calculations.
+With respect to the Electoral Commission's current review, the 72 seat allocations that would be made across the 12 electoral regions using the Sainte Lague method can be viewed here .
+Provisional distribution of 72 MEP seats using Sainte Laguë method
+Provisional and current distribution of MEP seats
+Region
+Electorate [1]
+Provisional seats
+Current seats
+Change
+East Midlands
+3,286,291
+5
+6
+-1
+Eastern
+4,199,344
+7
+7
+0
+London
+5,105,517
+8
+9
+-1
+North East
+1,943,700
+3
+3
+0
+North West
+5,188,098
+8
+9
+-1
+South East
+6,120,852
+10
+10
+0
+South West [2]
+3,947,772
+6
+7
+-1
+West Midlands
+4,039,240
+6
+7
+-1
+Yorkshire & the Humber
+3,775,307
+6
+6
+0
+Wales
+2,243,703
+4
+4
+0
+Scotland
+3,877,229
+6
+7
+-1
+Northern Ireland
+1,070,282
+3
+3
+0
+Total
+44,797,335
+72
+78
+-6
+The table does not show the detailed calculations and it should be stressed that these results are provisional and subject to further independent validation. But, subject to that, this is provisionally the recommendation the Electoral Commission expect to make to the Secretary of State.
+The Electoral Commission would welcome the submission of comments or views on its intention again to use the Sainte Lague method and on any other matters that you feel are relevant to the review.
+You can send responses to: Mark Williams, Policy Manager, The Electoral Commission, Trevelyan House, 30 Great Peter Street, London SW1P 2HW or email them to mwilliams@electoralcommission.org.uk by Friday 29 June 2007.
+[1] European region electorate figures have been validated by the Office for National Statistics, the General Register Office for Scotland, the Electoral Office for Northern Ireland and the Clerk to the Gibraltar Parliament.
+[2] The South West figure includes 21,124 electors in Gibraltar, which is now aligned with the South West region for the purposes of European Parliamentary elections.
+20070604IPR07417 Distribution of UK MEPs - Electoral Commission consultation European Parliament elections in 2004 - results All 78 UK MEPs by region European Parliament elections 2004 - House of Commons research paper 23 June 2004
+EN
+1
+PHOTO
+20070521PHT06835.jpg
+EN
+2
+A
+http://www.electoralcommission.org.uk/templates/search/document.cfm/8826
+EN
+3
+A
+http://www.electoralcommission.org.uk/templates/search/document.cfm/19644
+EN
+4
+A
+mailto:mwilliams@electoralcommission.org.uk
+EN
+5
+LINK
+http://www.electoralcommission.org.uk/your-say/MEPs2007.cfm
+EN
+6
+LINK
+http://www.europarl.org.uk/guide/Gelectionsmain.html
+EN
+7
+LINK
+/members/public/geoSearch/zoneList.do?country=GB&language=EN
+EN
+8
+LINK
+http://www.parliament.uk/commons/lib/research/rp2004/rp04-050.pdf
+-//EP//DTD IM-PRESS 20050901 AVI DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 AVI DOC XML V0//EN

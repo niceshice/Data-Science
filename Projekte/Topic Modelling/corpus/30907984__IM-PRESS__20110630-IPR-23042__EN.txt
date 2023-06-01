@@ -1,0 +1,22 @@
+The EU budget in your country: new web tool
+Budget
+General
+2011-06-30 - 17:15
+This interactive tool shows you at glance how much the EU spends in your country and on what. It also shows where the money comes from and how your national budget has evolved compared to the EU one. We hope it will help you to put talk about the future EU budget (2014-2020) into perspective.
+Open discussion
+Budgets Committee chair Alain Lamassoure said: “This application will help media and citizens to understand the budget. I find that important, as it is my strong belief that a discussion on future orientations of the EU budget and resources should be held not in the secrecy of ministerial meetings behind closed doors, but in the open.”
+Sources
+The figures used are the latest available, as published in the European Commission's Financial Report for 2009. The percentages given are for money spent within the EU 27 countries.
+Money spent outside the EU, e.g. in EU accession candidate countries and neighbouring countries, is not taken into account in the calculations. The figures will be updated as soon as the Commission presents its Financial Report for 2010.
+There's more to the budget than figures
+The drawback of just displaying EU-wide income and expenditure figures is that it misses the point about principles, such as solidarity and EU value added. It also fails to show how the single market benefits trade and people, or how Member States make savings by sharing tasks at EU level. Looking beyond the EU-wide balance sheet, to see where the money goes in your country, can help to complete the picture.
+Try it
+To try it out, please click on the link below.
+You may also embed it in your own web site, using the "embed" function within the application.
+20110630IPR23042 EU budget at a glance tool
+EN
+1
+LINK
+/en/headlines/content/20110630MUN23022/html/EU-budget-at-glance
+-//EP//DTD IM-PRESS 20050901 IPR DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 IPR DOC XML V0//EN

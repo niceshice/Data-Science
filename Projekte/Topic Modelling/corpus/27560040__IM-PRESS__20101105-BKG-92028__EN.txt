@@ -1,0 +1,164 @@
+Background note on the alternative investment fund managers directive
+Economic and monetary affairs
+2010-11-08 - 12:10
+Over a year in the making, the Alternative Investment Fund Managers (AIFM) directive - widely known as the "hedge funds" directive - is reaching the final stages of approval. This note answers some basic questions about what is to be regulated and why. It also explains some more technical issues to do with the "passport" system for marketing funds across the EU. Finally, it also compares the EU institutions' starting positions, and shows the final outcomes, on the most controversial issues.
+What are alternative investment funds?
+Put simply, "alternative investment funds" (AIF) covers a wide range of funds, none of which are covered by the Directive on Undertakings for Collective Investment in Transferable Securities (UCITS) [1] . It is estimated that in 2009 AIF managers were responsible for over €1,000 billion in assets.
+The best-known AIFs are hedge funds and private equity funds, but others include real estate funds, commodity funds, industrial funds and infrastructure funds.
+Most AIFs are not schemes sold directly to small investors. Instead, investors in these funds tend to be institutions such as pension funds, or very wealthy individuals or families. However, their impact on the real economy and the man in the street may still be very tangible as is shown by the example of pension funds.
+[1] A collective investment scheme is a way of investing money with others to participate in a wider range of investments than is feasible for most individual investors, and to share the costs and benefits of doing so.
+20101105BKG92028
+What is the reason for the proposed directive?
+The directive has three key aims:
+better regulating the activities of AIFMs at EU level,through improved transparency and supervision,
+enhancing protection for investors, by curtailing some of the riskier behaviour of AIFMs, and
+developing a single EU market for these funds, similar to that which exists for UCITS funds. Marketing AIFs EU-wide currently entails complying with the differing national rules of each EU Member State.
+Recent events have shown that some of the risks associated with AIFMs have been underestimated and are not sufficiently addressed by current rules. This is due in part to the predominantly national perspective of existing rules, which means that EU-wide, the regulatory environment cannot deal adequately with cross-border risks. A glossary of key terms for this directive is available at the following link
+What will the directive regulate?
+The key items to be regulated under the new rules are:
+registration and authorisation of AIFMs,
+initial capital required to set up a business,
+remuneration of managers and staff running the funds,
+designation, functions and liability of the depositary,
+functions of the valuator,
+liquidity standards and use of leverage,
+regular reporting to national supervisors to increase transparency,
+risk management,
+delegation of AIFM activities, and
+special rules for private equity, primarily on asset stripping and reporting.
+Why should these funds be regulated at EU level?
+Very high levels of risk built up in the economic system in the years preceding the crisis, due to the activities of all the various financial players. Risk reduction and supervision were considered a necessity by decision-makers following the crisis. This directive should be viewed as a part of the overall structure being developed for better risk management.
+Although AIFs were not central to the financial and economic crisis, policymakers consider that they, like all other financial sectors, deserve further attention. The crisis showed how problems in one financial sector can very quickly spread to others, seriously affecting their stability, and demonstrating that risk must be better managed in all areas.
+What is the marketing "passport" and how will it be made available?
+A passport allows an individual the right to move freely from one country to another after having registered and provided various personal details to the authorities of his country. Once he has a passport, he does not need to register in other countries.
+In the same way, one purpose of this directive is to enable AIF funds and fund managers to register in just one EU Member State and thereafter be free to market in all EU Member States. Today, each Member State may impose different requirements for the marketing of these funds on their territory.
+Due to persistent disagreements among some Member States on whether or not to grant the same rights to EU and non-EU AIFMs, the "passport" question was a key issue in the debate on this directive. The final agreement will allow non-EU AIFMs to acquire a marketing passport, after a transition period.
+In principle both non-EU and EU-based AIF funds and fund managers will be able to obtain this passport. However, whereas EU-based players will be able to obtain this passport two years after the directive's entry into force, non-EU ones will have to wait for a further two years, until after the European Securities and Markets Authority (ESMA) has assessed how the passport is working for EU-based players and the Commission has adopted the necessary implementing legislation (delegated act).
+Non-EU AIF and managers will continue to be governed by national private placement regimes (registration in each Member State where marketing is intended), until the rules allowing them to obtain a passport take effect. National private placement regimes will continue to apply even after the passport option is available. This "dual system period" is expected to last for about three years, after which the Commission can adopt further implementing legislation which terminates the national private placement option.
+An example of a possible timeline follows. Please note that this is intended only to facilitate understanding - no weight should be ascribed to any of the dates mentioned. In particular, no attempt has been made to anticipate the dates of entry into force which the Commission will choose for the delegated acts that it adopts. These dates alone could of course change the timeline.
+January 2011
+Entry into force of the directive
+January 2013
+(2 years after entry into force)
+Deadline for transposing the directive's rules into national law, including those on granting passports to duly-registered, EU-based, AIFs and AIFMs.
+January 2015
+(2 years after transposition)
+ESMA reports on functioning of passport system for EU AIFs and AIFMs, national private placement regimes, and possible extension of passport system to non-EU AIFs and AIFMs.
+April 2015
+(at the latest 3 months after ESMA report)
+Commission adopts a delegated act, based on ESMA advice, specifying date when passports for non-EU AIFs and AIFMs will be available.
+April 2018
+(3 years after entry into force of delegated act)
+Second ESMA report on the functioning of the passport and the possible ending of national private placement regimes.
+July 2018 (at the latest 3 months after ESMA report)
+Commission adopts a second delegated act, based on ESMA advice, specifying date when national private placement regimes must be terminated.
+Can ESMA or the Commission grant a passport to a non-EU AIFM?
+No. It will be national authorities which decide, on the basis of guidelines and implementing rules established by the Commission and ESMA, whether a non-EU AIFM may obtain a passport. If another national authority disagrees with the decision of the first authority to grant the passport, then it may refer the matter to ESMA, which has the power to take a binding decision that settles this dispute. It should also be possible for ESMA to act as mediator on its own behalf, according to the regulation which establishes this authority.
+Differences between Commission, Parliament and Council texts
+The table below shows the EU institutions' starting positions on various key issues, and the final outcomes. References to the specific articles, and links to each text, are also included.
+Depositaries
+Commission proposal
+EP text 17 May
+Council text 18 May
+Agreed text 27 October
+Must be located in the EU (Art 17(3))
+Can be located outside the EU on certain conditions (Art 17(3a)
+Must be located in the EU (Art 17(3))
+Can be located outside the EU on certain conditions (Art 21(5)(b))
+Delegation of tasks possible (Art 17(4))
+Delegation of certain tasks possible, also to a non-EU sub-depositary on certain conditions. Investors to be informed of delegation (Art 17(4))
+Delegation of certain tasks possible and the sub-depositary can further delegate its tasks to others (Art 17(4, 4a, 4b))
+Delegation of certain tasks possible, also to a non-EU sub-depositary on certain conditions. Investors to be informed of delegation. Sub-depositary can further delegate its tasks to others (Art 21(10)(d))
+Wide possibility to discharge liability (Art 17(5))
+Strict liability (discharge only possible due to force majeur ). Detailed and narrow rules on when a sub-depositary can take over liability. Investors to be informed of liability transfer. (Art 17(5))
+Wide possibility to discharge liability. Transfer of liability to sub-depositaries easier. (Art 17(5))
+Strict liability. Detailed and narrow rules on when a sub-depositary can take over liability. Investors to be informed of liability transfer. (Art 21(11, 12))
+Leverage limits
+Commission proposal
+EP text 17 May
+Council text 18 May
+Agreed text 27 October
+Commission to decide the maximum
+leverage that a specific AIFM could use to increase the returns of an AIF. (Art 25 (3))
+AIFMs themselves set leverage limits in respect of each AIF they manage following defined guidelines.
+No limits imposed and AIFMs not required to set limits either.
+AIFMs themselves set leverage limits in respect of each AIF they manage following defined guidelines.
+National supervisors and ESMA monitor the suitability of these limits and can require corrections if considered inappropriate. (Art 25 (2a))
+National supervisors can decide to set limits if they consider this necessary to reduce risk. (Art 25(2))
+National supervisors and ESMA monitor the suitability of these limits and can require corrections if considered inappropriate. (Art 25(3))
+Scope
+Commission proposal
+EP text 17 May
+Council text 18 May
+Agreed text 27 October
+Threshold system: AIFMs with a portfolio of less than €100 million with use of leverage or €500 million with no leverage exempted from directive. (Art 2)
+Different levels of regulation according
+to the type of fund rather than a one-size-fits-all break-off limit. National supervisors establish who qualifies for lighter treatment on the basis of the
+directive's rules.
+Private equity funds, self-managed AIFs and non-systemically important AIFMs will be able to avoid full implementation
+of directive. (Art 2a)
+Directive will cover nearly all AIFM. A Member State however can choose not to include AIFMs falling under the Commission thresholds when it is the home Member State (national option) (Arts 2, 2a, 2b)
+Commission threshold system with no national option. Lighter regime for private equity, real estate funds etc removed. (Arts 2, 3)
+Remuneration rules
+Commission proposal
+EP text 17 May
+Council text 18 May
+Agreed text 27 October
+None
+Remuneration rules for AIFMs follow same rules as those to be applied to bank managers in 2011.
+Remuneration rules at first not addressed.
+Remuneration rules inserted. 40% of variable pay to be deferred for at least 3 to 5 years.
+Particularly, 50% of variable pay (bonuses) to be deferred for 4 years and 20% of bonuses can be clawed back if fund underperforms. (Annex Ib points l and m)
+Subsequently rules like those proposed by the EP taken on board but with no minimum deferral period and no claw back rules. (Annex II point l)
+Bonuses must be considerably smaller if fund underperforms, notably through use of a claw back clause. ( Annex II points n and o)
+Private equity
+Commission proposal
+EP text 17 May
+Council text 18 May
+Agreed text 27 October
+No rules to counter asset stripping
+Rules on capital adequacy for the bought company to reduce asset stripping (Art 27a)
+No rules to counter asset stripping
+Asset stripping made more difficult by rules preventing distribution to shareholders and capital reductions within first 2 years of private equity taking control of a company (Art 30)
+Private equity is required to notify the company and the other shareholders when it controls 30% of a company's shares (Art 27)
+Private equity is required to notify the company, other shareholders, employees, and supervisory authorities already when it controls 10% of a company's shares (Art 27)
+Private equity is required to notify the company and other shareholders when it controls 50% of a company's shares (Art 27)
+Private equity is required to notify the company and the other shareholders already when it controls 10% of a company's shares. It will also have to ensure that the company's board of directors informs employees of this control. (Art 27)
+Passport rules (non-EU AIF and non-EU AIFM)
+Commission proposal
+EP text 17 May
+Council text 18 May
+Agreed text 27 October
+Passport can be granted based on equivalence: if Commission
+considers legal system of a third country equivalent to that of the directive, AIFs and AIFMs of that country would have access to the EU. (Art 35)
+Passport can be granted on basis of non-EU AIFM's voluntary compliance with the directive's
+requirements. Financial supervisors of AIFM's third country act as ESMA agents in supervising that AIFM.
+No passport can be granted: non-EU AIFMs may market funds through the current national private placement system (compliance with differing national rules of Member States).
+Passport can be granted after a transition period: Commission will pass implementing legislation extending the passport system to non-EU AIFMs and AIFs.
+A non-EU AIF can be marketed in the EU if the country where it is located meets minimum regulatory standards, grants reciprocal access to marketing of EU AIFs on its territory and has information exchange
+agreements with Member States where marketing is intended on taxation and monitoring matters. (Arts 35a, 39)
+Information exchange agreements with Member States where marketing is intended also required.
+Same obligations apply for marketing of non-EU AIFs (Arts 34b, 35)
+A non-EU AIFM must register and be authorised in one Member State
+The home country of the non-EU AIFM and AIF must meet minimum regulatory standards, and have information exchange
+agreements with Member States where marketing is intended on taxation and monitoring matters. (Arts 35, 38, 39)
+Commission proposal EP initial position adopted in the Economic and Monetary Affairs Committee: Council initial position adopted by Ecofin Agreed text
+EN
+1
+LINK
+/en/pressroom/content/20100923BKG83508
+EN
+2
+LINK
+http://ec.europa.eu/internal_market/investment/docs/alternative_investments/fund_managers_proposal_en.pdf
+EN
+4
+LINK
+http://register.consilium.europa.eu/pdf/en/10/st06/st06795-re03.en10.pdf
+EN
+5
+LINK
+/sed/doc/amendment/P7_AMA(2010)0171(022-022)_EN.doc
+-//EP//TEXT REPORT A7-2010-0171 0 NOT XML V0//EN
+-//EP//DTD IM-PRESS 20050901 BKG DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 BKG DOC XML V0//EN

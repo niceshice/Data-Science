@@ -1,0 +1,35 @@
+Financial transaction tax: a better design is possible
+Economic and monetary affairs
+Committees Economic and Monetary Affairs
+2012-02-29 - 17:02
+John SCHRANZ BXL (+32) 2 28 44264 STR (+33) 3 881 74076 PORT (+32) 498 98 14 02 EMAIL econ-press@europarl.europa.eu The proposed financial transaction tax should be better designed to capture more traders and to make evading it unprofitable, say proposals presented in the Economic and Monetary Affairs Committee on Wednesday. The proposals also say the tax should go ahead even if only some Member States opt for it.
+Parliament has been calling for a financial transaction tax (FTT), for close to two years and the Commission tabled a legislative proposal for one late in 2011.
+Tabling her amendments to the Commission proposal, Anni Podimata (S&D, EL), the MEP steering the legislation through the European Parliament, said "I want a more watertight framework to capture more trades and to minimise the interest for tax evasion".
+A wider net
+Ms Podimata's draft report adds to the Commission proposal a further "catchment principle" whereby financial institutions located outside the EU would also be obliged to pay a FTT if they traded securities originally issued within it.
+For example, a Hong Kong institution trading Siemens shares with one in the US would have to pay the tax. Under the Commission's proposals, such transactions would have escaped the tax, because only financial institutions based within the EU would be subject to it.
+Tackling tax evasion
+The draft report also raises the stakes to make evading the FTT potentially far more expensive than paying it. Taking the UK stamp duty approach, the text links payment of the FTT to the acquisition of legal ownership rights. This means that if the buyer of a security did not pay the FTT, he or she would not be legally certain of owning that security and would hence be unable to clear the trade centrally.
+Next steps
+Committee vote: April.
+Plenary vote: May (tbc)
+Parliament has consultative powers on this proposal.
+20120227IPR39339 Watch webstreaming live Committee on Economic and Monetary Affairs Procedure file Profile of rapporteur Anni Podimata (S&D, GR)
+EN
+1
+LINK
+/ep-live/en/committees/video?event=20120229-1500-COMMITTEE-ECON&vodtype=Live
+EN
+2
+LINK
+/committees/en/ECON/home.html
+EN
+3
+LINK
+/oeil/popups/ficheprocedure.do?lang=en&reference=2011/0261(CNS)
+EN
+4
+LINK
+/meps/en/39317/Anni_PODIMATA.html
+-//EP//DTD IM-PRESS 20050901 IPR DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 IPR DOC XML V0//EN

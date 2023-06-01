@@ -1,0 +1,66 @@
+MEPs give green light to further liberalisation of EU electricity and gas markets
+2009 elections
+Energy
+2009-04-22 - 13:20
+Members of the European Parliament voting the so-called "third energy package" concerning the liberalisation of Europe's electricity and gas markets on Wednesday 22 of April 2009 EU energy markets will become more competitive as energy companies will have to separate supply and production from transmission activities. The wide-ranging rules adopted by Parliament also improve consumer rights, strengthen the powers of national regulators and promote regional solidarity in the event of severe gas supply disruptions.
+Parliament backed by a large majority a compromise on the "third energy package" agreed between MEPs and the Council Presidency ahead of the EP's second-reading vote. Member States will have one and a half years to put most of the new rules into effect.
+Separating supply and production from transmission network operations
+Member States will have to choose between three "unbundling" options - i.e. to separate supply and production activities from gas and electricity transmission networks:
+full ownership unbundling;
+the independent system operator (ISO);
+the independent transmission operator (ITO).
+Full ownership unbundling would force integrated energy companies to sell off their gas and electricity grids thus establishing separate transmission system operators, which handle all network operations. A supply and production company could not, in this case, hold a majority share in a transmission system operator, stipulates the compromise text.
+As alternatives to ownership unbundling the ISO and ITO options allow energy companies to retain the ownership of their transmission networks. To liberalise the energy market, Member States could, for example, oblige companies to hand over the operation of their transmission network to a designated, separate body - the independent system operator (ISO).
+The third option – the ITO model – preserves integrated supply and transmission companies but compels them to abide by certain rules to ensure these two sections of the company operate independently in practice:
+a “supervisory body” - composed of energy company representatives, third party shareholders, and transmission system operator representatives - will take the decisions “which may have a significant impact on the value of the assets of the shareholders”;
+a “compliance programme” will set out measures that prevent “discriminatory conduct”;
+a “compliance officer” will monitor the implementation of the compliance programme;
+management staff is not allowed to work for the supply and generation company for three years before and for four years after being employed with the transmission operator (mandatory "cooling-off periods").
+Non-EU companies
+The legislative package also includes provisions to prevent control of transmission systems or their owners by companies from non-EU countries until they fulfil certain conditions, i.e. a national regulator will have the right to refuse certification of a transmission system operator controlled by "a person or persons from a third country", if:
+- this company does not comply with the unbundling requirements, and
+- its market entry would jeopardise the Member State's or the EU's security of supply
+EU countries will have three and a half years to give effect to the provisions concerning non-EU companies.
+Improved consumer rights
+MEPs achieved a clear strengthening of consumer rights. The new legislation would give customers the right:
+to change their gas and electricity suppliers within three weeks and free of charge;
+to receive the final closure account at the latest six weeks after switching suppliers;
+to receive all relevant gas and electricity consumption data;
+to be informed about the contribution of the different energy sources to the electricity supplier's fuel mix;
+to independent mechanisms for efficient treatment of complaints and out-of-court dispute settlements, such as an energy ombudsman or a consumer body;
+to compensation if service quality levels are not met (as with, for example, inaccurate and delayed billing);
+to information on their rights through bills and company websites.
+The Commission should put forward a clear and concise "Energy Consumer Checklist" listing practical information on consumer rights, says the compromise text.
+Subject to an economic assessment, 80% of consumers should have access to intelligent metering systems by 2020, says another provision added to the text.
+Guaranteeing universal service of electricity
+The new legislation would also oblige Member States to guarantee universal service to all household customers and, if necessary, small enterprises (with fewer than 50 employees and an annual turnover or balance sheet of less than €10 million). Those customers would then have the right to be supplied with electricity of a specified quality at reasonable, easily and clearly comparable, transparent and non-discriminatory prices.
+Protecting vulnerable consumers
+On the EP's initiative the new legislation includes special protection measures for vulnerable energy consumers. EU countries should take "appropriate measures” to address energy poverty such as National Energy Action Plans or benefits in social security systems to guarantee necessary energy supply to vulnerable customers or energy efficiency improvements, says the new text.
+Co-operation in emergency situations
+The new legislation also seeks to promote "regional solidarity". It requires Member States to co-operate in the event of "severe disruptions" of gas supply, by co-ordinating national emergency measures or developing and upgrading electricity and gas interconnections
+Further measures
+The two directives and three regulations of the third energy package also include, among other points:
+the creation of an EU Agency for the Cooperation of Energy Regulators which will set out non-binding framework guidelines;
+tasking the Commission with the adoption of binding network codes - e.g. on procedures in emergency situations - based on the agency's guidelines;
+the establishment of European Networks of Transmission System Operators for electricity (ENTSOE) and gas (ENTSOG) which are to implement the network codes;
+the obligation on transmission system operators to submit every year a 10-year network development plan to the national regulatory authorities;
+measures to improve the regional cooperation between different national regulators;
+measures to strengthen the independence of national regulators.
+Voting results
+Eluned Morgan (PES, UK) Energy: rules for the internal market in electricity (repeal. Directive 2003/54/EC) - 588 votes in favour, 81 against and 9 abstentions.
+Giles Chichester (EPP-ED, UK) Electricity and gas market: Agency for the Cooperation of Energy Regulators - 585 votes in favour, 29 against and 70 abstentions.
+Alejo Vidal-Quadras (EPP-ED, ES) Energy: internal market in electricity, cross-border exchanges, access to network (amend. Regulation (EC) No 1228/2003) - 589 votes in favour, 57 against and 38 abstentions.
+Antonio Mussa (UEN, IT) - Energy: rules for the internal market in natural gas (repeal. Directive 2003/55/EC) - 596 votes in favour, 45 against and 45 abstentions.
+Atanas Paparizov (PES, BG) Energy: internal market in natural gas, access to the transmission networks (repeal. Regulation (EC) No 1775/2005) - 594 votes in favour, 24 against and 65 abstentions.
+20090421IPR54056 Background Note : Further liberalisation of the EU electricity and gas markets Adopted texts (click on 22 April)
+EN
+1
+PHOTO
+20090417PHT53860.jpg
+EN
+3
+LINK
+/activities/plenary/ta/calendar.do?language=EN
+-//EP//TEXT IM-PRESS 20090415BKG53730 0 NOT XML V0//EN
+-//EP//DTD IM-PRESS 20050901 IPR DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 IPR DOC XML V0//EN

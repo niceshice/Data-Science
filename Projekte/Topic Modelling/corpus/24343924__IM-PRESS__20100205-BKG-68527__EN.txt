@@ -1,0 +1,57 @@
+Parliament examines SWIFT II agreement
+Justice and home affairs
+2010-07-02 - 17:31
+Four months ago, Parliament rejected the EU-USA SWIFT bank data transfer agreement. This week, MEPs should approve a new version of the text, after negotiating certain safeguards with the Council and the US Treasury Department, and winning an undertaking that the EU will develop a system that precludes the need to transfer data in bulk to the USA.
+The key to the deal for the European Parliament is the eventual elimination of "bulk" data transfers. In exchange for backing the agreement, MEPs won an undertaking that work on setting up an EU equivalent to the US "Terrorism Finance Tracking Program" (TFTP), which would preclude the need for bulk data transfers, will start within 12 months. Once Europe has a system enabling it to analyse data on its own territory, it need only transfer data relating to a specific terrorist track.
+The new draft agreement was negotiated by the Council of Ministers, the European Commission, the US Treasury and the European Parliament. Until Thursday 24 June, when the deal was struck, MEPs worked to build safeguards into the system to prevent any misuse of data.
+The draft agreement is backed by the EPP, S&D, ALDE and ECR groups.
+Parliament has been debating the SWIFT issue since 2006, and at various stages in its progress, MEPs have put pressure on the Council of Ministers for more parliamentary control and increased personal data protection.
+What is SWIFT?
+SWIFT is a financial messaging company based in Belgium which operates a network through which passes information (account holders and numbers, the origin and destination of transfers, etc.) of some 8000 institutions (chiefly banks) in over 200 countries. It is said to have 80% of the market in electronic financial transfers. A large amount of information on the daily lives of EU citizens therefore transits through it.
+A cog in the Terrorism Finance Tracking Program
+The SWIFT network has been used for several years by the US Treasury Department under the TFTP to identify, locate and track down people suspected of terrorism as well as their financial backers, in the wake of the attacks of 11 September 2001. SWIFT has provided the Treasury with targeted data to trace the movements of terrorism-related funds.
+Banking data transferred to the US Treasury Department under the SWIFT agreement would include identifying information about the originator and/or recipient of a transaction, including name, account number, address, and national identification number.
+This co-operation initially took place in great secrecy but was revealed by the press in June 2006. The European Parliament then demanded that a framework be established to ensure appropriate data protection and prevent the data being used for purposes other than counter-terrorism. As a result, a transatlantic dialogue was set up and the EU obtained certain safeguards. In return the services of the EU Member States could benefit from information processed by the USA under the TFTP.
+The Commission then mandated former counter-terrorism judge Jean-Louis Bruguière to produce a report in February 2009, which concluded that the United States had given guarantees on the protection of personal data. The European Parliament, working at that time under the Nice Treaty, had no binding power over the signing of international agreements on justice and home affairs matters. Judge Bruguière published a second report in early February of this year.
+New structure, new agreement
+In July 2009, the press revealed that a new agreement was to be negotiated following changes in the structure of SWIFT. The company had set up a storage centre for its European data in Switzerland, which meant that intra-European data was stored only in Europe. Until then the data had also been kept on a server in the United States. This new architecture required the negotiation of a fresh agreement between the Commission and Council on the one hand and the United States on the other.
+20100205BKG68527
+How does the proposed agreement differ from the previous one?
+The key breakthrough is the promise, with legal backing, to develop an EU data extraction system equivalent to the US "Terrorism Finance Tracking Program" (TFTP) and thus preclude the need to transfer data in bulk to the USA, by processing it in Europe. Article 11 requires the Commission to consider setting up such a system (it promised MEPs it would table a proposal within 12 months). The USA is to help set up the system.
+A new role for Europol
+Another innovation of the draft agreement is that it empowers the EU's "Europol" criminal intelligence agency, based in the Hague, to block data transfers to the USA. Europol will have to check that every data transfer request by the US Treasury is justified by counter-terrorism needs and that the volume of data requested is as small as possible. Data must be "pushed" rather than "pulled", i.e. sent by Europeans, not gathered by the Americans themselves (Article 4).
+An EU representative in the USA to monitor data processing
+The new version of the agreement also provides that the use of data by the Americans, which must be exclusively for counter-terrorism purposes, is to be supervised by a group of independent inspectors, including someone appointed by the European Commission. This person will be entitled to request justification before any data is used and to block any searches he or she considers illegitimate (Article 12).
+Article 5 prohibits the US TFTP from engaging in data mining or any other type of algorithmic or automated profiling or computer filtering. Any searches of SWIFT data will have to be based on existing information showing that the object of the search relates to terrorism or terrorism finance.
+Right of redress for European citizens
+In February 2010, after rejecting the previous agreement, MEPs demanded that European citizens should be guaranteed the same judicial redress procedures as those applied to data held on the territory of the European Union, and in particular payment of compensation in cases of illegal processing of personal data. They pointed out that the US Privacy Act, which protects US citizens against such misuse, does not protect European citizens who might become victims of such misuse on American soil. The new proposal says this time that US law must provide a right of redress, regardless of nationality.
+Data retention and deletion
+Extracted data may be retained only for the duration of the specific procedures and investigations for which they are used. Each year, the US Treasury must take stock of any data that have not been extracted, and hence individualised, for counter-terrorism purposes, and delete them (Article 6).
+Finally, Article 21 enables either party to suspend the agreement, with immediate effect, in the event of a breach by the other party.
+Next steps
+If the agreement is approved by the European Parliament, it will take effect on the first day of the following month, for five years, and will be renewable, year by year, thereafter. However, the two parties must together assess the functioning of the agreement's safeguards and control systems, at the latest within six months of the agreement's entry into force.
+The SWIFT dossier in Parliament since 2006
+2001: "Terrorism Finance Tracking Program" (TFTP), established in response to 9/11 attacks
+June 2006: American press reveals subpoenas requiring SWIFT to transfer data to the US Treasury Department. European Parliament adopts a resolution calling for rules to ensure that data are adequately protected
+2007: USA gives undertakings on control and safeguard procedures, and says that data will be used solely for counter-terrorism purposes
+March 2008: Commission engages former counter-terrorism judge Jean-Louis Bruguière to produce a report in February 2009. Report concludes that the USA provides personal data protection safeguards
+3 October 2007: SWIFT network decides to modify its architecture and builds a new data storage centre in Switzerland, thus rendering a new EU/US data exchange agreement necessary (opening of negotiations approved by a Council decision of 27/07/09)
+13 July 2009: press reveals that a new agreement is being negotiated
+22 July 2009: Parliament requests an explanation. Justice Commissioner Jacques Barrot tells parliamentary committee that the new agreement will be only an interim one, because he wishes the EU to "renegotiate under Lisbon Treaty rules"
+30 November 2009: interim agreement signed by the Council
+13 January 2010: agreement published in the EU Official Journal
+25 January 2010: agreement referred to Parliament for its consent, after several letters from EP President Jerzy Buzek to the Council Presidency
+1 February 2010: agreement enters into force
+4 February 2010: Civil Liberties Committee rejects the text
+11 February 2010: Parliament's plenary rejects the text
+10 May 2010: Council gives its green light to the new negotiating brief proposed by the Commission, and negotiations resume
+28 June 2010: the agreement is signed by ministers of the twenty-seven. Thereafter, its conclusion depends upon Parliament. EP press release - SWIFT: European Parliament votes down agreement with the US EP President Jerzy Buzek on rejection of the SWIFT interim agreement Press release on 27 January debate European Data Protection Supervisor opinion
+EN
+4
+LINK
+/meetdocs/2009_2014/documents/libe/dv/p10_edps/p10_edpsen.pdf
+-//EP//TEXT IM-PRESS 20100209IPR68674 0 NOT XML V0//EN
+-//EP//TEXT IM-PRESS 20100211IPR68856 0 NOT XML V0//EN
+-//EP//TEXT IM-PRESS 20100125IPR67943 0 NOT XML V0//EN
+-//EP//DTD IM-PRESS 20050901 BKG DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 BKG DOC XML V0//EN

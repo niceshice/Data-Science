@@ -1,0 +1,41 @@
+Growing threat of Cyber-attacks discussed by Security & Defence MEPs
+Security and defence
+2010-11-03 - 12:25
+©BELGA THREAT OF CYBER-ATTACKS DISCUSSED GROWING SECURITY AND ECONOMIC THREAT The spectre of cyber-warfare is looming larger as Estonia in 2007 and over one hundred countries in March last year found out to their cost. Tougher criminal sanctions and more coordination between Europe security experts were two ideas discussed at a hearing by the Parliament's Security and Defence sub-committee on 25 October. It brought together MEPs and security experts to discuss the problem and the European Commission's proposals to confront the threat.
+Polish MEP Krzysztof Lisek (EPP), vice-chair of the Committee, warned of the dangers of cyber warfare saying that "we all remember what happened in Estonia and Georgia we are aware how important this topic is".
+Greater role for European Network and Information Security Agency
+Back in 2004 the European Union established the European Network and Information Security Agency (ENISA) to share scientific and technical expertise. The latest proposals call for this to be made stronger by coordinating activities between all European countries and holding cyber security exercises.
+In addition tougher jail sentences - from two to five years - are planned for those who plan and take part in cyber attacks.
+"Botnets" cause economic damage
+One of the most serious attacks is by using "botnets" where large numbers of computers are hijacked and manipulated simultaneously as an army of robots without their owner's knowledge.
+This can have serious economic consequences. A major Critical Information Infrastructure (CII) breakdown, according to the World Economic Forum, would have a potential global cost of 250 billion dollars. There is apparently a 10% to 20% probability this could happen in the next decade.
+However, cyber attacks on state authorities can have also less serious implications. Krzysztof Lisek wryly commented that "the website of the Polish president was once attacked by a hacker and redirected to a certain page for adults. Afterwards some journalists commented that it was more interesting than the original one".
+***
+Ministers from national governments are expected to begin discussions on this issue in early 2011.
+20101025STO89965 Current EU framework since 2005 EC updated proposal for a directive EC Press release 30/09/2010 ENISA Subcommittee on Security and Defence
+EN
+1
+PHOTO
+20101028PHT91294.jpg
+EN
+2
+LINK
+http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32005F0222:EN:NOT
+EN
+3
+LINK
+http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=COM:2010:0517:FIN:EN:PDF
+EN
+4
+LINK
+http://europa.eu/rapid/pressReleasesAction.do?reference=IP/10/1239&format=HTML&aged=0&language=EN&guiLanguage=en
+EN
+5
+LINK
+http://www.enisa.europa.eu/
+EN
+6
+LINK
+/activities/committees/homeCom.do?language=EN&body=SEDE
+-//EP//DTD IM-PRESS 20050901 STO DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 STO DOC XML V0//EN

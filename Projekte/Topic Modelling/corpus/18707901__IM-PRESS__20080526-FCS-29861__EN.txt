@@ -1,0 +1,129 @@
+MEPs back consumers in telecoms shake up
+Industry
+2008-10-01 - 11:27
+1940's telecoms; reforms cover phones and internet A safer internet and clearer phone pricing were among the proposals backed by MEPs last week. In a wide ranging piece of legislation Members also supported steps to make changing phone supplier easier and make use of the pan-European 112 emergency number more widespread. A key aspect of the so-called Telecoms package is internet safety and data protection.
+Facebook privacy covered
+One of the most important issues was the extent to which users of social network sites and the internet more generally will have their privacy protected.
+MEPs agreed on better protection for users against spam, cookies and viruses. Those who abuse other people's data will also be liable to prosecution by national courts.
+Easier to change phone companies
+Changing phone companies can often be a hassle - especially as it usually involves changing your number and then telling family and friends your new number. The new rules on telecoms will make it easier both to change mobile operator and take your number with you.
+There will also be more comparable tariffs so that customers can make the best choices.
+112 Emergency access
+Under the new rules, the Europe-wide 112 emergency number will be expanded and a new 116 number for lost children set up. A key aim is also to ensure that people with disabilities, special needs and the elderly get easier access to telecoms.
+There are also measures to allow frequencies freed by the switchover to digital TV to be used for broadband internet and mobile TV.
+Wednesday's vote (24 September) concludes the first reading by Parliament. The package now goes to EU telecoms Ministers before returning to parliament for the second reading.
+20080526FCS29861
+Legislation - how will it be passed?
+"C U 2MRO" As with other proposed laws from the Commission, the parliament appoints a draftsman or woman to prepare a report on the issue. The report will go before the parliamentary committee involved and then to the full House for approval. It will face changes along the way with the final piece of legislation adopted via the codecision procedure by the Parliament and the Council, where Telecoms Ministers will look at the proposals.
+To make it digestible the Telecoms package has been divided as follows:
+1. Citizens' rights directive: This covers service provision and users' rights. The rapporteur for the Internal Market Committee is British Conservative Malcolm Harbour
+2. Electronic communications: common regulatory framework directive: this covers future electronic communication networks, which will transport all types of information and services. The rapporteur is French Socialist Catherine Trautmann. She told us that her report sees the package facilitating the development of access for all Europeans to the information society. She sees "no opposition between the interests of consumers and companies as competition in the market would be economically and socially beneficial".
+3. Creation of the European Electronic Communications Market Authority (EECMA): parliament's rapporteur is Spanish MEP Pilar del Castillo (EPP-ED). On the more general need for reform, she said "there are still bottlenecks in the way of our creation of an integrated market place. There still exist cross-boarder issues and disparities between Member States as regards to broadband access, digitalisation and services. These need to be resolved".
+Contrary to the Commission's plan she suggests an independent advisory Body of European Regulators in Telecoms (BERT). "The objective of BERT is to develop in a flexible, efficient and non bureaucratic way prime conditions for the telecom market so that the latter may operate solely under general competition law...let's not create a cumbersome body which lobbies for its own existence."
+.
+4. Repeal of the GSM Directive: Spanish Socialist Francisca Pleguezuelos .
+There is also an own initiative report on "Communication on the digital dividend" by Italian Liberal Patrizia Toia.
+Timeline
+13 November 2007: Commission adopts proposals to reform EU telecom rules.
+6 May 2008: Industry Committee debated Trautmann and del Castillo reports.
+3 July - vote in the Internal Market Committee
+7 July - vote in the Industry, Research and Energy Committee.
+24 September - plenary vote
+Telecom Package: overhauling EU rules Commission proposals
+MEPs back spectrum of opportunities for a digital Europe
+Hello digital, goodbye aerials? As Europe's radio and TV networks go digital, the economic opportunities created by the freeing of analogue bandwidth could be substantial. That is the conclusions of two parliamentary reports about how the future of telecommunications in the EU could look. The key to the future could be their contribution to the growth in Europe of high technology, which already makes up 2.2% of the European Union's gross domestic product.
+At present telecoms are regulated by rules devised in the 1990's. Last year the European Commission unveiled proposals to reform the current system. It wants to create a sustainable "ecosystem" for electronic communications, based on supply and demand. In a report drafted for the Industry and Energy Committee French Socialist Catherine Trautmann stresses the fact that spectrum is a resource that should be used.
+Spectrum a "natural resource"
+Her report - voted by the committee on 7 July - says that "spectrum, like other natural resources (e.g. sun, water, air), is a public good. Market mechanisms help to get the best value for money but they are not able alone to serve the general interest and to create an information society for all."
+Looking ahead, the report supports greater investment in fibre optic networks, which offer much greater capacity. Industry Committee MEPs think current EU rules will need reviewing to take full advantage of this "next generation" technology.
+Better broadband for poor and isolated
+As the broadband network develops and becomes cheaper, faster and more accessible, many observers are hoping the "digital divide" where the poor and isolated currently have limited access to the internet, can be bridged. This could have profound consequences as it could allow the development of online health and public service schemes as well as easier access to utilities. All of these benefits, as well as the greater choice among media outlets that broadband brings, are mentioned in an own initiative report (also to be voted on 7 July in the same committee) by Patrizia Toia.
+The Italian Liberal calls for small and medium companies and the non-profit sector to benefit from any "digital dividend". Ms Toia also wants greater coordination between EU member states as many "do not have a common timetable" and others either have already made the switch or "plans are highly developed". Both reports were considered by the full Parliament during the 1-4 September session.
+Toia report: Digital divide Trautmann report OEiL
+Telecoms package: committee vote takes package to decisive phase
+MEPs want the benefits of wireless communication extended Clearer bills, easier access to legal information on the internet and support for the 112 emergency number are just part of a package of legislation related to telecoms going through the European Parliament at present. Monday 7 July saw MEPs on the Internal Market Committee back three reports on the issue. Also envisaged are steps to make it much easier - and cheaper - to switch phone companies and steps to make telephony services more available for the elderly and handicapped.
+Parliament has co-decision with the EU telecoms Ministers on this piece of legislation - which will have its first reading in plenary in early September.
+Greater protection for users' rights
+Regarding users' rights MEPs supported the arguments set out in a report on the draft directive for the committee by British Conservative MEP Malcolm Harbour. The report deals with electronic communications (mobile telephony, voice over internet, internet) and reviews existing rules on access to networks and services. Personal data and protection of privacy are also dealt with.
+At the centre of the report and amendments to the draft directive are steps to give more rights to consumers:
+In particular:
+Clearer information about contracts and pricing.
+Easier access to legal information online.
+Clearer and comparable information on tariffs.
+Information on the cost of terminating a contract to make it easier to switch operators.
+Easier access to Europe-wide 112 emergency number.
+Demands for voice over internet protocol (VOIP) communications should be easily available to handicapped and elderly people.
+A mobile phone operator who prevents access to internet voice communications via "smart" telephones would have to specify this at the outset.
+Mr Harbour's report received considerable input from the EP's Civil Liberties Committee, via an opinion drafted by German Liberal Alexander Alvaro. The opinion includes amendments calling for the gathering of data from a computer (e.g. by using cookies) to require prior consent from the user. It also stipulates that it is up to national authorities to identify any infringements, including breaches of intellectual property rights, then to ask the internet access provider to warn the user.
+The provisions concerning the possible role of internet service providers in assisting national authorities in the protection of intellectual property rights has sparked considerable debate both within Parliament and outside it. This will be one of the key subjects on the table in September when Parliament as a whole examines the draft legislation at the first reading stage.
+Reap digital dividend say MEPs
+Ensuring that radio spectrum - where wireless networks are used - is exploited properly was a crucial demand by MEPs. Monday evening also saw Members of the Industry Committee back a report that called for a new generation of networks and better coordination of existing ones.
+Television, mobile phones and the internet are just three areas where spectrum owned by countries in the EU is needed. Initiatives such as e-government and e-health (the accessing of services online) are areas where radio spectrum and its benefits could be useful. French MEP Catherine Trautmann drafted a report for the Industry Committee on this, the electronic communications framework directive.
+As well as more investment in the next generation of networks, the draft electronic directive calls for a European body of national communication regulators to ensure proper coordination of new measures.
+MEPs on the committee calls for a more coherent approach to allocating "digital dividend" frequencies freed up by the switchover from analogue to digital TV by 2012. As it stands after the Committee's changes, the draft directive would require countries to ensure that any technology or any service can use any frequency available for electronic communications services. Equally, if a service needed to be supplied in a specific frequency band it would have to be justified by reference to general interest aims such as ensuring safety of life.
+In September the full Parliament will debate the Harbour and Trautmann reports as well as a third report by Spanish MEP by Pilar del Castillo (EPP-ED).
+For more information on the telecoms package please read the first links below.
+Telecoms package: better protection for users' rights Telecoms package: EU-wide spectrum management for full benefits of wireless services Audio, 31:19
+Internet privacy safe, say telecoms MEPs
+Internet broadband is part of Telecoms package The "telecoms package" will directly affect millions of European internet users. The reform of the telecommunication sector aims to strengthen consumer rights and privacy protection. Wednesday sees a crucial vote by MEPs on the issue. However, for some bloggers and internet users around Europe it has been contentious, with claims that parts of the package could threaten online privacy.
+Reacting to those concerns, British Conservative Malcolm Harbour - who is steering the proposals through Parliament - told us that the interpretation put on some amendments was “alarmist and scare-mongering”. It is estimated that almost half of us use the internet every day. As most of us now use broadband connections, we have the opportunity to download huge amounts of films, music and books for free. The telecoms package has been the subject of serious discussions over the last couple of months, with energetic lobbying from both sides. More than 800 parliamentary amendments have been tabled to this far-reaching reform. Some see clash between copyright rules, online privacy A crucial part of the package is the report on internet users´ rights. Online groups fear that this new legislation will lead to increased surveillance by Internet Service Providers (ISPs), state authorities and interested parties, such as the music and film industries. Some present the issue as a head-on collision between copyright rules on one side and on-line anonymity on the other. However, negotiation between the political groups has led to a compromise, which says that i n the absence of relevant EU rules, content, applications and services are deemed lawful or harmful in accordance with national law. The proposed amendments “have nothing to do with copyright enforcement and this is not, and has never been, the intention of this proposal," said Mr Harbour Main points MEPs on the Internal Market Committee who have been looking at the legislation believe that the "reform will strengthen the rights of consumer's choice and contribute to break the monopoly position of big national ISPs". The main points in the report are: Transparent pricing and contractual information for consumers Easier access to e-services for users with disabilities Strengthened personal data and privacy protection Making it easier to switch provider "The Directive adopts a light touch to regulation, so that innovation in the telecoms sector can continue to develop according to consumers' demands", said Mr Harbour. Next steps The Industry and Internal Market Committees have already backed the amended "telecoms package". The entire parliament will vote on the package Wednesday .
+Broadband the mind
+200 million Europeans have access to broadband
+60% of all public services in EU are available online
+2/3 of all schools use broadband
+Text adopted by MEPs EC: The Telecom package Malcolm Harbour MEP
+EN
+1
+PHOTO
+20080529PHT30316.jpg
+EN
+2
+PHOTO
+20080529PHT30320.jpg
+EN
+4
+LINK
+http://ec.europa.eu/information_society/newsroom/cf/itemlongdetail.cfm?item_id=3701
+EN
+5
+PHOTO
+20080610PHT31189.jpg
+EN
+6
+LINK
+/sides/getDoc.do?type=COMPARL&mode=XML&language=EN&reference=PE405.999
+EN
+8
+LINK
+/sides/getDoc.do?type=COMPARL&mode=XML&language=EN&reference=PE398.542
+EN
+9
+LINK
+/oeil/file.jsp?id=5563972
+EN
+10
+PHOTO
+20080704PHT33475.jpg
+EN
+13
+MULTIMEDIA
+20080708MLT33685.asf
+EN
+14
+PHOTO
+20080922PHT37827.jpg
+EN
+16
+LINK
+http://ec.europa.eu/news/science/071113_1_en.htm
+EN
+17
+LINK
+/members/public/yourMep/view.do?name=Harbour&partNumber=1&language=EN&id=4538
+-//EP//TEXT IM-PRESS 20080505IPR28148 0 NOT XML V0//EN
+-//EP//TEXT IM-PRESS 20070615IPR07887 0 NOT XML V0//EN
+-//EP//TEXT IM-PRESS 20080707IPR33620 0 NOT XML V0//EN
+-//EP//TEXT IM-PRESS 20080707IPR33578 0 NOT XML V0//EN
+-//EP//TEXT IM-PRESS 20080923IPR37902 0 NOT XML V0//EN
+-//EP//DTD IM-PRESS 20050901 FEA DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 FEA DOC XML V0//EN

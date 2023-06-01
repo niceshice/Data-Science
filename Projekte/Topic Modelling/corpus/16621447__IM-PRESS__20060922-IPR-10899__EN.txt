@@ -1,0 +1,19 @@
+Privacy rights need to be respected - even in police cooperation
+Justice and home affairs
+2006-09-27 - 16:09
+The European Parliament adopted a report endorsing a Commission proposal to extend data protection rules to the transfer of information in police and judicial cooperation. This is the competence of Member States and falls out of the scope of existing community laws to protect data so far. MEPs adopted more than 60 non-binding amendments to limit the use and access to personal data to the essential cases and when there is a real threat to public security.
+Although the vote on the consultation report drafted by Martine ROURE (PES, FR) was scheduled for the plenary session in June - MEPs decided to postpone it, hoping the current Finnish presidency will be more willing to take into account Parliament's demands.
+The Commission proposal responds to a longstanding claim from Parliament, who since the creation of the third pillar has been calling for standards on data protection in the context of judicial and police cooperation which are comparable to the standards in force in Community law. The issue is particularly relevant now that the European Court of Justice has decided to annul existing agreements between the EU and US government on the transfer of Passenger Name Records. MEPs want to push for a quick adoption of this draft decision by the Council, which would affect future agreements with the United States.
+Strict criteria to collect and access data
+Data collection and access to national governments or competent authorities must be limited "to specific purposes", only "if strictly necessary", and carried out with the "principles of proportionality and necessity" and for the purpose of "preventing a threat to public security or to a person", say MEPs. This personal data made available to a given Member State might be further processed by another only with the consent of the authority which made available the information in the first place.
+Sensitive data such us biometrics or DNA information will follow additional specific safeguards to ensure they are accurate and that they can be challenged by the subject of such data. MEPs also demand a different treatment for personal data depending on the status of the person concerned: information related to "non-suspects" will be treated "only for the specific purpose they were collected, for a limited period of time and with adequate limitations on access to them and on their transmission".
+Transfers to third countries
+One of the main concerns for MEPs is the potential access to personal data that authorities from third countries could ask in the name of fight against terror and organised crime. In this sense, Parliament adopted an amendment forbidding such transfer to competent authorities outside the EU except if the transfer "is provided by a law clearly obliging or authorising it" and if the Member States can ensure that the level of protection afforded by the third country is adequate. This assessment would be based on concrete criteria listed in the text. Only exceptionally, this adequacy decision can be omitted if it is to prevent an imminent serious danger threatening public security.
+Finally, Parliament adopted other amendments to give the citizen the right to deny the accuracy of some personal information and mark it on the database, as well as to impose criminal sanctions to authorities in case of intentional offence or gross negligence.
+20060922IPR10899 Fight against terrorism: processing and protection of personal data in the framework of police and judicial cooperation in criminal matters. Framework decision
+EN
+1
+LINK
+/oeil/file.jsp?id=5279032
+-//EP//DTD IM-PRESS 20050901 IPR DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 IPR DOC XML V0//EN

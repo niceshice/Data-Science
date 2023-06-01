@@ -1,0 +1,30 @@
+Energy market transparency: minimum penalties and clearer rules
+Energy
+Committees Industry, Research and Energy
+2011-05-26 - 15:00
+Plans to prevent abuse and manipulation of the wholesale energy market were endorsed by the EP Energy Committee on Thursday. However, MEPs want key changes to the proposed regulation. They say all large volume contracts must be included and minimum penalties for those who flout the rules must be standardised across the EU.
+The main aims of the draft regulation on energy market integrity and transparency (REMIT) are to prevent market abuse and manipulation in the wholesale energy market, which "can cause high price volatility and lead to increased energy prices for end consumers", explained the rapporteur, Jorgo Chatzimarkakis (ALDE, DE), who drafted the report.
+To enforce the new rules, the European Agency for the Cooperation of Energy Regulators (ACER) will gather and monitor data on energy transactions. It will then forward this information to national authorities, which will be responsible for investigation and enforcement.
+Minimum EU-wide penalties for rule breakers
+The Energy Committee wants to see harmonised penalties among Member States by setting minimum standards. This will prevent "a situation where those who breach the Regulation move to the least severe Member State". Sanctions should "considerably exceed the real or potential gains as well as the damage caused to consumers", say MEPs.
+Authorisation procedures
+On the registration of market participants, the Energy Committee calls for each Member State to have a licence system or a register of participants. In cases where a country does not adhere to the EU licensing system, national authorities should "apply the EU mandatory registration system".
+Avoid double reporting
+Members of the committee also voted to use existing reporting structures, whenever possible, in order to avoid extra administrative burdens for market participants.
+All large volume contracts should be included, say MEPs
+Under the Commission's proposal, all contracts for supplying energy to traders who are "final consumers" (whether their consumption is high or low) would be exempted from the legislation.
+MEPs disagree, saying that large volume contracts (where the trader consumes more than a certain amount of GWh) should be treated as wholesale and thus be subject to the rules. Smaller traders would be exempt. The precise cut-off point would be decided at a later stage by the Commission through a "delegated act", although this would have to be endorsed by Parliament.
+Next steps
+The initial proposal by the Commission was presented in December 2010. REMIT falls under the codecision procedure, with European Parliament and Council deciding on an equal footing. Negotiations between the institutions are expected to start in June, with the plenary vote expected to take place in September.
+26.05.2011 In the Chair: Herbert REUL (EPP, DE)
+20110526IPR20272 Committee on Industry, Research and Energy Profile of Jorgo Chatzimarkakis (ALDE, DE)
+EN
+1
+LINK
+/activities/committees/homeCom.do?language=EN&body=ITRE
+EN
+2
+LINK
+/members/public/geoSearch/view.do?country=DE&partNumber=1&language=EN&id=28243
+-//EP//DTD IM-PRESS 20050901 IPR DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 IPR DOC XML V0//EN

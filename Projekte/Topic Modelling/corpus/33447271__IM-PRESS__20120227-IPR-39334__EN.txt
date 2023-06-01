@@ -1,0 +1,70 @@
+Industry committee sets out to lower mobile roaming rates
+Information society
+Committees Industry, Research and Energy
+2012-02-28 - 11:24
+Nora CHAAL BXL (+32) 2 28 32269 STR (+33) 3 881 78290 PORT (+32) 498 98 34 02 EMAIL indu-press@europarl.europa.eu Christopher COAKLEY BXL (+32) 2 28 44859 STR (+33) 3 881 76853 PORT (+32) 498 98 33 26 EMAIL envi-press@europarl.europa.eu Wholesale roaming service suppliers have cut prices to match the EU price cap, but must now try harder to compete below it, said the Industry Committee on Tuesday. It backed new rules which from June 2012 could enable retail clients to buy roaming services from suppliers other than their home service suppliers and help alternative suppliers to enter the market. They would also cap retail data roaming charges for the first time, and also set lower roaming price caps for calls and SMS texts.
+In its 2010 Digital Agenda for Europe, the Commission pledged to bring cross-border roaming tariffs into line with domestic prices by 2015, in line with Parliament’s requests. The current legislation capping roaming charges for phone calls and SMS messaging, at both wholesale and retail levels, expires in June 2012.
+"We need to stimulate real competition among mobile operators and guarantee fair roaming prices for EU consumers who are on holiday or travelling for work", said Angelika Niebler (EPP, DE), Parliament's rapporteur for the draft legislation, which the committee approved with 55 votes in favour, 5 against and no abstentions.
+Structural measures to boost competition
+Although mobile phone operators have reduced roaming tariffs to match EU price caps, customers are still not being offered roaming tariffs that are markedly lower than the caps, because the roaming market has not developed sufficiently and structural problems persist, says a European Commission report on roaming services.
+Enabling clients to buy roaming services separately
+The committee also suggests requiring operators to offer retail roaming services separately from 1 March 2014, so that customers can choose an alternative roaming service supplier for foreign calls while retaining their national operator for domestic use and keeping their phone number. Home providers would have to inform their customers of this right and any switch to an alternative roaming service provider would have to be free of charge.
+Domestic mobile service suppliers would also have to enable their customers to access mobile local data services temporarily while abroad - similarly to accessing a Wi-Fi hotspot - without having to unsubscribe from their existing data roaming contract or arrangement, and while keeping their mobile number.
+Encouraging new operators
+To boost competition, the Industry, Research and Energy Committee proposes facilitating access to the wholesale market for new alternative operators (mobile virtual network operators, or MVNOs).
+Transparency and consumer protection
+This regulation also aims to improve price transparency and information on charges to users of roaming services, first within the EU and from 1 January 2013, outside it.
+Domestic service providers would be required, to inform all their roaming customers, no later than 30 June 2012, about the Euro-data tariff that they will apply from 1 July 2012.
+New price caps and first data roaming ceiling
+Until proposed structural measures take full effect and stronger competition reduces retail prices, there should be a gradual reduction in current wholesale prices (charged between operators) and retail prices (charged to consumers). The draft legislation also sets lower caps for voice and SMS roaming charges and proposes the EU's first price cap for mobile data services.
+The Industry, Research and Energy Committee set lower price caps than the Commission's proposal to enable best tariffs for consumers while ensuring a sufficient margin between wholesale and retail prices to assure a level of competition that can bring down prices. (See table below).
+Price proposals
+Retail Prices (charged to consumers)
+Wholesale prices (charged between operators)
+Phone calls
+From July 2012: €0.25 per minute for outgoing calls and €0.08 per minute for incoming ones
+From July 2013: €0.20 per minute for outgoing calls and €0.07 per minute for incoming ones
+From July 2014: €0.15 per minute for outgoing calls and €0.05 per minute for incoming ones
+From July 2012: €0.11 per minute
+From July 2013: €0.08
+From July 2014: €0.05
+Text messages
+From July 2012: €0.08 per SMS message
+From July 2013: €0.07
+From July 2014: €0.05
+From July 2012: €0.03 per SMS
+From July 2013: €0.02
+From July 2014: €0.01
+Data roaming
+From July 2012: €0.50 per megabyte
+From July 2013: €0.30
+From July 2014: €0.20
+From July 2012: €0.25 per megabyte of data
+From July 2013: €0.15
+From July 2014: €0.05
+Next steps
+The new rules could be put to a vote by Parliament as a whole in April (tbc).
+In the Chair: Amalia Sartori (EPP, IT)
+20120227IPR39334 Committee on Industry, Research and Energy Watch webstreaming live Catch up via Video On Demand (VOD) Profile of rapporteur Angelika Niebler (EPP, DE) Legislative observatory file
+EN
+1
+LINK
+/committees/en/ITRE/home.html
+EN
+2
+LINK
+/wps-europarl-internet/frd/live/live-program?language=en
+EN
+3
+LINK
+/ep-live/en/committees/search?end-date=&start-date=&legislature=&organ-code=&pageIndex=
+EN
+4
+LINK
+/meps/en/4289/Angelika_NIEBLER.html
+EN
+5
+LINK
+/oeil/popups/ficheprocedure.do?reference=2011/0187(COD)&lg=en
+-//EP//DTD IM-PRESS 20050901 IPR DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 IPR DOC XML V0//EN

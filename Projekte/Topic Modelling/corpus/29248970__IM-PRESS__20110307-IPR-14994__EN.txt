@@ -1,0 +1,45 @@
+MEPs crack down on sovereign debt speculation and naked short selling
+Economic and monetary affairs
+Committees Economic and Monetary Affairs
+2011-03-07 - 19:39
+A ban on certain trades in sovereign bonds, and requirement that traders settle their uncovered positions by the end of each trading day, were two key outcomes of Monday's Economic Affairs Committee vote on a draft EU regulation on short selling and credit default swaps. MEPs also inserted a requirement that short sale transactions be reported less often, but beefed up the rules to ensure that fines are dissuasive.
+"Short selling", whereby speculators bet on a fall rather than a rise in the price of a security to make a profit, and "credit default swaps", essentially to insure against a state defaulting on its debt obligations, were both heavily implicated in Europe's recent sovereign debt crises. This regulation, being steered through Parliament by Pascal Canfin (Greens/EFA, FR), takes one more step towards curbing speculation and improving transparency in the financial services sector.
+Insuring against risk
+The committee position would prohibit anyone from being involved in credit default swap (CDS) transactions if they do not already own sovereign debt linked to that CDS ("naked" CDS trading), or securities whose price depends heavily on the performance of the country, such as shares in a major company based there. This position therefore innovates, not only by banning CDS naked trading, but also by introducing a correlation that would allow investment firms some room for manoeuvre.
+One day to settle "naked" short sales
+Although the committee position does not entirely ban "naked" short selling, it sets a very tight deadline for converting a naked short sale into a short sale. By the end of the trading day, any naked short sales undertaken must have been converted, states the position. A seller failing to make the conversion on time would incur fines which, the amended text states, "must be sufficiently high to prohibit any profits being made".
+The position adopted in committee retains the Commission's tough "locate and reserve rule", whereby a seller must not only identify from where it plans to borrow the shares in question, but must also have a guarantee that it will indeed be able to borrow them when the time comes.
+Reporting more but less often
+The committee position imposes further reporting requirements on investment firms, particularly in exceptional circumstances. It also allows national supervisory authorities to require lenders to notify them in exceptional situations. In emergencies, national authorities will be also required to provide more information within 24 hours to the European Securities and Markets Authority (ESMA), when requested.
+On the other hand, the committee position only requires investment firms to report on their short sale transactions at the end of the trading day, rather than reporting each short sale as it happens, as proposed by the Commission. Investors would also be required to publically disclose less information than would have been required by the Commission's original proposal.
+Next steps
+MEPs primarily involved with steering the regulation through Parliament will now sit down with Member States to thrash out a deal which can be then be tabled for a plenary vote in the coming months.
+The regulation is expected to be in force by 2012.
+In the chair: Sharon Bowles (ALDE, UK)
+20110307IPR14994 Economic and Monetary Affairs Committee Watch webstreaming live Profile of rapporteur What is short selling? What is naked short selling? Press conference by the rapporteur (Tuesday 08 March at 14:00h)
+EN
+1
+LINK
+/activities/committees/homeCom.do?language=EN&body=ECON
+EN
+2
+LINK
+/wps-europarl-internet/frd/live/live-program?language=en
+EN
+3
+LINK
+/members/public/geoSearch/view.do?country=FR&partNumber=1&zone=Ile-de-France&language=EN&id=96711
+EN
+4
+LINK
+/en/pressroom/content/20100923BKG83508/9/html/Short-selling
+EN
+5
+LINK
+/en/pressroom/content/20100923BKG83508/10/html/Naked-short-selling
+EN
+6
+LINK
+/wps-europarl-internet/frd/live/live-video;jsessionid=DEF1621097EAAAD736CDC6D8FC76109B?eventId=20110308-1400-SPECIAL&language=en
+-//EP//DTD IM-PRESS 20050901 IPR DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 IPR DOC XML V0//EN

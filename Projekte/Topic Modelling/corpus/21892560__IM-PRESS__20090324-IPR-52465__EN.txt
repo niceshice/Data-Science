@@ -1,0 +1,33 @@
+Mobile roaming: MEPs reach political agreement with Council Presidency
+Information society
+2009-03-24 - 13:57
+Charges for calling, texting and mobile internet surfing will be cut from 1 July 2009. MEPs negotiated a compromise with the Czech Presidency on the extension of the 2007 roaming regulation on Tuesday morning.
+The informal compromise negotiated by Industry Committee MEPs with the Czech Presidency still needs to be backed by the whole Parliament and the Council of Ministers.
+Parliament's rapporteur Adina-Ioana Vălean (ALDE, RO) was satisfied with the result: "I am pleased that today we have made an important step towards reaching an agreement that strikes a balance between the interests of all the stakeholders involved in the proposed roaming regulation. I am hopeful that all parties will endorse a concrete first-reading agreement so that European consumers can fully benefit from this new regulation by the beginning of this summer."
+Cutting the charges for roaming phone calls
+The compromise does not fix roaming prices at rates set by the EU, but sets ceilings beneath which mobile operators could compete by offering lower prices. The text stipulates that home operators may charge their customers for roaming phone call:
+from 1 July 2009: a maximum of €0.43 per minute (excluding VAT) for outgoing and a maximum of €0.19 per minute (excluding VAT) for incoming roaming calls;
+from 1 July 2010: a maximum of €0.39 per minute (excluding VAT) for outgoing and a maximum of €0.15 per minute (excluding VAT) for incoming roaming calls;
+from 1 July 2011: a maximum of €0.35 per minute (excluding VAT) for outgoing and a maximum of €0.11 per minute (excluding VAT) for incoming roaming calls.
+From 1 July 2009 operators would have to charge their customers by the second but can apply an initial minimum charging period of 30 seconds, says the compromise text.
+Cheaper data roaming services
+MEPs and the Council Presidency agreed with the Commission that a roamed text message (SMS) should cost a maximum of €0.11 (excluding VAT) from 1 July 2009.
+Other data roaming services (such as sending emails and pictures or web-browsing from mobile phones or laptops) will be regulated at wholesale level – i.e. there will be a price cap for the rates the host operator charges a roaming customer’s home operator, calculated on a kilobyte basis:
+from 1 July 2009: a maximum of €1.00 per megabyte (excluding VAT);
+from 1 July 2010: a maximum of €0.80 per megabyte (excluding VAT);
+from 1 July 2011: a maximum of €0.50 per megabyte (excluding VAT).
+To prevent "bill shocks", roaming customers would be able to opt free of charge for a maximum financial limit from 1 March 2010, stipulates the compromise. One of these financial limits should be set at €50 (excluding VAT) or the corresponding data volume, agreed MEPs and the Presidency. This limit would automatically apply to all customers who have not made another choice by 1 July 2010, says the compromise text.
+The informal agreement says that providers will have to warn their customers when 80% of the agreed limit has been reached. Once the limit is reached, another notification should be sent, indicating the procedure to be followed if the customer wishes to continue data roaming. If the user does not respond the provider should cease all data roaming services.
+Review in 2011 - Expiry by mid-2012
+On MEPs' initiative the Commission will have to review by mid-2011 at the latest, among other points, “the extent to which consumers have benefited through real reductions in the price of roaming services” and the competitive situation of smaller, independent or newly started operators. In addition, the text requires the Commission to “assess methods other than price regulation" for creating a competitive internal market for roaming.
+The regulation will expire by 30 June 2012, says the compromise. The existing regulation for roaming phone calls would otherwise expire by the end of June 2010.
+Next steps
+If it is to be adopted, the informal compromise will now have to be endorsed by Parliament's Industry Committee (on 31 March), as well as representatives of the full Council (in COREPER), before being tabled to a first-reading plenary vote planned for 21-24 April.
+20090324IPR52465 The Industry Committee's position on the second roaming regulation Background information on the 2007 roaming regulation
+EN
+2
+LINK
+/elections2009/highlights/product.htm?ref=20090120TMN46722&secondRef=0&language=EN&section=7
+-//EP//TEXT IM-PRESS 20090309IPR51301 0 NOT XML V0//EN
+-//EP//DTD IM-PRESS 20050901 IPR DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 IPR DOC XML V0//EN

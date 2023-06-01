@@ -1,0 +1,43 @@
+Parliament decides stance on derivatives, short selling, investor compensation
+Economic and monetary affairs
+Plenary sittings
+2011-07-05 - 13:39
+Three proposals making derivatives trading less fragile, reducing speculative practices linked to short selling and reducing the time for the setting up of investor compensation schemes received Parliament's backing on Tuesday ahead of negotiations with Member States.
+With very significant differences expected between the position of the EP and, once adopted, that of Member States for the directive on investor compensation schemes, MEPs chose to close the first reading procedure today. In the case of the two texts on derivatives and short selling, however, the plenary vote was only used to collect significant majorities which should strengthen the hand of MEP negotiators in their ongoing talks with Member States. The final vote on investor compensation schemes was 566 votes in favour, 17 against and 88 abstentions. The amended proposals on derivatives and short selling were both adopted by a show of hands but the final votes on these two were postponed. For all three texts, the EP shares co-decision powers with Member States.
+Compensation schemes capitalised faster and "bad advice" also grounds for a claim
+On the compensation schemes legislation, Parliament voted to add protection to private investors against fraudulent and defaulting investment firms, particularly by adding "bad advice" as a case for claiming compensation. The rules would also halve the time allowed for fully capitalising national compensation schemes (5 years instead of 10) and enable local authorities and NGOs, as well as private individuals, to file compensation claims. The adopted text also imposes more EU-level harmonisation for the design of the schemes and imposes larger financial contributions on investment firms taking the biggest risks.
+"I believe in the free market and the right to choose. But there must also be the right to protection. The ordinary man-in-the-street investor needs to know he is protected", rapporteur Olle Schmidt (ALDE, SV) told the House.
+Clamping down on naked short selling and credit default swap trading
+The report on short selling contains two major innovations. Firstly, it requires traders to settle their uncovered short positions by the end of each trading day. Secondly, it restricts purchases of credit default swap (CDS) contracts to owners of related government bonds or stakes whose performance is dependent on these bonds: for example, Greek bank bonds have a strong correlation to Greek sovereign bonds. MEPs also inserted a requirement that short sale transactions be reported less often. However, they beefed up the rules to ensure that fines are dissuasive.
+The Greek situation shows us how urgent and necessary legislation in this field is. Traders dealing in Greek CDS are throwing oil on the fire, with their only goal being that of making money", said rapporteur Pascal Canfin (Greens/EFA, FR).
+Safety, stability and transparency in OTC-derivatives market
+The report on over-the-counter derivatives (OTCs), central clearing parties (CCPs) and trade repositories aims to bring greater safety, transparency and stability to the OTC derivatives market, which was valued at around €425 trillion in 2009. Information on OTC derivative contracts would have to be reported to 'trade repositories' and be accessible to supervisory authorities. OTC derivative contracts would need to be cleared through central counterparties (CCPs), thus reducing counterparty credit risk, i.e. the risk that one party to the contract defaults. A key supervisory role is also envisaged for the new European Securities and Markets Authority (ESMA).
+"This is a topic of great importance, especially because OTC derivatives trading is not subject to any legislation other than that between the contracting parties", stressed rapporteur Werner Langen (EPP, DE).
+Procedure: Co-decision, 1st reading
+20110705IPR23303 Adopted texts will be available here (click on 05.07.2011) Video recording of debates (click on 04.07.2011) Video recording of the press conferences for derivatives and investor compensation vote results Profile of rapporteur on Derivatives Werner Langen (EPP, DE) Profile of rapporteur on investor compensation schemes Olle Schmidt (ALDE, SV) Profile of repporteur on short selling and CDS Pascal Canfin (Greens/EFA, FR)
+EN
+1
+LINK
+/activities/plenary/ta/calendar.do?language=EN
+EN
+2
+LINK
+/wps-europarl-internet/frd/vod/research-by-date?language=en
+EN
+3
+LINK
+/wps-europarl-internet/frd/vod/search-other-events?language=en&format=wmv&byLeftMenu=researchotherevents
+EN
+4
+LINK
+/members/public/yourMep/view.do?name=langen&partNumber=1&language=EN&id=1928
+EN
+5
+LINK
+/members/public/yourMep/view.do?name=schmidt&partNumber=1&language=EN&id=4274
+EN
+6
+LINK
+/members/expert/alphaOrder/view.do?language=EN&id=96711
+-//EP//DTD IM-PRESS 20050901 IPR DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 IPR DOC XML V0//EN

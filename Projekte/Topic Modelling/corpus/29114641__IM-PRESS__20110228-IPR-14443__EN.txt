@@ -1,0 +1,36 @@
+Lawmakers begin work on derivatives regulation
+Economic and monetary affairs
+Committees Economic and Monetary Affairs
+2011-03-01 - 09:24
+Work on EU legislation to regulate derivatives trading began officially in the Economic Affairs Committee on Monday, with the presentation of a draft report by Werner Langen (EPP, DE). Mr Langen says the new rules should govern only privately-traded derivatives (rather than all kinds, as some Member States wish). His draft also advocates limited exemptions, and scrapping proposed "co-operation" arrangements between clearing houses.
+Taking the floor to present his views, rapporteur Werner Langen (EPP, DE), who will be steering the legislation through Parliament, said "my aim is to reach an agreement which regulates these trades as much as possible to reduce risk without setting costs which are too high for market participants".
+Narrow scope, few exemptions
+Mr Langen disagreed with suggestions by some EU Member States that all derivatives should be regulated. Rather, he advocates keeping to the original Commission proposal, which would limit the scope of the new rules to over-the-counter (OTC) derivatives.
+The draft report also rejects arguments that certain sectors, such as the energy sector or pension funds, should be exempted from the regulation. Instead, it seeks to restrict exemption possibilities. During the debate Mr Langen insisted that pension funds should not benefit from a general exemption but accepted that the lesser obligation of bilateral clearing could be envisaged.
+Interoperability option
+Mr Langen is against a proposal to allow co-operation arrangements between clearing houses, known as as "interoperability", whereby traders would be allowed to choose where their trades are cleared. Such arrangements, the rapporteur fears, could cause a build-up of systemic risk. These arrangements should undergo further assessment and be dealt with in separate legislation, he adds.
+Considering retroactivity
+The draft report accepts that applying clearing obligations retroactively, to existing contracts, would result in legal difficulties and create major problems for counterparties. It does provide however for this possibility with regard to reporting obligations and asks the European Securities and Markets Authority (ESMA) to assess how reporting retroactivity could be introduced if the information in question were essential to the supervisory authorities.
+Next steps
+MEPs from the economics committee will be able to submit amendments to the text until the 16th March and a vote in committee is envisaged for the 20th April.
+Background
+Derivatives are financial instruments based on a contract between two or more parties. As their name indicates, their value is derived from other products since the fluctuations in these underlying products affect the resulting value of the derivative. Derivatives were created centuries ago to protect intensive users of a given product against severe price movements. Derivatives are also used to insure against fluctuations in exchange rates, interest rates, as well as share prices and, more recently, the risk of a default on bonds (credit default swaps or CDS).
+The global economic and financial crisis since 2007 has prompted countries and regulatory authorities focus on (OTC) derivatives. The considerable growth in global volumes of derivatives trading since the start of the last decade and individual market participants' lack of transparency plus accumulated risks are seen as key factors in how the financial crisis developed after Lehman Brothers collapsed on 15 September 2008.
+Two years after the Lehman Brothers collapse, the Commission submitted the proposal for a regulation on OTC derivatives, central counterparties and trade repositories, which is to be adopted by the Council and Parliament under the co-decision procedure.
+In the US, in summer 2010, President Obama signed the Dodd-Frank Act passed by both houses of Congress, which pursues the same goals as the Commission's proposal for a regulation. Implementation is expected to take up to two years.
+In the chair: Sharon Bowles (ALDE, UK)
+20110228IPR14443 Profile rapporteur werner Langen (EPP, DE): Draft report can be found here: What is a derivative?
+EN
+1
+LINK
+/members/public/yourMep/view.do?name=langen&partNumber=1&language=EN&id=1928
+EN
+2
+LINK
+/activities/committees/draftReportsCom.do?language=EN&body=ECON
+EN
+3
+LINK
+/en/pressroom/content/20100923BKG83508/13/html/Derivatives
+-//EP//DTD IM-PRESS 20050901 IPR DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 IPR DOC XML V0//EN

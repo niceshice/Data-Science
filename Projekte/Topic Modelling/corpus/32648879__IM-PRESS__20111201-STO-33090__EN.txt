@@ -1,0 +1,38 @@
+MEPs paving the way for safer and greener motorcycles
+Transport
+2011-12-07 - 09:28
+Wim Van de Camp New rules aimed at improving the safety and environmental performance of two-wheeled vehicles, from mopeds to motorbikes, made it through the Internal Market Committee 5 December. The vote, which included over 300 amendments, was closely followed by riders and manufacturers. Dutch Christian Democrat Wim van de Camp, who is steering the proposals through parliament and who is a biker himself told us more.
+Will anti–lock braking systems (ABS), a standard feature on new passenger cars, become mandatory for motorcycles?
+The Commission proposed to make ABS mandatory on all two wheelers above 125cc. We decided that it should also be obligatory on those above 50cc.
+So now you have very light motorcycles (mopeds, scooters) with engines not exceeding 50cc for which there is no ABS obligation and 'in–between' category (from 50cc up to 125cc) for which ABS should be mandatory (as it will be for those above 125cc).
+The Commission's proposal to allow using combined braking system (CBS) instead of ABS was rejected.
+The Commission also proposed to equip motorcycles with so called on-board diagnostics (OBD), helping riders and repairers detect malfunctions. Did you support that?
+Here you have to make a difference between the first stage OBD (OBD I) and more sophisticated second stage or OBD II (which requires new technology). The first stage will be obligatory for all motorbikes, mopeds and scooters, because it is simple and easy to build in.
+However, we are still discussing the introduction of OBD II and waiting for an impact assessment from the Commission. At this moment there are strong objections from manufacturers because it brings in a lot of technological changes which are very expensive. Therefore we have to take care. It could only be introduced after 2020.
+Bikers are concerned about the proposed anti-tampering measures. Will it be more difficult for people to modify their bikes?
+No, not in general. Most people modify larger motorcycles, with engine size above 125cc. Of course, there will be some new rules. But in practice the bikers will have the same possibilities to modify their motorcycles, not to tamper with them. These are two different things.
+The national inspection authorities will be in charge of controlling modifications.
+Motorcycles will have to comply with stricter emission limits and become cleaner. When will the new standards take effect?
+First, we made a decision on Euro 3 (level of emissions) for mopeds because at this moment they pollute a lot and have no emissions standard. That will take effect from 1 January 2016.
+Heavier motorbikes which already have to meet Euro 3 standards will become Euro 4 and Euro 5 in 2016 and Euro 6 will be introduced in 2020.
+What do you expect from negotiations with the Council?
+I think in general there will be no difficulties. It might be difficult with the ABS item because we added that intermediate category (50cc-125cc). It remains one of the main issues. However I hope for a first-reading agreement with the Council.
+The Committee will now decide on whether to open negotiations with the Council on the basis of the amendments adopted 5 December.
+ABS, OBD, Euro 1-6 ABS (anti–lock braking systems) prevents skidding where loss of steering and control result from locked wheels when braking hard Euro 1-6 (European emission standards) define acceptable limits on pollutant emissions from vehicles; the higher the number, the more stringent the standard OBD (on–board diagnostics) identifies vehicle malfunctions, storing errors and environmental information and sending to a scanner or reporting to a driver 20111201STO33090 Press release about the Committee's vote EP works on safer rides, greener motorcycles Gearing up for safer, greener motorbikes Links to EU legislation (procedure file)
+EN
+1
+EPTVPHOTO
+20111205PHT33237.jpg
+EN
+2
+EUROPARL-TV
+http://europarltv.europa.eu/en/player.aspx?pid=282ee403-c6ea-488d-8a71-9fb001350dc1
+EN
+6
+LINK
+/oeil/popups/ficheprocedure.do?id=587785
+-//EP//TEXT IM-PRESS 20111205IPR33211 0 NOT XML V0//EN
+-//EP//TEXT IM-PRESS 20110321STO15987 0 NOT XML V0//EN
+-//EP//TEXT IM-PRESS 20110318IPR15870 0 NOT XML V0//EN
+-//EP//DTD IM-PRESS 20050901 STO DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 STO DOC XML V0//EN

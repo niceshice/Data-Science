@@ -1,0 +1,30 @@
+Eurovignette: MEPs back "polluter pays" principle for lorry charges
+Transport
+2009-02-11 - 14:20
+Charges on heavy-goods vehicles should be based in part on the air and noise pollution they produce and the congestion they cause, according to legislation approved by the Transport Committee on Wednesday.
+Based on a report by Saïd El Khadraoui (PES, BE), the Transport Committee gave a first reading, with amendments, to a Commission proposal to revised the 1999 "Eurovignette" directive. The main political groups reached a consensus on what to tax and what not to tax: the "chargeable external costs".
+Air pollution, noise pollution and congestion
+The Commission's original proposal included air and noise pollution and congestion but stopped short of including CO2 emissions. Some MEPs wanted to add CO2 to the list of chargeable costs, arguing that lorries, like aeroplanes, are partly responsible for climate change, but the committee voted today to exclude CO2 emissions from the text.
+The proposal to include congestion charging met opposition from MEPs in the EPP-ED group, who argued that it would be too heavy a burden on the sector in this period of economic downturn and that such a charge would be discriminatory, as private cars are also responsible for congestion. The committee reached a compromise which allows Member States to apply a congestion charge on lorries on the condition that they apply a similar charge to "all other road users". Member States would also have to submit a cost/benefit analysis and an action plan setting out their measures to reduce congestion before applying the charge.
+"Intelligent" pricing system
+The Eurovignette directive is accompanied by a calculation method designed to adapt toll prices according to the environmental standard of the vehicle (known as "Euro 0 to VI"), the type of road used and the time period. Electronic tolling systems would calculate the right price according to these criteria.
+"Polluter pays more": average extra cost for road users would be small
+The Eurovignette calculation method means that the overall extra cost for road users would only rise by approximately 3% if Member States choose to apply the charges, according to an impact study carried out by the Commission. Heavy polluters (Euro 0) would pay more, eco-friendly lorries (Euro VI and "clean energy" lorries) would pay little or no charges for air pollution. The same principle applies to the congestion charge: reduced rates would incite drivers to travel during off-peak times.
+"Earmarking" revenues to invest in greener transport
+Bracing themselves for a probable future fight with EU finance ministers, MEPs from all political groups united in their support for "earmarking": Member States should be obliged to invest the revenue generated from Eurovignette charges into plans to improve environmental standards of vehicles and develop alternative transport infrastructure.
+On roads in mountainous regions and conurbations, a "mark-up" cost is introduced. The extra revenue from this mark-up would be invested into alternative parallel transport links (for instance, a mark-up introduced on the Alpine section of the Lyon-Genoa motorway would finance a parallel railway route).
+Extension of rules to all major roads and 3.5 tonne vehicles
+The existing Eurovignette rules only apply to roads which are part of the "Trans-European Network" - specifically designated international roads linking EU countries - and to vehicles above 12 tonnes. According to the new draft text, Eurovignette rules would apply to all TEN roads and roads "which customarily carry a significant volume of international goods transport" and would extend to 3.5 tonne vehicles (from 2012). Cities would maintain their right to impose local charges on their roads (such as the London congestion charge).
+The rules are not binding but seek to set a common EU standard for Member States who choose to apply the charges.
+Procedure: Codecision, first reading -- Committee vote: 31 for, 16 against, no abstentions -- Plenary vote: March I, Strasbourg 2009-02-11 Committee on Transport and Tourism In the chair Paolo Costa ALDE IT
+20090209IPR48793 Website of the Transport and Tourism Committee Legislative Observatory File - text adopted will appear here in due course
+EN
+1
+LINK
+/activities/committees/homeCom.do?language=EN&body=TRAN
+EN
+2
+LINK
+/oeil/file.jsp?id=5665992
+-//EP//DTD IM-PRESS 20050901 IPR DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 IPR DOC XML V0//EN

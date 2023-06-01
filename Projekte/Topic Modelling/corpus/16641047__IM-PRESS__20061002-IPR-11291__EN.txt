@@ -1,0 +1,37 @@
+MEPs hear of data protection concerns over SWIFT
+Fundamental rights
+2006-10-04 - 20:13
+European data protection authorities were not informed of SWIFT’s compliance with an order from the US authorities to provide them with details of bank transfers. European central banks were informed, but say they had no role in data protection and could not pass on the details to those who did. These were some of the facts to emerge in a hearing organised by two EP committees on Wednesday.
+In June 2006, media reports in the United States revealed that the American authorities had, since 2001, issued subpoenas to SWIFT, the Society for Worldwide Interbank Financial Telecommunications, obliging the Belgian-based company to provide details it held of financial transfers, about which it sends information between banks.
+The hearing, organised by the Committees on Civil Liberties and Economic Affairs, was aimed at gathering more information on this subject, with a view to assessing the legal framework, whether EU data protection regulations had been respected and whether any changes in the law were needed as a result.
+SWIFT sets out its position
+MEPs heard first from Francis Vanbever of SWIFT. He explained that all the company’s data is automatically stored both at a European centre and at a US “mirror” centre, to ensure that no disruption to the company’s business would occur if one centre were out of action. This means that all the data concerned were already held in the United States and thus under US legal jurisdiction. “After September 11th, we received a compulsory order to provide information on data stored in the US (...) We verified the situation with external legal counsel, which confirmed the US had the authority to issue the order. If we did not comply, we would face civil and criminal penalties, including fines or imprisonment.” SWIFT had, he said, obtained guarantees that data would only be accessed for ongoing investigations into terrorism, and no other matters. Compliance with this was checked by SWIFT staff working within the US Treasury and by a regular external audit.
+SWIFT had informed the group of G10 central banks which supervises its activity of the situation. It had taken legal advice in Europe to the effect that it was not infringing EU or Belgian data protection rules by complying with the US order. This being the case, Mr Vanbever acknowledged in response to MEPs’ questions, the company had not informed any European or Belgian data protection authority. Asked by a number of Members which laws applied to SWIFT, US or European, Mr Vanbever said the company must respect both.
+Trichet: ECB could not pass on information
+European Central Bank President Jean-Claude Trichet, whose institution is a member of the supervisory group, stressed that it had no legal authority to govern SWIFT – it could only make recommendations. Its scope was limited to assessing risks to the stability of the financial system, of which SWIFT was a key part. Having concluded that compliance with US demands would have no major implications in this regard, the central banks had decided the issue was not within their remit: “We did not give our blessing or approval and had no authority to do so.” He added that the Banks, including the ECB, were bound by very strict confidentiality agreements, and were not permitted to inform the Commission, Member States or data protection authorities. Peter Praet of the National Bank of Belgium, which takes the lead on supervision since SWIFT is based in Belgium, stressed that such secrecy could only be lifted in very exceptional cases, for example an immediate physical danger.
+Pressed further by MEPs, both Mr Trichet and Mr Vanbever suggested this issue needed to be solved on a global political level, Mr Vanbever comparing it to the existing treaties which prevent double taxation for companies trading in multiple jurisdictions.
+Anne-Marie Lizin, President of the Belgian Senate, spoke of the conclusions of Belgium’s Privacy Commission: these matters were covered by Belgian data protection laws, both SWIFT and the banks using it were responsible for the data. SWIFT, she said, had not done enough to comply with Belgian rules. These dated from before 11 September 2001 and “we should not condemn SWIFT, but set up a [US-EU] framework to do away with these discrepancies.”
+Concerns of data protection experts
+Peter Schaar of the Article 29 Working Party (the EU’s independent data protection advisory group) said not consulting the European data protection authorities was “a major error by SWIFT (...) my conclusion is that independent data control did not take place.”
+Alain Brun, head of the European Commission’s Data Protection Unit, said the Commission was waiting to hear formally from the Belgian authorities before assessing the situation. The Commission had had no prior knowledge of the issue before it was revealed in the press, he said. On the information available so far, notably from the Belgian Privacy Commission, he said the facts were within the scope of the EU Data Protection Directive, and “there appear to have been violations.”
+The European Data Protection Supervisor, Peter Hustinx, whose role includes oversight of EU institutions’ data protection compliance, praised the Belgian report, saying he had “serious concerns” about the “mirror” system of data storage. He criticised the ECB, speaking of its “acquiescence in questionable transfers”. “They could have informed the relevant authorities, notwithstanding the confidentiality rules,” he said.
+MEPs react - and plan further activity
+A number of MEPs, including Stavros Lambrinidis (PES, EL) and Sophie In’t Veld (ALDE, NL) said they wanted to see details of SWIFT’s memorandum of understanding with the US authorities and of the audit reports on the American data searches. Several Members focused on the “mirror” data storage system as the heart of the issue: Alexander Alvaro (ALDE, DE) asked whether there was a legal basis for this set-up, while John Purvis (EPP-ED, UK) and Martine Roure (PES, FR) wondered if the second site could not be moved outside the US. Sharon Bowles (ALDE, UK) said the wider issue was whether the United States in general provided adequate levels of data protection to comply with the EU requirements for European companies to store or process data there.
+At the end of the hearing, the chairs of the two committees, Pervenche Berès (PES, FR) and Jean-Marie Cavada (ALDE, FR), announced that the coordinators of the committees would meet in the days to come to decide how to take these issues forward.
+2006-10-02 Committee on Civil Liberties, Justice and Home Affairs Chair Jean-Marie Cavada ALDE FR Committee on Economic and Monetary Affairs Chair Pervenche Berès PES FR
+Public hearing on the interception of bank transfer data from the SWIFT system by the US secret services
+20061002IPR11291 See details of the Belgian Privacy Commission's report via this link Details of SWIFT's statement to the EP are available on the company's website Full details of the hearing and those taking part
+EN
+1
+LINK
+http://www.privacycommission.be/communiqués.htm
+EN
+2
+LINK
+http://www.swift.com/
+EN
+3
+LINK
+/hearings/20061004/libe/programme_en.pdf
+-//EP//DTD IM-PRESS 20050901 IPR DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 IPR DOC XML V0//EN

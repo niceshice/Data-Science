@@ -1,0 +1,15 @@
+Charging VAT on services at the place of the customer
+Taxation
+2006-05-16 - 19:24
+MEPs have approved a plan to change the VAT system regarding the taxation of services, so that tax will be paid according to where the customer is based, rather than where the supplier is established.
+Parliament adopted a report, drawn up by Otmar KARAS (EPP-ED, AT), which proposes a few minor changes, but accepts the principle that VAT on services should be applied according to the place of establishment of the customer, as is already the case for VAT on goods.
+The old system – taxing based on the location of the supplier – was seen as simpler to manage, and caused few problems when most services suppliers were in the same jurisdiction as their customers. With the increase in e-commerce, however, more services can be supplied remotely, including things such as internet telephony, and there is a greater risk of distortions in the market as companies establish their internet services in countries with lower VAT rates to serve customers across Europe.
+The Commission originally proposed making this change only for business-to-business transactions, but subsequently decided to extend it to business-to-consumer sales as well.
+As with most taxation related matters, Parliament has a consultative role, and if the change is to become law it will require unanimous agreement between the Member States in the Council.
+20060512IPR08063 Value Added Tax (VAT): place of supply of services
+EN
+1
+LINK
+/oeil/file.jsp?id=239962
+-//EP//DTD IM-PRESS 20050901 IPR DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 IPR DOC XML V0//EN

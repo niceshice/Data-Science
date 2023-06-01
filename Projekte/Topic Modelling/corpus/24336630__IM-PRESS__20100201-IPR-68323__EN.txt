@@ -1,0 +1,26 @@
+SWIFT: Civil Liberties Committee recommends rejecting the agreement
+Justice and home affairs
+2010-02-04 - 16:21
+Parliament should withhold its consent to the EU's interim agreement on banking data transfers to the USA via the SWIFT network, the Civil Liberties Committee recommended today. The deal will be put to a plenary vote in Strasbourg on Thursday 11 February. Withholding Parliament's consent would render the agreement legally void - in effect, a rejection.
+The committee report, approved with 29 votes in favour, 23 against and 1 abstention, also asks the Commission and the Council to initiate work on a long-term agreement with the USA on this issue. MEPs reiterate that any new agreement must comply with Lisbon Treaty requirements, and in particular the Charter of Fundamental Rights.
+"If we vote against the agreement today, it will have no legislative consequence yet, but it's a clear warning", since the final vote will be taken in plenary session next Thursday, said rapporteur Jeanine Hennis-Plasschaert (ALDE, NL), before the committee vote. Just before the vote, Simon Busuttil (EPP, MT), said that his group had doubts as to the validity of the procedure.
+In the approved text, MEPs reaffirm the principles set out in a resolution approved on 17 September 2009.
+Data on EU citizens to be subject to EU rules
+In that resolution, MEPs demanded that the accord should fully respect the rights of EU citizens with regard to personal data protection. The data, they said, should be gathered "only for the purposes of fighting terrorism" and "the right balance" must be struck between security measures and the protection of civil liberties.
+The resolution calls for "the same judicial redress mechanisms as would apply to data held within the EU, including compensation in the event of unlawful processing of personal data".
+Text "breaches basic data protection principles"
+Having examined the proposed agreement, Ms Hennis-Plasschaert argues that, in view of some of its arrangements for data transfer, it "violates the basic principles of data protection law, i.e. the principles of necessity and proportionality" and that "this cannot be subsequently rectified by mechanisms of oversight and control".
+She adds that the proposed agreement does not make data transfer requests subject to judicial authorisation nor to a time limit. The conditions for sharing data with third countries are not sufficiently well defined nor is the maximum period for which the data can be retained. Citizens' rights over their own personal data, notably rights of access, rectification, compensation and redress, are also not adequately defined.
+No legal vacuum
+The rapporteur also rebuts the argument that there would be a "security gap" should the agreement be rejected, since in 2010 new arrangements for judicial co-operation between the EU and the USA entered into force that grant access to targeted financial data, on request, via the national authorities.
+Background
+In July 2009, the press revealed that a new agreement was to be negotiated following changes in the structure of SWIFT. The company had set up a storage centre for its European data in Switzerland, which meant that intra-European data was stored only in Europe. Until then the data had also been kept on a server in the United States. This new architecture required the negotiation of a fresh agreement between the Commission and Council on the one hand and the United States on the other.
+In the Chair: Juan Fernando LÓPEZ AGUILAR (S&D, ES)
+20100201IPR68323 Press release on SWIFT Interim Agreement - 27-01-2010 Web site of the Committee on Civil Liberties, Justice and Home Affairs
+EN
+2
+LINK
+/activities/committees/homeCom.do?language=EN&body=LIBE
+-//EP//TEXT IM-PRESS 20100125IPR67943 0 NOT XML V0//EN
+-//EP//DTD IM-PRESS 20050901 IPR DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 IPR DOC XML V0//EN

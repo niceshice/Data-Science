@@ -1,0 +1,13 @@
+Transport committee backs European Rail Traffic Management System
+Transport
+2006-05-03 - 10:26
+The Transport Committee is supporting the introduction of the European Rail Traffic Management System, ERTMS. In adopting a report on Tuesday, it approved a plan to replace the more than 20 different national train protection and signalling systems with one European system.
+ERTMS would boost the competitiveness of European freight and passenger railways, since trains could run across borders without changing drivers. The system features two basic components: GSM-R, a radio system used to exchange information (both voice and data) between traffic management centres and the on board crew and equipment, and ETCS (European Train Control System), a computer-based system to control train speed. ERTMS is a fully developed and tested system, already available on the market and in commercial use in several Member States. Version 2.3.0 of the system should make it possible to start operating high speed or high capacity international rail corridors in Europe from 2007.
+MEPs in the committee say that if ERMTS is to succeed, it should be introduced in particular on six international routes: Rotterdam-Genoa, Naples-Berlin-Stockholm, Antwerp-Basel-Lyon, Seville-Lyon-Turin-Ljubljana, Dresden-Vienna-Budapest and Duisburg-Warsaw, with priority for the route from Rotterdam to Genoa.
+The own-initiative report was drafted by Michael Cramer (Greens/EFA, DE) and was adopted unanimously by the committee.
+2006-05-02 Committee on Transport and Tourism Chair Paolo Costa ALDE IT
+Procedure: Own-initiative
+Plenary vote: June, Strasbourg
+20060502IPR07750
+-//EP//DTD IM-PRESS 20050901 IPR DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 IPR DOC XML V0//EN

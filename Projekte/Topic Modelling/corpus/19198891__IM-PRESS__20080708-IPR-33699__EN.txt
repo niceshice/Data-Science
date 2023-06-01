@@ -1,0 +1,44 @@
+European Parliament backs liberalisation of EU gas market
+Energy
+2008-07-09 - 16:12
+The European Parliament supported the liberalisation of the gas market by adopting reports that - though reaching out to countries opposed to "full ownership unbundling" (the separation of gas suppliers from gas transmission networks) - place strict conditions on companies that do not unbundle.
+The Commission's original proposal would have given Member States a choice between two models: ownership unbundling; or the preservation of integrated supply and transmission companies, provided that the operation of the transmission network was handed over to an independent system operator (ISO). A 6 June Council meeting subsequently endorsed another alternative to unbundling, known as the "independent transmission operator" (ITO) model (which would allow companies to retain the ownership of pipelines but compel them to abide by rules and a structure to ensure they operate independently in practice).
+MEPs, in their vote on the two reports – by Romano La Russa (UEN, IT) and Atanas Paparizov (PES, BG) – rejected the ISO option, but endorsed the ITO model (as the sole alternative to ownership unbundling). They made sure, however, to equip it with several safeguards:
+an "independent trustee”, meant to protect “the asset value of the transmission system operator”
+a “supervisory body” – composed of gas company representatives, third party shareholders, transmission system operator representatives, as well as the Trustee – responsible for decisions “which may have a significant impact on the value of the assets of the shareholders”; (the Trustee, under some circumstances, can veto the body's decisions)
+a “compliance programme” setting out measures that prevent “discriminatory conduct”;
+a “compliance officer” responsible for monitoring the implementation of the compliance programme.
+(The Council agreement does not include the "independent trustee")
+Revision clause
+No later than five years after the directive's entry into force - the text says - a new energy regulators' Agency will report on whether these requirements have managed to ensure the independence of transmission system operators. If this turns out not to be the case, " the Commission shall submit proposals [...] to ensure full and effective independence of transmission system operators". MEPs also ask the Commission to submit a report "outlining the feasibility of creating a single European transport operator ".
+The vote also confirmed the EP's position in favour of the Commission's proposal to prevent control of transmission systems by third countries unless there is an EU-third country international agreement.
+Consumer protection measures
+Other changes bolstered the draft legislation with a number of consumer protection measures. Customers, MEPs decided, should have:
+the right to withdraw from contracts with their gas providers without charge;
+the right to compensation if service quality levels are not met (as with, for example, inaccurate and delayed billing);
+access to information on their rights through bills and gas company web sites;
+access to information on procedures to be followed in case of disputes;
+the right to be informed, at least quarterly, of actual gas consumption and costs;
+access to smart meters within 10 years of the directive's entry into force.
+independent complaints services and alternative redress schemes such as an independent energy ombudsman or a consumer body
+As in the vote on the electricity market, the EP sought to address the needs of vulnerable energy consumers. It decided, therefore, that EU countries should take "appropriate measures [...] to ensure that the number of people in energy poverty" – those unable to afford heating the home to an acceptable standard, as defined by the WHO – "decreases in real terms." MEPs insisted that countries work towards cutting the cost of energy to low income households. In the same vein, they backed an amendment mandating national authorities "to introduce pricing formulas which increase for greater levels of consumption" - and to prohibit the disconnection of "pensioners and disabled people in winter".
+This was far from the only amendment to heighten the role for national regulatory authorities. In parallel with the introduction of the new alternative to unbundling, MEPs had already decided on 19 May to mandate national authorities:
+to ensure energy efficiency and integrate renewables (e.g. biogas) in both transmission and distribution grids;
+to “facilitate the access to the grid [...] for new market entrants and renewable energies”;
+to approve the annual investment plans of the transmission system operators;
+to fix or approve network access tariffs;
+to impose sanctions - including penalties of up to 10% of yearly turnover - against gas companies non-compliance with their obligations or for discriminatory behaviour.
+The Commission, MEPs decided, should also put forward an accessible, user-friendly charter listing the rights of energy consumers.
+Regional Cooperation
+The Parliament's vote also confirmed support for provisions that would see Member States having to ensure that transmission system operators have "one or more integrated systems at regional level covering several Member States for capacity allocation and for checking the security of the network."
+Internal market in gas
+Rapporteur: Romano La Russa (UEN, IT)
+- vote: 579-80-52
+Conditions for access to the natural gas transmission networks - vote: 642-32-31 - Rapporteur: Atanas Paparizov (PES, BG)
+20080708IPR33699 Text, as adopted by the EP, will be available here (click on 9 July)
+EN
+1
+LINK
+/activities/plenary/ta/calendar.do?language=EN
+-//EP//DTD IM-PRESS 20050901 IPR DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 IPR DOC XML V0//EN

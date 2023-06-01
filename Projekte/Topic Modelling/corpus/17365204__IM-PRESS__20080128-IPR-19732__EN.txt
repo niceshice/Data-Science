@@ -1,0 +1,29 @@
+Galileo: Guarantee security, open competition and fair prices
+Research and innovation
+2008-01-30 - 11:27
+Galileo's security requirements have to be guaranteed, says the Industry Committee in amending the Commission's proposal on the deployment and commercial operation of the satellite radionavigation system. The committee insists on a revenue-sharing mechanism to ensure "high quality services at fair prices". The European GNSS Supervisory Authority should be abolished, while the various work packages should be subject to competitive procurement procedures.
+On Tuesday, the Industry Committee adopted a range of amendments to the proposed regulation on the further implementation of the European satellite radionavigation programmes but postponed its final vote on the regulation as a whole to a meeting on 18 February in Strasbourg.
+The EU will fund the Galileo programme to the tune of €3.4 billion until the end of 2013, which means that it will become "the owner of all tangible and intangible assets created or developed under the programmes" which also include Galileo's predecessor EGNOS, according to the report drafted by Etelka Barsi-Pataky (EPP-ED, HU). Member States, third countries or international organisations may provide additional funding to the programme, the committee adds. In 2010 the Commission should put forward a proposal on the public funds and commitments needed for the commercial operating phase over the next financial programming period starting in 2014 and for the period up to the end of the programme, states the amended proposal.
+Guarantee security of the programme
+The programme's security requirements should be ensured by the Committee on European Global Navigation Satellite System (GNSS) Programmes, which must include observers from the European Parliament, say MEPs. They add that whenever the operation of the systems poses a risk to the security of the EU or of the Member States, joint action under the Common Foreign and Security Policy should be taken.
+MEPs equally stress that the Commission must ensure that the protection of personal data and privacy is guaranteed and integrated into the technical set-up of Galileo.
+High quality services at fair prices
+Every contract concluded with the private sector should include a revenue-sharing mechanism, say MEPs. They call on the Commission to present a proposal on the principles, obligations and terms of implementation of such a mechanism with the aim to guarantee that "customers receive high quality services at fair prices".
+Abolish GNSS Supervisory Authority
+The Industry Committee opted for abolishing the European GNSS Supervisory Authority (GSA) which was originally set up as the licensing authority for the private undertakings within the then planned public-private partnership. After the failure of this PPP the Commission proposed the GSA's main role to be "to assist the Commission in all matters which arise during the programmes".
+Ensure competition through division into six work packages
+MEPs also lay down public procurement rules. The European Space Agency (ESA) should organise the contracts relating to infrastructure into six main segment packages and additional work packages. The competitive tendering for the main work packages should take place in a single procedure and one company or group may only bid for a maximum of two of the six main work packages.
+Minimise dependence on one technology
+Furthermore, the committee advocates parallel, dual-source procurement i.e. using two different suppliers for one product. The aim of this procedure is to reduce the technological, industrial and programme risks and dependencies, and to improve overall control of programme costs and schedules. MEPs also add that only one of the two undertakings whose services are selected could be based in a third country and that the EU based undertaking has to be awarded an equal share of the contracted work.
+The committee suggests that an indicative 40 per cent of the total value of the activities should be subcontracted to companies which do not belong to the prime contractor of any of the main work packages.
+Set up an Inter-institutional Monitoring Group
+MEPs propose an Interinstitutional Monitoring Group (IMG) be set up consisting of representatives of the Parliament, the Council's Presidency and the Commission. At quarterly intervals the Commission would report to this group on the ESA's decision-making process, procurement procedures, competition and the relevant EU markets as well as on the physical progress made against the programmes drawn up for the Galileo project, and the financial implications.
+Procedure: Co-decision -- Rapporteur: Etelka Barsi-Pataky (EPP-ED, HU) -- Final committee vote on the report: 18 February -- Plenary vote: March 2008, Strasbourg
+2008-01-29 Committee on Industry, Research and Energy In the chair Angelika Niebler EPP-ED DE
+20080128IPR19732 Committee on Industry, Research and Energy
+EN
+1
+LINK
+/activities/committees/homeCom.do?language=EN&body=ITRE
+-//EP//DTD IM-PRESS 20050901 IPR DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 IPR DOC XML V0//EN

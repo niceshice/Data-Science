@@ -1,0 +1,27 @@
+Regulating the derivatives markets
+Economic and monetary affairs
+2010-03-09 - 08:50
+The over-the-counter trade in derivatives must become much more transparent and better controlled, say Members of the EP Economic Affairs Committee. They argue that the risk element in derivatives should be expressed more clearly in their price, while a clear distinction should be made between the use of derivatives by companies and their use by financial institutions.
+The Economic Affairs Committee discussed on Monday evening the first draft of a resolution on policy measures aimed at ensuring safer derivatives markets. MEPs placed a strong emphasis on how to deal with credit default swaps (CDS).
+"Those who have benefitted from the high opacity in this area are not going to welcome us with open arms" rapporteur Werner Langen (EPP, DE) told fellow MEPs, underlining the main objective of more transparency.
+Mr Langen said a balanced approach was needed, distinguishing between financial and non-financial institutions, with only the first being more tightly regulated. He believes the derivatives activities of non-financial institutions should only be regulated more if they come with high-risk attached, thus excluding most hedging derivatives. Most MEPs at last night's debate shared this opinion, although Kay Swinburne (ECR, UK) warned that this differentiation may be much more complex than initially envisaged.
+Mr Langen also stresses that in future the prices of derivative products must better reflect risk and that this risk must not be borne by taxpayers. Until now, argues the draft report, the price of these products has been undervalued due to underestimated risks.
+The report goes on to argue for more independence of central clearing houses from their users and also says they should not compete with each other on risk assessment. Various MEPs were not in favour of more independent clearing houses, with Peter Skinner (S&D, UK) arguing that such independence would only further concentrate risk.
+The draft resolution makes specific mention of CDS and the need to subject them to independent central clearing with the possibility for regulators to even prohibit individual products of this type. This point proved particularly sensitive for MEPs, with different positions being voiced. On behalf of the S&D, Leonardo Domenici (IT) insisted on the need for more regulation of CDS, most of which was speculative, he said. Sharon Bowles (ALDE, UK) on the other hand suggested that the issue of CDS was a good example of needing more information before regulating, possibly in a wrong way. "Levels of CDS did not change due to the Greek crisis so do we know anything about them?" she asked.
+Mr Langen also wishes to expand the European Securities and Markets Authority’s remit, to include the supervision and regulation of trade repositories. On this too, MEPs were divided, with some arguing against piling too many tasks on the ESMA and others supporting the rapporteur's expansion of competencies for the ESMA. Defending his idea, Mr Langen said this was the best way to deal with bilateral deals not carried out through the channel of stock markets.
+Finally, the draft report argues that, although international regulation of this area would be the ideal, the existence of different viewpoints on the global stage means that the EU should also be prepared to go it alone.
+MEPs will have until 24 March to present their amendments. Subsequently a hearing will be held on this issue on 27 April. The vote in committee on the draft resolution will take place on 4 May.
+In the Chair : Sharon BOWLES (ALDE, UK)
+08.03.2010
+20100305IPR70067 Website of the Economic and Monetary Affairs Draft report on Derivatives markets Profile of the rapporteur
+EN
+1
+LINK
+/activities/committees/homeCom.do?language=EN&body=ECON
+EN
+3
+LINK
+/members/public/yourMep/view.do?name=Langen&partNumber=1&language=EN&id=1928
+-//EP//TEXT COMPARL PE-438.493 01 NOT XML V0//EN
+-//EP//DTD IM-PRESS 20050901 IPR DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 IPR DOC XML V0//EN

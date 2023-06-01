@@ -1,0 +1,40 @@
+Telecom markets: still no overall agreement with Council presidency
+Information society
+2009-04-21 - 23:15
+A user's internet access cannot be restricted without a prior ruling by the judicial authorities, the Industry Committee insisted on Tuesday, reinstating one of Parliament's first-reading amendments. MEPs do, however, agree with the Council Presidency that radio frequency strategic planning should be reformed and a European body bringing together all 27 national regulators should be set up.
+In second reading votes, the Industry Committee backed the political agreement reached with the Czech Presidency on setting up a new European body of telecom regulators called BEREC, voting on recommendations by Pilar del Castillo (EPP-ED, ES). MEPs also adopted a partial compromise reached on the revision of the electronic communications framework and specific directives for which the rapporteur is Catherine Trautmann (PES, FR).
+Remaining issue: MEPs reject restrictions on access without prior ruling by judicial authorities
+Parliament's negotiators have so far been unable to agree with Council on procedures for imposing restrictions on a user's internet access. The Industry Committee, therefore, reinstated by 40 votes in favour with four votes against and two abstentions, Parliament's first-reading amendment that "no restriction may be imposed on the fundamental rights and freedoms of end users, without a prior ruling by the judicial authorities (...) save when public security is threatened". Negotiations between MEPs and the Czech Presidency to reach an agreement on this issue will continue.
+Commission and national regulators to cooperate on market regulation
+MEPs and the Czech Presidency do agree that, before taking regulatory decisions, national regulatory authorities will have to consult the Commission and the new Body of European Regulators for Electronic Communications (BEREC). BEREC will adopt an opinion in such cases by an absolute majority of its 27 members.
+The regulator will have to take "utmost account" of any "serious doubts" expressed by the Commission and BEREC. In that case, BEREC, the Commission and the national regulator should cooperate closely in identifying "the most appropriate and effective measure" before the national regulator adopts the remedy, says the agreed text.
+Functional separation as last resort
+The compromise enables a national regulator to require an integrated incumbent operator to separate its network infrastructure from the units offering services using this infrastructure - a regulatory instrument known as "functional separation", which does however not change the overall ownership of network access and services. This "exceptional measure" should only be taken when any other regulatory tools have failed to achieve effective competition, says the agreed text backed by the Industry Committee.
+Harmonise radio spectrum use
+To improve cooperation, strategic planning and harmonisation of spectrum use among Member States, the Commission should table a legislative proposal for a multiannual radio spectrum action programme, MEPs and the Czech Presidency have agreed.
+The reform of the electronic communications regulatory framework would introduce service and technology neutrality as binding principles, i.e. any frequency band may be used for any application so long as this complies with national frequency allocation plans. Applying these principles would, for example, allow for reallocating the spectrum dividend resulting from the digital switchover of broadcasting to provide wireless broadband services in the future. The switchover from analogue to digital terrestrial TV by the end of 2012 will free up a significant amount of high-quality spectrum which could thus be re-allocated to services other than broadcasting.
+Investments in next-generation networks and infrastructure sharing
+In future a dominant operator can be obliged to open the use of "network elements and associated facilities" such as building wiring (including inside buildings), masts, antennae, towers, and conduits to competitors, says the compromise.
+National regulators should promote "efficient investment and innovation in new and enhanced infrastructures" such as new fibre-optic networks ("next generation access networks"), specifies the agreement. Any access obligation to open this new infrastructure to competitors will have to take "appropriate account of the risk incurred by the investing undertakings" and should allow for "cooperative agreements between investors and access seeking parties" to diversify investment risks, stipulates the agreement.
+The compromise text was adopted by 44 votes in favour with two votes against and one abstention.
+Body of European Regulators for Electronic Communications
+MEPs and the Council Presidency agreed that BEREC will be composed of a board of the heads of the 27 national regulators and a European Commission representative. BEREC will advise the Commission, and upon request the European Parliament and the Council. The board will adopt its opinions - e.g. on cross-border disputes - by two-thirds majority.
+A small secretariat will provide professional and administrative support services to BEREC. BEREC's office is to be funded by subsidies from the Community budget and voluntary financial contributions from Member States or their national regulatory authorities, states the text.
+The compromise text on BEREC was adopted by 46 votes in favour with two abstentions.
+Procedure: co-decision, second reading -- Plenary vote: 4-7 May 2009 --
+Negotiations with the Council Presidency are also taking place on the consumer protection legislation within the telecoms package; these were not part of the Industry Committee's vote on Tuesday. 2009-04-21 Committee on Industry, Research and Energy In the chair Angelika NIEBLER EPP-ED DE
+20090421IPR54124 Industry Committee webpage Legislative Observatory file - Trautmann report Legislative Observatory file - del Castillo report
+EN
+1
+LINK
+/activities/committees/homeCom.do?language=EN&body=ITRE
+EN
+2
+LINK
+/oeil/file.jsp?id=5563972
+EN
+3
+LINK
+/oeil/file.jsp?id=5563982
+-//EP//DTD IM-PRESS 20050901 IPR DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 IPR DOC XML V0//EN

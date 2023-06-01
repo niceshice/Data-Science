@@ -1,0 +1,32 @@
+EP endorses plan to free up frequencies for high-speed mobile internet
+Information society
+2012-02-15 - 14:44
+radio ©Wikimedia Mobile internet is set to hit dizzying speeds after MEPs approved today a proposal to free up radio frequencies for their use.
+Under the plan member states will be required to open up more frequencies for high-speed mobile internet by 2013 to satisfy growing demand for wireless data.
+Swedish Christian Democrat Gunnar Hökmark, who was responsible for steering the legislation through Parliament, commented: “We have ensured that sufficient amounts of spectrum both for coverage and capacity are made accessible in the EU to achieve the fastest mobile broadband worldwide." The MEP said the initiative could also prove to be a boon to European companies. “By this decision on radio spectrum policy we are taking the necessary steps in order to regain a European global leadership regarding mobile telecoms, with all the opportunities for European telecoms industry as well as for new services, new jobs and new growth.”
+Many devices in our daily lives make use of radio waves, such as mobile phones, remote controls and satellite navigation. They operate within a range of frequencies lying between 9 kHz and 300 GHz which is called radio spectrum. However, it is a scarce resource that can accommodate only a limited number of users. This limitation requires careful planning and management of radio spectrum to avoid interference.
+Today MEPs approved the first radio spectrum policy programme (RSPP) which will help to co-ordinate the use of spectrum for new services and technologies, such as “fourth generation” (4G) wireless networks (e.g., LTE and Wimax) that can reach up to 100 Mbps download speeds. According to the programme, member states will have to authorise the use of the 800 MHz band for wireless broadband by 1 January 2013
+Currently, the 800 MHz band is used to broadcast analogue TV channels in most member states, but will be freed by the end of 2012 when all TV sets will be switched to digital. This so-called digital dividend will be assigned to superfast mobile internet, aiming to reduce data traffic pressure (due to growing number of smart-phones and desire for data-heavy services, such as high-quality video streaming) on currently used “third generation” networks, to contribute to bringing fast broadband connections to people in remote areas and to give a new impetus to wireless internet services across Europe.
+The 800 MHz spectrum band is more useful for 4G wireless services than frequencies above 1 GHz. This band is better at penetrating buildings and provides superior indoor reception and travels longer distances without losing strength. This is why it is cheaper to build a network around it using fewer masts.
+Although the management of radio frequencies remains a national responsibility, the EU has played an important role by coordinating policy and setting standards, especially in mobile communications. Radio spectrum coordination at EU level was essential in the success of the European GSM standard for mobile phones, which today is used by more than two billion people around the world.
+20120210STO37772 Text of the decision agreed with the Council and approved by the EP on 15 February 2012 Press release about the deal between the EP and the Council Press release about the EP vote in the first reading EU legislation on radio spectrum policy Radio spectrum: a vital resource in a wireless world
+EN
+1
+PHOTO
+20120131PHT36681.jpg
+EN
+2
+LINK
+http://register.consilium.europa.eu/pdf/en/11/st16/st16226.en11.pdf
+EN
+5
+LINK
+/oeil/popups/ficheprocedure.do?lang=en&reference=2010/0252(COD)
+EN
+6
+LINK
+http://ec.europa.eu/information_society/policy/ecomm/radio_spectrum/index_en.htm
+-//EP//TEXT IM-PRESS 20111028IPR30574 0 NOT XML V0//EN
+-//EP//TEXT IM-PRESS 20110510IPR19123 0 NOT XML V0//EN
+-//EP//DTD IM-PRESS 20050901 STO DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 STO DOC XML V0//EN

@@ -1,0 +1,53 @@
+"Father of the Web" Sir Tim Berners-Lee: "One web, free and open for all"
+Information society
+2009-12-02 - 15:12
+The News: Free the WWW. Who owns the web? Perhaps the man who two decades ago invented hyperlinks and created the first browser - Sir Tim Berners-Lee, a subatomic physicist, now the most ardent advocate of free and open internet. "The web should serve humanity," he told the annual STOA lecture in the Parliament on Tuesday. STOA is an in-house panel of experts that advises on scientific policymaking.
+Your talk is entitled "One web, free and open for all" - is this a question, a wish or a statement?
+It is a wish, of course. It's the way I think the future should be and it is one of the mottos of the web foundation we just started. One the most essential things about the web is that with a click you can go any place. There is not a French web or an English web; they are linked not separate. The web is not divided into good and low quality documents; it is not divided between academic and commercial, there is no discrimination, it is just one web, free and open for all and that's its power.
+Is your vision of a free and open web compatible with the fact that private companies, Google in particular, monopolise and commercialise access?
+I can’t talk about individual companies. I know people are concerned about monopolies and I also know that those concerns can change, seemingly overnight. There is a concern that control by a company or government could spread. It is important to keep the web free and open.
+Science fiction writer Stanislaw Lem said: "I didn't know that there were so many idiots until I began using the Internet." Is the very openness of the web also one of its weaknesses?
+This is a huge question. People can read everything on the web but that does not mean they have to read everything. Most people have asset blogs, which they find of high value, as they have asset people they know and trust. The web is very much about recommendations.
+Look at it this way, if you walk down the street in your city and pick up papers blowing about you will probably get very low-quality information. If instead you read books, and newspapers recommended to you the quality is better.
+On the web the answer is - the technology is the link. It works when people trust that the links are to high quality. If you find something you don't like, go back one step. Go back, don't read that again and don't read the things linked to them either.
+Arguably, we have seen US politics - US democracy even - transformed by the web. Is Europe is heading in the same direction?
+I think the web can help people to communicate more efficiently. What characterized the last US election was communication. A lot of people being involved, looking up the issues and looking up the politicians. What I would really like to see is the web used for responsible debates.
+I would like politicians to be held accountable using web technologies. If they say something, you would be able to go and see a balanced analysis by the people, by experts and join in the discussion. Of course this raises a lot of questions about who is an expert, who you trust and what you read. How can you be sure what you read is not written by an idiot?
+My hope is that we will design more powerful democratic systems which will be less about sound bites. TV broadcasts the sound bite election, I hope the web can bring us the election arguments, where people are accountable for the truth and show respect.
+Sir Tim Berners-Lee
+Born in London in 1955
+Studied physics at Queen's College, Oxford
+Built his first computer with old TV, soldering iron and a Motorola microprocessor
+Created web in late 1980s and early 1990s at CERN (European Organization for Nuclear Research)
+Offered it free on the net
+Founded World Wide Web Consortium at the Massachusetts Institute of Technology (MIT) in Boston in 1994
+Often named as one of the 100 most important people of the 20th century
+In 2003 he has received his knighthood from the Queen
+Currently heads up the World Wide Web Consortium at MIT, where he is now based as an academic.
+20091127STO65455 Sir Tim Berners-Lee STOA Watch again CERN: European Organization for Nuclear Research Flickr photos
+EN
+1
+EUROPARL-TV
+http://www.europarltv.europa.eu/swf/EmbedPlayer.swf?vid=a8c06c9c-d67f-459b-9163-ecc7e9e6307d&cid=0c8dedcf-1098-46c9-9b85-6f2b0f0b120d&lang=en&bitrate=512&loop=off&autoplay=off&startVolume=medium&showTitle=on&showBottom=on
+EN
+2
+LINK
+http://www.w3.org/People/Berners-Lee/Overview.html
+EN
+3
+LINK
+/stoa/default_en.htm
+EN
+4
+LINK
+/wps-europarl-internet/frd/vod/player?eventCode=20091201-1430-SPECIAL-STOA&language=en&byLeftMenu=researchotherevents&category=SPECIAL&format=wmv
+EN
+5
+LINK
+http://public.web.cern.ch/public/
+EN
+6
+LINK
+http://www.flickr.com/photos/european_parliament/4150278204/
+-//EP//DTD IM-PRESS 20050901 STO DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 STO DOC XML V0//EN

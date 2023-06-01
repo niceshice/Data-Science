@@ -1,0 +1,37 @@
+Parliament approves deal on air passenger data transfers to Australia
+Justice and home affairs
+Plenary sittings
+2011-10-27 - 13:30
+Natalia DASILVA BXL (+32) 2 28 44301 STR (+33) 3 881 73661 PORT (+32) 498 98 39 85 EMAIL peti-press@europarl.europa.eu Paola BUONADONNA STR (+33) 3 881 74256 PORT (+44) 7 786 060 531 EMAIL Press-en@europarl.europa.eu EMAIL paola.buonadonna@europarl.europa.eu ADDINFO (+44) 207 227 43 35 A new agreement on the transfer of EU air passengers' personal data to the Australian Customs Service was approved by the EP on Thursday. The data will be used to prevent terrorist offences and serious transnational crime. It will be retained by the Australian authorities for a maximum of 5 and a half years. The agreement will be in force for 7 years.
+Passenger Name Record (PNR) data collected by air carriers includes, inter alia, names, addresses, passport numbers and credit card details. Under Australian law, air companies are obliged to send it to the Australian Customs Service prior to passenger departure. The new agreement aims to bring data transfers into line with EU data protection rules.
+"We give a positive assessment on a number of points, in particular the limitation of the purpose definition. It has been considerably tightened and it includes only the fight against terrorism and serious transnational crime. I think this is a very important achievement", said rapporteur Sophia in´t Veld (ALDE, NL) in a debate preceding the vote. "However, there are also a couple of remaining concerns, the most fundamental point being that the necessity and the proportionality of the mass collection and storage of data has been demonstrated only partially and not sufficiently", she noted.
+The agreement was approved with 463 votes in favour, 96 against and 11 abstentions. Before approving the deal, MEPs rejected by a show of hands a resolution tabled by the GUE/NGL group seeking a European Court of Justice opinion on the agreement's compatibility with the treaties.
+Retention periods and clear purpose
+Under the new agreement, the Australian Customs Service will retain the passenger data for a maximum of 5 and a half years. During this period, PNR data will be kept in the system for the purpose of preventing, detecting, investigating and prosecuting terrorist offences or serious transnational crime.
+After the first 3 years, all information which could be used to identify a passenger would be "depersonalized", meaning that data such as the passenger's name or her/his contact information would be masked out. After the 5 and a half years, data will be permanently deleted.
+Data protection and judicial redress
+The agreement will prohibit any processing of sensitive data (such as that on racial or ethnic origin, religious beliefs, physical or mental health or sexual orientation). To prevent any accidental loss or unauthorised disclosure of data, PNR data will be held in a secure environment, with high-level systems and physical intrusion controls.
+EU citizens will have the right to access their own PNR data and seek rectification if the information is inaccurate. Rectification of data may require erasure. Should their data be misused, air passengers will also have the right to administrative and judicial redress in Australia.
+Apart from the safeguards foreseen in the agreement, passengers' data will be subject to Australia's 1988 Privacy Act, which governs the collection, use, storage, security and disclosure of personal information held by the Australian authorities.
+Next steps
+The Council is now expected to adopt a decision on the conclusion of the agreement, which would then be in force for 7 years.
+Procedure: consent
+20111026IPR30417 Adopted text will be available here (click on 27.10.2011) Video recording of debate (click on 26.10.2011) Agreement on the processing and transfer of PNR data to Australia Profile of rapporteur Sophia in'T Veld (ALDE, NL)
+EN
+1
+LINK
+/activities/plenary/ta/calendar.do?language=EN
+EN
+2
+LINK
+/wps-europarl-internet/frd/vod/research-by-date?language=en
+EN
+3
+LINK
+http://register.consilium.europa.eu/pdf/en/11/st10/st10093.en11.pdf
+EN
+4
+LINK
+/members/public/yourMep/view.do?language=EN&partNumber=1&name=in%27T+Veld&id=28266
+-//EP//DTD IM-PRESS 20050901 IPR DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 IPR DOC XML V0//EN

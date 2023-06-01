@@ -1,0 +1,30 @@
+UCITS: MEPs back management company passport approach
+Economic and monetary affairs
+2009-01-13 - 12:20
+Parliament has approved a proposed reform of the UCITS directives, aimed at making the investment fund market in the EU less fragmented and at improving efficiency. MEPs inserted provisions for a "management company passport". The text has already been agreed with the Council, so this vote effectively completes the legislative procedure. The resolution was adopted with 589 votes in favour, 28 against and 38 abstentions.
+UCITS (undertakings for collective investment in transferable securities) are investment funds sold across the EU and elsewhere under a common set of EU rules for investor protection, cost transparency and meeting basic requirements on organisation, management and oversight of funds.
+The investment fund can invest in shares, bonds, other investment funds, bank account or index tracking funds, for instance. They enable individuals to invest in a diversified portfolio without having to manage all the details themselves or to have a large amount of money available to start with.
+The EU framework for these investment funds, originally set up in 1985 and updated several times since then, was intended to allow a real single market in investment funds to develop – since they UCITS funds all complied with the same rules, consumers could invest with confidence across EU borders.
+A large market, but barriers to integration remain
+The products have been a success: at the end of 2006 they accounted for over €6.4 trillion of assets in total which is equivalent to half of the Union's GDP and represents 11.5% of European household financial assets.
+Too often, however, different national interpretations of the rules have impeded cross-border sales of UCITS products. The Commission is now proposing:
+to remove administrative barriers to cross-border distribution of UCITS funds;
+to create a framework for mergers between UCITS funds and allow the use of "master-feeder" structures;
+to replace the "Simplified Prospectus" with a short "Key Investor Information" document;
+to improve cooperation mechanisms between national supervisors.
+Management Company Passport now included
+A key point relate relates to the "management company passport" allowing funds authorised in one Member States to be managed remotely by a management companies established in another Member State and authorised by that Member State's financial supervisory authorities. This widening of the passport approach was not included in the Commission's original proposal pending a further consultation by the Committee of European Securities Regulators, in the light of concerns about possible risks to the "gold standard" of investor protection which the UCITS brand represents. This consultation has since been completed and MEPs, including the rapporteur, Wolf Klinz (ALDE, DE) are satisfied that it will be possible to open up the single market in investment products while at the same time maintaining the level of protection for retail investors. In agreement with the Council, therefore, they adopted amendments inserting the arrangements for the "management company passport" into the directive.
+While MEPs welcomed the general approach, they also adopted, again in agreement with the Council, a large number of other amendments were adopted to improve the rules, notably with regard to mergers between different UCITS and the rules covering UCITS which collectively invest in other UCITS in a "master-feeder" structure.
+Further steps
+The directive still needs to be approved by the Council, but the informal agreement already reached means this is now a formality. Member States will need to enact national legislation to apply the main changes by 1 July 2011.
+20090112IPR45971 Undertakings for collective investment in transferable securities UCITS: coordination of laws, regulations and administrative provisions (repeal. Directive 85/611/EEC). Recast Text, as adopted by the EP, will be available here (click on 13 January)
+EN
+1
+LINK
+/oeil/file.jsp?id=5668452
+EN
+2
+LINK
+/activities/plenary/ta/calendar.do?language=EN
+-//EP//DTD IM-PRESS 20050901 IPR DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 IPR DOC XML V0//EN

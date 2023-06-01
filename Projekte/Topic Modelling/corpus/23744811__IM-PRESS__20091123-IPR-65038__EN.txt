@@ -1,0 +1,58 @@
+Green light for new EU telecoms rules
+Information society
+2009-11-24 - 12:41
+Parliament has approved a major overhaul of EU telecoms rules, which will strengthen the rights of phone users and internet surfers and boost competition among telecoms firms. The new rules, to be implemented in the next eighteen months, will enhance consumer rights, safeguard internet freedom, protect data, boost competition and modernise radio spectrum use.
+The revised EU telecoms framework directive was adopted at the third and final reading by 510 votes to 40, with 24 abstentions.
+" This legislative package is a prime example of how the work we are doing as European legislators has an impact on the daily life of citizens. I am delighted that we have contributed to strengthening the rights of users of electronic communications and the internet." said EP President Jerzy Buzek, who will sign the telecoms package on Wednesday together with Swedish minister for communications Åsa Torstensson.
+Internet access safeguards
+Under the new EU rules, a user's internet access may only be cut off if "appropriate, proportionate and necessary within a democratic society" and only after "a prior, fair and impartial procedure" which gives users the opportunity to state their case and respects the principles of presumption of innocence and the right to privacy.
+MEPs thus succeeded in affording internet access an equivalent legal protection to that of a fundamental right by adding the world's first "internet freedom provision" to the EU framework law for electronic communications networks and services. Member States will have to adapt their national legislation to comply with these safeguards by 24 May 2011.
+"We wanted to ensure that citizens' rights would never be scorned or ignored (...) This is the first time that a legal text refers to the use of internet as the exercise of fundamental rights and freedoms", said Parliament's rapporteur Catherine Trautmann (S&D, FR).
+In addition, said Malcolm Harbour (ECR, UK), who was rapporteur on another part of the telecoms package (the citizens' rights directive), "We have achieved significant advances in the areas of data breach and particularly issues around the use of cookies and the rights that consumers have to refuse devices that may collect information on their computers."
+The telecoms directive also includes rules to:
+- harmonise radio spectrum management across the EU, especially with a view to the switchover from analogue to digital TV by 2012,
+- improve co-operation among Member States' telecoms regulators, and
+- allow "functional separation", i.e. rules requiring dominant operators to separate their network infrastructure from business units offering services that use this infrastructure.
+Citizens' rights and telecoms regulators
+Parliament and Council had already agreed on the other two parts of the telecoms package (telecoms regulators and citizens' rights), which were approved by MEPs on 6 May 2009 and by the Council on 26 October 2009.
+The directive on citizens' rights aims to:
+- improve consumer rights, e.g. by allowing customers to have their mobile telephone number transferred within one working day when changing operators,
+- strengthen personal data and privacy protection, e.g. by requiring the user's consent to the use of cookies.
+MEPs also agreed with the EU's telecommunications ministers to set up a European body bringing together all 27 national regulators - the Body of European Regulators for Electronic Communications (BEREC).
+Note to editors
+Deadlines:
+- Signature by the Presidents of Parliament and Council: 25 November 15:00 in plenary
+- Entry into force of the whole telecoms reform package with publication in the EU's Official Journal: December 2009
+- Establishment of the European Body of Telecoms Regulators BEREC: spring 2010
+- Transposition of the citizens' rights directive into national legislation in the 27 EU Member States: by 26 April 2011
+- Transposition of the framework directive into national legislation in the 27 EU Member States: by 24 May 2011
+20091123IPR65038 Verbatim debate in plenary will be available here (click on 23 November) Report on electronic communication networks and services Adopted text will be available here (click on 24 November) Telecoms package conciliation: MEPs and Council representatives agree on internet access safeguards (10.11.09) Profile of Rapporteur Catherine TRAUTMANN (S&D, FR) Background Note: Telecoms package: strengthening consumer rights and competition FAQs on internet access safeguards and the telecoms package Debate 23/11/09 - audio, 25:41(EN) Debate 23/11/09 - audio, 25:38 (OR)
+EN
+1
+LINK
+/activities/plenary/cre/calendar.do?language=EN
+EN
+2
+LINK
+/oeil/file.jsp?id=5563972
+EN
+3
+LINK
+/activities/plenary/ta/calendar.do?language=EN
+EN
+5
+LINK
+/members/expert/committees/view.do?language=EN&id=1129
+EN
+8
+MULTIMEDIA
+20091124MLT65107.asf
+EN
+9
+MULTIMEDIA
+20091124MLT65109.asf
+-//EP//TEXT IM-PRESS 20091105IPR63793 0 NOT XML V0//EN
+-//EP//TEXT IM-PRESS 20091112BKG64357 0 NOT XML V0//EN
+-//EP//TEXT IM-PRESS 20091105BKG63887 0 NOT XML V0//EN
+-//EP//DTD IM-PRESS 20050901 IPR DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 IPR DOC XML V0//EN

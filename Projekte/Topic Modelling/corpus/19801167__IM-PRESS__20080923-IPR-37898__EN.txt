@@ -1,0 +1,48 @@
+Telecoms: fair competition and flexible spectrum allocation to boost new wireless services
+Industry
+2008-09-24 - 12:25
+In a series of votes on the economic regulatory framework for telecommunications, MEPs decided that a body bringing together national regulators should ensure rules are implemented in a consistent manner across the EU. They also want to ensure that frequencies freed by the switchover from analogue to digital TV could be used for new wireless services such as broadband internet or mobile TV, and that such services are interoperable across the EU.
+Parliament amended two draft legislative texts on electronic communications networks and services, and on the setting up a new regulatory body at EU level as part of its vote on the telecoms package. It also adopted an own-initiative report on getting the most from the "digital dividend".
+BERT to ensure fair competition across the EU (report Pilar del Castillo)
+In adopting Pilar del Castillo's (EPP-ED, ES) report, MEPs backed her suggestion to create a Body of European Regulators in Telecommunications (BERT). As an independent expert advisory body, BERT will help ensure fair competition and high-quality services across the EU by ensuring that national regulators use similar tools when faced with similar market situations.
+The original proposal from the Commission had been to set up a European Electronic Communications Market Authority (EECMA) to achieve these goals. BERT will be a leaner structure, based on the existing Board of Regulators composed of the 27 national regulatory authorities.
+BERT should be funded jointly by the EU and national regulatory authorities say MEPs, but they chose not to specify the respective proportions of funding at this stage.
+MEPs also voted against the Commission's proposal for the new body to take over tasks related to network and information security. The report was adopted with 490 votes in favour 105 against and 14 abstentions.
+Consistent application of regulatory measures in all Member States (report by Catherine Trautmann)
+In their vote on the new framework directive for electronic communications networks and services, based on a report by Catherine Trautmann (PES, FR), MEPs set out a "co-regulation" system: national authorities have to consult the Commission and BERT before taking regulatory decisions. If BERT considers the measure inappropriate or ineffective, the Commission may require the national regulatory authority to amend it. The report was adopted with 597 votes in favour 55 against and 29 abstentions.
+Separating network access products from other services seen as "an exceptional measure" to stimulate competition
+MEPs clarify that a national regulator may impose functional separation on telecom operators - i.e. require them to create a separate business unit for network services which operates independently from the content services the operator offers - only as "an exceptional measure" to ensure that all undertakings can have access to network services on equal terms. Parliament stresses that the national regulator can only take this remedy if both the Commission and BERT confirm that any other measure has failed to achieve effective competition and that there is little prospect of future infrastructure-based competition.
+More frequencies for new wireless services while safeguarding media pluralism
+Radio spectrum owned by Member States is the backbone of modern wireless services, from broadcasting and mobile TV through mobile communications and broadband internet to satellite navigation systems, air traffic control, and weather forecasting. In view of the transition to digital technology which uses fewer frequencies than analogue technologies, the revised framework directive will allow the switching of bands now used for broadcasting to provide wireless broadband services in the future.
+MEPs stress that broadcasters' right to use the part of the radio frequencies they need to fulfil the general interest objective of delivering broadcasting services remains unchanged. Yet, "the part of their radio frequencies which becomes unnecessary for the fulfilment of that objective shall be subject to the new assignment procedure".
+Parliament supports the introduction of service and technology neutrality as binding principles, i.e. any frequency band may be used for any application. MEPs stipulate that spectrum allocation must nevertheless comply with national frequency allocation plans and with the International Telecommunication Union's Radio Regulations in order to ensure that wireless services are EU-wide interoperable.
+Make wireless services EU-wide interoperable
+The electronic communications framework directive, as revised by Parliament requires Member States to co-operate with each other and the Commission in the strategic planning, co-ordination and harmonisation of radio spectrum use. MEPs call on the Commission to table a legislative proposal for a radio spectrum action programme.
+No time to waste for re-allocation of frequencies released by switchover to digital TV (report by Patrizia Toia)
+In the own-initiative report, drafted by Patrizia Toia (ALDE, IT), on the use of the spectrum released by the switchover from analogue to digital broadcasting - the "digital dividend"- MEPs call on the Commission to propose measures to Parliament and Council for better coordinating the use of the digital dividend at EU level.
+Member States, together with the Commission, should identify common spectrum sub-bands of the digital dividend for different application clusters that could be harmonised on a technology-neutral basis. Parliament supports the idea of dividing the Ultra High Frequency (UHF) spectrum into clusters for uni-directional services such as fixed or mobile broadcasting and other mobile multimedia services and for bi-directional services such as wireless broadband.
+Parliament adopted an amendment calling on Member States to reallocate part of the spectrum currently used for military purposes under analogue technology after the switchover to new civilian applications.
+The report was adopted with 551 votes in favour 24 against and 38 abstentions.
+20080923IPR37898 Electronic communications: common regulatory framework for networks and services, access, interconnection and authorisation ("Telecoms Package" [amend. Directives 2002/19/EC to 2002/21/EC]) Creation of the European Electronic Communications Market Authority ("Telecoms Package") Reaping the full benefits of the digital dividend in Europe: a common approach to the use of the spectrum released by the digital switchover Texts, as adopted by the EP, will be available here (click on 24 September) audio - Press conference 24/09/2008 - Rapporteurs Trautmann, Del Castillo, Harbour and Alvaro - EN
+EN
+1
+LINK
+/oeil/file.jsp?id=5563972
+EN
+2
+LINK
+/oeil/file.jsp?id=5563982
+EN
+3
+LINK
+/oeil/file.jsp?id=5625242
+EN
+4
+LINK
+/activities/plenary/ta/calendar.do?language=EN
+EN
+5
+MULTIMEDIA
+20080924MLT38066.asf
+-//EP//DTD IM-PRESS 20050901 IPR DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 IPR DOC XML V0//EN

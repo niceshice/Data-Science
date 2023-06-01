@@ -1,0 +1,28 @@
+Solvency II: better financial supervision of the insurance industry
+Economic and monetary affairs
+2008-10-07 - 16:17
+The Economic and Monetary Affairs Committee backed plans for a major overhaul of the supervisory framework that enhances the financial stability of the insurance industry on Tuesday when it adopted its first-reading position on the Solvency II directive. MEPs voted to make significant changes to the Commission’s proposal in areas such as group supervision and the calculation of capital requirements.
+In a nutshell, the aim of the Solvency II proposals is to help ensure the financial stability of insurance (and reinsurance) companies by introducing more sophisticated solvency requirements which will take better account of the risks the companies must deal with: insurance risks as at present, but also market, credit and operational risks. It shifts the focus of supervisory authorities from merely checking compliance with a tick-the-box approach based on a set of rules to more pro-actively supervising the risk management of individual companies based on a set of principles. It also sets up a new, unique system for supervising groups of insurance companies, by making one of the authorities take on the role of group supervisor with a leading role in monitoring cross-border companies and involving all supervisors in the decision making process concerning group issues.
+Capital Requirements
+In adopting the report drawn up by Peter Skinner (PES, UK), MEPs in the committee notably defined the relationship between two key criteria under the new system for the amounts of capital insurance companies should hold – the Solvency Capital Requirement (SCR) and the Minimum Capital Requirement (MCR). The SCR will be calculated according to a risk-based approach: when capital falls below this level, supervisory intervention will be needed. The MCR is lower – the point at which the company’s licence would need to be withdrawn. A well as setting absolute minimum levels for the MCR for different types of company, the text adopted by the committee indicates that the MCR should be between 25 and 45 per cent of the company’s SCR, with the exact amount being a calculation based on variables which indicate the company’s ability to remain operational.
+Group supervision
+Among the amendments made by the committee regarding group supervision arrangements, the most significant include the mandatory creation of supervisory colleges – made up of the various national supervisors responsible for a group and its subsidiaries – to facilitate cooperation, exchange of information and consultation between the supervisors. Another key change comes in the arrangements for handling disagreements between the group supervisor and the supervisor of a subsidiary on key issues such as implications of a subsidiary’s risk profile for the calculation of the group SCR. MEPs say the matter must be referred to the Committee of European Insurance and Occupational Supervisors for advice. The final decision would be for the group supervisor, but if they chose not to follow CEIOPS’s advice, they would need to explain their reasons in detail (a “comply or explain” approach).
+Group support, surplus funds, overall financial stability
+Among the many other amendments adopted, detailed provisions are set out on how group support (where part of the capital requirement for a subsidiary could be met by a guarantee that funds would be transferred from the group if needed) would work in practice and the issue of when surplus funds could be treated as capital for the purpose of meeting the various requirements.
+A broader amendment indicates that supervision should be conducted with a view to the wider financial stability of the Community as a whole as well as considering the health of an individual company.
+Procedure: Co-decision, first reading -- Committee vote: 22 in favour, 7 against and 4 abstentions -- Plenary vote scheduled for November, Strasbourg 2008-10-06 Committee on Economic and Monetary Affairs In the chair Pervenche Berès PES FR
+20081006IPR38794 Economic and Monetary Affairs Committee Web Site European Commission's web page on Solvency II See the Legislative Observatory file for more details on this procedure, including, when it becomes available, the full text of the report as adopted by the Committee
+EN
+1
+LINK
+/activities/committees/homeCom.do?body=ECON&language=EN
+EN
+2
+LINK
+http://ec.europa.eu/internal_market/insurance/solvency/index_en.htm
+EN
+3
+LINK
+/oeil/file.jsp?id=5512082
+-//EP//DTD IM-PRESS 20050901 IPR DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 IPR DOC XML V0//EN

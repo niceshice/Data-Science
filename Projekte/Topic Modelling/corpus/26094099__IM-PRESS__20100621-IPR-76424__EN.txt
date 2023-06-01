@@ -1,0 +1,25 @@
+Intelligent Transport Systems: MEPs back EU-wide specifications
+Transport
+Committees Transport and Tourism
+2010-06-22 - 13:06
+Ensuring that national "intelligent transport systems" (ITS) can work together across the EU will ease traffic congestion and improve road safety, said the Transport Committee on Tuesday. The committee approved legislation that would require new ITS systems, to be deployed by 2013, to be compatible with existing national ones. The plenary vote is scheduled for July.
+Transport Committee MEPs approved a deal struck with Council in May on implementing arrangements and a timetable for introducing ITS traffic monitoring and safety assistance systems that are compatible with existing national systems and interoperable, so that they will work in an EU country, not just one. They also amended the draft legislation to take account of the needs of vulnerable road users and address data privacy concerns.
+Intelligent Transport Systems use information and communication technologies provide EU-wide real-time traffic information, resulting in less congestion, less pollution and fewer accidents.
+Cars that can call the emergency services
+Examples of ITS applications include electronic tolling systems on motorways, GPS and traffic supervision systems, and warning systems such as the automatic "e-call" which alerts emergency services if the driver is unconscious after an accident. ITS systems can be applied to both passenger and freight transport, in every mode (road, rail, air, and water).
+Common approach
+A common European approach is needed to ensure that the systems used in each Member State are mutually compatible and offer a seamless service covering transport networks throughout Europe.
+Deployment timetable
+The ITS service deployment timetable is as follows:
+EU-wide real-time traffic information services (by the end of 2013),
+EU-wide multimodal travel information services (by the end of 2014),
+universal traffic information on road safety, free of charge to users (by the end of 2012),
+interoperable "e-Call" technology to alert the emergency services automatically of road accidents (by the end of 2012), and
+information services for safe and secure parking places for trucks and commercial vehicles (by the end of 2012).
+Pan-European interoperability
+Member States will remain free to chose whether or not to implement these systems on their territory. If they do, however, they must comply with the EU common specifications, to ensure pan-European interoperability.
+Anne Jensen's (ALDE, DK) report (2nd reading, co-decision) was approved in committee with 28 votes in favour, 2 against and no abstentions. The plenary vote is scheduled for July.
+In the Chair: Brian Simpson (S&D, UK).
+20100621IPR76424
+-//EP//DTD IM-PRESS 20050901 IPR DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 IPR DOC XML V0//EN

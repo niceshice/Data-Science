@@ -1,0 +1,49 @@
+Cross-border traffic offence penalties to improve road safety
+Transport
+2011-06-29 - 18:57
+The proposed directive should make it easier for Member States to exchange vehicle registration numbers, so as to ensure that serious traffic offence penalties are imposed consistently across the EU. This directive aims to improve road safety and ensure that offenders from anywhere in the EU are equal before the law.
+Member States undertake to forward the vehicle registration holder's name, date of birth and address to the authorities of the country where the offence took place, at their reasoned request.
+If the authorities of the country where the offence took place decide to take legal action, they will send the presumed offender a strictly personal registered letter, informing him or her of the penalty and the legal consequences. The fine and method of payment will be established in accordance with the rules of the country in which the offence took place.
+Once the directive is unanimously approved by the Council and published in the EU Official Journal, Member States will have 24 months in which to put the new rules into effect. Ireland, the UK and Denmark are not taking part, although Ireland and the UK may opt in later.
+20110629BKG22876
+Why table a new directive?
+Commission studies suggest that the number of non-residents involved in road accidents is disproportionately high. One reason why is that penalties for offences committed in Member States other than the driver's country of residence are often not enforced, particularly in the case of speeding automatically recorded by radar. Most non-resident motorists committing such offences effectively enjoy impunity if they are not immediately caught by the police. Unequal treatment of residents and non-residents eventually undermines the legitimacy of speed traps in the eyes of residents.
+Today's procedures are only partially effective
+Prosecution of cross-border offenders currently relies on bilateral agreements among Member States that have widened the Prüm decision arrangements for cross-border police co-operation to include road traffic offences, by using the EUCARIS car and driving licence information system, which was designed to combat organised crime.
+Framework decision 2005/214/JHA, on the mutual recognition of financial penalties, permits the enforcement of fines above €70. But many Member States have not yet fully transposed this decision into their national laws and the administrative mechanism that it introduces has not proven able to deal with large numbers of road traffic offences.
+The eight offences
+The eight offences covered by the proposed directive are:
+speeding
+drink-driving
+non-use of a seat belt
+failing to stop at a red traffic light
+driving under the influence of drugs
+failing to wear a safety helmet
+use of a forbidden lane (e.g. a bus lane), and
+illegally using a cell phone or any other communication device while driving.
+Only in these cases would the Member State in which the vehicle is registered be required to supply the registration holder's identity details.
+What data will be supplied or exchanged?
+The Member State in which the offence is committed would send an information request, including details of the number plate, the time, date, place and type of offence.
+The Member State of registration would supply details of the vehicle (country and registration certificate number, chassis or vehicle identification number, make, model, and EU category code), and details of the owner (family name, first name, date of birth and address of the registration certificate holder).
+In some cases (e.g. theft of vehicle or plates, expired plates), information on the owner would not be supplied.
+Parliament has inserted safeguards to ensure that the data are used only for road safety purposes, and are deleted, verifiably, once a case is closed.
+A Community data-sharing system would be decided upon later. In the meantime, Member State authorities would use the EUCARIS car and driving licence information system.
+Letter to the presumed offender
+If the Member State in which the offence is committed were to decide to take legal action, it would have to inform the presumed offender in a strictly personal, registered letter. The proposal recommends that this letter be drafted in a language understood by the presumed offender. A model letter, translated into all EU official languages, is made available to Member States in an annex to the proposal.
+The letter would have to state the date, time, place and nature of the offence, and cite the text of the national law governing the offence and the corresponding penalty.
+Three years of tough negotiations
+The legislative text initially proposed by the Commission in March 2008, as a road safety measure, won a broad consensus in Parliament at the first reading (December 2008), but then remained blocked in the Council for more than two years.
+A Council legal opinion said that enforcing criminal penalties for breaches of various national laws was a matter not for the Community (first pillar), but for police and judicial co-operation (third pillar).
+Change in legal basis and reduced scope
+The entry into force of the Lisbon Treaty, which transferred police co-operation to the Community field, enabled the Belgian Presidency to strike a compromise by changing the legal basis of the proposal. The Member States' common position was forwarded to Parliament on 17 March 2011.
+Despite Commission opposition to this change, the directive is henceforth based on "police co-operation" (Article 87 (2)) rather than transport (Article 91 (1) (c)). This change allows the UK, Ireland and Denmark to be exempted from applying the directive. Furthermore, the proposal no longer provides for any involvement of the offender's home state in enforcing the penalty.
+Parliament inserts a revision clause
+Parliament regrets this change, which weakens the directive's scope, but believes that its key aim - improving road safety by putting an end to the sense of relative impunity - will nonetheless be achieved.
+At the second reading, MEPs negotiating with the Council inserted the following items in the proposal:
+better protection for personal data,
+mandatory requirements for the offence notification to be sent to the presumed offender,
+an obligation for Member States to report back to the Commission on the directive's effectiveness (including figures), and a requirement for the Commission to produce a detailed report within five years after the directive's entry into force, including, if necessary, a proposal to revise it, and
+an annex requiring Member States to act to ensure greater convergence of road traffic rules and their enforcement, including comparable methods, practices and minimum standards at EU level.
+Informal three-way negotiations for a second-reading compromise closed in June 2011.
+-//EP//DTD IM-PRESS 20050901 BKG DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 BKG DOC XML V0//EN

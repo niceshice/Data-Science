@@ -1,0 +1,36 @@
+EP backs compromise to extend Schengen Information System to new Member States
+Justice and home affairs
+2006-10-25 - 21:13
+The EP adopted, by a large majority, three reports on the legislative basis for a new Schengen Information System (SIS II ) which will allow new Member States to join the Schengen area as soon as possible. MEPs backed the Commission proposals but introduced some relevant amendments to improve the security and personal data protection standards of the second generation Schengen Information System.
+A first reading agreement on the dossiers with the Council is essential for the timely start of the updated system.
+The European Parliament adopted two co-decision and one consultation reports by Carlos COELHO (EPP-ED, PT) on proposals for the establishment, operation and use of SIS II as well as the access to the system by the services in the Member States responsible for vehicle registration. The rapporteur sought to achieve a first reading agreement with Council and the compromise amendments adopted today had been formerly negotiated and accepted in informal trialogues with the Commission and the Council. However MEPs refused to introduce a last minute change requested by Council which would allow national intelligence services to have access to the information stored in SIS II.
+"The proposal to give access to the SIS II to the intelligence services does not make sense as we cannot increase the demands on personal data and on the other hand open access to structures in the Member States which cannot be, fully or partially, under the scrutiny of the authorities responsible for data protection," the EP rapporteur Carlos Coelho (EPP-ED, PT) said during the debate. It is now up to the Council to decide whether it will approve the texts as voted by the European Parliament or will decide to re-open the negotiations.
+"In the next few weeks, the Council will discuss the outcome of the plenary voting of Parliament. I believe that we can reach a solution with Parliament in the first reading. I want to emphasise that we are now very close to a solution in this important legislative issue," Finnish Minister Paula Lehtomäki said on behalf of the presidency before the vote in EP.
+The SIS operates since March 1995 and it is a large-scale database that allows the competent authorities in the Member States to search for and obtain data on persons and objects. It can only serve a maximum of 18 Member States and it does not take advantage of the latest developments in information technology or possibilities for advanced searches. In order to accommodate the new Member States and Switzerland the updated SIS II system was necessary. It will be easier to manage, more flexible and secure and capable of integrating new data, new functions and the interlinking of alerts.
+Use of biometrics
+The use of biometrics and the interlinking of alerts are two new elements in SIS II that will be introduced to improve the reliability and enhance the capacities of the system.
+Photographs and fingerprints can only be entered following a special quality check to ascertain the fulfilment of a minimum data quality standard. A search with biometrics should be excluded at the initial stage of the system and will be possible only when that is technically viable. The European Parliament will have to be consulted by the European Commission before the implementation of this biometric search. (Regulation, Chapter IV, Article 14 C)
+In the future it will be possible to link, for example, the alert of a stolen car with the alert of a person wanted for arrest. If a policeman then discovers the stolen car he will have grounds to believe that the person wanted for arrest was or still is in the immediate vicinity of this car. The regulation however says that a member state is to create a link between alerts only when there is a clear operational need. (Article 26, Regulation)
+To ensure that all data is accurate and up to date the use of national technical copies offline has been restricted and can be allowed for a period of up to 48 hours after which they are destroyed. (Regulation, Article 21).
+Management Authority
+One of the new compromise proposals is for a Management Authority, funded by the EU budget, to manage the operation of the SIS II central data base. It has to be operational within a maximum period of five years after the legislation enters into force. The Management Authority's personal data processing activities would be monitored by the European Data Protection Supervisor, who would be required to ensure that they are audited to international standards at least every four years. During a transitional period before this authority starts work the Commission will be responsible for the management of the SIS II central data base. It may delegate the management to national public bodies in two different countries. The European Parliament and the Council must be regularly informed about the conditions and the scope of that delegation. (Regulation, Article 12) and (Regulation, Article 31 a).
+Personal data processing at national level would be audited by national supervisory authorities, but in co-operation with the European Data Protection Supervisor so as to ensure co-ordinated supervision. (Regulation Article 31 B)
+Finally, each Member State would be responsible for setting up and maintaining a national data system that can communicate with the central SIS II and must designate an authority for that purpose. It would also have to take steps necessary to protect personal data. (Regulation, Article 10) The Member State issuing an alert shall be responsible for ensuring that the data is accurate, up-to date and is entered in the SIS II lawfully. (Regulation Article 24)
+The codecision report on the proposal for a regulation of the European Parliament and of the Council on the establishment, operation and use of the second generation Schengen information system (SIS II) was approved with 517 votes in favour, 73 against and 66 abstentions.
+The codecision report on the proposal for a regulation of the European Parliament and of the Council regarding access to the Second Generation Schengen Information System (SIS II) by the services in the Member States responsible for issuing registration certificates for vehicles was approved with 561 votes in favour, 39 against and 62 abstentions.
+The consultation report on the proposal for a Council decision on the establishment, operation and use of the second generation Schengen information system (SIS II) was approved with 521 votes in favour, 72 against and 65 abstentions.
+20061020IPR11865 Establishment, operation and use of SIS II (regulation) Access to SIS II by the services responsible for issuing vehicle registration certificates Establishment, operation and use of SIS II (decision)
+EN
+1
+LINK
+/oeil/file.jsp?id=5253082
+EN
+2
+LINK
+/oeil/file.jsp?id=5253222
+EN
+3
+LINK
+/oeil/file.jsp?id=5252242
+-//EP//DTD IM-PRESS 20050901 IPR DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 IPR DOC XML V0//EN

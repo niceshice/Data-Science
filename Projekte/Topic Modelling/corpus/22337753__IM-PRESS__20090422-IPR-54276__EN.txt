@@ -1,0 +1,24 @@
+MEPs call for stricter legislation to protect citizens from the effects of profiling
+Justice and home affairs
+2009-04-24 - 13:09
+At a time when our personal data is accumulating on the internet and in databases, a Parliamentary report drafted by Sarah Ludford (ALDE, UK), warns against the dangers of 'profiling' of European citizens on the basis of criteria such as ethnicity, religion, gender or age, especially by the police. MEPs warn against the excesses of the system and call on Member States to shed light onto these practices. The report was adopted with 372 votes in favour, 12 against and 17 abstentions.
+Member States are increasingly using new technologies which allow for the "acquisition, use, retention or exchange of information" about individuals, as a means to fight crime or terrorism. Profiling is usually used as an investigative technique in the commercial sector, but now it is frequently being used as "an instrument of law enforcement" specifically in the areas of crime prevention and border controls.
+Data mining
+MEPs believe that the practice of profiling, which is often carried out through 'mining' of computer-held data should be thoroughly examined and subject to a political debate. Mining is particularly controversial as it departs from traditional rules of law enforcement, where decisions should be based on "an individual's personal conduct" rather than basing it on information such as ethnicity, race, nationality or religion. MEPs are "deeply concerned" with ethnic profiling in relation to anti-discrimination norms.
+Data-mining and profiling are contentious issues as they "blur the boundaries" between permitted targeted surveillance and mass surveillance, and therefore could potentially be seen as unlawfully interfering with individuals' privacy. Profiling can be seen as a legitimate investigative toll when it is based on "specific, reliable and timely information", but not when action is taken on the basis of general information or stereotypes which could lead to discriminatory practices.
+Inaccurate profiling
+The House is concerned that as a result of this profiling there is a danger that innocent people will be subjected to "arbitrary stops, interrogations, travel restrictions, surveillance or security alerts." If incorrect data is not quickly removed from profiles then it could result in restrictions or travel, visa applications, bans on employment or banking or in a worst case scenario, the loss of liberty.
+The effectiveness of data mining is significantly weakened by the amount of data which needs to be searched through. MEPs are concerned that law-abiding citizens leave far more extensive 'digital tracks' than criminals or terrorists, who go to considerable lengths to hide their identities. This could therefore lead to a number of 'false positives' which puts innocent people under suspicion and allows the real suspects to remain anonymous.
+In the opinion of the European Parliament, it is vital for law enforcement to "always be conducted with respect for fundamental rights", and calls for all international cooperation in the fight against terrorism to comply and respect European laws and values as well as international laws.
+Legislative protection
+MEPs call on the Council to ensure that the processing of all personal data for law-enforcement and anti-terrorist purposes should be based on clear legal rules, subject to supervision. Access to any police or secret service files should be allowed on a strictly case-by-case basis and under specific judicial control in each Member State. The report also calls on the Council to ensure that any European or national legislation on profiling should comply with existing European law or international treaties.
+Human rights in the UK
+The report specifically mentions S. and Marper v the United Kingdom judgement in relation to the UK DNA databases, where it was ruled that blanket retention of DNA or cell samples for people who have not been convicted of an offense is in violation of Article 8 of the ECHR. The report is concerned that this sort of profiling can lead to a "risk of stigmatisation", where innocent people are treated in the same way as criminals, and therefore questions the legality of profiling based on personal data of "persons not found guilty by the courts."
+Parliament recognises that whilst ethnic statistics can be unhelpful in law enforcement; the creation of anonymous statistical on ethnicity, race, religion or national origin should still be allowed in order to indentify any discrimination in law enforcement practices.
+20090422IPR54276 Adopted text (click on 24 April)
+EN
+1
+LINK
+/activities/plenary/ta/calendar.do?language=EN
+-//EP//DTD IM-PRESS 20050901 IPR DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 IPR DOC XML V0//EN

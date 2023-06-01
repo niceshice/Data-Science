@@ -1,0 +1,48 @@
+Air passenger data transfers to Australia get Civil Liberties Committee green light
+Justice and home affairs
+Committees Civil Liberties, Justice and Home Affairs
+2011-10-17 - 16:32
+Natalia DASILVA BXL (+32) 2 28 44301 STR (+33) 3 881 73661 PORT (+32) 498 98 39 85 EMAIL libe-press@europarl.europa.eu A new agreement on the transfer of EU air passengers' personal data to the Australian Customs Service was approved by the Civil Liberties Committee on Monday. The data will be used to prevent terrorist offences and serious transnational crime. It will be retained by the Australian authorities for a maximum of 5 and a half years.
+Passenger Name Record (PNR) data collected by air carriers includes, inter alia, names, addresses, passport numbers and credit card details. Under Australian law, air companies are obliged to send it to the Australian Customs Service prior to passenger departure. The new agreement aims to bring data transfers into in line with EU data protection rules.
+Following the vote, rapporteur Sophia in´t Veld (ALDE, NL) commented: "Although this agreement is definitely better than the previous one, there are still a number of hesitations over the use of PNR data. In the new agreement, we have obtained a strict limitation on the purposes for which data can be used. Moreover, the data protection safeguards on access, rectification, erasure, and data security will be in line with EU data protection law and the deal provides for clear provisions on onward transfers and the right to redress. It also explicitly excludes the use of sensitive data. On the downside, we did not achieve a reduction of the storage periods, and the legal base does not include EU Treaty Article 16 on data protection".
+Retention periods and clear purpose
+Under the new agreement, the Australian Customs Service would retain the passenger's data for a maximum period of 5 and a half years. During this period PNR data would be kept in the system for the purpose of preventing, detecting, investigating and prosecuting terrorist offences or serious transnational crime.
+After the first 3 years, all information which could be used to identify a passenger would be "depersonalized", meaning that data such as the passenger's name or her/his contact information would be masked out. After the 5 and a half year period, data would be permanently deleted.
+Data protection and judicial redress
+The agreement would prohibit any processing of sensitive data (such as the racial or ethnic origin, religious beliefs, physical or mental health or sexual orientation). To prevent any accidental loss or unauthorised disclosure of data, PNR would be held in a secure environment, with high-level systems and physical intrusion controls. No copies of the PNR data would be allowed, other than for recovery back-up purposes.
+Should their data be misused, EU citizens would have the right to administrative and judicial redress in Australia. They would also have the right to access their own PNR data and seek rectification if the information is inaccurate. Rectification of data may require erasure.
+Apart from the safeguards foreseen in the agreement, passengers' data would be subject to Australia's 1988 Privacy Act, which governs the collection, use, storage, security and disclosure of personal information held by the Australian authorities.
+The agreement was approved with 25 votes in favour, 7 against and one abstention. The Greens/EFA and GUE groups voted against. They presented a minority opinion saying that "the agreement does not meet the guarantees requested by the EP in its previous resolutions" concerning mainly necessity and proportionality and adequate safeguards to prevent discriminatory profiling. "This raises serious concerns about compatibility of the agreement with the Charter of Fundamental Rights", says the text.
+Next steps
+The agreement will be put to a plenary vote on 27 October. If Parliament gives its consent, the Council will adopt a decision on the conclusion of the agreement, which would then be in force for seven years.
+Background
+June 2008 - Council decision on the signing of the EU-Australia PNR agreement. The agreement has applied provisionally since that date.
+December 2009 - Commission proposal for the conclusion of the agreement.
+May 2010 - Parliament postpones vote until Commission "has explored the options for arrangements for the use of PNR that are in line with EU law and meet the concerns expressed by Parliament".
+September 2010 - Commission proposal to authorise the opening of negotiations for a new agreement.
+May 2011 - New deal initialled and sent to the Council and Parliament for conclusion.
+29 September 2011: New deal was signed by the EU and Australia.
+The EU is also negotiating international agreements with Canada and the US on the processing and transfer of PNR data.
+In the chair: Juan Fernando López Aguilar (S&D, ES)
+Procedure: consent
+Committee vote: 17.10.2011
+Plenary vote: 27.10.2011
+20111017IPR29444 Website of the Committee on Civil Liberties, Justice and Home Affairs Catch up via video on demand (VOD) Agreement on the processing and transfer of PNR data to Australia Legislative Observatory file
+EN
+1
+LINK
+/activities/committees/homeCom.do?language=EN&body=LIBE
+EN
+2
+LINK
+/wps-europarl-internet/frd/vod/search-committees?language=en&search_parameter_legislature=7&select_searchcommittees_field=AFCO&search_date_start_0=&search_date_end_0=
+EN
+3
+LINK
+http://register.consilium.europa.eu/pdf/en/11/st10/st10093.en11.pdf
+EN
+4
+LINK
+/oeil/file.jsp?id=5916172
+-//EP//DTD IM-PRESS 20050901 IPR DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 IPR DOC XML V0//EN

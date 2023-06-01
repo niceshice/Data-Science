@@ -1,0 +1,34 @@
+Can e-voting increase electoral participation?
+Institutions
+2011-03-23 - 15:42
+Voting by internet. E-voting in Estonia. The Baltic State is the first country in the 27-member EU to allow voting online. Considering the falling participation rate in EP elections, efforts to increase it and get Europeans involved in European policy are crucial . One way forward may be e-voting, especially among young voters who can do it between watching YouTube videos and checking Facebook. The Parliament's Science and Technology Options Assessment board (STOA) held a hearing on on the pros and cons of e-voting on 17 March.
+As Parliament's Silvana Koch-Mehrin Vice President put it: "How we can involve citizens is important from a European point of view "
+Bernd Beckert from the Fraunhofer Institute for Systems and Innovation Research presented the pros and cons to MEPs, saying "we already have e-commerce, e-education, e-administration - why shouldn't we also elect our parliaments over internet?"
+He said by offering e-voting, young people could be motivated to take part in elections they would otherwise ignore.
+He said that E-voting is the final step in the process of an IT-based modernisation of the entire administrative process and could reduce costs.
+However, he also said that e-voting is not the same as e-commerce - it's an essential part of democracy and if there's anything that potentially threatens the core values of it, like flawed elections, it must be avoided.
+He also raised concerns about transparency as voters cannot be sure that the vote is being transmitted, voters cannot verify if their vote is correctly stored and counted.
+He also warned that there are many potential security flaws.
+Estonia - the most prominent example
+In Estonia e-voting was introduced in 2005 and has been used for national as well as EP elections. It works using a digital signature card and two PIN numbers.
+The percentage of e-votes cast has increased from 2% of all votes cast in 2005 to 5.4% in 2007, 15% in 2009 and reached 24.3 % in 2011.
+Participants agreed that the effect of e-voting on voter participation remains unclear. "With e-voting you can vote where ever you are, whenever you want - we don't have evidence but this must increase participation," said Prof. Rüdiger Grimm (University of Koblenz, IT risk management).
+Prof. Barbara Simons (IT security expert, formerly IBM Research, US) was sceptical: "It is not the time yet and in my opinion it would be a mistake." She referred to security issues like hacking and stealing the elections: "How can we be sure that the voter PC is not being controlled? Vote rigging in voters' computers is easier than money theft in online banking - the virus will be voting, not the voter."
+A participant noted that postal voting can also be risky. Mr Grimm added: "I disagree with Barbara that the whole procedure cannot be safe - it can."
+***
+The STOA project on e-voting is part of a larger project on e-democracy
+20110321STO15986 Video of the event STOA summary of the event
+EN
+1
+PHOTO
+20110318PHT15827.jpg
+EN
+2
+LINK
+/wps-europarl-internet/frd/vod/player;jsessionid=5F935C67D79450A857689A1341A4E8F9?category=SPECIAL&eventCode=20110317-0930-SPECIAL&format=wmv&byLeftMenu=researchotherevents&language=en#anchor1
+EN
+3
+LINK
+/stoa/events/workshop/20111703/article_en.pdf
+-//EP//DTD IM-PRESS 20050901 STO DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 STO DOC XML V0//EN

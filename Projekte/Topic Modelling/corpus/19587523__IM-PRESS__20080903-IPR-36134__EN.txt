@@ -1,0 +1,32 @@
+More competition in airline reservation systems - with protection for consumers
+Transport
+2008-09-04 - 14:05
+MEPs adopted a first-reading legislative report on proposals to simplify and modernise the rules for the computerised reservation systems used by high-street and online travel agents to book airline tickets for their customers. MEPs believe this will mean more competition and therefore lower distribution costs, but they also want measures to ensure consumers get a fair deal - and can be presented with environment-friendlier travel options.
+Request for referral back to committee rejected
+A request by the ALDE and PES groups to refer the package back to the Transport Committee was rejected by the House with 265 voting in favour, 300 against and 37 abstentions.
+The Code of Conduct for computerised reservation systems regulates how travel bookings are managed by air carriers, the CRS companies (e.g. Amadeus and Sabre), travel agents and, where relevant, rail operators.
+"The new code is designed to re energise the travel sector, so the sooner it is introduced, the sooner we see the benefits of that – lower air fares, more choice and greater transparency." said EP rapporteur Timothy KIRKHOPE (EPP-ED, UK) speaking in the plenary debate.
+The existing Code includes strict requirements on non-discrimination between airlines which date from the time when the various CRSs were owned by airlines themselves. In most cases, the CRSs are now independent from airlines and the strict rules now have the effect of stifling competition and raising costs, according to the Commission, leading airlines to favour alternative approaches, such as selling tickets via their own websites.
+Competition on price and service quality
+The main aim of the Commission proposal is that airlines and CRSs should be able to negotiate freely the conditions of the distribution of air services. Systems should compete on price and service quality. Under the revision, the House believes, CRSs will have to compete more aggressively with each other for air carrier participation on the basis of lower booking fees and better service quality.
+Offer train as an alternative
+Parliament insisted that w here travel options are ranked, and where train services for the same city-pair are offered on the CRS, at least the best ranked train service or air-rail service must feature on the first screen of the principle display.
+Definitions of parent carrier, control and participation in the capital
+The only exception to this new freedom to negotiate terms of business concerns carriers who are the parent of a CRS – they must provide all the same information to other CRSs as they do to their own CRS. The text adopted by the European Parliament revises the key definitions of 'parent carrier' and 'control' to limit the influence of airlines over CRSs, but also to make an exception for accidental investments not conferring 'decisive influence' in the running of the CRS .
+Data Tapes and Data protection
+MEPs say that w here a system vendor operates databases in different capacities such as a CRS or as a host for airlines, technical and organisational measures must be taken to prevent the circumvention of data protection rules through the interconnection between the databases, and to ensure that personal data are only accessible for the specific purpose for which they were collected.
+A price is an inclusive price
+Where prices are shown in the principal display, and/or where a ranking based on prices is chosen, MEPs say that prices must be inclusive of the fares and of all applicable taxes, charges, surcharges and fees to be paid to the air carrier or rail-transport operator, and which are unavoidable and foreseeable at the time when shown on the display.
+CO2 emissions
+Parliament said that CRS should be encouraged to provide in the future easily understandable information about CO 2 emissions and fuel consumption of the flight. This could be shown via average fuel consumption data per person in litre/100km and average CO 2 emissions per person in g/km, and could be compared with data of the best alternative train/bus connection for journeys of less than five hours.
+20080903IPR36134 Debate (click on 3 September) - Code of Conduct for computerised reservation systems Text, as adopted by the EP, will be available here (click on 4 September)
+EN
+1
+LINK
+/activities/plenary/cre/calendar.do?language=EN
+EN
+2
+LINK
+/activities/plenary/ta/calendar.do?language=EN
+-//EP//DTD IM-PRESS 20050901 IPR DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 IPR DOC XML V0//EN

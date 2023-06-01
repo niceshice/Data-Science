@@ -1,0 +1,32 @@
+Security versus data protection - a SWIFT example
+Justice and home affairs
+2006-10-06 - 11:45
+SWIFT bank data - who knew what?
+If you have ever made a bank transfer to another European country, or sent money to a relative abroad, then you have probably used a "SWIFT" code. The Belgian company manages information on bank transfers around the world and is supervised by the G-10 central banks and the European Central Bank. In June it emerged that the company had been subpoenaed by the US government in 2001 for data that may be useful in the fight against terrorism. Since then it has been passing data to US authorities.
+When this was revealed by the US media in June, a huge controversy ensued, with Parliament passing a resolution calling for a public hearing on the issue. On Wednesday - 4 October - MEPs had their chance to discuss the issue with the Chief Financial Officer of SWIFT and the European Central Bank at a public hearing held by Parliament's Civil Liberties and Economic and Monetary Affairs committees. (Click on the link below for a full account of the exchanges).
+Smoke and Mirrors?
+The reason the data was handed over was that SWIFT automatically store data in a "mirror” centre in the US as well as in Europe. This is to guard against possible disruption says the company. The centre - in the US and liable to US law - was subpoenaed in 2001 for data after the 9/11 terrorist attacks. This is part of the "Terrorist Finance Tracking Programme" operated by the US. Who knew about this practice and its legal implications for the personal bank data of Europeans was fiercely debated at the hearing.
+Full exchanges?
+To read the full exchanges at the public hearing, click on the first link below.
+20061005STO11399 SWIFT SWIFT Resolution Civil Liberties Committee Economic and Monetary Affairs SWIFT Company Previous press relief
+EN
+1
+PHOTO
+20061005PHT11413.jpg
+EN
+4
+LINK
+/activities/expert/committees/presentation.do?committee=1248&language=EN
+EN
+5
+LINK
+/activities/expert/committees/presentation.do?committee=1237&language=EN
+EN
+6
+LINK
+http://www.swift.com/
+-//EP//TEXT IM-PRESS 20061002IPR11291 0 NOT XML V0//EN
+-//EP//TEXT TA P6-TA-2006-0317 0 NOT XML V0//EN
+-//EP//TEXT IM-PRESS 20060630IPR09433 0 NOT XML V0//EN
+-//EP//DTD IM-PRESS 20050901 STO DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 STO DOC XML V0//EN

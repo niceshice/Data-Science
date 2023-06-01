@@ -1,0 +1,35 @@
+Radio spectrum: MEPs back plan to expand Wifi
+Industry
+2007-02-21 - 12:48
+Radio spectrum: common EU rules could boost sector
+Radio spectrum - it may sound the preserve of men in white lab coats but in fact it affects us all in our everyday lives. Everything from TVs, mobile phones, Wifi connections to the internet and the remote locks on your car make use of radio spectrum. Despite widespread use the benefits to industry are not being exploited with all 27 EU states having different management systems. In mid-February MEPs adopted a report on radio spectrum calling for common rules and more market-driven policies.
+The use of radio spectrum is crucial in any appliance that uses wireless communication. As well as those mentioned above it also plays a role in guidance systems for planes, ships, satellites and in the defence industry.
+27 rules: a wide spectrum of opinion
+At present the system for assigning spectrum to interested parties differs from one EU country to another. This causes delays, extra costs and stifles competition in the market. This is particularly felt by firms who have to compete with US ones - where a single rule for managing radio spectrum exists.
+Last year the European Commission unveiled proposals that would improve innovation and competitiveness through common rules and a market based approach.
+MEPs back opening up of radio spectrum
+The Parliament's rapporteur for this issue, British Liberal MEP Fiona Hall of Parliament's Industry Committee, has broadly backed the Commission's proposals. Her report, adopted by MEPs on 14 February advocates a four step solution:
+Promote competition and innovation that will benefit consumers.
+Establish common rules on managing the sector across the EU.
+Assign radio spectrum access based on market demand.
+Ensure radio transmissions are not restricted by national boundaries.
+Speaking exclusively to the Parliament's website Mrs Hall spoke of the benefits to consumers: "despite hard lobbying by certain broadcasters, MEPs supported the idea that all parts of the spectrum could potentially be opened up. This could mean new uses for the spectrum...(especially) services such as wireless broadband for poor and hard-to-reach rural areas" she noted.
+Increasing access to radio spectrum is expected to benefit to consumers through cheaper and more accessible appliances such as mobile phones (especially 3G third generation ones) and other wireless related services.
+Opening the EU's internal market in this sector could also create jobs. As Mrs Hall noted "the pace of innovation in wireless technology is very fast, but manufacturers can only put their new suitable ideas on the market if they are suitable radio frequencies available. Freeing up radio spectrum ....will allow European manufacturers to fulfil their potential as global leaders in wireless technology, which in turn will create European jobs and growth".
+20070216STO03276 Radio Spectrum - Towards a sustainable approach (EP press release) EP Resolution on the radio spectrum (14 February 2007) The EU Radio Spectrum Policy (the EC web page) Parliament's Industry, Research and Energy EP committee
+EN
+1
+PHOTO
+20070221PHT03511.jpg
+EN
+4
+LINK
+http://ec.europa.eu/information_society/policy/radio_spectrum/index_en.htm
+EN
+5
+LINK
+/activities/expert/committees/presentation.do?committee=2354&rewritten&language=EN
+-//EP//TEXT IM-PRESS 20070208IPR02896 0 NOT XML V0//EN
+-//EP//TEXT TA P6-TA-2007-0041 0 NOT XML V0//EN
+-//EP//DTD IM-PRESS 20050901 STO DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 STO DOC XML V0//EN

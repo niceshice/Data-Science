@@ -1,0 +1,36 @@
+UN level classification of hazardous substances to be incorporated into EU law
+Public health
+2008-09-03 - 11:37
+MEPs adopted three legislative reports on the classification, labelling and packing of substances and mixtures. The first-reading agreement concerns the implementation of the UN level agreed, GHS (Globally Harmonised System) on classification, labelling and packaging of hazardous substances into EU legislation. The new rules are similar to existing EU rules (which will be replaced later) but certain technical change will have to be made.
+Parliament's rapporteur Amalia SARTORI (EPP-ED, IT) said: "An acceptable compromise has been reached. It gives the possibility to maintain the EU's international commitments, provides consistency between EU and UN legislation, is in line with the REACH regulation, provides for a better consumer protection and will help EU companies to become more competitive."
+Objectives
+The aim of the UN level agreed, GHS (Globally Harmonised System) system is to enable a judgment on a substance or mixture with respect to its hazardous properties (physical hazards and toxicity) and to provide a hazardous chemical with pertinent hazard labelling and information on safety measures (for example via labels, hazard pictograms and signal words ("danger" , "warning"). As with the current legislation, the proposed regulation is intended to be primarily a self-classification system for enterprises. The system aims at enhancing the protection of human health and the environment during the handling, transport and use of these chemicals. It is in line with REACH.
+Chemicals are manufactured and traded globally, and their hazards are the same around the world. Therefore the description of hazards should not differ between countries if the product is the same. Enterprises will save costs if they do not have to assess hazard information for their chemicals against different sets of criteria. If the same criteria are used to identify the hazards of chemicals and the same labelling is used to describe them, the level of protection of human health and the environment becomes more consistent, transparent and comparable throughout the world.
+Agreement with Council
+The compromise which has been agreed between representatives of the Parliament and the Council, aims to implement the GHS system into EU legislation. The new regulation will replace the existing EU directives on classification and labelling of substances which set forth an extensive system (3 key directives), but the current rules and the GHS are conceptually similar. The proposal aims to maintain the current level of environment and health protection, to keep the scope of the classification and labelling rules as close as possible to the existing EU system and to ensure a smooth transition to a new system based on GHS. The reclassification and labelling of most substances must be completed by 1.12.2010 for substances and 1.6.2015 for mixtures. The current Directives on classification, labelling and packaging will be repealed on 1 June 2015. During a transitory period both systems will be applied.
+• The regulation:
+- harmonises the classification, labelling and packaging rules for substances and mixtures;
+- obliges enterprises to classify their substances and mixtures themselves and to notify the classifications;
+- establishes a harmonised list of substances classified at Community level in Annex VI;
+- establishes a classification and labelling inventory, made up of all notifications and harmonised classifications referred to above.
+In the negotiations, MEPs managed to include several changes to the Commission's proposals wanting to guarantee a proper balance between the interests of consumers, the environment and industry:
+Member States shall appoint a body or bodies responsible for receiving information for formulating preventative and curative measures, in particular in case of emergency health response. Three years after entry into force the Commission shall assess possibility to harmonise information.
+Animal testing
+MEPs reiterate the commitment to reduce animal testing. Where new tests are carried out for the purposes of this Regulation, tests on animals within the meaning of Directive 86/609/EEC should only be undertaken only where no other alternatives, which provide an adequate reliability and quality of data, are possible.
+Tests on non-human primates are prohibited for the purposes of this Regulation.
+Tests on humans are not be performed for the purposes of this Regulation. Data obtained from other sources, such as clinical studies, can however be used for the purposes of this Regulation.
+20080902IPR35970 Chemicals: classification, labelling and packaging of substances and mixtures (amend. Directive 67/548/EEC and Regulation (EC) No 1907/2006) Chemicals (downstream legislation): Decision amending Council Directives 76/768/EEC, 88/378/EEC, 1999/13/EC and Directives 2000/53/EC, 2002/96/EC and 2004/42/EC in order to adapt them to Regulation (EC) ... on Classification, Labelling and Packaging of Substances and Mixtures, and amending Directive 67/548/EEC and Regulation (EC) No 1907/2006 Chemicals (downstream legislation): Regulation amending Regulation (EC) No 648/2004 in order to adapt it to Regulation (EC) No... on Classification, Labelling and Packaging of Substances and Mixtures, and amending Directive 67/548/EEC and Regulation (EC) No 1907/2006
+EN
+1
+LINK
+/oeil/file.jsp?id=5503432
+EN
+2
+LINK
+/oeil/file.jsp?id=5547042
+EN
+3
+LINK
+/oeil/file.jsp?id=5547252
+-//EP//DTD IM-PRESS 20050901 IPR DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 IPR DOC XML V0//EN

@@ -1,0 +1,56 @@
+The election online - some stats
+2009 elections
+Institutions
+2009-06-11 - 12:23
+Facebook and YouTube are just two places online where you can find information about the elections. Almost two million of you came to the Parliament's website over the election period to find out what was going on in the European elections. It reflected the interest in the 7th Europe-wide poll held in 30 years. Here we draw together a few online stats about the different ways people use the internet to follow the poll.
+8: different ways to see the election online: YouTube, Flickr, Facebook, MySpace, twitter, EP website, special election website and europarltv.
+1,955,627: Visitors to the Parliament's website and special elections site between 1-8 June.
+120 million: page requests: the number of "page loads" requested for the special results site.
+52,000: number of fans of the European Parliament's Facebook page.
+17: programmes on europarltv as well as live coverage of the whole election night.
+100,000: visits to the Parliament's MySpace profile.
+659: photos put on Flickr on election night.
+440,000: views of election videos and of tv adverts for the elections.
+2,189 : "tweets" on the election twitter during the election night with "elections" becoming the 3rd most debated topic that night.
+141: articles published on parliament's website over the election period.
+736: MEPs elected.
+2014: the next European election. How will the internet look then? Many are wondering if more countries will adopt the Estonian practice of voting online.
+20090608STO56953 Results Elections 2009 europarltv Facebook MySpace YouTube Flickr twitter
+EN
+1
+PHOTO
+20090611PHT57046.jpg
+EN
+2
+LINK
+http://www.elections2009-results.eu/en/new_parliament_en.html
+EN
+3
+LINK
+/elections2009/default.htm?language=EN
+EN
+4
+LINK
+http://www.europarltv.eu/
+EN
+5
+LINK
+http://www.facebook.com/europeanparliament
+EN
+6
+LINK
+http://www.myspace.com/europeanparliament
+EN
+7
+LINK
+http://www.youtube.com/europeanparliament
+EN
+8
+LINK
+http://www.flickr.com/photos/european_parliament
+EN
+9
+LINK
+http://twitter.com/EU_Elections_en
+-//EP//DTD IM-PRESS 20050901 STO DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 STO DOC XML V0//EN

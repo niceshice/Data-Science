@@ -1,0 +1,44 @@
+"Internet has to be free, but not regulation free" - Harbour on telecoms package
+Hearings
+Information society
+2009-05-06 - 16:01
+Interview with Malcolm Harbour, rapporteur for the telecoms package "The telecoms package has never been about anything to do with restrictions on the internet," Malcolm Harbour told us ahead of Parliament's debate Tuesday on the telecoms package, which aims to reform the existing European electronic communications framework. The new legislation will ease the use of electronic communications services for European consumers, and the measures taken on users' internet access will have to respect their fundamental rights.
+Mr Harbour, is guiding the consumer protection-related issues of the proposed legislation through parliament. Other aspects involve radio spectrum measures and the creation of a body to step up co-operation between national regulators to tackle telecoms regulation. Read the interview and tell us what you think about policing the internet.
+One of the last outstanding issues during the talks between MEPs and Ministers was measures regarding access to electronic communications services. How do the new proposals concern users' internet access and use?
+This directive package has never been about copyright enforcement. The Parliament cannot impose on a country conditions about how it organises its judicial system. That is a basic element of subsidiarity.
+What we have done is to make it absolutely clear that the right to access the internet is part of European citizen's fundamental rights and so the Convention on European Rights and Fundamental Freedoms will apply.
+Issues about limiting access to website are dealt with by national governments. There is not a European prescription on this matter. For example in France you cannot access a website that sells Nazis memorabilia; the French government decided that.
+What we can do at European level is to make a general requirement for consumers to have information about sites that are restricted, so you as a consumer are entitled to know if a provider is limiting access to certain sites and for what reasons.
+You might choose to have a service-limited package; nobody has ever suggested that we have a general rule that if you buy an electronic communications service package you will have access to everything. That's like saying that if you have a bookshop you are legally obliged to stock every book.
+According to rumours in cyberpsace the proposed new rules will impose conditional access to internet, providers will be able to limit the number of site you're visiting and Skype could be blocked. Is Internet freedom really at risk?
+That's pure fantasy. The Telecoms package has never been about anything to do with restrictions on the internet. I am astonished to see this remarkable text from Black-out Europe. There is absolutely nothing in this proposal that says anything about that.
+What consumer-friendly measures are there?
+Information will be much more transparent and open, making it easier for consumers to change service providers. In the precontractual information they will have to know if they are tied in for a service for a particular time. Also operators will not be able to tie in users for more than 24 months, because in a very fast moving world like the internet that's a disincentive to change.
+Alongside that it will be easier for people to transfer their telephone number from one service provider to another; that has to be done within one working day. We have also stepped up the quality of the emergency service, you will have caller location information on your handset, which could be a life or death issue.
+We have also strengthened price transparency, availability of price comparison websites, and the ability of the national regulators to oblige operators to provide service access for disabled people. Consumers will be able to request a price cap when their usage reaches a certain amount during a month. If your personal data is released inadvertantly by communications providers onto the internet they have to give you a proper notification of that.
+How much should the Internet be policed, if at all?
+Clearly the internet has to be policed because it is being used for illicit activities such as terrorist activities, child pornography, child trafficking and so on.
+The basic principle is that internet always has to be a free internet, but it is not completely regulation free.
+Do you think the internet should be policed? Tell us your views by clicking on the link below.
+20090504STO54873 Watch live Agenda Briefing Telecoms backstory Tell us what you think! Send us your comments! Telecoms background
+EN
+1
+EUROPARL-TV
+http://www.europarltv.europa.eu/swf/EmbedPlayer.swf?vid=7ed09878-9ad2-4d87-89b1-0f82428db37b&cid=0c8dedcf-1098-46c9-9b85-6f2b0f0b120d&lang=en&bitrate=512&loop=off&autoplay=off&startVolume=medium&showTitle=on&showBottom=on
+EN
+2
+LINK
+/wps-europarl-internet/frd/live/live-video?language=en
+EN
+3
+LINK
+/activities/plenary/agenda.do?language=EN
+EN
+6
+LINK
+/elections2009/welcome/headlines.htm;jsessionid=5527B1F126E4DC26048AB382700CA932.node2?language=EN&ref=20090504STO54873&secondRef=0#debate
+-//EP//TEXT IM-PRESS 20090421BRI54104 ITEM-009-EN NOT XML V0//EN
+-//EP//TEXT IM-PRESS 20080526FCS29861 0 NOT XML V0//EN
+-//EP//TEXT IM-PRESS 20090504BKG54930 0 NOT XML V0//EN
+-//EP//DTD IM-PRESS 20050901 STO DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 STO DOC XML V0//EN

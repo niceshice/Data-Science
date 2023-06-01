@@ -1,0 +1,53 @@
+si := min {b + [pi/d],M} MEPs try Maths "Cambridge Compromise"
+Institutions
+2011-02-24 - 16:41
+The formula means 16 countries will lose MEPs and 5 countries (the smallest ones) will keep the current number of MEPs It's part of a report on electoral reform of the EP to reflect demographic change. The scientists had some constraints as the Parliament shall not exceed 751 members The Constitutional Affairs Committee became home to Mathematics Monday (7 February) as MEPs debated ways in which seats of the European Parliament could be divided in future in a way that is fairer and would take into account possible new countries. They spoke with Cambridge Professor Geoffrey Grimmett who came up with the formula: si := min {b + [pi/d],M}
+It's part of a report on electoral reform of the EP to reflect demographic change. The scientists had some constraints as the Parliament shall not exceed 751 members (but it can be smaller) and the minimum threshold of seats is 6 seats per country whilst the maximum is 96.
+They were looking for proposition that is durable in moment of future enlargements or migration shifts and is easy to explain to constituents and impartial to politics,
+That formula means 16 countries will lose MEPs, 5 countries (the smallest ones) will keep the current number of MEPs, and 6 countries will receive extra MEPs (the biggest ones + Estonia). The formula will work for future possible enlargements (both for small countries like Croatia and Iceland, and big countries like Turkey).
+Cambridge Professor Geoffrey Grimmett remarked: "The formula should be able to sustain. That's an important condition. It should be robust to possible changes to the architecture of the EU over the next few years." He said the use of a mathematical formula would eliminate "political bargaining."
+Parliament's Rapporteur on the issue is British Liberal MEP Andrew Duff who underlined that it is not up to the European Parliament to decide on this issue (as an Intergovernmental Conference of European Union States will decide), but it is up to the Parliament to present the proposition that will be the base for discussion of the EU leaders. "This formula will be fairer that the present distribution which is a product of political bartering. It's also more transparent."
+Italian Socialist Roberto Gualtieri was supportive of the mathematicians: "I think that the compromise adopted is very positive and I do hope that following the rational approach, this will allow to the Parliament to provide Council with durable, partial and transparent instrument."
+British MEP Ashley Fox (ECR) told the Hearing that "16 Member States lose MEP's. This formula requires unanimity. And although it has my sympathy in trying to persuade 27 nation states, this is not a good idea when 16 of them have losses".
+Elmar Brok (EPP) noted that "we need more lines of argument and more information to prevent that those MEPs from countries that will lose deputies don't reject a formula that is logical".
+Polish MEP Rafal Trzaskowski (EPP) noted that "even if we fail, at least we try to actually introduce such thinking in the debate of this committee. It would benefit us greatly, because it is logical and consistent."
+Hungarian MEP György Schöpflin (EPP) did not agree with the formula because he thinks that there are some countries are overrepresented, and it is not the case of his country and other middle countries: "In an institution like the European Union, a degree of stability is provided in the system by the parity of esteem".
+Next steps
+The report should be adopted in the committee in April, and voted in the plenary in May.
+Cambridge compromise
+m := minimal number of seats/State
+M := upper bound of seats/State
+H := Parliament size
+m = 6, M = 96, H = 751
+base = 5
+[x] denotes x rounded upwards
+where d (divisor) is chosen so that ∑i si = H.
+p - people
+i - countries
+20110218STO13924 The current method of distribution of seats in the EP Video of the debate Report by Andrew Duff Parliament's 18 additional MEPs (PR) Composition of the European Parliament after European elections in June 2009 (PR)
+EN
+1
+PHOTO
+20110217PHT13824.jpg
+EN
+2
+LINK
+http://europa.eu/legislation_summaries/institutional_affairs/treaties/lisbon_treaty/ai0010_en.htm
+EN
+3
+LINK
+/wps-europarl-internet/frd/vod/player;jsessionid=888E10AE941B2ACA1B7152FA7A0C038D?category=COMMITTEE&eventCode=20110207-1600-COMMITTEE-AFCO&format=wmv&byLeftMenu=researchcommittee&language=en#anchor1
+EN
+4
+LINK
+/meetdocs/2009_2014/documents/afco/pr/838/838060/838060en.pdf
+EN
+5
+LINK
+/en/pressroom/content/20100223BKG69359/1/html/Size-and-composition-of-the-Parliament-in-the-Lisbon-Treaty
+EN
+6
+LINK
+/sides/getDoc.do?type=IM-PRESS&reference=20071008IPR11353&language=EN
+-//EP//DTD IM-PRESS 20050901 STO DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 STO DOC XML V0//EN

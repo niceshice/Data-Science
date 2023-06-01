@@ -1,0 +1,29 @@
+EP-Council deal on rules for a safe and transparent derivatives market
+Economic and monetary affairs
+Committees Economic and Monetary Affairs
+2012-02-09 - 18:57
+Ron KORVER BXL (+32) 2 28 44659 STR (+33) 3 881 74903 PORT (+32) 498 98 35 88 EMAIL econ-press@europarl.europa.eu After long negotiations a compromise deal on new EU legislation to regulate trade in over-the-counter (OTC) derivatives and make the derivatives market safer and more transparent was struck by Parliament and Council representatives on Thursday. Derivatives trading is widely believed to have contributed to the global financial crisis.
+Werner Langen (EPP, DE), who is steering the regulation through Parliament, welcomed the deal as a "big step towards a more transparent and safe market for OTC derivatives", saying he was glad that "the Council accepted a strong role for the new European Markets and Securities Supervisor (ESMA)", and adding that he hoped to secure a good majority in favour in the plenary vote.
+Obligatory clearing for OTC derivatives only
+The regulation lays down that OTC derivative contracts would need to be cleared through central counterparties (CCPs), thus reducing counterparty credit risk, i.e. the risk that one party to the contract may default.
+Obligatory reporting for all derivatives
+MEPs secured a requirement that all derivative contracts (not only OTC derivatives), would have to be reported to central data centres, also known as trade repositories. These trade repositories would have to publish aggregate positions by class of derivatives, thereby offering market participants a clearer view of the derivatives market.
+The newly-established European Securities and Markets Authority (ESMA), will be responsible for the surveillance of trade repositories and for granting and withdrawing their registration.
+Strong role for ESMA
+One hot potato in negotiations with Member States was the authorisation of CCPs.
+Parliament's negotiators secured a stronger role for the college and for ESMA, which would make it easier to block an authorisation. Parliament succeeded in providing for binding mediation by ESMA in disputes between national authorities over the authorisation of CCPs.
+Narrow scope, few exemptions
+MEPs also secured a "light touch" regime for pension schemes with regard to the clearing obligation. This will apply for three years, extendable by another two years plus one, subject to proper justification.
+Recognition of CCPs from third countries
+CCPs from third countries will be recognized in the EU only if the legal regime of the third country in question provides for an effective equivalent system for recognition. However, this does not set a precedent for other legislation on the supervision and oversight of financial market infrastructures.
+Revision after three years
+The Council and Commission also agreed to a proposal by Parliament to have the implementation of the legislation evaluated by the Commission. This evaluation would include the effectiveness of the supervisory framework for CCPs, including the effectiveness of supervisory colleges, the respective voting arrangements and the role of ESMA, particularly during the process of authorising CCPs.
+The Commission will present a report, if necessary accompanied by proposals to Parliament and Council, no later than three years after the regulation's entry into force.
+Background
+The legislation puts into effect commitments given in Pittsburgh in September 2009 by G-20 leaders. That was about one year after the collapse of Lehman Brothers, a major player in the OTC derivatives market.
+The regulation aims to bring greater safety, transparency and stability to the OTC derivatives market, which was valued at around €425 trillion in 2009.
+Next steps
+The outcome will need final approval from Parliament as a whole and in the Council. The legislation will enter into force 20 days after publication in the Official Journal.
+20120209IPR37742
+-//EP//DTD IM-PRESS 20050901 IPR DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 IPR DOC XML V0//EN

@@ -1,0 +1,66 @@
+Energy: European Parliament adopts full ownership unbundling for electricity
+Energy
+2008-06-18 - 13:59
+In a hotly contested vote, the European Parliament adopted provisions in support of full "ownership unbundling" - the separation of firms' generation assets from their transmission networks - in the electricity market. In doing so, (and in endorsing a stronger role for the Energy Regulators Agency) it went even further than the original Commission proposal and challenged an agreement reached recently by the Council.
+On 6 June, Member States reached a compromise modelled after a so-called "third way" proposal, endorsing two alternatives to ownership unbundling: the "independent system operator" (ISO) and "independent transmission operator" (ITO) models. Both of these would have allowed European energy companies to retain their network assets, provided they met strict conditions to ensure separation of interests between supply and transmission. The Parliament, in turn - following the lead of its Industry Committee - rejected both derogations, backing full ownership unbundling as the only option for electricity companies.
+"I'm disappointed with the agreement reached by the Council", explained Eluned Morgan (PES, UK) during a debate held prior to the vote. "You've bent too much to the will of the minority", added the rapporteur on electricity. This minority, she said - Austria, Bulgaria, France, Germany, Greece, Luxembourg, Latvia and the Slovak Republic, all of whom backed the "third way" proposal - "protect national champions who want to invest in other markets, but refuse entry into their own". "I am also disappointed with the Commission for not defending its own position" [in favour of unbundling], she then said. "You've backtracked. We haven't."
+MEPs also preserved the Commission's proposal to prevent control of transmission systems or transmission system operators "by a person or persons from third countries".)
+Making a difference at the consumer end
+MEPs also bolstered the draft legislation with a number of consumer protection measures. Customers, they decided, should have:
+the right to withdraw from contracts with their electricity providers without charge
+the right to compensation if service quality levels are not met (as with, for example, inaccurate and delayed billing)
+access to information on their rights through bills and electricity company web sites
+access to information on procedures to be followed in case of disputes
+the right to change supplier within two weeks
+the right to be informed, at least quarterly, of actual electricity consumption and costs
+access to smart meters within 10 years of the directive's entry into force
+the right to have their electricity provided by a supplier regardless of the Member State in which the supplier is registered
+the right to protection against market abuse: to that end, national authorities must be able to impose "price caps in uncompetitive markets for a defined and limited period"
+independent complaints services and alternative redress schemes such as an independent energy ombudsman or a consumer body
+Aside from these provisions, the Committee also saw to it to address the needs of vulnerable energy consumers. It decided, therefore, that EU countries should take "appropriate measures [...] to ensure that the number of people in energy poverty" – those unable to afford heating the home to an acceptable standard, as defined by the WHO – "decreases in real terms." MEPs also insisted that countries work towards cutting the cost of energy to low income households - and that Member States protect pensioners and disabled people from disconnection of in winter. In the same vein, they backed an amendment mandating national authorities "to introduce pricing formulas which increase for greater levels of consumption".)
+The climate dimension...
+Bearing in mind the inextricable link between energy consumption and climate change, members also authorized national authorities to require system operators "to give priority to generating installations using renewable energy sources or waste or producing combined heat and power" -- except when the safety and reliability of the grid is compromised. Member States "may require", MEPs also added, "that electricity revenues from domestic consumers be spent to fund energy efficiency".
+... And the regional dimension
+National authorities should work together to integrate their national markets "at least at one or more regional levels", the Committee also decided – this, "as a first and intermediate step towards a fully liberalised common European market". A concerted effort should also be made towards integrating the EU's "electricity islands."
+More powers for the Energy Regulators Agency
+In two separate reports - authored by Giles Chichester (EPP-ED, UK) and Alejo Vidal-Quadras (EPP–ED, ES) - MEPs endorsed a strong decision-making role for the Agency for the Cooperation of Energy Regulators. (Here too, they went against the grain of the Council compromise, which would have granted the Agency advisory powers only)
+The Commission, in its original proposals, had created two new bodies, the European Network of Transmission System Operators for electricity (ENTSOE) and gas (ENTSOG), endowing each with the power to adopt:
+network codes on:
+- security rules, including interoperability rules and procedures for emergency situations
+- grid connection and access rules
+- cross-border capacity allocation and congestion management rules
+- network-related transparency rules
+energy efficiency rules a 10-year investment plan an annual work programme research plans
+The Agency, under such a model, would only have played an advisory role vis-à-vis the ENTSOs. The EP vote, however, flips the scheme around: the political groups agreed that it ought to be (a) the ENTSOs who - on the basis of Agency guidelines - propose the rules, plans and codes cited above, and (b) the Agency which adopts them. Moreover, MEPs decided, the Agency should be competent to monitor the ENTSOs' implementation of the network codes. It should also have a considerable say in defining "issues of prime importance" for the development of the internal market in electricity and gas.
+With new competences come new responsibilities. The Agency, MEPs decided, should therefore be made more accountable: its director should be subject to a vote of approval by the European Parliament and should thereupon regularly report back to the EP on the performance of his or her duties.
+The seat of the Agency, MEPs decided, should be in Brussels.
+Results of the votes on the three reports adopted by the European Parliament:
+The internal market in electricity , Eluned Morgan (PES, Wales, Labour UK)
+- 449 in favour, 204 against, 19 abstentions
+Conditions for access to the network for cross-border exchanges in electricity , Alejo Vidal-Quadras (EPP–ED, ES)
+- 575 in favour, 34 against, 36 abstentions
+The Agency for the Cooperation of Energy Regulators , Giles Chichester (EPP-ED, South West, Conservative, UK)
+- 580 in favour, 40 against, 48 abstentions
+20080616IPR31781 Common rules for the internal market in electricity Conditionsfor access to the network for cross-border exchanges in electricity Establishment of an Agency for the Cooperation of Energy Regulators Texts, as adopted by the EP, will be available here (click on 18 June) Audio, 28:56 - Rapporteurs Eluned Morgan and Alejo Vidal-Quadras - EN
+EN
+1
+LINK
+/oeil/file.jsp?id=5533232
+EN
+2
+LINK
+/oeil/file.jsp?id=5533292
+EN
+3
+LINK
+/oeil/file.jsp?id=5533252
+EN
+4
+LINK
+/activities/plenary/ta/calendar.do?language=EN
+EN
+5
+MULTIMEDIA
+20080618MLT32249.asf
+-//EP//DTD IM-PRESS 20050901 IPR DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 IPR DOC XML V0//EN

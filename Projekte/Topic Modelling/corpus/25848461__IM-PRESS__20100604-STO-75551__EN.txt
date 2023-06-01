@@ -1,0 +1,32 @@
+Galileo: European alternative to GPS needs more funding
+Research and innovation
+2010-06-07 - 12:35
+Satellite in orbit Budget for 18 of 30 satellites 18 satellites to be deployed by early 2014 Annual budget €750 million Nowadays we rely heavily on satellite positioning and navigation, but the only available technology is American. The European Galileo project is a viable alternative to the GPS system and it is at an advanced stage, but needs more funding. The advantages of a proprietary system are undeniable, but are they worth what we're going to spend on them in this time of financial crisis?
+On 1 June, Parliament's Industry Committee organised a question and answer session with the European Commission on current developments and the financial requirements of the Galileo project.
+Industry Committee Chair Herbert Reul said, "Economically and politically, investing in the completion of the Galileo system is a wise idea. It would be a mistake to abandon the project halfway trough, as more and more economic applications are based on space-based positioning, such as applications in the transport, agricultural or construction sector. The downstream industry's potential has only begun to unfold."
+The increased quality and reliability of Galileo signals will make way for a wide range of potential applications. Transport and aviation will benefit from the improved precision and it will be possible to monitor the distribution of chemicals in farming. The system will also help to protect the environment, tracking pollutants and icebergs and studying tides, currents and sea levels.
+What is Galileo?
+Galileo is a global navigation satellite system, currently being developed by European Space Agency and the European Commission to provide a viable alternative to the American global positioning system. It consists of a constellation of 27 satellites orbiting Earth and providing a much more accurate measurement than GPS, down to 1 meter for open access navigation.
+It has been developed for civilian use and any decisions over military use must be taken by Parliament and the Council of Ministers.
+Current funds are sufficient for a first batch of 18 satellites , but 30 (27 + 3 spares) are needed to guarantee global coverage. In addition, they will need to be upgraded and maintained long-term. The expected budget is €750 million a year.
+"The Commission must certainly pay attention to a professional handling of the financing of Galileo. Cost overruns in the order that we have seen in the past should absolutely be prevented," Mr Reul said.
+Control centres are being built and the first satellites will be launched in 2011 with 18 satellites deployed by early 2014.
+Galileo premium services:
+Commercial navigation: user charged a fee and guaranteed measurement precision to the centimetre
+PRS (Public Regulated Service): an encrypted signal for police, emergency and potentially military services, inaccessible to everyone but governmental agencies
+Search and rescue (exclusive to Galileo): satellites will carry transponders to pick up distress beacon locations and transmit the signal to search and rescue organisations
+20100604STO75551 Watch the meeting Commission page on Galileo
+EN
+1
+PHOTO
+20100602PHT75471.jpg
+EN
+2
+LINK
+/wps-europarl-internet/frd/vod/player?eventCode=20100601-0900-COMMITTEE-ITRE&language=en&byLeftMenu=researchcommittee&category=COMMITTEE&format=wmv#anchor1
+EN
+3
+LINK
+http://ec.europa.eu/enterprise/policies/space/galileo/index_en.htm
+-//EP//DTD IM-PRESS 20050901 STO DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 STO DOC XML V0//EN

@@ -1,0 +1,40 @@
+Derivatives: To understand risks better, transparency should be increased
+Economic and monetary affairs
+2010-04-28 - 17:02
+A futures and options derivatives trader looking at a screen of market data. ©BELGA_imagebroker_Simon Belcher Have derivatives made finance riskier? Langen report due on regulation of derivatives Derivatives, often complex financial products used by financial and non-financial institutions to reduce the riskiness of their businesses, can, paradoxically, increase the risks in the world financial system. The participants at a hearing on Tuesday 27 April by Parliament's Economic and Monetary Affairs Committee agreed that more transparency in the derivatives market would go a long way towards remedying this problem.
+Just how to go about achieving more transparency in what has often been seen as an opaque market was the subject of a lively debate, chaired by British Liberal Sharon Bowles. As a report by German Christian Democrat Werner Langen on the regulation of derivatives winds its way through Parliament, MEPs, banks, regulators and end-users all want their concerns reflected in the final text.
+The problem with the over-the-counter derivatives is that it is hard to know who is buying what from whom. There is not enough data and transparency on what firms are doing in bilateral deals, so risks can build up.
+Jean-Pierre Jouyet, head of the French market regulator (AMF) said, "it's not right that the central bank doesn't know what's going on".
+Is central counterparty (CCP) a solution?
+The main thrust of the Langen report is that to increase transparency and reduce counterparty risk, regulators should mandate that derivatives be cleared centrally, by CCP.
+A central counterparty is a clearing house: parties negotiate bilaterally, but all trades go through the CCP which makes sure parties live up to their ends of the contract.
+The central counterparty system says that each party puts some money up front, so that in the event of default the non-defaulting party gets the money it was promised.
+German Socialist Udo Bullmann believes that a difference should be made between those who use derivatives to hedge against risk and those who use them to speculate.
+Richard Raeburn, Chairman of the European Association of European Treasurers told the hearing that non-financial companies don't pose systemic risk and don't use derivatives to speculate.
+Blythe Masters of banking giant JP Morgan, replying to a question from British Labour MEP Catherine Stihler on any regrets JP Morgan may have had regarding the way credit default swaps (CDS) had got out of hand said, "there are definitely lessons that have to be learnt. I for one feel that I have learnt from that experience and there are things I may like to have seen done differently." Ms Masters was on the J.P. Morgan team that did the first CDS trades back in the 1990s.
+What is an OTC derivative?
+A derivative: a contract usually between a company and a bank that derives its value price from movements in the underlying security (such as stock, a currency, a bond, an interest) from which it is derived.
+OTC stands for over-the-counter i.e. bought from a bank.
+20100426STO73416 Economic and Monetary Affairs Regulating the derivatives markets Financial crisis glossary (I): The basics Financial regulation: How to cope better with future crises? European Commission communication on derivatives regulation Legislative Observatory Derivatives markets: future policy actions
+EN
+1
+PHOTO
+20100427PHT73573.jpg
+EN
+2
+LINK
+/activities/committees/homeCom.do?language=EN&body=ECON
+EN
+6
+LINK
+http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=COM:2009:0563:FIN:EN:PDF
+EN
+8
+LINK
+/oeil/FindByProcnum.do?lang=en&procnum=INI/2010/2008
+-//EP//TEXT IM-PRESS 20100305IPR70067 0 NOT XML V0//EN
+-//EP//TEXT IM-PRESS 20100414FCS72750 0 NOT XML V0//EN
+-//EP//TEXT IM-PRESS 20100312STO70526 0 NOT XML V0//EN
+-//EP//TEXT COMPARL PE-438.493 01 NOT XML V0//EN
+-//EP//DTD IM-PRESS 20050901 STO DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 STO DOC XML V0//EN

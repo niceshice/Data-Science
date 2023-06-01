@@ -1,0 +1,33 @@
+Do internet companies protect personal data well enough?
+Justice and home affairs
+2008-01-22 - 11:07
+Claims that big internet companies, such as Google or Yahoo, track the on-line behaviour of millions of users, so as to be able to sell the resulting data to on-line advertisers, raise difficult issues, such as whether these data could also be used for other purposes that violate personal privacy, said data protection, industry and consumer protection bodies at a public hearing held by the Civil Liberties Committee on 21 January.
+The fact that privacy laws differ markedly from country to country, whilst internet use knows no borders, complicates any attempt at a definitive answer, but a common EU, or even transatlantic, approach on how to protect internet users' data is badly needed, stressed Sophia in 't Veld (ALDE, NL). On the other hand, internet companies are unlikely to give up on their activities: on-line advertising is a 27 billion dollar market, which is expected to double in four years.
+"Community law on data protection does apply on the Internet, it applies to both online and offline realities (...). Existing rules do apply and do provide safeguards", affirmed European Data Protection Supervisor Peter Hustinx, in contrast to the view, stated by Stavros Lambrinidis (PES, EL), at a press conference beforehand, that "there is no EU legislation per se to ensure that information targeting behaviour for marketing purposes will not be used for other activities that far exceed the initial purpose".
+Government access to personal data
+MEPs asked internet companies' representatives how industry can minimise the risk of breaching privacy rules. "Has the US Administration or any other government requested access to personal data for purposes of police investigations? If so, who determines whether the protection of privacy is being violated?" asked Mr Lambrinidis.
+For Google, Global Privacy Counsel Peter Fleischer said: "If a law enforcement authority makes a concrete request to, let's say, investigate child pornography, and if it is made through valid legal process, we respond to it. And the rules vary in each particular country, so this is why we have to face it with a good team of lawyers. We also challenged a disproportionate request for millions of pieces of information in a US court, and we won", he added, observing that this set an important precedent.
+"Can they get me through my IP address?"
+One issue that prompted considerable debate is whether or not the Internet Protocol (IP) address (a 32-bit numeric address that serves as an identifier for each computer) should be defined as "personal data" and be subject to specific privacy rules. "From a US perspective, there is no consensus over this issue", said US Federal Trade Commissioner representative Pamela Harbour.
+"There is no black or white answer: sometimes an IP address can be considered as personal data and sometimes not, it depends on the context, and which personal information it reveals" added Peter Fleischer for Google.
+Executive Director of the Electronic Privacy Information Center (EPIC) Marc Rotenberg disagreed. "I wish this was the case, but we are moving towards the IP6 model, for which it will be even more the case that IP addresses will be personably identifiable", he said, adding that business operations such as the acquisition of Doubleclick by Google in April 2007 "underscore the need to bring data protection into account when the responsible authorities review the merger". The Google-Double Click deal is currently being examined by the European Commission.
+"The internet would not be what it is without advertising"
+"We have to know who is consulting what - otherwise our business would not work", said Peter Fleischer, pointing out that the growth in services on the internet, supplied virtually free, is "partly due to advertising".
+Microsoft representative Thomas Nyrup agreed that "the internet would not be what it is without advertising". He nonetheless stressed the need to ensure respect for the three principles of "consent, transparency and security" because the "the consumer must be able to check how his data is shared".
+Does advertising broaden consumer choice?
+The confidentiality and security of internet exchanges are not guaranteed and it is doubtful whether targeted advertising broadens consumer choice said Ms Cornelia Kutterer, for the consumer body Bureau Européen des Unions de Consommateurs (BEUC).
+Define international rules to protect internet privacy
+Mr Artemi Rallo Lombarte, of the Spanish data protection authority, advocated defining international rules to protect the privacy of internet users, to ensure that they are informed of the use made of their data.
+Civil Liberties Committee Chairman Jean-Marie Cavada (ALDE, FR), then asked about analyses done on the content of e-mail sent via internet messaging services. Microsoft's representative denied that his firm engages in this practice, but Google's admitted to it, but reiterated that it was done solely for advertising purposes. Marc Rotenberg (EPIC) nonetheless judged this to be a "very sensitive" issue, which he likened to telephoning to reserve a table at an excellent French restaurant, only to be immediately called back by another restaurateur seeking to cancel the reservation.
+"Consumers must be able to exercise their power"
+Sophia in 't Veld noted that "Facebook" social network users had recently objected to the use made of their personal data, and had obliged the company to change its practices. "Consumers must be able to exercise their power", she said. Ms in 't Veld also criticized certain public authorities whom she said "use personal data without any rule, and want to keep it that way".
+Carlos Coelho (EPP-ED, PT) advocated treating IP addresses as personal data. "Trust between the user and the on-line service supplier cannot exist in a monopoly situation, yet Google's buyout of Doubleclick could create such a case" he said.
+Speakers then discussed the possibility of strengthening existing EU legislation. Commission representative Achim Klabunde presented a recent proposal, defining "the rights and duties of electric communication or network suppliers" and "provisions against unsollicited communications". He stressed the need to inform users "particularly when abuses are uncovered, or data are lost". Furthermore, "sanctions should be proportionate" to any abuses, he said.
+2008-01-22 In the chair: Jean-Marie CAVADA ALDE FR
+20080121IPR19236 Committee on Civil Liberties, Justice and Home Affairs
+EN
+1
+LINK
+/activities/committees/homeCom.do?language=EN&body=LIBE
+-//EP//DTD IM-PRESS 20050901 IPR DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 IPR DOC XML V0//EN

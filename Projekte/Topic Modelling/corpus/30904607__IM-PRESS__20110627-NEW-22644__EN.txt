@@ -1,0 +1,687 @@
+Clearer food labelling to help consumers choose
+2011-06-30 - 14:59
+Food labels will in future have to spell out a food's energy content as well as fat, saturated fat, carbohydrate, sugar, protein and salt levels, under EU rules set to be approved by MEPs next Wednesday. The new rules, designed to update, simplify and clarify food labelling, will cut red tape for producers and food business operators and give a boost to the EU single market. Shoppers will be able read labels more easily and make better informed, healthier choices.
+Allergens will be highlighted in ingredient lists, so that consumers can see the details at a glance. Allergen information must also be given for non-packaged foods, for example food sold in restaurants or canteens.
+The country of origin will have to be stated for fresh meat from pigs, sheep, goats and poultry, not just beef and veal as at present. Consumers will also be told the source of vegetable oils used in products, for example palm oil. Strict rules will help ensure that shoppers are not misled by the presentation of the packaging. There will also be rules on labelling imitation food, for example imitation cheese or ham.
+The new legislation is the outcome of a deal struck between MEPs and the Council Presidency, which now needs the final approval of the full Parliament in Strasbourg.
+Procedure: Co-decision (2nd reading)
+Debate: Tuesday 5 July
+Vote: Wednesday 6 July
+Press conference: Wednesday 6 July, after the votes (to be confirmed) Draft report Press release on committee vote (19.04.2011) Press release on agreement (22.06.2011) Background note - Food labelling: what the new EU rules will mean Profile of rapporteur Renate SOMMER (EPP, DE) Legislative Observatory file
+EN
+4
+LINK
+/en/pressroom/content/20110628BKG22792/html/Food-labelling-what-the-new-EU-rules-will-mean
+EN
+5
+LINK
+/members/expert/alphaOrder/view.do?language=EN&id=4282
+EN
+6
+LINK
+/oeil/file.jsp?id=5592852
+-//EP//TEXT REPORT A7-2011-0177 0 NOT XML V0//EN
+-//EP//TEXT IM-PRESS 20110418IPR18101 0 NOT XML V0//EN
+-//EP//TEXT IM-PRESS 20110615IPR21422 0 NOT XML V0//EN
+-//EP//DTD IM-PRESS 20050901 NEW-ITEM DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 NEW-ITEM DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20110627NEW22644 FULL-TEXT DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20110627NEW22644 ITEM-002-EN DOC XML V0//EN
+MEPs gear up for talks on derivatives, short selling and investor compensation
+2011-06-30 - 14:59
+Three draft EU laws - to regulate derivatives trading, to regulate short selling and to increase guaranteed investor compensation for fraud to €100,000 - come up for votes in Strasbourg next week. The lead MEPs are seeking the full Parliament's backing to strengthen their hand in negotiations with Member States. The three votes are expected to garner strong majorities in favour of the views adopted at first reading by the EP's Economic Affairs Committee some weeks ago.
+Derivatives
+The draft regulation on over-the-counter derivatives (OTCs), central clearing parties (CCPs) and trade repositories aims to bring greater safety, transparency and stability to the OTC derivatives market, which was valued at around €425 trillion in 2009. Information on OTC derivative contracts would have to be reported to 'trade repositories' and be accessible to supervisory authorities. Such contracts would need to be cleared through central counterparties (CCPs), thus reducing counterparty credit risk - the risk that one party to the contract defaults. A key supervisory role is also envisaged for the new European Securities and Markets Authority (ESMA).
+Investor compensation
+On the investor compensation schemes legislation, the tabled text adds protection to private investors against fraudulent and defaulting investment firms, particularly by adding "bad advice" as a case for claiming compensation. It also raises the guaranteed compensation to €100,000 (double the Commission's initial proposal). As amended in committee, the new rules would also halve the time allowed for fully capitalising national compensation schemes (5 years instead of 10) and enable local authorities and NGOs, as well as private individuals, to file compensation claims.
+Short selling
+With negotiations already ongoing with Member States, the text on short selling and aspects related to credit default swaps (CDS) is expected to include points on which both sides has already agreed. However, the thorny issues - how far to allow naked short selling and purchasing of CDS contracts (insurance against default) without owning the related bonds on which a default could take place - are expected to reflect the position adopted in the EP Economic Affairs Committee.
+Procedure: Co-decision (1st reading)
+Debate: Monday 4 July
+Vote: Tuesday 5 July Draft report on Derivatives, central counterparties and trade repositories. Draft report on Investor compensation schemes. Draft report on short selling and certain aspects of credit default swaps Press release on committee vote - Derivatives: (24.05.2011): Press release on committee vote - Investor compensation schemes (13.04.2011): Press release on committee vote - Short selling and CDS (07.03.2011) Profile of rapporteur on Derivatives Werner Langen (EPP, DE) Profile of rapporteur on investor compensation schemes Olle Schmidt (ALDE, SV) Profile of rapporteur on short selling and CDS Pascal Canfin (Greens/EFA, FR)
+EN
+7
+LINK
+/members/public/yourMep/view.do?name=langen&partNumber=1&language=EN&id=1928
+EN
+8
+LINK
+/members/public/yourMep/view.do?name=schmidt&partNumber=1&language=EN&id=4274
+EN
+9
+LINK
+/members/expert/alphaOrder/view.do?language=EN&id=96711
+-//EP//TEXT REPORT A7-2011-0223 0 NOT XML V0//EN
+-//EP//TEXT REPORT A7-2011-0167 0 NOT XML V0//EN
+-//EP//TEXT REPORT A7-2011-0055 0 NOT XML V0//EN
+-//EP//TEXT IM-PRESS 20110523IPR19948 0 NOT XML V0//EN
+-//EP//TEXT IM-PRESS 20110411IPR17412 0 NOT XML V0//EN
+-//EP//TEXT IM-PRESS 20110307IPR14994 0 NOT XML V0//EN
+-//EP//DTD IM-PRESS 20050901 NEW-ITEM DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 NEW-ITEM DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20110627NEW22644 FULL-TEXT DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20110627NEW22644 ITEM-001-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20110627NEW22644 ITEM-003-EN DOC XML V0//EN
+GMO cultivation: the right to a red light
+2011-06-30 - 14:59
+Member States would be able to restrict or ban the cultivation of genetically modified crops for various reasons under a proposed change to EU law. Parliament's Environment Committee wants to include environmental grounds, as this could provide such decisions with a firmer legal basis in the context of international trade rules. Currently, all GMOs crops for cultivation have to be authorised initially at EU level. Two GM crop varieties have so far been approved: a strain of maize and a potato adapted for starch production. Few EU countries currently grow these crops commercially and some have made use of their right to ban crops under a safeguard clause in the existing rules.
+The new Commission proposal would not alter the current EU-level safety approval process but would alter the grounds on which national decisions could be taken, effectively handing more decision-making power to Member States, although they would not be allowed to ban GMO crops on environmental grounds. Parliament will decide on Tuesday whether to back its Environment Committee's proposal that environmental grounds should be added.
+A recent citizens' petition of over 1 million signatures called on the EU to apply a moratorium on new authorisations.
+Procedure: Co-decision (1st reading)
+Debate/Vote: Tuesday 5 July Draft report Press release on committee vote (12.04.2011): Profile of rapporteur Corinne Lepage (ALDE, FR): Interview with the rapporteur:
+EN
+1
+LINK
+/activities/plenary/home.do?language=EN&date=20110628&tab=NEXT&subTab=20110705#
+EN
+3
+LINK
+/members/expert/alphaOrder/view.do?language=EN&id=97076
+EN
+4
+LINK
+/en/headlines/content/20110408STO17335/html/EU-countries-should-be-able-to-ban-GMOs-on-environmental-grounds-MEPs
+-//EP//TEXT IM-PRESS 20110411IPR17409 0 NOT XML V0//EN
+-//EP//DTD IM-PRESS 20050901 NEW-ITEM DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 NEW-ITEM DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20110627NEW22644 FULL-TEXT DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20110627NEW22644 ITEM-002-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20110627NEW22644 ITEM-004-EN DOC XML V0//EN
+Traffic offences: loopholes for foreign drivers to be closed
+2011-06-30 - 14:59
+Car drivers caught speeding, drink-driving or going through red lights in another EU Member State will no longer get off scot-free, thanks to plans for cooperation between European police forces set to be approved by MEPs in Strasbourg. Under this new EU law, traffic police will in future be able to track down driving offenders who have returned to their home country, by enlisting help from the authorities of that country.
+Those authorities will have to provide the registration data of the vehicle concerned. A letter will then be sent to the car owner or driver, in their own language, informing them of the offence and any punishment due, which will be based on the law of the country where the offence was committed.
+The Member State that issued the licence plate must forward the registration information but not enforce sanctions issued by other Member States. Rapporteur Inès Ayala-Sender (S&D, ES) therefore wants the European Commission to monitor the system and, if it proves ineffective, to devise further rules.
+Which traffic offences are covered?
+The offences covered include speeding, driving under the influence of drink or drugs, not wearing seatbelts, illegal use of mobile phones, using bus lanes, not wearing helmets when riding a motorcycle and crossing red lights.
+Parliament is expected to give its final seal of approval to this directive, following a deal agreed between a negotiating team of MEPs and Member States' representatives. The directive then has to be unanimously adopted by Member States to enter into force at the latest two years after its adoption. Ireland, the UK and Denmark have not opted into the system but could join later.
+Procedure: Codecision (2nd reading)
+Debate: Tuesday 5 July
+Vote: Wednesday 6 July Draft report - Background Note - Cross-border traffic offence penalties to improve road safety Press release on committee vote Profile of rapporteur Inès Ayala-Sender (S&D, ES) Legislative Observatory file The EUCARIS system The EU Road Safety Website Main traffic rules per EU country ( in 22!)
+EN
+2
+LINK
+/en/pressroom/content/20110629BKG22876/html/Cross-border-traffic-offence-penalties-to-improve-road-safety
+EN
+4
+LINK
+/members/public/yourMep/view.do?name=Ayala+Sender&partNumber=1&language=EN&id=28292
+EN
+5
+LINK
+/oeil/FindByProcnum.do?lang=en&procnum=COD/2008/0062
+EN
+6
+LINK
+https://www.eucaris.net/
+EN
+7
+LINK
+http://ec.europa.eu/transport/road_safety/index_en.htm
+EN
+8
+LINK
+http://ec.europa.eu/transport/road_safety/going_abroad/index_en.htm
+-//EP//TEXT REPORT A7-2011-0208 0 NOT XML V0//EN
+-//EP//TEXT IM-PRESS 20110523IPR19947 0 NOT XML V0//EN
+-//EP//DTD IM-PRESS 20050901 NEW-ITEM DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 NEW-ITEM DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20110627NEW22644 FULL-TEXT DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20110627NEW22644 ITEM-003-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20110627NEW22644 ITEM-005-EN DOC XML V0//EN
+European elections: EU-wide lists for 25 candidates?
+2011-06-30 - 14:59
+To boost turnout at European Parliament elections starting with the next polls in 2014, voters should get two votes, says a plan that comes before the House on Thursday. One vote would be cast for national candidate lists as at present, and one for EU-wide lists. The EU lists would allow voters to pick an extra 25 MEPs, bringing the total to 776. EU-wide lists are one of several electoral reform proposals drafted by Andrew Duff (ALDE, UK) to enhance Parliament's democratic legitimacy. Others include moving the European elections from June to May, to allow more time to elect the Commission President, and making it easier for EU citizens living abroad to stand and vote in the elections.
+The Lisbon Treaty gives Parliament the right to initiate a change in its own composition. Some of the current proposals would require changes to the EU Treaty, which in turn would require an intergovernmental conference and ratification by all 27 EU Member States. The 1976 Act on elections to the European Parliament would also need to be amended and other implementing legislation put in place.
+Procedure: Non-legislative resolution
+Debate/Vote: Thursday 7 July Draft resolution on election of EP Members by direct universal suffrage Press release on committee vote (19.04.2011) Profile of rapporteur Andrew Duff (ALDE, UK) Legislative Observatory file
+EN
+3
+LINK
+/members/expert/alphaOrder/view.do?language=EN&id=4514
+EN
+4
+LINK
+/oeil/file.jsp?id=5806882
+-//EP//TEXT REPORT A7-2011-0176 0 NOT XML V0//EN
+-//EP//TEXT IM-PRESS 20110418IPR18099 0 NOT XML V0//EN
+-//EP//DTD IM-PRESS 20050901 NEW-ITEM DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 NEW-ITEM DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20110627NEW22644 FULL-TEXT DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20110627NEW22644 ITEM-004-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20110627NEW22644 ITEM-006-EN DOC XML V0//EN
+Regional funding: a new category of eligible regions?
+2011-06-30 - 14:59
+Regional and local investment funded partly by Brussels has been a great success in boosting economic and social cohesion in the EU, argues a draft resolution on the “Strategy for the post-2013 Cohesion Policy” by the Regional Development Committee. MEPs want the policy to continue but are proposing adjustments to increase transparency as well as the leverage effect of structural funding. To strike a fair funding balance between regions lacking basic infrastructure and those that have been hit recently by the economic crisis, a large number of MEPs believe that an intermediate category of regions eligible for structural funding should be created (those with a GDP of 75-90% of average EU GDP).
+The debate in plenary on this subject was wound up at the last plenary session but the intervening Commission budget proposal for 2014-2020 will add a new spin to Tuesday's vote. The resolution was drafted for the Regional Development Committee by Markus Pieper (EPP, DE).
+Procedure: Non-legislative resolution
+Debate: Thursday 23 June
+Vote: Tuesday 5 July
+Press conference: Tuesday 5 July at 15.30 Draft resolution on Commission’s 5th Cohesion Report and the strategy for post-2013 Cohesion Policy Video recording of debate in plenary (23.06.2011) Press release on committee vote (27.05.2011) Profile of rapporteur Markus Pieper (EPP, DE) Legislative Observatory file
+EN
+2
+LINK
+/wps-europarl-internet/frd/vod/player?date=20110623&language=en
+EN
+4
+LINK
+/members/expert/committees/view.do?language=EN&id=28224
+EN
+5
+LINK
+/oeil/file.jsp?id=5898492
+-//EP//TEXT REPORT A7-2011-0222 0 NOT XML V0//EN
+-//EP//TEXT IM-PRESS 20110527IPR20366 0 NOT XML V0//EN
+-//EP//DTD IM-PRESS 20050901 NEW-ITEM DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 NEW-ITEM DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20110627NEW22644 FULL-TEXT DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20110627NEW22644 ITEM-005-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20110627NEW22644 ITEM-007-EN DOC XML V0//EN
+Poland takes over at the helm of the EU from Hungary
+2011-06-30 - 14:59
+On Wednesday morning Prime Minister Donald Tusk will present the priorities of Poland's incoming Council presidency, whose overall objective will be to lead the EU back on track towards faster economic growth and an enhanced political community. The Polish Presidency will focus on three priorities: European integration as the source of growth, Secure Europe and Europe benefiting from openness. Prime Minister Orbán will review the period of the Hungarian administration on Tuesday. Procedure: Council and Commission statements
+Debate: Tuesday 5 July (Hungarian Presidency), Wednesday 6 July (Polish Presidency) Website of the Polish presidency Website of the Hungarian presidency
+EN
+1
+LINK
+http://pl2011.eu/en
+EN
+2
+LINK
+http://www.eu2011.hu/
+-//EP//DTD IM-PRESS 20050901 NEW-ITEM DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 NEW-ITEM DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20110627NEW22644 FULL-TEXT DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20110627NEW22644 ITEM-006-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20110627NEW22644 ITEM-008-EN DOC XML V0//EN
+Debate on long-term EU budget
+2011-06-30 - 14:59
+The Commission's proposals for the next EU Multiannual Financial Framework (2014-2020 ) and a new system of own resources will be debated by leading MEPs with President Barroso and Budgets Commissioner Lewandowski on Tuesday 5 July. The plans were presented to Parliament's Conference of Presidents on 29 June. Procedure: Commission statement
+Debate: Tuesday 5 July Commission legislative proposals on MFF and own resources Report outlining Parliament's stance in view of the future MFF and own resources Press release after the plenary vote on Garriga Polledo report Profile of rapporteur Salvador GARRIGA POLLEDO (EPP, ES)
+EN
+1
+LINK
+http://ec.europa.eu/budget/biblio/documents/fin_fwk1420/fin_fwk1420_en.cfm
+EN
+4
+LINK
+/members/expert/committees/view.do?language=EN&id=1665
+-//EP//TEXT TA P7-TA-2011-0266 0 NOT XML V0//EN
+-//EP//TEXT IM-PRESS 20110608IPR20927 0 NOT XML V0//EN
+-//EP//DTD IM-PRESS 20050901 NEW-ITEM DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 NEW-ITEM DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20110627NEW22644 FULL-TEXT DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20110627NEW22644 ITEM-007-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20110627NEW22644 ITEM-009-EN DOC XML V0//EN
+Schengen: temporary reintroduction of border controls under the spotlight
+2011-06-30 - 14:59
+Parliament will react to the European Council's call for a safeguard clause in the Schengen rules allowing for the reintroduction of internal border controls in a "truly critical situation", where a Member State facing heavy migratory pressure at EU external borders can no longer comply with its obligations. MEPs are following closely the plans to reform the Schengen rules and some have been critical of the proposed safeguard clause. Commissioner Cecilia Malmström will brief MEPs on Wednesday at 9pm on how the mechanism would work. Parliament will vote on a resolution on Thursday. The Commission will then unveil its proposal in September.
+Procedure: Commission statement (with resolution)
+Debate: Wednesday 6 July
+Vote: Thursday 7 July Conclusions of the European Council 23/24 June 2011 Don't use immigrants as a pretext to undermine Schengen, MEPs say (press release) MEPs suspicious about Schengen rules review (press release)
+EN
+1
+LINK
+http://www.consilium.europa.eu/uedocs/cms_Data/docs/pressdata/en/ec/123075.pdf
+-//EP//TEXT IM-PRESS 20110504IPR18677 0 NOT XML V0//EN
+-//EP//TEXT IM-PRESS 20110502IPR18530 0 NOT XML V0//EN
+-//EP//DTD IM-PRESS 20050901 NEW-ITEM DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 NEW-ITEM DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20110627NEW22644 FULL-TEXT DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20110627NEW22644 ITEM-008-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20110627NEW22644 ITEM-010-EN DOC XML V0//EN
+Parliament set to back refund of €4.54 billion to Member States
+2011-06-30 - 14:59
+Parliament will vote on a plan to return €4.54 billion to Member States from this year's EU budget, as the result of a surplus from the 2010 financial year. Of the total, €2.72 billion consists of money not spent on EU programmes in 2010. The rest comes from fines, interest on late payments and surpluses due to exchange rate differences. Britain is due to receive €639 million, while €48 million will go to Ireland.
+Country
+Amount to be returned in €
+Belgium
+130 911 830
+Bulgaria
+12 599 367
+Czech Republic
+50 621 080
+Denmark
+88 583 723
+Germany
+922 894 175
+Estonia
+4 980 590
+Ireland
+48 123 148
+Greece
+84 195 529
+Spain
+381 161 659
+France
+740 852 370
+Italy
+571 966 026
+Cyprus
+6 293 730
+Latvia
+6 191 661
+Lithuania
+9 860 488
+Luxembourg
+10 570 481
+Hungary
+35 811 599
+Malta
+2 088 825
+Netherlands
+218 397 409
+Austria
+104 337 375
+Poland
+133 314 462
+Portugal
+59 119 421
+Romania
+46 336 945
+Slovenia
+12 888 128
+Slovakia
+24 905 776
+Finland
+66 270 167
+Sweden
+126 883 265
+United Kingdom
+639 235 054
+Procedure: Budgetary
+Vote: Tuesday 5 July Draft report on amending budget III by Ms Sidonia Jędrzejewska (EPP, PL) Press release on committee vote (15.06.2011) Profile of rapporteur Sidonia Jędrzejewska (EPP, PL)
+EN
+1
+LINK
+/meetdocs/2009_2014/documents/budg/pr/869/869449/869449en.pdf
+EN
+3
+LINK
+/members/public/yourMep/view.do?name=jedr*&partNumber=1&language=EN&id=96782
+-//EP//TEXT IM-PRESS 20110627IPR22640 0 NOT XML V0//EN
+-//EP//DTD IM-PRESS 20050901 NEW-ITEM DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 NEW-ITEM DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20110627NEW22644 FULL-TEXT DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20110627NEW22644 ITEM-009-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20110627NEW22644 ITEM-011-EN DOC XML V0//EN
+Passenger data: Commission to be quizzed on talks with Australia, Canada, USA
+2011-06-30 - 14:59
+The Commission will brief MEPs on progress in the negotiations with Australia, Canada and the USA on the transfer of air passenger data (Passenger Name Records). MEPs want to know if the talks with the US are continuing and how the EU executive will respond to the opinion of its own legal service, which has queried the legality of a draft accord with the US leaked to the press in May. The discussion will be based on an oral question presented by the EPP, S&D, ALDE, Greens/EFA, ECR and GUE/NGL groups.
+Procedure: Oral question to the Commission (without resolution)
+Debate: Monday 4 July Oral question will be available here
+EN
+1
+LINK
+/QP-WEB/home.jsp?language=en
+-//EP//DTD IM-PRESS 20050901 NEW-ITEM DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 NEW-ITEM DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20110627NEW22644 FULL-TEXT DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20110627NEW22644 ITEM-010-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20110627NEW22644 ITEM-012-EN DOC XML V0//EN
+Arab spring: latest developments in Syria, Yemen and north Africa
+2011-06-30 - 14:59
+The worsening situation in Yemen and Syria and the state of play of other reforms in the Arab world and north Africa will be the key topic for debate with EU Foreign Affairs High Representative Catherine Ashton on Wednesday. Three resolutions will be put to the vote on Thursday. Lady Ashton is also expected to brief MEPs on the situation in Nagorno-Karabakh. Procedure: Non-legislative resolutions
+Debate: Wednesday 6 July
+Vote: Thursday 7 July
+The resolutions will be available here Press release on the resolutions adopted on Syria, Bahrain and Yemen (7.04.2011) Profile of rapporteur Véronique DE KEYSER (S&D, BE)
+EN
+1
+LINK
+/sed/motions.do
+EN
+2
+LINK
+/en/pressroom/content/20110407IPR17188/html/Suspend-talks-with-Syria-reassess-relations-with-Bahrain-and-Yemen
+EN
+3
+LINK
+/members/expert/alphaOrder/view.do?language=EN&id=22097
+-//EP//DTD IM-PRESS 20050901 NEW-ITEM DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 NEW-ITEM DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20110627NEW22644 FULL-TEXT DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20110627NEW22644 ITEM-011-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20110627NEW22644 ITEM-013-EN DOC XML V0//EN
+"More Europe" needed to counter economic crises
+2011-06-30 - 14:59
+Shifting policy making and spending in cross-border areas such as energy and transport from national to EU level would improve investment returns and cut costs by generating economies of scale. It would also give an urgently needed boost to EU competitiveness, says the final report from Parliament's Special Committee on the Financial, Economic and Social Crisis (CRIS). Youth unemployment, social cohesion and a greener, knowledge-based economy are among the major issues covered in the final report by the CRIS Committee, drafted by Pervenche Berès (S&D, FR), which suggests how to avoid economic crises in the future and presents a long-term vision for a European growth model.
+A European "New Deal" should boost innovation, job creation and investment in education and R&D, says the report. The EU should deepen cross-border integration in areas such as energy, transport and foreign policy, where European added value can be high. And, after 2020, the EU budget should be increased to 5-10% of EU GDP, funded from own resources but offset by an equivalent cut in national budgets to ensure tax neutrality.
+The report urges closer coordination of national tax policies, a common corporate tax base, a European Treasury and changing the ESM into a European Debt Agency. It asks the Commission to look into a system of Eurobonds to reduce sovereign debt. Lastly, it argues that revenue from a financial transaction tax could help fund the Millennium Development Goals and meet climate change commitments.
+Procedure: Non-legislative resolution
+Debate/Vote: Wednesday 6 July Draft report Press release on committee vote (30.05.2011) Profile of rapporteur Pervenche Berès (S&D, FR) Legislative Observatory file
+EN
+3
+LINK
+/members/expert/alphaOrder/view.do?language=EN&id=1985
+EN
+4
+LINK
+/oeil/file.jsp?id=5879992
+-//EP//TEXT REPORT A7-2011-0228 0 NOT XML V0//EN
+-//EP//TEXT IM-PRESS 20110530IPR20496 0 NOT XML V0//EN
+-//EP//DTD IM-PRESS 20050901 NEW-ITEM DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 NEW-ITEM DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20110627NEW22644 FULL-TEXT DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20110627NEW22644 ITEM-012-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20110627NEW22644 ITEM-014-EN DOC XML V0//EN
+Strict safeguards for body scanning at airports
+2011-06-30 - 14:59
+Body scanners should only be allowed at EU airports if the health, dignity and privacy of passengers are protected and risks are non-existent, argues a draft resolution by the Transport Committee. X-ray-based scanners and body images should be banned and passengers should have the right to opt for a different search method. The draft resolution also calls for better checks on air cargo, especially from non-EU countries, particularly when carried on passenger planes.
+Meanwhile, the ban on carrying liquids on board airplanes should end in 2013, insist MEPs. This point is included in the same resolution and will be debated on Tuesday after a Commission statement.
+Parliament's vote comes just ahead of an expected decision by the Commission to allow Member States to use body scanners at airports. However, Parliament has the power to overturn that decision within three months. Some Member States (the UK, the Netherlands, Germany, Italy, France and Finland) have already tested body scanners.
+Procedure: Non-legislative resolution
+Debate: Tuesday 5 July
+Vote: Wednesday 6 July Draft resolution Profile of rapporteur Luis de Grandes Pascual (EPP, ES)
+EN
+2
+LINK
+/members/public/geoSearch/view.do?country=ES&partNumber=1&language=EN&id=28393
+-//EP//TEXT REPORT A7-2011-0216 0 NOT XML V0//EN
+-//EP//DTD IM-PRESS 20050901 NEW-ITEM DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 NEW-ITEM DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20110627NEW22644 FULL-TEXT DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20110627NEW22644 ITEM-013-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20110627NEW22644 ITEM-015-EN DOC XML V0//EN
+Parliament eyes CO2 cuts beyond 20%
+2011-06-30 - 14:59
+MEPs are considering a new call for a more ambitious EU climate policy, with a 30% reduction in CO2 by 2020 instead of the current 20% target. Making 25% cuts alone within the EU (instead of through investments in the developing world) could help modernise and benefit the EU economy, according to the draft resolution that will be put to the vote on Tuesday. Procedure: Non-legislative resolution
+Debate: Wednesday 22 June
+Vote: Tuesday 5 July Draft resolution on "greenhouse gas emission reductions and risk of carbon leakage" Press release on committee vote (24.05.2011) Profile of rapporteur Bas Eickhout (Greens/EFA, NL) Legislative Observatory file Video recording of debate in plenary 22.06.2011
+EN
+3
+LINK
+/members/public/geoSearch/view.do?language=EN&id=96725
+EN
+4
+LINK
+/oeil/file.jsp?id=5892532
+EN
+5
+LINK
+/wps-europarl-internet/frd/vod/player?date=20110622&language=en
+-//EP//TEXT REPORT A7-2011-0219 0 NOT XML V0//EN
+-//EP//TEXT IM-PRESS 20110523IPR19955 0 NOT XML V0//EN
+-//EP//DTD IM-PRESS 20050901 NEW-ITEM DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 NEW-ITEM DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20110627NEW22644 FULL-TEXT DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20110627NEW22644 ITEM-014-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20110627NEW22644 ITEM-016-EN DOC XML V0//EN
+BSE: Europe must not drop its guard
+2011-06-30 - 14:59
+Despite the sharp fall in BSE cases in the EU, there must be no relaxation of surveillance procedures and any change in the rules must preserve high animal and public health standards, argues a draft resolution by the Environment Committee. MEPs agree to a possible gradual lifting of the ban on feeding processed animal protein to non-ruminants, provided this applies only to non-herbivores (e.g. pigs) and that further safeguards are observed. Procedure: Non-legislative resolution
+Debate: Tuesday 5 July
+Vote: Wednesday 6 July Draft resolution Profile of rapporteur Dagmar Roth-Behrendt (S&D, DE) Legislative Observatory file
+EN
+2
+LINK
+/members/expert/alphaOrder/view.do?language=EN&id=1183
+EN
+3
+LINK
+/oeil/file.jsp?id=5881022
+-//EP//TEXT REPORT A7-2011-0195 0 NOT XML V0//EN
+-//EP//DTD IM-PRESS 20050901 NEW-ITEM DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 NEW-ITEM DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20110627NEW22644 FULL-TEXT DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20110627NEW22644 ITEM-015-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20110627NEW22644 ITEM-017-EN DOC XML V0//EN
+Women and business: call for quotas
+2011-06-30 - 14:59
+If voluntary measures fail to boost the number of women in decision-making positions, EU legislation must be used, says a draft resolution by the EP Women's Rights Committee. Women currently make up only 10% of directors and only 3% of CEOs at the largest listed EU companies. These figures need to rise to 30% by 2015 and 40% by 2020, if necessary by setting quotas, argue MEPs. Procedure: Non legislative resolution
+Debate: Tuesday 5 July
+Vote: Wednesday 6 July Draft resolution Committee press release (25.05.2011) Profile of rapporteur Rodi Kratsa-Tsagaropoulou (EPP, EL) Legislative Observatory file
+EN
+3
+LINK
+/members/public/yourMep/view.do?name=kratsa-tsagaropoulou&partNumber=1&language=EN&id=4482
+EN
+4
+LINK
+/oeil/file.jsp?id=5862452
+-//EP//TEXT REPORT A7-2011-0210 0 NOT XML V0//EN
+-//EP//TEXT IM-PRESS 20110523IPR19962 0 NOT XML V0//EN
+-//EP//DTD IM-PRESS 20050901 NEW-ITEM DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 NEW-ITEM DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20110627NEW22644 FULL-TEXT DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20110627NEW22644 ITEM-016-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20110627NEW22644 ITEM-018-EN DOC XML V0//EN
+An EU agency for the Schengen area
+2011-06-30 - 14:59
+Parliament is expected to approve the creation of a European agency for managing various IT systems in the Schengen area. These include the second generation Schengen Information System (SIS II), the Visa Information System (VIS), EURODAC (database of asylum seekers' fingerprints). The agency should start working in summer 2012 and be based in Tallinn, Estonia. Procedure: Co-decision, 1st reading (agreement)
+Debate: Monday 4 July
+Vote: Tuesday 5 July Draft compromise text Draft report Profile of rapporteur Carlos Coelho (EPP, PT) Legislative Observatory file
+EN
+1
+LINK
+/meetdocs/2009_2014/documents/libe/dv/it_agency_afsj_draft_compromise_/it_agency_afsj_draft_compromise_en.pdf
+EN
+3
+LINK
+/members/public/geoSearch/view.do?country=PT&partNumber=1&language=EN&id=1892
+EN
+4
+LINK
+/oeil/FindByProcnum.do?lang=2&procnum=COD/2009/0089
+-//EP//TEXT REPORT A7-2011-0241 0 NOT XML V0//EN
+-//EP//DTD IM-PRESS 20050901 NEW-ITEM DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 NEW-ITEM DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20110627NEW22644 FULL-TEXT DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20110627NEW22644 ITEM-017-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20110627NEW22644 ITEM-019-EN DOC XML V0//EN
+Danish workers to get EU unemployment aid
+2011-06-30 - 14:59
+EU funding totalling €20,429,316 will be paid out to 1775 workers who were made redundant in Denmark if MEPs approve the funding on Wednesday 5 July. The redundant workers, of the two firms LM Glasfiber and Odense Steel Shipyard, will receive job search and entrepreneurship assistance, as well as training in fields such as energy technology, robotics, tourism and design. The aid, from the EU Globalisation Adjustment Fund, has already been approved by the Council of Ministers.
+Procedure: Budgetary
+Vote: Tuesday 5 July Draft resolution (LM Glasfiber) Draft resolution (Odense Steel Shipyard) Press release on committee vote Profile of rapporteur Barbara MATERA (EPP, IT) Legislative Observatory file (Odense Steel Shipyard) Legislative Observatory file (LM Glasfiber)
+EN
+4
+LINK
+/members/expert/committees/view.do?language=EN&id=96813
+EN
+5
+LINK
+/oeil/file.jsp?id=5913222
+EN
+6
+LINK
+/oeil/file.jsp?id=5913212
+-//EP//TEXT REPORT A7-2011-0235 0 NOT XML V0//EN
+-//EP//TEXT REPORT A7-2011-0234 0 NOT XML V0//EN
+-//EP//TEXT IM-PRESS 20110614IPR21342 0 NOT XML V0//EN
+-//EP//DTD IM-PRESS 20050901 NEW-ITEM DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 NEW-ITEM DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20110627NEW22644 FULL-TEXT DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20110627NEW22644 ITEM-018-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20110627NEW22644 ITEM-020-EN DOC XML V0//EN
+Solidarity aid to Slovenia, Czech Republic and Croatia
+2011-06-30 - 14:59
+Plans to give EU financial aid to Slovenia, Croatia and the Czech Republic, countries hard hit by the heavy rain in 2010, need Parliament's seal of approval. This is the subject of a report by Reimer Böge (EPP, DE) to be put to the vote on Tuesday. Even if endorsed by MEPs, the aid (€19.5 million from the EU Solidarity Fund) cannot be paid out until a disagreement between Parliament and Council over the funding method is settled. MEPs will vote separately on a solution to this impasse proposed by Sidonia Jędrzejewska (EPP, PL), in the hope that this is then approved in a trialogue on 11 July.
+Procedure: Budgetary
+Vote: Tuesday 5 July
+Draft report on EU Solidarity Fund aid for flooding in Slovenia, Croatia and Czech Republic Draft report on draft amending budget No 2 /2011 (Jędrzejewska report) Press release on committee vote (15.06.2011) Profile of rapporteur Reimer Böge (EPP, DE) Profile of rapporteur Sidonia Jędrzejewska (EPP, PL)
+EN
+4
+LINK
+/members/public/yourMep/view.do?name=boege&partNumber=1&language=EN&id=1037
+EN
+5
+LINK
+/members/public/yourMep/view.do?name=jedr*&partNumber=1&language=EN&id=96782
+-//EP//TEXT REPORT A7-2011-0238 0 NOT XML V0//EN
+-//EP//TEXT REPORT A7-2011-0233 0 NOT XML V0//EN
+-//EP//TEXT IM-PRESS 20110614IPR21343 0 NOT XML V0//EN
+-//EP//DTD IM-PRESS 20050901 NEW-ITEM DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 NEW-ITEM DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20110627NEW22644 FULL-TEXT DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20110627NEW22644 ITEM-019-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20110627NEW22644 ITEM-021-EN DOC XML V0//EN
+Dial 112 throughout Europe for police, ambulance and fire brigade
+2011-06-30 - 14:59
+Public awareness of the European emergency phone number 112 still needs to be increased, claims a draft resolution on "Universal Services and the 112 emergency number". Greater accuracy and reliability of caller location information as well as other improvements are also needed, say MEPs. A standard EU-wide number can save lives in an accident, whether at home or on holiday anywhere in Europe. The EU number 112 has not replaced familiar national numbers in most countries and will not displace the traditional 999 in the UK and Ireland. It is an extra number, designed to help Europeans travelling abroad in the other 27 Member States of the European Union.
+The resolution was drafted for the Internal Market Committee by Sylvana Rapti (S&D, EL).
+Procedure: Non-legislative resolution
+Debate: Monday 4 July
+Vote: Tuesday 5 July Draft resolution on Universal Services and the 112 Emergency Number Holidaying in the EU? Think 112 Profile of rapporteur Sylvana Rapti (S&D, EL) Reading this could save your life (article from the EP website on the 112 emergency number) Legislative Observatory file
+EN
+2
+LINK
+/en/headlines/content/20110624STO22593/html/Holidaying-in-the-EU-Think-112
+EN
+3
+LINK
+/members/expert/alphaOrder/view.do?language=EN&id=96925
+EN
+4
+LINK
+/en/headlines/content/20110204STO13214/html/112-a-mystery-Reading-this-could-save-your-life
+EN
+5
+LINK
+/oeil/file.jsp?id=5884422
+-//EP//TEXT REPORT A7-2011-0220 0 NOT XML V0//EN
+-//EP//DTD IM-PRESS 20050901 NEW-ITEM DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 NEW-ITEM DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20110627NEW22644 FULL-TEXT DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20110627NEW22644 ITEM-020-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20110627NEW22644 ITEM-022-EN DOC XML V0//EN
+Europe's energy infrastructure in need of an upgrade
+2011-06-30 - 14:59
+Plans for a range of long-term projects to help Europe overhaul its energy infrastructure are being mooted by the Commission. Parliament's Energy Committee wants any such projects to meet specific criteria in order to obtain EU funding. For example, it says they should connect "energy islands" or reduce network losses or integrate renewables into the network. As one way of funding these developments (around €1 trillion will be needed by 2020), European project bonds could be issued, say MEPs. Procedure: Non-legislative resolution
+Debate: Monday 4 July
+Vote: Tuesday 5 July Draft resolution Profile of rapporteur Francisco Sosa Wagner (NI, ES) Legislative Observatory file
+EN
+2
+LINK
+/members/public/geoSearch/view.do?country=ES&partNumber=1&language=EN&id=97170
+EN
+3
+LINK
+/oeil/file.jsp?id=5898472
+-//EP//TEXT REPORT A7-2011-0226 0 NOT XML V0//EN
+-//EP//DTD IM-PRESS 20050901 NEW-ITEM DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 NEW-ITEM DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20110627NEW22644 FULL-TEXT DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20110627NEW22644 ITEM-021-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20110627NEW22644 ITEM-023-EN DOC XML V0//EN
+The future of social services in Europe
+2011-06-30 - 14:59
+If Europe is to preserve a high standard of social services, the impact of a whole range of factors, from state aid to single market rules, needs to be reviewed, claims the EP Social Affairs Committee in a draft resolution to be put to the vote on Tuesday. Services such as child benefit, public housing and care for the elderly are part of the social safety net in the EU. They enable people to play an active part in the community while safeguarding their fundamental rights. Although such services improve the quality of life and have an important stabilising effect during crises, they are also often starved of resources and lack clear operational rules.
+Procedure: Non-legislative resolution
+Debate: Monday 4 July
+Vote: Tuesday 5 July Draft resolution on the future of social services of general interest Profile of rapporteur Proinsias De Rossa (S&D, IE) Legislative Observatory file
+EN
+2
+LINK
+/members/expert/alphaOrder/view.do?language=EN&id=1289
+EN
+3
+LINK
+/oeil/FindByProcnum.do?lang=en&procnum=INI/2009/2222
+-//EP//TEXT REPORT A7-2011-0239 0 NOT XML V0//EN
+-//EP//DTD IM-PRESS 20050901 NEW-ITEM DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 NEW-ITEM DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20110627NEW22644 FULL-TEXT DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20110627NEW22644 ITEM-022-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20110627NEW22644 ITEM-024-EN DOC XML V0//EN
+Human rights and democracy resolutions
+2011-06-30 - 14:59
+Parliament will hold urgent debates on the following topics relating to human rights, democracy and the rule of law, on Thursday 7 July at 3pm, with the votes following at around 4pm.
+Democratic Republic of the Congo: mass rape in the South Kivu province
+Indonesia, including attacks on minorities.
+India, notably the death sentence against Davinder Pal Singh Resolutions will be available here
+EN
+1
+LINK
+/sed/motions.do
+-//EP//DTD IM-PRESS 20050901 NEW-ITEM DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 NEW-ITEM DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20110627NEW22644 FULL-TEXT DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20110627NEW22644 ITEM-023-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20110627NEW22644 ITEM-025-EN DOC XML V0//EN
+Other items on the agenda
+2011-06-30 - 14:59
+Election of two replacement Vice-Presidents and vote on resolutions on the new Hungarian Constitution. At voting time on Tuesday, Parliament will choose two MEPs to replace two outgoing Vice-Presidents, Silvana Koch-Mehrin (ALDE, DE) and Stavros Lambrinidis (S&D, EL).
+MEPs will also vote on Tuesday on resolutions on the new Hungarian Constitution (debate in plenary took place on 08.06.2011 - link below) Video recording of plenary debate on revised Hungarian Constitution (08.06.2011)
+EN
+1
+LINK
+/wps-europarl-internet/frd/vod/player?date=20110608&language=en
+-//EP//DTD IM-PRESS 20050901 NEW-ITEM DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 NEW-ITEM DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20110627NEW22644 FULL-TEXT DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20110627NEW22644 ITEM-024-EN DOC XML V0//EN
+Newsletter - 4-7 July 2011 - Strasbourg plenary session
+2011-06-30 - 14:59
+20110627NEW22644 Draft agenda Live broadcast of plenary session EuroparlTV Press conferences and other events European Parliament Audiovisual website
+-//EP//TEXT IM-PRESS 20110627NEW22644 ITEM-001-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20110627NEW22644 ITEM-002-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20110627NEW22644 ITEM-003-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20110627NEW22644 ITEM-004-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20110627NEW22644 ITEM-005-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20110627NEW22644 ITEM-006-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20110627NEW22644 ITEM-007-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20110627NEW22644 ITEM-008-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20110627NEW22644 ITEM-009-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20110627NEW22644 ITEM-010-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20110627NEW22644 ITEM-011-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20110627NEW22644 ITEM-012-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20110627NEW22644 ITEM-013-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20110627NEW22644 ITEM-014-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20110627NEW22644 ITEM-015-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20110627NEW22644 ITEM-016-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20110627NEW22644 ITEM-017-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20110627NEW22644 ITEM-018-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20110627NEW22644 ITEM-019-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20110627NEW22644 ITEM-020-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20110627NEW22644 ITEM-021-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20110627NEW22644 ITEM-022-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20110627NEW22644 ITEM-023-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20110627NEW22644 ITEM-024-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20110627NEW22644 ITEM-025-EN DOC XML V0//EN
+EN
+1
+LINK
+/sides/indexPartSession.do?reference=2011-07&language=EN
+EN
+2
+LINK
+/wps-europarl-internet/frd/live/live-video?language=en
+EN
+3
+LINK
+http://www.europarltv.europa.eu/en/home.aspx
+EN
+4
+LINK
+/wps-europarl-internet/frd/live/live-program?language=en
+EN
+5
+LINK
+http://audiovisual.europarl.europa.eu/
+-//EP//DTD IM-PRESS 20050901 NEW-FULL DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 NEW-FULL DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20110627NEW22644 ITEM-001-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20110627NEW22644 ITEM-002-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20110627NEW22644 ITEM-003-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20110627NEW22644 ITEM-004-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20110627NEW22644 ITEM-005-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20110627NEW22644 ITEM-006-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20110627NEW22644 ITEM-007-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20110627NEW22644 ITEM-008-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20110627NEW22644 ITEM-009-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20110627NEW22644 ITEM-010-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20110627NEW22644 ITEM-011-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20110627NEW22644 ITEM-012-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20110627NEW22644 ITEM-013-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20110627NEW22644 ITEM-014-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20110627NEW22644 ITEM-015-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20110627NEW22644 ITEM-016-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20110627NEW22644 ITEM-017-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20110627NEW22644 ITEM-018-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20110627NEW22644 ITEM-019-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20110627NEW22644 ITEM-020-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20110627NEW22644 ITEM-021-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20110627NEW22644 ITEM-022-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20110627NEW22644 ITEM-023-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20110627NEW22644 ITEM-024-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20110627NEW22644 ITEM-025-EN DOC XML V0//EN

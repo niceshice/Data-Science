@@ -1,0 +1,91 @@
+A brief history of Parliament's work on the mobile roaming proposal
+Information society
+2007-06-26 - 20:58
+After consideration by four EP committees, numerous consultations, public hearings, impact assessments and - in the end - intense negotiations between MEPs and the German Presidency, the proposed EU regulation on "Roaming on public mobile networks" was finally adopted by Parliament on 23 May 2007. It was signed on 27 June and published in the Official Journal two days later. The regulation entered into force on 30 June.
+This note provides a chronological summary of the European Parliament's work on roaming.
+20070626BKG08385
+27 February 2007 - The draft report
+A single cap on wholesale roaming prices, an optional " Eurotariff" and scrapping the transition period for industry - these were some of the key ideas in the Industry Committee's draft report on mobile phone roaming charges, debated for the first time on 27 February.
+"Although some operators have recently introduced roaming charges that offer customers more favourable conditions, the evidence remains that prices still do not reflect costs properly" said Paul Rübig (EPP-ED, AT), the EP rapporteur on roaming, presenting his draft first-reading report to fellow members of the EP's Industry Committee – the EP's lead committee on roaming – on Tuesday, 27 February. The main focus of the ensuing discussion was the scope of the proposed regulation, as well as the methods of calculating wholesale and retail price caps.
+Wholesale: a single cap?
+The Commission's draft law had proposed regulation at both the wholesale level (charges between operators) and the retail level(charges to customers). It suggested a dual system of caps on wholesale charges, distinguishing between roaming calls made within a visited network (e.g. by a German tourist in Italy calling an Italian number) and calls outside a visited network (e.g. the same tourist calling Hungary). Mr Rubig’s draft report, however, proposed a single maximum wholesale charge for outgoing calls. This would mean - in the above example - that the Italian operator could not bill its German counterpart more than the maximum wholesale charge, no matter to which EU country the call was made.
+The wholesale cap, in both the Commission proposal and the EP draft report, was to be a multiple of the so-called average mobile termination rate (MTR), i.e. the per-minute rate that mobile operators charge each other when calls are made across networks.
+The opt-in / opt-out debate begins
+While the Commission had proposed a compulsory cap on retail prices, the draft report argued that the Eurotariff - the capped retail price - should be optional. Although the Eurotariff would be offered by all home providers, read the draft, "customers may switch to and from the Eurotariff voluntarily."
+A Commission representative told MEPs that the intention was for consumers to have a choice, but for the Eurotariff to be the default tariff, with an opt-out available for those who wanted it. Reino Paasilinna (PES, FI) agreed, saying the new system should be "automatically applied to all consumers". Alexander Alvaro (ALDE, DE), however, did not agree. The EP, he argued, should favour an "opt-in" model, with consumers staying with their home operators' roaming plan - and then choosing whether or not to switch into the Eurotariff.
+Where to place the retail cap?
+Whereas the Commission had proposed a Eurotariff retail cap of 0.44 EUR per minute for outgoing roaming calls made outside a visited network, a cap of 0.30 EUR for calls made inside a visited network and a 0.15 EUR cap for incoming calls, the draft report did not cite specific price caps. It suggested, however, that - as with wholesale prices - no distinction be made between calls made inside and outside visited networks; and that incoming calls, in any case, should be priced at no more than one third of outgoing calls. The Commission had proposed a six-month transition period for the implementing the retail price cap, but the rapporteur argued that this was unnecessary. "Industry seems already to anticipate price regulation," he said. "Therefore a further delay is not justified."
+12 April 2007 - Industry committee votes for a 0.40 EUR cap on outgoing roaming calls
+The committee approved its report on roaming with 45 votes in favour, 3 against, and 1 abstention, setting the stage for a plenary vote, initially scheduled for 10 May.
+Retail prices: enter the Eurotariff
+Committee members, choosing not to distinguish between calls made within or outside the visited network, backed a single cap of 0.40 EUR p/m for all outgoing roaming calls and a 0.15 EUR p/m cap for calls received.
+Opt in or opt out: when (and how) would the Eurotariff apply?
+Should all customers receive the Eurotariff by default, or should they have to apply ("opt in") for it themselves? Committee members settled for the former option. In an amendment passed by a three fifths majority, the committee said that "all existing and new roaming customers shall automatically be accorded a Eurotariff", unless they deliberately opt for another tariff. At the same time, as the Committee agreed, customers should be able to switch to and from the Eurotariff at no charge within 30 days of their request.
+A 0.23 EUR cent cap on wholesale charges
+For wholesale charges, the Commission had suggested a dual system of caps: a 0.23 EUR per-minute cap for calls made within a visited network and a 0.34 EUR p/m cap for calls outside the visited network. MEPs, however, opted for a single cap on wholesale charges, setting it at 0.23 EUR p/m.
+MEPs make the case for "informed" roaming
+MEPs also agreed that "national regulatory authorities shall initiate and implement a publicity campaign via mass media [...] to enhance the level of awareness pertaining to the conditions of the Eurotariff [...] The campaign should start immediately after the entry into force of this Regulation." National regulators should also establish a "price simulator" that provides roaming cost estimates for various operators.
+15 May 2007 - MEPs seal first-reading agreement with Council
+Within days of the Industry Committee's vote on the roaming dossier, a delegation of MEPs, Commission officials and Council Presidency representatives launched a series of "trialogue" negotiations in order to reconcile the EU institutions' different positions on roaming and to secure a first-reading agreement before the summer holidays.
+After four arduous rounds of talks with the Presidency, MEPs finally secured an agreement on 15 May. The compromise text, endorsed by the Presidency (after some changes during the day's discussions), was to pave the way for a first-reading adoption of the dossier.
+The crux of the agreement reflected the issues that had been at the heart of the roaming dossier from the outset: caps on wholesale and retail charges, the choice between ‘opt-in’ and ‘opt-out’ models, transparency requirements, entry into force and future review of the legislation. However, although the issues were the same, the solutions – in the spirit of compromise – were slightly different.
+Prices
+According to the compromise, the average wholesale charge (excl. VAT) that a "visited" operator may levy on a roaming customer’s "home" operator for carrying roaming calls will be capped at EUR 0.30 p/m . The cap, in line with MEPs’ proposals, will decrease automatically by 2 eurocents per year over a 3-year period after the regulation's entry into force. The maximum retail charge (excluding VAT) for regulated roaming calls, meanwhile, will be capped at EUR 0.49 p/m for calls made (decreasing automatically by 3 eurocents per year) and EUR 0.24 p/m for calls received (decreasing by 2 eurocents after the first year and 3 eurocents after the second year).
+( The Council - having initially called for caps of EUR 0.50 for calls made and EUR 0.25 for calls received - had entered negotiations with the EP proposing caps of EUR 0.60 and EUR 0.30, respectively.)
+As MEPs insisted, home providers will have to offer these regulated tariffs to all their customers – and to do so actively, clearly and transparently.
+Opting in, opting out
+One of the toughest bones of contention in the Parliament's negotiations with the Council was whether to make the regulated tariffs subject to an "opt-in" or an "opt-out" model. As a majority of the Industry Committee had voted in favour of the "opt-out", the EP's trialogue delegation defended this model vigorously throughout the negotiations with the Presidency .
+According to the compromise package, operators will have a month following the entry into force to make the Eurotariff price caps (or any other tariff plan) available to its customers. The customer, from the moment he or she is given such a choice, will have two months to decide whether or not to opt for the new roaming tariff. If the customer does make a choice, his or her operator – from that moment on – will have up to a month to activate the new tariff. If the customer does not make a choice, the Eurotariff price limits will apply automatically at the end of the two months mentioned above. (At the same time, roaming customers who have already made "a deliberate choice of a specific roaming tariff or package" before the regulation's entry into force "shall remain on their previously chosen tariff or package" – unless they choose otherwise. Operators, according to the text, must remind such clients of the terms of their contracts) .
+The cap on the average wholesale price, meanwhile, will take effect 2 months after the entry into force.
+Information requirements and future regulation
+To ensure that customers are fully aware of what they pay for roaming services under the different tariff plans, MEPs included a series of transparency provisions in their compromise package. Home providers, they decided, should provide their customers with "personalised pricing information on the retail charges" for outgoing and incoming roaming calls.
+The Commission, according to the compromise text, will review the impact of the roaming dossier and report to the European Parliament and the Council "no later than eighteen months" after the regulation's entry into force. It will also keep track of developments in wholesale and retail charges for data communication services – including SMS and MMS – and, if necessary, make recommendations regarding the need to regulate in this area. Despite the fact that the compromise foresees the expiry of the roaming regulation after three years, it will also be up to the Commission to assess – in light of market developments and consumer protection concerns – whether there is need to propose a legislative act extending this period.
+23 May 2007 - A deal, in time for the summer holidays
+Having received formal assurances from the Council Presidency as to the Member States' backing for the compromise text, the 23 May plenary session of Parliament gave it near-unanimous backing , ensuring that cheaper roaming rates would be in place in time for the summer holidays . The Council stood by its word and - during a June 7 meeting of Telecoms ministers - decided to adopt the Parliament's text.
+What difference will it all make?
+Compared with what roaming customers could be charged in the absence of legislation, the retail price cap spells significant savings. Here's how a 0.49 EUR p/m cap compares with some recent tariffs (September 2006 data): - average retail charge for a roaming call: €1.15 per minute (five times the actual cost of providing the wholesale service) - a four-minute call by a UK customer roaming in Spain: €5.92 - a four-minute call by a French customer travelling in Italy: €4.72 - a four-minute call by an Austrian in Malta: €9.51 - a four-minute call by a Cypriot in Belgium: €12.00 To make the point clear, Rapporteur Paul Rübig once cited the example of a German journalist who - having been sent by his newspaper to cover the Tour de France - came home to find that his mobile operator had billed him €9000 for roaming services.
+A summary
+Retail cap outgoing (per minute)
+Retail cap incoming
+(per minute)
+Wholesale cap
+(per minute)
+Commission proposal
+0.44 EUR (x)
+0.30 EUR (y)
+0.15 EUR
+0.34 EUR (x)
+0.23 EUR (y)
+Internal Market Committee report
+0.50 EUR
+0.25 EUR
+0.25 EUR
+Industry Committee
+draft report
+Council Presidency
+0.50 EUR
+0.25 EUR
+0.30 EUR
+Council Presidency (19.4.07)
+0.60 EUR
+0.30 EUR
+0.36 EUR
+Industry Committee
+final report
+0.40 EUR
+0.15 EUR
+0.23 EUR
+Council - EP compromise
+0.49 EUR (2007)
+0.46 EUR (2008)
+0.43 EUR (2009)
+0.24 EUR (2007)
+0.22 EUR (2008)
+0.19 EUR (2009)
+0.30 EUR (2007)
+0.28 EUR (2008)
+0.26 EUR (2009)
+x - outgoing roaming calls made outside a visited network
+y - outgoing roaming calls made inside a visited network
+-//EP//DTD IM-PRESS 20050901 BKG DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 BKG DOC XML V0//EN

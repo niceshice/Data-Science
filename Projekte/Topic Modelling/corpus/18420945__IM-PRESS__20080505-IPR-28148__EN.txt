@@ -1,0 +1,29 @@
+Telecom Package: overhauling EU rules
+Free movement of services
+2008-05-07 - 11:12
+EU legislation needs to be updated to keep pace with the rapid progress in the market and technologies of the electronic communications industry internet, fixed line and mobile telephone. Two committees of the European Parliament are sharing this legislative workload: the Internal Market Committee focuses on universal service provision and consumer rights while the Industry Committee deals with other aspects of the telecoms package.
+Both committees debated these issues with about 20 industry and consumer experts on Tuesday.
+Industry Committee: ensure investments in next-generation networks
+On Tuesday morning the Industry Committee debated the two draft reports which deal with the revision of the framework directive for access and authorisation and with the Commission's plans to set up a European Electronic Communications Market Authority (EECMA). The revised framework directive should take better account of investments in next-generation networks - meaning future electronic communication networks which will transport all types of information and services by pooling these into packages, said Catherine Trautmann (PES, FR) who is the rapporteur on this piece of legislation. "It is very important to encourage operators to invest in fibre-optic networks in areas where there is no competition", she stressed.
+Set up a small, streamlined "Body of European Regulators in Telecoms" (BERT)
+"Let's not create a cumbersome body which lobbies for its own existence", said Pilar del Castillo (EPP-ED, ES) who is drafting the report on the new European Electronic Communications Market Authority (EECMA). Contrary to the Commission's plans, she suggests an independent advisory Body of European Regulators in Telecoms (BERT). This body should not take over the tasks of the European Network and Information Security Agency (ENISA), she stressed, because merging BERT and ENISA would create "the risk of significantly muddying the water when the agency's priorities are set".
+Internal Market Committee: experts' views
+The telecoms package will also amend various provisions of interest to consumers: universal service provision and users' rights relating to electronic communications networks and services, personal data and privacy issues in this sector and cooperation on consumer protection. Malcolm Harbour (EPP-ED, UK) is drafting the report on these. MEPs have until 13 may to table their amendments to the Commission proposal.
+Better information for consumers
+Competitiveness in this complex sector does not consist simply of giving operators access to the market, argued Ed Richards of the UK Office of Communications (Ofcom). It also requires consumers who are well informed and enjoy rights enabling them to make choices between different operators. Consumers should be able to change operators more easily and more quickly while keeping their phone numbers and be better informed about the services they are paying for, as part of their basic charge, without ever using them, said Edouard Barreiro of UFC Que Choisir (France).
+Easier access to emergency numbers
+In the view of Bill Bush (Premier League, UK) the quality of the content offered to consumers is threatened by piracy and failure to observe copyright. Access to emergency numbers such as 112 should be made easier, especially for disabled people, said Steve Tyler (RNIB). For Roland Doll of Deutsche Telekom, technological solutions offered by some operators can contribute to this. But, according to Demetrios Pyrros (chairman of the European Emergency Number Association), these are not enough owing to a lack of information or of awareness that it can be a matter of life or death in an accident.
+Other questions were discussed, including better protection for consumers against SMS spam and "slamming" (the illegal practice of changing subscribers' telephone services without their consent), as well as ways of consulting consumers. During the debate MEPs also mentioned the difficulty of striking a balance between the need for personal data protection and the need to prevent cyber-crime.
+2008-05-06 Committee on Industry, Research and Energy In the Chair Angelika NIEBLER EPP-ED DE
+2008-05-06 Committee on Industry, Research and Energy In the Chair Angelika NIEBLER EPP-ED DE
+20080505IPR28148 Committee on Industry, Research and Energy website Committee on Internal Market and Consumer Protection Website
+EN
+1
+LINK
+/activities/committees/homeCom.do?language=EN&body=ITRE
+EN
+2
+LINK
+/activities/committees/homeCom.do?language=EN&body=IMCO
+-//EP//DTD IM-PRESS 20050901 IPR DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 IPR DOC XML V0//EN

@@ -1,0 +1,44 @@
+"People tend to carelessly leave their digital traces behind" - Voss
+Justice and home affairs
+2011-06-20 - 14:14
+Report adopted in committee 15 June Cyber crime, data loss, social networks, children on the Internet... technical progress means data protection rules must adapt and the EU is working on a revision of current rules. German Christian Democrat Axel Voss, who has prepared a report on data protection, explained, "Consumers should be able to control their data on the internet. They have to know what data they share, where it is stored and how it will be used, and be able delete it."
+What are the major privacy and data protection challenges in the EU?
+First there is the steady technical progress and the new applications it creates - web 2.0, social networks, geo-location services and smart phones had not been imagined when the current data protection law was adopted. It has to be modernised in order to deal with technical developments and to guarantee data protection for European citizens in the future.
+Second, the EU directive from 1995 is a pretty good basis, but it is being implemented very differently in the various EU member states. Companies have to adjust to a plethora of different privacy laws. We need a unified law for the entire Union.
+Enforcement is key: European data protection regulation has to be in force wherever data from European citizens is processed. This point is of importance if we think of online services that target the European market from the US or Asia.
+Has internet criminality become a challenge for data protection?
+There is more and more cyber crime and we know it is very hard to bring the criminals to justice...We have to help consumers become more aware of the dangers of the internet so that they are less easy going with their data. The best protection is always self-protection. Today, people tend to carelessly leave their digital traces behind them.
+But it is not only the consumer that is to blame. I strongly call for the introduction of the accountability principle for data controllers, like companies. If, for example, individual credit card information is stolen from a company's servers then they must inform those affected immediately, so that they can take the necessary measures to protect their privacy and be compensated for their losses. Recent data scandals show that this not happening at the moment.
+You talk about "privacy by default" and "privacy by design". What is that?
+These two principles aim to reduce the amount of data that is automatically shared via technology. We want producers and developers of new features to integrate, from the very beginning, ways to minimise the data that is stored. That means privacy would already be "in the design".
+Privacy by default means that the highest privacy pre-settings are the default. Today, we often have to change the settings ourselves if we wish for more privacy. And this is cumbersome. We want to turn this logic around: if you want to reveal more information, you have to change the settings intentionally. People should have the right to decide how much of their data is visible and this shouldn’t impede access to certain services.
+You stress the need for transparency and data minimisation on the Internet. What do you mean by that?
+Consumers should be able to control their data. They have to know what data they are sharing, where it is stored and how it will be used. And they have to be able delete the data or prevent others from gathering it in the first place - this is what ise meant by transparency. Unfortunately, that transparency is not the online experience today.
+Data minimisation means that companies should only collect the data that is really necessary and proportionate. They will have to limit themselves and that will require a shift in mindset.
+Mr Voss's report, a response to a European Commission communication on the future of European data protection law, was adopted by the Civil Liberties Committee 15 June.
+EU data protection guidelines
+Data collection, storage requires prior consent
+Data collection must be transparent
+Consumers and companies should minimise data available
+Data collection must be purpose driven
+20110610STO21214 Press release after the vote Draft report More about Axel Voss Personal Data Protection Directive Eurobarometer: Attitudes on Data Protection and Electronic Identity in the European Union
+EN
+1
+PHOTO
+20110616PHT21530.jpg
+EN
+4
+LINK
+/members/public/yourMep/view.do;jsessionid=D5D97490B70F68EFFDF6D8572D39482A.node2?language=EN&partNumber=1&name=voss&id=96761
+EN
+5
+LINK
+http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31995L0046:en:HTML
+EN
+6
+LINK
+http://ec.europa.eu/public_opinion/archives/ebs/ebs_359_en.pdf
+-//EP//TEXT IM-PRESS 20110614IPR21340 0 NOT XML V0//EN
+-//EP//TEXT COMPARL PE-460.636 01 NOT XML V0//EN
+-//EP//DTD IM-PRESS 20050901 STO DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 STO DOC XML V0//EN

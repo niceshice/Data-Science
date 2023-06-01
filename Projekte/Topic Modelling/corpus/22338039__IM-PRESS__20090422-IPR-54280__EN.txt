@@ -1,0 +1,21 @@
+Eco-design requirements for energy related products
+Environment
+2009-04-24 - 14:02
+MEPs adopted a legislative report on the Eco-design requirements for energy related products. MEPs say that not later than 2012 the Commission shall review the effectiveness of this Directive and of its implementing measures. The resolution was adopted with 394 votes in favour, 13 against and 3 abstentions.
+The compromise achieved between Council and the EP backs a Commission proposal to widen the scope of the 2005 Eco-design directive (which allows the Commission to set design requirements for energy-using products such as boilers, computers, televisions, industrial fans and light bulbs), to include all energy-related products, which are products that do not consume energy during use but have an indirect impact on energy consumption, such as water-using devices, windows or insulation material. For example, water-saving taps and shower heads reduce water consumption and therefore also the amount of energy used for hot water without altering the user’s perceived well-being.
+The current Ecodesign Directive (Directive 2005/32/EC) establishes requirements that energy-using products must meet if they are to benefit from free movement within the Community. It covers only energy-using products (excluding means of transport). For these, it can introduce mandatory minimum requirements corresponding to the performance of the product that has least life cycle cost.
+MEPs say that not later than 2012 the Commission shall review the effectiveness of this Directive and of its implementing measures, including, inter alia:
+- the methodology for the identification and coverage of significant environmental parameters, such as resource efficiency, considering the whole life-cycle of products,
+- the threshold for implementing measures,
+- market surveillance mechanisms and
+- any relevant self-regulation stimulated.
+Following this review, and in particular considering the experience related to the extended scope of the present Directive, the Commission must assess notably the appropriateness of extending the scope of the Directive to non energy related products, in order to achieve significant reduction of environmental impacts throughout their whole life cycle
+The "old" Eco-design directive:
+The directive does not introduce directly binding requirements for specific products, but does define conditions and criteria for setting requirements regarding environmentally relevant product characteristics (such as energy consumption) and allows them to be improved quickly and efficiently. It will be followed by implementing measures (adopted by the commission, with a right of scrutiny of the EP and Council who can reject the measure) which will establish the eco-design requirements. In principle, the Directive applies to all energy using products (except vehicles for transport) and covers all energy sources.
+20090422IPR54280 Adopted text (click on 24 April)
+EN
+1
+LINK
+/activities/plenary/ta/calendar.do?language=EN
+-//EP//DTD IM-PRESS 20050901 IPR DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 IPR DOC XML V0//EN

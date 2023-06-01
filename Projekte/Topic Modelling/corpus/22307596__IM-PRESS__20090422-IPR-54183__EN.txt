@@ -1,0 +1,19 @@
+"Intelligent Transport Systems": using technology to make EU roads safer
+Transport
+2009-04-23 - 14:17
+Parliament today backed plans for the implementation of "Intelligent Transport Systems" in the EU road transport sector but insisted on safety issues for vulnerable road users and guarantees for data privacy protection. Compatibility with other transport modes also needs to be ensured, MEPs underlined.
+MEPs approved with amendments the draft directive on the application of Intelligent Transport Systems (ITS) in road transport and interfaces with other transport modes when they adopted the first-reading report by Anne Jensen (ALDE, DK) by 529 votes to 42 with 16 abstentions.
+Intelligent Transport Systems use information and communication technologies to make transport safer and cleaner and to reduce traffic congestion. Examples of ITS applications include electronic tolling systems on motorways, GPS and traffic supervision systems and warning systems such as the automatic "e-call" which alerts emergency services if the driver is unconscious after an accident.
+ITS can be applied in every transport mode (road, rail, air, water), in both passenger and freight transport.
+MEPs are enthusiastic about the benefits ITS can bring to European citizens in terms of road safety, reducing traffic jams and better journey planning. However, they have called on the Commission to make a number of improvements to their proposals:
+to enhance compatibility between ITS systems and ensuring "backward compatibility" with previous applications and systems;
+to increase the focus on vulnerable road users (pedestrians, cyclists, motorcyclists, disabled people and people with limited mobility);
+to ensure respect for data protection and privacy: collection, storage and processing of personal data must be carried out in accordance with EU rules;
+to c larify liability issues by involving experts and stakeholders.
+20090422IPR54183 Adopted text (click on 23 April)
+EN
+1
+LINK
+/activities/plenary/ta/calendar.do?language=EN
+-//EP//DTD IM-PRESS 20050901 IPR DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 IPR DOC XML V0//EN

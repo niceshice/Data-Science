@@ -1,0 +1,42 @@
+Green light for establishment of European satellite navigation system Galileo
+Industry
+2008-04-23 - 11:55
+The European Parliament gave its backing to Galileo's deployment phase which paves the way for the European satellite radio navigation system to be operational by 2013. Parliament's rapporteur Etelka BARSI-PATAKY (EPP-ED, HU) said: Galileo will be the first common European infrastructure. Galileo and EGNOS are made-in-Europe programmes and no programmes of a particular Member State or a particular company. This project is a step towards a stronger Europe."
+A new regulation lays down security requirements for Galileo and the European Geostationary Satellite Navigation Service (EGNOS), to be managed by the Commission and the European Global Navigation Satellite System Supervisory Authority. Galileo infrastructure contracts will be put out to competitive tender.
+The deployment phase, in which all space and ground-based infrastructure is to be established, will run from 2008 to 2013. The exploitation phase will follow. The compromise text, negotiated with Council and Commission in informal meetings, took on board most of the amendments proposed by the Industry committee on 29 January.
+The text was adopted by 607 votes in favour with 36 votes against and 8 abstentions.
+Controlled access to security technologies
+The amended regulation asks the European Commission to lay down the main technical requirements for controlling access to the technologies that provide security to Galileo and EGNOS. Member States should adopt national security regulations that guarantee at least the same level of protection for EU classified information on the two programmes as is required for the industrial security of EURATOM, says the new text. If the operation of the systems should pose a risk to the security of the EU or the Member States, joint action should be taken under the Common Foreign and Security Policy.
+European GNSS Supervisory Authority will monitor security procedures
+Following MEPs’ criticism that the role of the European GNSS Supervisory Authority (GSA) was not clearly set out in the Commission proposal for the deployment phase, the agency’s tasks were revised.
+Originally designed to be the licensing authority for private undertakings within the public-private partnership first planned, the GSA will now instead monitor the implementation of security procedures and perform system security audits. The authority’s tasks will also include the preparation of the commercialisation of the systems, including market analysis. The Commission is asked to formally align the structures for the programmes' management with the GSA's new role.
+The compromise also took on board the European Parliament's call for the Commission to guarantee the protection of personal data and privacy by integrating it into Galileo's technical set-up.
+Guarantee fair competition and minimise dependence on one supplier
+The regulation will also stipulate public procurement rules. Infrastructure contracts will be split into six main packages (system engineering support, ground mission infrastructure completion, ground control infrastructure completion, satellites, launchers and operations) and additional work packages. The competitive tendering of all packages should take place in a single procedure and any one company or group may bid for no more than two of the six main work packages.
+In order to prevent any possible abuse of dominance or long-term dependency on single suppliers, the amended text takes up the European Parliament's suggestion to apply dual sourcing – i.e. using two different suppliers for one product. The aim of this procurement procedure is to improve the overall control of programme, cost and schedule. Moreover, at least 40% of the total value of the activities should be subcontracted to companies which do not belong to the prime contractor of any of the main work packages, says another adopted EP amendment.
+High-quality services at fair prices
+Galileo's deployment phase, which runs until 2013, will be entirely funded by the EU, which, by investing €3.4 billion, will become “the owner of all tangible and intangible assets created or developed under the programmes”. Member States, third countries or international organisations may provide additional funding.
+In 2010, the Commission should table a proposal on the public funds and commitments needed for the exploitation phase over the next financial programming period, starting in 2014, says the compromise text. This proposal would also have to include a revenue-sharing mechanism and objectives for a pricing policy to guarantee that costumers receive high-quality services at fair prices adds the text.
+Galileo Inter-institutional Panel
+Given the uniqueness of the programmes and the Community’s ownership of the satellite radio navigation systems, Parliament, Council and Commission agreed to set up a new inter-institutional framework, the Galileo Inter-institutional Panel (GIP) which will be composed of three representatives each of the Council and the Parliament, and one representative of the Commission. The GIP will follow closely the implementation of the GNSS programmes, the international agreements with third countries, and the preparation of the satellite navigation markets.
+Next steps
+In the course of the on-going In-Orbit-Validation phase a first set of experimental Galileo satellites will be launched. The first of these satellites, GIOVE-A, was successfully launched in December 2005; the launch of GIOVE-B from the Baikonur cosmodrome in Kazakhstan is planned for this Sunday 27 April 2008, 00:15. Thereafter, four out of the 30 Galileo satellites will be launched to validate the functioning of space and related ground infrastructure.
+20080422IPR27268 GALILEO, satellite radionavigation programme: implementation of the deployment and commercial operating phases covering 2006-2007 and 2008 Text, as adopted by the EP, will be available here (click on 23 April) Audio, 11:33 - Council and Commission statements Audio, 24:17 - Rapporteur Barsi-Pataky and political groups
+EN
+1
+LINK
+/oeil/file.jsp?id=5189332
+EN
+2
+LINK
+/activities/plenary/ta/calendar.do?language=EN
+EN
+3
+MULTIMEDIA
+20080423MLT27404.asf
+EN
+4
+MULTIMEDIA
+20080423MLT27410.asf
+-//EP//DTD IM-PRESS 20050901 IPR DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 IPR DOC XML V0//EN

@@ -1,0 +1,35 @@
+Mobile roaming: EP committee votes for € 0.40 cap on calls made while abroad
+Information society
+2007-04-12 - 16:05
+Parliament's Industry Committee voted on Thursday to set a single cap of 40 euro cents for all outgoing mobile phone roaming calls and a 15 euro cent cap for calls received. It also says that all existing and new customers should automatically be accorded this Euro-tariff.
+The committee approved its report on "Roaming on public mobile networks" with 45 votes in favour, 3 against, and 1 abstention. The co-decision legislation will now go for a first reading debate and vote at the 8-9 May plenary session in Brussels.
+Retail prices: enter the Euro-tariff
+The Euro-tariff -- the maximum charge per minute that mobile operators may levy on roaming customers -- has been intensively debated within and between all the EU institutions. The European Commission, in its original proposal, had suggested a 30 cent cap on calls within a “visited” network (e.g. by a German tourist in Italy calling an Italian number), a 44 cent cap for calls to a Member State outside the visited network (e.g. by a German tourist in Italy calling a Hungarian number) and a 15 cent cap for calls received. The Industry Committee, however, chose not to distinguish between calls made within or outside the visited network, backing -- with a large majority -- a single cap of 40 cents for all outgoing roaming calls and a 15 cent cap for calls received.
+In addition to the Euro-tariff, MEPs decided that "every home provider shall offer a fair use, all-inclusive monthly flat rate to which no charge limits apply." This flat rate would cover both voice and data (SMS and MMS) communication services.
+Opt in or opt out: when (and how) would the Euro-tariff apply?
+Should all customers receive the Euro-tariff by default, or should they have to apply ("opt in") for it themselves? Committee members settled for the former option. In an amendment passed by a 3/5 majority, the committee said that "all existing and new roaming customers shall automatically be accorded a Euro-tariff", unless they deliberately opt for another tariff. At the same time, as the Committee agreed, customers should be able to switch to and from the Euro-tariff at no charge within 30 days of their request.
+A EUR 23 cent cap on wholesale charges
+For wholesale charges (those that host network operators levy on home operators for carrying roaming calls), the Commission had suggested a dual system of caps: a EUR 23 cent cap for calls made within the Member State in which the visited network is located and a EUR 34 cent cap for calls to Member States outside the visited network. MEPs, however, opted for a single cap on wholesale charges, of EUR 23 cents per minute.*
+MEPs make the case for "informed" roaming
+To ensure that the benefits of cheaper roaming are passed on to customers, the committee included provisions on transparency and information requirements. Each home provider, they decided, should supply its roaming customer with personalised pricing information on per-minute retail charges, in an SMS sent to the customer whenever s/he enters another Member State. Moreover, home providers should give both new and existing users adequate information on roaming charges, and in particular on the availability of the Euro-tariff and the all-inclusive monthly flat rate.
+Lastly, MEPs agreed, "national regulatory authorities shall initiate and implement a publicity campaign via mass media [...] to enhance the level of awareness pertaining to the conditions of the Euro-tariff [...] The campaign should start immediately after the entry into force of this Regulation." National regulators should also establish a "price simulator" that provides roaming cost estimates for various operators.
+What difference would it make?
+Compared with what roaming customers are charged today, the retail price cap spells savings. Here's how a EUR 40 cent cap compares with some current tariffs (September 2006 data):
+- average retail charge for a roaming call: €1.15 per minute (five times the actual cost of providing the wholesale service)
+- a four-minute call by a UK customer roaming in Spain: €5.92
+- a four-minute call by a French customer travelling in Italy: €4.72
+- a four-minute call by an Austrian in Malta: €9.51
+- a four-minute call by a Cypriot in Belgium: €12.00
+EP rapporteur Paul Rübig (EPP-ED, AT), recently cited the example of a German journalist who -- having been sent by his newspaper to cover the Tour de France -- came home to find that his mobile operator had billed him €9000 for roaming services.
+SMS and MMS: next in line for regulation?
+The roaming package, Committee members decided, should not cover data communications, including SMS and MMS services. They did, however, agree to ask the Commission to review developments in wholesale and retail roaming prices in this area . The Commission's report "shall include, if appropriate, recommendations on the need for regulation of these services".
+Members also agreed on a so-called "sunset clause": the roaming regulation, they decided, should expire within three years "unless the Commission presents, before its expiry, a proposal to the European Parliament and the Council to prolong its duration."
+New roaming rates before the summer holidays?
+Parliament is scheduled to adopt this report at its May plenary session . In the meantime, new amendments may be tabled. If EU Ministers at the the 7 June Council meeting agree with Parliament's final (plenary) report, then the roaming package would be adopted. If not, then a second reading would become necessary. That said, the Council, Parliament and Commission will endeavour over the next two months to arrive at an agreement ahead of the plenary vote.
+MEPs decided that whereas the cap on wholesale charges and the provisions on transparency and notification should take effect immediately after the regulation's entry into force, the Euro-tariff retail cap -- and the accompanying opt-out provisions -- would only take effect one month afterwards. Should the legislation enter into force at the end of June, therefore, the retail cap would take effect by the end of July.
+* The wholesale charge, reads the report, could not exceed the average mobile termination rate (MTR) -- the per-minute rate that mobile operators charge each other for carrying calls across networks -- multiplied by a factor of 2. With the MTR now valued at EUR 11.41 cents, the wholesale cap would be set at EUR 22.82 cents (11.41 x 2). In line with the report's provisions, the Commission would publish the average MTR regularly in the Official Journal.
+Procedure: Co-decision, 1st reading -- Plenary vote: May I, Brussels
+2007-04-11 Committee on Industry, Research and Energy In the Chair: Angelika Niebler EPP-ED DE
+20070410IPR05075
+-//EP//DTD IM-PRESS 20050901 IPR DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 IPR DOC XML V0//EN

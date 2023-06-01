@@ -1,0 +1,18 @@
+RSS: another way of keeping up-to-date with parliament
+Information
+2008-12-11 - 11:15
+Stay informed with RSS Since October, readers of the European Parliament's web pages have had access to RSS, which allows them to keep up-to-date with what is going on via a free subscription. At the moment, readers have access to parliament news and podcasts, but RSS will be extended to other parts of the site later. Find out more:
+What is RSS?
+RSS lets users know when there is something new on a site without having to connect to the site. To access the service, users have to subscribe. Subscription is free.
+How do you subscribe?
+Depending on your computer and preferences you can subscribe via an internet browser, a desktop-based aggregator or a w eb-based feed reader.
+Web feed addresses are grouped under the RSS heading accessible in Europarl's tool box or via the link below.
+What is available?
+For the moment, you can access the headlines and press service parts of the site and audiovisual podcasts. RSS will be extended to other parts of the site in 2009.
+20081204STO43822
+EN
+1
+PHOTO
+20081209PHT44032.jpg
+-//EP//DTD IM-PRESS 20050901 STO DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 STO DOC XML V0//EN

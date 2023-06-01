@@ -1,0 +1,42 @@
+Internet neutrality?
+Information
+2010-11-16 - 12:47
+©BELGA EU must guarantee net neutrality, experts say Growth of internet use by mobile phones putting pressure on bandwidth With the global hunger for communications constantly growing, problems of traffic management and possible data congestion are inevitably surfacing, inducing some internet providers to impose restrictions on data traffic and online services provided. Does this signal the end of the open, neutral internet? Industry players, consumer associations and regulators met MEPs for a "net neutrality" to discuss quality of service, transparency of terms and conditions and anticompetitive behaviour.
+Malcolm Harbour : service providers inform new clients if they block services
+The Chair of the Parliament's Internal Market and Consumer Protection Committee Malcolm Harbour MEP, underlined importance of transparency. He told the meeting that service providers must clearly inform new clients if they are going to block some services and why and they must include their quality and traffic management policies in users' rights.
+Mr Harbour (ECR) had previously steered the Telecoms Package through the European Parliament. He went on to urge that regulators must be able to intervene if operators use quality of service arguments in a discriminatory and anti-competitive way: "We want minimum regulation, maximum innovation and choice for consumers" he said.
+Current bandwidth limited in growing market
+Representatives of internet service providers underlined that quality, reliability and consistency of service is impossible without management, as current bandwidth is limited. Robindhra Mangtani of GSM Association (GSMA) told those present that the growth of mobile phones having the internet will mean at least a quadrupling of traffic within next three years.
+Rafael Diez Vega of Telefonica told the hearing that network providers have to "optimise scarce shared network resources" whilst Sigurd Schuster of Nokia Siemens Networks said "we have to be fair, and we cannot beat the laws of physics".
+Skype warns of "subnets"
+Jean-Jacques Sahel of Skype called for regulators to step in under powers given by Telecoms package to stop practices "blocking choice and innovation". He warned that disrupting the open character of the internet would lead to "subnets". Recalling that all mobile operators in France restrict usage of Skype, he spoke of a "crippled mobile internet" and "commercially censored traffic".
+Former MEP David Hammerstein, now part of the Trans-Atlantic Consumer Dialogue warned that "we have dysfunctional regulation and copyright system".
+Neelie Kroes urges users: "vote with your feet"
+Neelie Kroes, European Commissioner for the Digital Agenda told people to "vote with your feet and leave your provider if your Skype is blocked" and said whatever is legal and does not cause congestion should be fully accessible. She warned that she was ready to take action and change laws if equal treatment is not upheld.
+Spanish MEP Pilar del Castillo Vera said that "principles applied on the net must be the same as we apply offline, underlined management is not contradicting openness".
+French Socialist Catherine Trautmann asked new European regulators (BEREC) and the European Commission to follow up on foundations laid by Telecom package.
+Romanian Liberal Adina-Ioana V ă lean (ALDE) said 20 billion euros was being lost annually because of fragmented EU market for e-communications.
+For the Greens Jan Philipp Albrecht told those present that the "internet is not only a market to be regulated" and that the "same principles of democratic society like rule of law should apply".
+Herbert Reul MEP (EPP), Chair of Parliament's Industry Committee said that Europe should create rules "only if it’s necessary”.
+20101108STO92590 Watch the recording Open internet and net neutrality portal Friends & foes of the internet & human rights Growing threat of Cyber-attacks Telecom package: internet safety and data protection Twitter messages
+EN
+1
+PHOTO
+20101116PHT95290.jpg
+EN
+2
+LINK
+/wps-europarl-internet/frd/vod/player?eventCode=20101111-1430-COMMITTEE-ITRE&language=en&byLeftMenu=researchcommittee&category=COMMITTEE&format=wmv#anchor1
+EN
+3
+LINK
+http://ec.europa.eu/information_society/policy/ecomm/library/public_consult/net_neutrality/index_en.htm
+EN
+7
+LINK
+http://twitter.com/search?q=%23nnsummit#search?q=%23nnsummit
+-//EP//TEXT IM-PRESS 20100607STO75582 0 NOT XML V0//EN
+-//EP//TEXT IM-PRESS 20101025STO89965 0 NOT XML V0//EN
+-//EP//TEXT IM-PRESS 20080526FCS29861 0 NOT XML V0//EN
+-//EP//DTD IM-PRESS 20050901 STO DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 STO DOC XML V0//EN

@@ -1,0 +1,102 @@
+New rules for the insurance sector and credit rating agencies
+Economic and monetary affairs
+2009-04-16 - 19:34
+Two major changes to Europe's system of financial supervision will be put to the vote at the 21-24 April plenary session: one is an overhaul of the framework for insurance companies, the other a regulation on the business of credit rating agencies.
+This background note sets out the detail of what is being put to the vote this week.
+A further piece of legislation, dealing with capital requirements for banks, is also in the pipeline, with a vote now scheduled for the May plenary session.
+20090415BKG53725
+Solvency II: better financial supervision of the insurance industry
+Aim of the new legislation
+The new legislation seeks a major overhaul of the supervisory framework to enhance the financial stability of the insurance industry.
+According to rapporteur Peter Skinner (PES, UK), "This legislation sets a modern global standard, way ahead of the banking system. Insurance is about risk management and this directive is about controlling the risks management can take".
+Financial stability and risk management
+In a nutshell, the aim of the Solvency II proposals is t o help ensure the financial stability of insurance (and reinsurance) companies by introducing more sophisticated solvency requirements which will take better account of the risks the companies must deal with: insurance risks as at present, but also market, credit and operational risks.
+According to Mr Skinner: "Transparency is widely acknowledged as a key tool for regulators to control prospect of dramatic failure: this directive opens up the whole insurance process by making decisions more transparent than ever before".
+New supervisory approach
+The new legislation shifts the focus of supervisory authorities from merely checking compliance with a "tick-the-box" approach based on a set of rules to more pro-actively supervising the risk management of individual companies based on a set of principles.
+Group supervisor
+Solvency II also sets up a new, unique system for supervising groups of insurance companies, by making one of the authorities take on the role of group supervisor with a leading role in monitoring cross-border companies and involving all supervisors in the decision making process concerning group issues. This would mean also cost reductions for insurance and reinsurance companies operating in the EU.
+Solvency II: State of play and EP achievements
+State of play in the procedure: agreement reached
+The European Parliament and the Council of Ministers' representatives agreed on a common text to have the new legislation approved before the end of current legislative term. This note reflects the content of the agreement.
+Parliament's main achievements
+The European Parliament representatives, during the lengthy negotiations with the Council of Ministers, were able to substantially improve the proposed legislation. Particularly, they made their voice heard on issues such as the capital requirements, group supervision and the review clause to update the legislation.
+Mr Skinner said: "I am particularly pleased that other countries are interested in the result we have achieved, especially the US - the biggest insurance market in the world. I welcome Congressional and US governmental moves to introduce a similar style of regulator approach."
+Solvency II: capital requirements and group supervision
+Capital Requirements: new transparent criteria
+The legislation introduces a new relationship between two key criteria for the amounts of capital insurance companies should hold – the Solvency Capital Requirement (SCR) and the Minimum Capital Requirement (MCR).
+The SCR will be calculated according to a risk-based approach: when capital falls below this level, supervisory intervention will be needed.
+The MCR is lower – the point at which the company’s licence would need to be withdrawn.
+As well as setting absolute minimum levels for the MCR for different types of company, the text agreed indicates that the MCR should be between 25 and 45 per cent of the company’s SCR, with the exact amount being a calculation based on variables which indicate the company’s ability to remain operational.
+Group supervision: cost reduction for companies
+To improve supervision and risk management, Parliament sought and obtained the creation of supervisory colleges – made up of the various national supervisors responsible for a group and its subsidiaries – to facilitate cooperation, exchange of information and consultation between the supervisors.
+The new supervisory system would also mean economic gains for company. EU companies would no longer need to deal with several national regulators, but just with one group.
+Solvency II: entry into force and review clause
+Member States will have to transpose the new directive by at the latest 31 October 2012.
+Review clause
+Two years after entry into force, the Commission is requested to put forward a legislative proposal to improve, if necessary, the application some aspects of the Directive, including the cooperation of supervisory authorities within the colleges.
+Three years after entry into force, Commission will have to propose legislation to enhance group supervision and capital management within a group of insurance. This would also include the provision, proposed by Parliament representatives, on group support, (i.e. that part of the capital requirement for a subsidiary could be met by a guarantee that funds would be transferred from the group if needed).
+Credit Rating Agencies: partially responsible for the current financial crisis
+A credit rating agency (CRA) is a company that provides opinions on the future creditworthiness of companies, securities or obligations. These ratings, despite being just opinions, are used by investors, lenders, issuers and securities regulators and therefore influence global financial transactions. Given this influence on the financial market, CRAs' decisions have to be taken in transparent and independent way.
+Why is it necessary to regulate CRAs?
+According to Members of the Economic and Monetary Affairs Committee, credit rating agencies failed to detect the worsening of the financial market conditions and to adapt their ratings in time. They also failed to adapt to the new risks of the credit market, e.g. structured credit products (derivatives) and hedge funds.
+Jean Paul Gauzes (EPP-ED, FR), rapporteur, said: "An analysis of the various causes of the financial crisis has shown the urgent need to draw up rules on rating agencies." He added: "The draft regulation produced by the Commission has been carefully scrutinised by Parliament to ensure that the European rules are exemplary, effective and pragmatic at the same time. The recent conclusions of the G20 have further strengthened our resolve."
+This failure contributed, partially, to the current financial turmoil and that is why it is necessary to regulate all ratings used by EU financial institutions, said the committee.
+Therefore, with its vote on 23 March 2009, Members in the committee approved strict rules to improve transparency and independence of European credit rating. International Organisation of Securities Commissions: statement of principles regarding the activities of credit rating agencies
+Credit rating agencies: state of play and main objectives of legislation
+State of play of the legislative procedure
+Following the vote in the Economics Committee, the Parliament and the Council of Ministers delegations have reached an agreement on the new legislation. This would mean ending the legislative procedure with Parliament plenary vote during the April session in Strasbourg, and a consequent formal go-ahead by the Council.
+Mr Gauzes said: "The compromise reached by the Commission, the presidency of the Union and Parliament meets the guidelines demanded by Parliament on the key points: the scope, the rating of third countries and the prevention of conflicts of interest. I am glad that this text lays the foundations for a European supervisory system in the spirit of the De Larosière report."
+Main objectives of the new legislation
+The proposed regulation sets up an obligation for all CRAs wishing to operate in the EU to register and comply with a set of rules.
+The approved provisions aim at enhancing transparency, independence and good governance of credit rating agencies, thus improving the quality and reliability of credit ratings and consumer's trust.
+The main objectives of the regulation are:
+To ensure that credit rating agencies avoid conflicts of interest;
+To increase transparency by setting disclosure obligations;
+To ensure an efficient registration and supervision framework at EU level;
+To improve the quality of the methodologies and the quality of ratings.
+Credit rating agencies: enhancing independence and transparency
+Rotation mechanism to avoid conflicts of interest
+Avoiding existing or potential conflict of interest between the agency issuing the rating and the rated organisation is a key aim of the legislation. Long lasting relationships with the same rated entities may compromise independence of analysts
+those in charge of approving credit ratings. Therefore, the agreed text proposes that those analysts and persons approving credit ratings should be subject to a rotation mechanism.
+At Parliament's representatives' request, the rotation will take place on an individual basis rather than changing the entire team of the company. The aim is to avoid negative consequences on CRA performance.
+A greater European dimension in the registration and supervision of CRAs
+MEPs, when voting on this legislation in the Economics Committee, sought a stronger European-level dimension in the supervision of the financial markets than it is the case today. The compromise reached provides for a greater role for the Committee of European Securities Regulators (CESR), which will be in charge of registering CRAs' according to the new rules. This would provide a single point of entry for the submission of applications and thus cost reduction for agencies. CESR should receive applications for registration and inform competent authorities in all Member States. CESR will also make this information available to the public.
+National authorities will take the decision on CRAs registration and compliance with the rules and on possibility of withdrawing an agency's registration should the rules be breached.
+Moreover, a college of supervisors, representing the 27 Member States authorities, will also be established, to provide a platform for an exchange of supervisory information among national authorities and to improve coordination of their activities. The agreement is regarded as a first step forward and the Commission is asked to report on its application by July 2010 with a view to possible new proposals for further streamlining.
+Mr Gauzes commented: "On a temporary basis, pending the Commission's submission of legislation, which must take place by July 2010, regulation will be performed, under the coordination of the CESR, by a college of representatives of the competent authorities of the Member States. Its decisions will be legally enforced by the competent authority of the place where the agency has its seat". CESR is an independent Committee of European Securities Regulators, established in 2001 to act as an advisory group to assist the EU Commission.
+Credit rating agencies: further provisions on transparency
+Ratings from non-EU agencies will need endorsement
+Another issue, widely debated in the Economics Committee is how to let European investors use non-EU ratings whilst maintaining the same criteria as for EU ones.
+Non-European ratings will have to be endorsed by an EU agency, established according to this new regulation. This agency will be responsible for determining and monitoring on an ongoing basis whether rating activities of non-EU CRAs comply with the requirements.
+For smaller non-EU agencies, which have no presence in the EU, a specific certification regime will be established. The Commission will decide, on a case by case basis, on the equivalence of the legal framework of the third country with EU rules and therefore on the possible use of that rating within the Community.
+Disclosure of rating methodologies
+Under the proposed regulation, each CRA would have to disclose to the public the methodologies used to adopt their ratings.
+The company would also need to ensure that the issued ratings are based on all available information. It would also adopt all necessary measures to ensure all used information is of sufficient quality and from reliable sources.
+Structured products
+According to the compromise, CRAs should play an important role in raising awareness of the users of credit ratings about the specificities of the structured finance products compared with traditional ones. Therefore credit rating agencies should either use different rating categories when rating structured finance instruments or provide additional information on the different risk characteristics of these products.
+Transparency report
+Finally, if the legislation is adopted, a CRA would have to publish annually a transparency report including information on ownership, the outcome of the annual internal review of the independence compliance and a description of the management and analyst rotation policy.
+Credit rating agencies: entry into force and background details
+Entry into force and transition period
+The Regulation will be directly applicable in the whole EU 20 days following its publication in the Official Journal. Member States will have six months to take the necessary measures to implement the new provisions. As an exception, the provisions on the use of ratings from non EU agencies, this transition period will last 18 months. Three years later, the Commission will evaluate the effectiveness of the regulation, including the reliance on credit ratings in the EU.
+Background information on credit rating agencies
+Credit rating agencies active in the EU are at present mainly governed by the International Organisation of Securities Commissions (IOSCO) code of conduct, which is based on voluntary compliance, and are subject to a yearly assessment by the CESR.
+In October 2007, EU Finance Ministers agreed to a set of conclusions on the crisis (the ‘Ecofin Roadmap’) which included a proposal to assess the role played by credit rating agencies and to address any relevant deficiencies.
+At around the same time, other countries started reforms in this field. In the US, where most of the credit rating agencies with significant EU activities have their parent companies, CRAs have been subject to regulation and supervision since the US Credit Rating Agency Reform Act of 2006 entered into force in June 2007.
+Standard & Poor’s, Moody’s Investors Service and Fitch Ratings are the three biggest ratings providers.
+Background material based on information in Commission's original proposal - click here
+EN
+1
+LINK
+http://www.iosco.org/library/pubdocs/pdf/IOSCOPD151.pdf
+EN
+2
+LINK
+http://www.cesr-eu.org/
+EN
+3
+LINK
+/meetdocs/2004_2009/documents/com/com_com(2008)0704_/COM_COM(2008)0704_en.pdf
+-//EP//DTD IM-PRESS 20050901 BKG DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 BKG DOC XML V0//EN

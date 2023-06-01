@@ -1,0 +1,77 @@
+Financial crisis glossary
+Economic and monetary affairs
+2010-06-01 - 17:15
+A man looks worried as the stock market crumbles. ©BELGA/EPA/DAI KUROKAWA ABC guide to the financial crisis Navigate your way around financial terms The financial crisis that erupted in late 2008 with the demise of Lehman Brothers, a US investment bank, has spread all over the world, developing into the most serious economic slump since the Great Depression of 1930s. The EU and eurozone too are grappling with the fallout. This glossary intends to explain, in the simplest terms possible, economic concepts that rose to prominence in recent months, offering the reader a closer look at the mechanics of the crisis.
+In this section we present basic economic concepts that are often used in media reports on the crisis. They are not presented in the alphabetical order, but follow what is today an established narrative on the causes of the crisis.
+20100414FCS72750
+ABC guide to the financial crisis
+The fluctuations can result in later unemployment for millions. ©BELGA/EPA/JEON HEON-KYUN From Trade surpluses to bad loans Trade surpluses and deficits . A country runs a surplus when it exports more goods and services than it imports, i.e. when it produces more than it consumes. It runs a deficit when it imports more than it exports, i.e. when more money leaves the country to pay for imports than the country earns by selling its exports. In the first case, a country is a creditor vis-à-vis the rest of the world, in the second case it is a debtor. Persistent trade surpluses and deficits give rise to
+Global imbalances in the world economy, a situation where some countries are running persistent and large, yet clearly unsustainable, surpluses, while other are running persistent and large, yet clearly unsustainable deficits.
+Creditor countries with huge trade surpluses (e.g. Germany, China, Japan, oil exporters) earn more money by exporting than they spend on imports, so excess funds are lent abroad through the conduit of international financial markets.
+Debtor countries with huge trade deficits (e.g. Greece, the US) do not export enough to pay for their imports, so they make up the gap by borrowing the money they need on international financial markets.
+As planet Earth does not trade with other planets, surpluses in one part of the world must necessarily be reflected in deficits elsewhere - not every economy can be an export champion and have an excess of exports over imports.
+Deficit countries absorb these exports as imports. Being short of money, they must necessarily borrow from surplus countries to pay for them. It is not unlike being offered a loan by the car dealer to buy a car. Borrowing usually means that
+Private debt , i.e. debt of consumers and companies, increases. With excess money from big exporters cheaply available on international financial markets, it makes sense for banks and other financial institutions to channel it to where it is most needed. Companies and consumers in economies that wish to consume more than they produce are an obvious target. However, there is a problem of
+Bad loans , i.e. loans that cannot be paid off at all or cannot be paid off in full. If a bank does not get back (all) the money it is owed, it is hard for it to pay back (all) the money it owes to depositors, other banks or bond holders. In recent years, banks lent a lot of money for consumer spending and real estate construction; with rising unemployment consumer loans are turning bad, as are real estate loans because developers cannot sell houses and offices they built in expectation of high profits.
+Subprime loans were the trigger of the current crisis as they first went bad, exposing weaknesses in ways banks had been extending loans. Subprime mortgage loans were given to borrowers which could have only payed them back, if house prices had kept rising, if the economy had continued to boom and if interest rates had stayed low. These assumptions proved to be false, pushing borrowers into default and exposing banks to big losses.
+Budget surpluses or deficits arise when the government, in any given year, either raises more in taxes than it spends on various goods and services (surplus) or spends more than it takes in taxes (deficit). With banks teetering, governments have had to come to the rescue by injecting billions of euros into banks to cover losses from bad loans. This has meant that with falling tax receipts in the wake of recession, government budgets have swung sharply in deficit.
+Government debt , the amount of money a government owes to its creditors, i.e. the accumulation of budget deficits, has thus also risen. It is also called public debt because it is taxpayers that in the end have to come up with necessary funds to pay it off. If a government spends more than it raises in taxes, it must borrow additional money , usually by selling
+Bonds . A bond is a promise of the seller of a bond (e.g. government) to pay back, with interest, the money that was lent to it by buyers (e.g. banks, pension funds, etc.) of bonds. With a successful bond sale, money is transferred to the budget; investors in bonds, of course, count on being repaid with interest in the future.
+Interest rate on government bonds determines how heavy state borrowing will weigh on the taxpayer. Riskier the borrower, higher the interest rate - and bigger the amount of money that government will have to set aside to pay interest instead of spending it on e.g. health care.
+Interest rate spread is the difference (in basis points, 1%=100bp) in interest rates on bonds considered the safest (German bunds in eurozone) and other bonds. If a spread on a particular eurozone country's bonds is, say, 350bp, and German bonds carry a 3% interest rate, this means that this country must pay 6,5% interest on its bonds. If a spread widens, say from 350 to 400bp, this is a sign investors think bonds have gotten riskier.
+Refinancing the debt means paying it off with newly borrowed money. When existing bonds are close to coming due, the government can issue new bonds, using the proceeds to repay the investors in old ones. Treasuries around the world do this all the time. The problem arises when investors are not prepared to refinance because they deem this too risky and just want their money back.
+Credit default swaps (CDS) on government bonds offer investors in those bonds an insurance against default , i.e. against a possibility that a government will not pay back the money it owes (in full). If a country defaults, the holder of a CDS will get his money back anyway; the losses will be borne by those who sold the CDS. An investor can buy a CDS (insure herself against losses on bonds) from various financial institutions, such as banks, hedge funds and others.
+Naked CDS is a CDS held by an investor who does not own the underlying bond. Speculators can buy CDSs to bet on default of governments; higher the possibility of default, higher the value of CDS which is an insurance against default. EU is thinking of banning this practice.
+Chasing the money
+Bank lock box boxes ©BELGA_imagebroker_Stefan Obermeier From banks to insolvency Chasing the money
+In the previous section, we saw that some economies earn much more by selling their exports than they spend on imports - excess funds are available to be lent elsewhere. The same goes for companies and households; if they earn more than they spend, they have money to lend. Here is where the financial industry comes in, channelling money from savers to borrowers and earning a profit (or, increasingly, making a loss) in the process.
+Financial intermediation , matching those who can afford to lend money with those who need to borrow. It, happens between economies (e.g. China investing its trade surpluses in US bonds) and inside them (e.g. a bank lending deposits to a company building a factory). The best-known financial intermediary is a
+bank. Owners of the bank have put their own money, their capital , into the company. They are shareholders of the bank. The bank's business is simple: it borrows money from depositors (let's say the interest rate on savings is 3%) and loans it to households and companies (let's say the interest rate on these loans is 5%). Because it has to pay less interest on the money it borrows ( liabilities ) than it earns in interest on loans and other investments ( assets ), the bank makes a profit of 5% - 3%.
+That's how things work in good times. Now imagine that the economy goes into a deep slump. Ailing firms and battered households start having problems paying back their loans. This puts the bank in a bind. It still owes the same amount of money to depositors and others (e.g. other banks, bond holders), but it earns less money on loans because they are not being repaid (in full). If depositors lose confidence, a
+bank run may occur. If you think that so many of the bank's loans have turned bad that the institution may soon find itself out of cash, the only rational thing to do is to pull your money out as soon as possible. If enough people follow your example (as usually happens), the bank will become
+illiquid. As the bank has lent out the majority of depositors' funds, that money is tied up in loans. If only a few depositors demand their money back at any given time, the bank can oblige without difficulty. But if all the depositors demand their money back at the same time, the bank will be forced to close - even if over time it would have no problem paying back deposits. This is different from the bank being
+insolvent , a situation where so many loans have turned bad that the amount the bank owes to its creditors exceeds the value of its loans and other assets. Even if the assets were sold immediately, it wouldn't generate enough money to pay back creditors.
+When a loan turns bad, the bank registers a loss because the asset it owns has lost value (a write-down ). But losses, if not too big, are normal in every business. Banks just have to make sure they have enough money to pay back their debts and thus stay in business, even if a small portion of loans default. That is why
+capital is so important. Capital is money that the owners of the bank have put into the company and they have shares to prove it. This capital is the first in line to absorb losses from bad loans. If a capital cushion is comfortable enough, depositors don't have to worry about not being able to get their money out of the bank - only if losses eat through the capital cushion, should they start panicking.
+Having enough capital to weather economic storms when loans turn bad is essential to avoid banking panics, so regulators have imposed capital adequacy ratios. Simply put, this is the ratio between a bank’s capital and its assets, i.e. loans, bonds, mortgages; in short, everything in which the bank has invested other people’s money.
+Let say that required ratio is 8% a bank must have €8 of its own capital for every €100 loan they make. So even if a bank gets repaid only €92 on the loan, its capital cushion can absorb the loss. The higher the capital adequacy ratio, the safer deposits are.
+Leverage is the ratio between debt and capital. Let’s say that you have €50 (your capital) to bet on a horse you are sure will win the race and double your initial investment to €100. That’s a 100% profit! But why not first borrow €50 (your debt) from your friend and then bet the whole €100? With a leverage ratio of 1 (€1 of debt for each euro of capital), you’ll make €200. Once you pay back your friend €50 you will be left with €150, tripling your initial investment.
+Such is the beauty of leverage – but it works both ways. If you lose the bet, you not only lose your €50, you end up owing your friend another €50. Leverage magnifies profit when things work and magnifies losses when they don’t.
+It is important to remember that all financial institutions - banks, pension funds and hedge funds do business in basically the same way . First, owners have to provide enough capital to start a financial firm and absorb eventual losses. The firm then proceeds to borrow money (from depositors, employees saving for retirement, investment banks) and invests it in various financial products (making loans and mortgages, buying stocks and bonds, or betting on derivatives), trying to make a profit. Leverage, i.e. other people's money, is used to make bigger returns on investment.
+When loans go bad, stock markets dive and bonds teeter on the brink of default, the resulting losses are usually far bigger than financial institutions and regulators predicted. Capital to cushion the losses usually proves insufficient and financial panic ensues. As credit is the lifeblood of the economy and financial markets its plumbing, governments are obliged to step in with taxpayers' money.
+In order to prevent this from happening, many MEPs think tighter financial market regulation is needed.
+Economic and Monetary Affairs Committee Financial, Economic and Social Crisis Committee European Commission: Single Market European Database for Financial Education EuroparlTV: A Crisis Exit Strategy
+EN
+1
+PHOTO
+20100414PHT72734.jpg
+EN
+2
+PHOTO
+20100414PHT72736.jpg
+EN
+3
+PHOTO
+20100526PHT75007.jpg
+EN
+4
+LINK
+/activities/committees/homeCom.do?language=EN&body=ECON
+EN
+5
+LINK
+/activities/committees/homeCom.do?language=EN&body=CRIS
+EN
+6
+LINK
+http://ec.europa.eu/internal_market/index_en.htm
+EN
+7
+LINK
+http://ec.europa.eu/internal_market/fesis/index.cfm?action=home
+EN
+8
+VIDEOLINK
+http://www.europarltv.europa.eu/YourParliament.aspx?action=viewVideo&packageid=6f92caa0-b7cc-41a2-b9d4-ce8d098cbeaf
+-//EP//DTD IM-PRESS 20050901 FCS DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 FCS DOC XML V0//EN

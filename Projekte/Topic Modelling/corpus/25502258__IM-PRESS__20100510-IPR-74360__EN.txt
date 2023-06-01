@@ -1,0 +1,40 @@
+MEPs vote to beef up financial supervisory package
+Economic and monetary affairs
+Committees Economic and Monetary Affairs
+2010-05-10 - 19:46
+The EU's financial supervisory plans were beefed up by Economic and Monetary Affairs Committee MEPs on Monday, with new measures including a much bigger say for the nascent European Systemic Risk Board before and during crises affecting financial stability, direct EU supervision of systemically important financial institutions, the right to impose temporary bans on very risky financial products and the designation of two EU stability-assisting funds.
+EU supervision must be much stronger than what the Commission and Council are proposing, in order to prevent the kind of slow and fragmented supervisory responses seen in the 2007-2008 crisis, said the committee, broadly backing the position of its rapporteurs.
+If backed by Parliament as a whole, the committee vote will base all the proposed supervisory bodies in Frankfurt and make them part of a tightly-integrated system, replacing the looser network of supervisors in various European cities originally proposed.
+Sector-specific authorities: an integrated structure for an integrated financial sector
+The committee text sets up a supervisory quasi-umbrella authority, with a European Banking Authority (EBA), a European Insurance Authority (EIOPA) and a European Securities and Markets authority (ESMA), beneath it, working together through an improved joint coordinating committee. Although these three authorities would maintain considerable independence from each other, and employ their own staff, the committee text would locate them all in Frankfurt and require much closer collaboration among them.
+Before the vote, all the committee rapporteurs argued that integration was essential to achieve the important aim of producing a "single rule book" for EU financial institutions. Insurance, banking and investment are now so highly integrated that their standard-setting bodies must be equally integrated, they said.
+Sector-specific authorities: new powers and two new funds
+The committee text would grant the EBA, ESMA and EIOPA new powers, such as the possibility of drawing up draft regulatory financial standards which could then be made legally binding by the European Commission. They would also be able to address decisions with legal effect to supervisory authorities that do not conform to EU laws. Together with the European Systemic Risk Board (ESRB), the authorities would also be tasked with carrying out "stress tests" on financial institutions active in their fields. The EBA would also be specifically empowered to evaluate the accessibility, availability and cost of credit to households and small and medium-sized enterprises.
+The committee text also creates a power to supervise directly systemically-important cross-border financial institutions, whereby national supervisors would act as agents of the EU authority. This power would be particularly relevant for the EBA, due to the presence of large cross-border banks operating around the EU. It also provides for a binding mediating power in the event of conflicts between national supervisors.
+The text also provides for the possibility of temporarily banning a financial product if it is felt to pose too much risk. This power will be particularly relevant for ESMA, as it will be in a position to ban trading in a risky security. Finally, ESMA will be expected to advise on the supervision and regulation of credit rating agencies and clearing houses.
+Institutions directly supervised at EU level would be obliged to contribute to a European deposit guarantee fund and a European stability fund. Contributions would depend on the institutions' risk ratings. The funds would kick in if and when one of these institutions runs into difficulties and needs refinancing to meet creditors' and depositors' demands or to be bailed out. The funds would be able to boost their finances by issuing debt. The key idea behind the funds is to ensure that taxpayers will not be the main source of rescue funding if a bank runs into trouble.
+European Systemic Risk Board: explaining risk faster and better
+The text as voted aims to ensure that the aim assigned by the Commission to the ESRB - that of monitoring the build-up of risk in the EU economy - is carried out better, more clearly, and can thus be acted upon faster.
+Firstly, the ESRB should be empowered not only to warn of an imminent emergency in the economy, but also to declare its existence. These warnings would be transmitted through the European Parliament and the three sector-specific authorities and not only through the Council.
+The text also aims to make risk levels more easily understandable. It says the ESRB should develop a common set of indicators to permit uniform ratings of the riskiness of specific cross-border financial institutions and make it easier to identify the types of risks embedded in them.
+To improve overall risk awareness, the text calls for the ESRB to establish colour-coded grades to reflect different risk levels. When the ESRB then makes warnings or recommendations on risk build-up it would use the colour-grade to indicate the level of risk.
+To enhance the ESRB's visibility and credibility, the text says it must be chaired by the ECB President. The text also widens the ESRB board membership to include academics.
+Improved safeguard and review clauses
+The committee text considerably reduces the latitude for a Member State to invoke the "safeguard clause" that allows it to avoid implementing a decision of one of the bodies if it considers that the decision creates budgetary problems. The text would require the Member State to provide much clearer proof than had been previously proposed by the Commission and the Council as to how the body’s decision creates budgetary problems for it. The European Commission would also be required, after three years, to evaluate the use of the safeguard clause.
+The text also improves the review clause, to enable the whole European financial supervision system to be further strengthened, if, after a few years, this is considered necessary. The rapporteurs argued that this would allow the authorities to evolve over time, as events change and lessons are learnt.
+Next steps
+Intensive talks now start between MEPs and the Council find a deal that satisfies both sides. It is hoped that this deal could then be put to a vote at Parliament's June plenary session. If the deal is done in June, then the bodies provided for in this package can be set up in 2011.
+Background note
+The original Commission proposals called for the establishment of a European Systemic Risk Board (ESRB) and a network of financial supervisors which, inter alia, would be composed of three new EU sector-specific supervisory authorities covering the banking sector, the insurance and pensions sector and the securities and markets sector. This package, as amended by Parliament's Economic and Monetary Affairs Committee, replaces the Commission’s network with a financial supervision system that also includes the ESRB.
+In the chair : Sharon BOWLES (ALDE, UK)
+20100510IPR74360 Financial supervisory package: frequently asked questions Financial regulation and supervision under the spotlight at EP special committee More powerful EU financial supervisory bodies and less national interest, demand MEPs Financial system supervisory package: MEPs quiz the experts Economic and Monetary Affairs Committee web site
+EN
+5
+LINK
+/activities/committees/homeCom.do?language=EN&body=ECON
+-//EP//TEXT IM-PRESS 20100506BKG74226 0 NOT XML V0//EN
+-//EP//TEXT IM-PRESS 20100223IPR69387 0 NOT XML V0//EN
+-//EP//TEXT IM-PRESS 20100223IPR69355 0 NOT XML V0//EN
+-//EP//TEXT IM-PRESS 20100125IPR67973 0 NOT XML V0//EN
+-//EP//DTD IM-PRESS 20050901 IPR DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 IPR DOC XML V0//EN

@@ -1,0 +1,35 @@
+EU Competition Commissioner Kroes discusses Microsoft case with MEPs
+Competition
+2007-10-09 - 11:57
+The case brought competition out of the shadows
+On October 3rd Mrs Kroes met with MEPs on Parliament's Economic and Monetary Affairs, almost a month after the Dutch official saw the Court of First Instance uphold a €497 million fine against Microsoft in a landmark anti-trust case. In the wake of the case many MEPs informally welcomed the decision as a victory for the consumer and a blow against Microsoft's domination of the market.
+Following the decision the Commissioner hailed it as setting a "precedent" demonstrating that "even super dominant companies cannot disturb the market". This relates to the crux of the case against Microsoft; namely that it didn't not allow its products to be useable with other non- Microsoft products ("interoperability" to use the jargon). The Court upheld the Commission's ruling that by bundling up its Windows Media Player the Seattle based company had unfairly disadvantaged its rivals.
+Mrs Kroes' job is to ensure that companies operating in the EU do not carve up the market for their own ends. She also ensures that government subsidies are not used to prop up enterprises and distort the market. Cheaper roaming phone calls and the low cost air fare market are two examples where competition rules have benefited consumers.
+Kroes: Windows interoperability will benefit consumers
+In the Committee last Wednesday MEPs pressed Mrs Kroes on what tangible benefits the consumer would gain from the case. Immediately after the ruling French Socialist MEP Pervenche Berès - who chairs the Committee - called the decision "historic". Eoin Ryan from the UEN Group asked whether the consumer would really get anything from the ruling as "Media Player is still the most popular media application on the market?"
+In reply Mrs Kroes conceded the position of Media Player in the market was "firm" but defended the ruling. She said that "the company would need to disclose information on interoperability with Windows" and this would bring "real benefits to consumers".
+Will decision threaten innovation?
+German Liberal ALDE Member Wolf Klinz pressed Commissioner Kroes on the implications the case could have for innovation. He was worried it would send a negative signal to innovative enterprises. In effect it would say that "you must not market innovative technology because the European Commission will intervene". Mrs Kroes replied saying that for innovation "we have to take responsibility for the whole market". She went on to say that "it is not acceptable that one of the market positions can be in danger because of lack of interoperability".
+MEPs also questioned the Commissioner about any possible fallout from the recent financial turbulence brought on the crises in the US sub-prime Mortgage market. Mrs Kroes said it had revealed a number of potential problems, but that there was "not sufficient evidence of anti-competitive behaviour".
+On the energy sector she said that by trying to "unbundle" (de-regulate) the full network was the best way to inject more competition into this highly concentrated market where there is little cross border activity.
+At the time of writing Microsoft have still not formally announced whether they intend to contest the Court's decision - in effect appeal against the decision of the appeal.
+20071008STO11297 MEPs initial reaction to ruling: 20 September Economic and Monetary Affairs Committee EU Competition policy and the Consumer Commissioner Neelie Kroes - homepage
+EN
+1
+PHOTO
+20071008PHT11365.jpg
+EN
+3
+LINK
+/activities/expert/committees/presentation.do?committee=2351&language=EN
+EN
+4
+LINK
+http://ec.europa.eu/comm/competition/publications/consumer_en.pdf
+EN
+5
+LINK
+http://ec.europa.eu/commission_barroso/kroes/index_en.html
+-//EP//TEXT IM-PRESS 20070920STO10523 0 NOT XML V0//EN
+-//EP//DTD IM-PRESS 20050901 STO DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 STO DOC XML V0//EN

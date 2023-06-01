@@ -1,0 +1,45 @@
+New rules to avoid future financial crisis - Capital Requirements Directives
+2009 elections
+Economic and monetary affairs
+2009-05-06 - 14:32
+The European Parliament adopted a legislative report by Othmar Karas (EPP-ED, AT) which amends the "Capital Requirements" Directives to improve the transparency and the supervision of the financial system to ensure proper risk management in the banking sector. The legislative resolution was adopted with 454 votes in favour, 106 against and 25 abstentions.
+The European Parliament, the Council of Ministers and the European Commission delegations agreed on a common text to have the new legislation approved before the end of current legislative term.
+The major change after negotiations is the inclusion of a review clause, asking the Commission to present a proposal by 31 December 2009, with an increase in the retention rate, if considered convenient after consulting the Committee of European Banking Supervisors and taking into account international developments.
+1. Aim of the new legislation
+The new legislation seeks to improve risk management and avoid a repetition in future of the current banking crisis, with bank failures putting pressure on other banks and leaving the whole financial system at risk.
+The review of the "Capital Requirements" Directives represents one of the first legislative answers to the current financial crisis.
+1.1 The main points of the proposed legislation:
+Enhancing both efficiency and effectiveness of supervision and crisis management. Revisions of rules from previous directives, particularly on the large exposures regime and securitisation;
+2. State of play in the procedure
+The European Parliament and the Council of Ministers representatives agreed on a common text. The agreement was approved by the whole Parliament in Strasbourg.
+3. Supervision: colleges of supervisors to be established
+To strengthen the crisis management framework over EU banking sector, Members supported the Commission proposal and agreed with the Council to establish the colleges of supervisors to facilitate cooperation among national authorities dealing with cross-border financial institutions.
+According to MEPs, the colleges of supervisors are a further step forward in streamlining EU supervisory cooperation. They also believe that, in case of a conflict between members of a college, independent advice and a mediation mechanism at Community level should also be available.
+Therefore, they ask the Commission to put forward a legislative proposal to achieve further supervisory integration by 31 December 2009, with a view to establish an EU level supervisory system by 31 December 2011.
+4. Large exposure regime
+4.1 What's at stake?
+Banks usually spread their exposures between several clients, in order to not be dependent on one single client and to avoid the risk of loss due to the non-payment of a loan.
+As the current turmoil showed, in cases where financial institutions are widely exposed to a single client, a bank or insurer could incur large losses as a result of the failure of an individual client or a group of connected clients. The same can happen when banks trade their exposures between themselves: the failure of one institution can cause the failure of others.
+Therefore, there is need to reinforce the existing rules on large exposure regime, including inter bank exposures.
+The aim of the new provisions on large exposure, agreed by all the three institutions, will apply to the whole banking system, from big institutes to small ones.
+4.2 Stricter rules on large exposure
+The new legislation reinforces existing rules on the large exposure regime, including interbank trading.
+According to the agreed text, a bank would not be able to expose more than 25% of its own funds to a client or a group of clients. Exceeding this threshold will only be possible for exposure between credit institutions and for not more than Euro 150 million.
+A review clause was also agreed, as requested by the MEPs, on the large exposure regime by end of 2011, also to seek further harmonisation of national provisions.
+5. Securitisation: 5% of retention and review clause
+The current crisis has also shown that risks are not always correctly assessed by the institutions proposing an investment, for example, when mortgages are packaged into investment products and sold on by the original lender.
+The EP representatives agreed with the Commission's proposal to ensure that an institution issuing an investment retains a material interest in the performance of the proposed investment. The retention rate is, as agreed between the negotiating delegations, at least 5% of the total value of the securitised exposures.
+In addition, the EP delegation asked and obtained a strong review clause, asking the Commission to come up with a possible proposal to increase the retention rate, by 31 December 2009, after consulting the Committee of European Banking Supervisors and taking into account international developments.
+6. Credit Default Swaps: call for an EU clearing house
+Credit Default Swaps (CDS), the most traded derivative in recent years, as well as all OTC (over the counter) products, also need to be regulated, according to the MEPs.
+The agreed text therefore calls on the Commission to put forward, by the end of 2009, legislative proposals to enhance transparency in the OTC market and set up a central counterpart (CCP) or clearing house, supervised by the EU, to reduce the risks of these instruments.
+7. Entry into force and other review clauses
+The three institutions agreed that national governments will have to transpose the proposed legislation by 31 October 2010 and apply the new provisions from the end of 2010.
+Finally, MEPs asked and obtained a review of rules on procyclicality, leverage and methodologies by the end of the current year.
+20090505IPR55119 Adopted text (click on 6 May)
+EN
+1
+LINK
+/activities/plenary/ta/calendar.do?language=EN
+-//EP//DTD IM-PRESS 20050901 IPR DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 IPR DOC XML V0//EN

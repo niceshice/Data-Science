@@ -1,0 +1,30 @@
+SWIFT II: Civil Liberties Committee approves draft agreement
+Justice and home affairs
+Committees Civil Liberties, Justice and Home Affairs
+2010-07-05 - 20:39
+Parliament should approve the reworked EU-USA SWIFT bank data transfer agreement this week, said the Civil Liberties Committee on Monday. MEPs rejected the previous agreement four months ago, but have since negotiated certain safeguards with the Council and the US Treasury Department, and won an undertaking that the EU will develop a system that precludes the need to transfer data in bulk to the USA.
+The recommendation that Parliament as a whole authorise the conclusion of SWIFT II was drafted by Alexander Alvaro (ALDE, DE), and approved in committee with 41 votes in favour, 9 against and 1 abstention. If Parliament backs it in plenary on Thursday at noon, the agreement will come into force on 1 August.
+The key to the deal for the European Parliament is the eventual elimination of "bulk" data transfers. In exchange for backing the agreement, MEPs won an undertaking that work on setting up an EU equivalent to the US "Terrorism Finance Tracking Program" (TFTP), which would preclude the need for bulk data transfers, will start within 12 months. Once Europe has a system enabling it to analyse data on its own territory, it need only transfer data relating to a specific terrorist track.
+A new role for Europol Another innovation of the draft agreement is that it empowers the EU's "Europol" criminal intelligence agency, based in the Hague, to block data transfers to the USA. Europol will have to check that every data transfer request by the US Treasury is justified by counter-terrorism needs and that the volume of data requested is as small as possible. Data must be "pushed" rather than "pulled", i.e. sent by Europeans, not gathered by the Americans themselves.
+An EU representative in the USA to monitor data processing
+The new version of the agreement also provides that the use of data by the Americans, which must be exclusively for counter-terrorism purposes, is to be supervised by a group of independent inspectors, including someone appointed by the European Commission. This person will be entitled to request justification before any data is used and to block any searches he or she considers illegitimate.
+The agreement prohibits the US TFTP from engaging in data mining or any other type of algorithmic or automated profiling or computer filtering. Any searches of SWIFT data will have to be based on existing information showing that the object of the search relates to terrorism or terrorism finance.
+Right of redress for European citizens
+In February 2010, after rejecting the previous agreement, MEPs demanded that European citizens should be guaranteed the same judicial redress procedures as those applied to data held on the territory of the European Union, and in particular payment of compensation in cases of illegal processing of personal data. They pointed out that the US Privacy Act, which protects US citizens against such misuse, does not protect European citizens who might become victims of such misuse on American soil. The new proposal says this time that US law must provide a right of redress, regardless of nationality.
+Data retention and deletion
+Extracted data may be retained only for the duration of the specific procedures and investigations for which they are used. Each year, the US Treasury must take stock of any data that have not been extracted, and hence individualised, for counter-terrorism purposes, and delete them.
+Finally, the text enables either party to suspend the agreement, with immediate effect, in the event of a breach by the other party.
+Two minority opinions added
+The compromise was backed by the EPP, S&D and ALDE groups. The Greens/EFA, GUE/NGL and EFD opposed it. Two minority opinions were attached to the report.
+The first, signed by six MEPs from the GUE/NGL and Greens/EFA groups, says that "the EU-US agreement on TFTP does not meet the guarantees requested by the EP in its previous resolutions", particularly on the transfer of "bulk data". Morever, "the role of supervision of Europol is unclear and will imply a modification of its mandate (…) Europol is not a judicial authority". Furthermore, "such an agreement represents a clear violation of EU legislation on data protection", say the six MEPs, adding that the data retention period is "far too long" and that the provisions on data-subject rights "do not at all meet the European criteria".
+The second, signed by Gerard Batten (EFD, UK), deems the proposed legislation "democratically illegitimate". Furthermore, "the draft Agreement was only made available on 27th May to a restricted number of MEPs" and "this confidential and private financial data belongs to the individual not to the European Union or the Parliament", says the MEP.
+Next steps
+If the agreement is approved by the European Parliament, it will take effect on the first day of the following month, for five years, and will be renewable, year by year, thereafter. However, the two parties must together assess the functioning of the agreement's safeguards and control systems, at the latest within six months of the agreement's entry into force.
+2010-07-05 In the chair Juan Fernando LÓPEZ AGUILAR S&D ES
+20100705IPR77848 Civil Liberties Committee
+EN
+1
+LINK
+/activities/committees/homeCom.do?language=EN&body=LIBE
+-//EP//DTD IM-PRESS 20050901 IPR DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 IPR DOC XML V0//EN

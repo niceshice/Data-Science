@@ -1,0 +1,17 @@
+Parliament backs substitution principle for perfluorooctane sulfonates
+Environment
+2006-10-26 - 12:35
+The House adopted, by 632 votes to 10 with 20 abstentions, a report seeking to limit the use of perfluorooctane sulfonates (PFOS), a toxic, bio-accumulative substance previously present in everyday consumer goods such as carpets and textiles as well as some industrial products. There will be exemptions for specific uses where no substitute can be found for technical or economic reasons.
+Today's vote, on the report drafted by Carl Schlyter (Greens/EFA, SE), confirms a first-reading agreement between Parliament and Council. Under the agreement, the directive will ban the placing of PFOS on the market and their use as a substance or constituent of preparations in a concentration equal to or higher than 0.005% by mass. It will also outlaw the sale of PFOS or their use in semi-finished products or articles, or parts thereof, if the concentration of PFOS is equal to or higher than 0,1% by mass or, for textiles or other coated materials, if the amount of PFOS is equal to or higher than 1 µg/m 2 of the coated material.
+Under the directive, substances and preparations needed to produce photoresists or anti-reflective coatings for photolithography processes, photographic coatings applied to films, papers, or printing plates may contain PFOS in larger quantities. The same applies to suppressants for non-decorative hard chromium (VI) plating and wetting agents for use in controlled electroplating systems as well as hydraulic fluids for aviation.
+Regarding fire-fighting foams, the initially proposed derogation was dropped. All new foams must be free of PFOS. Foams that have been placed on the market before the directive enters into force (probably early 2007) can be used until 54 months after its entry into force. Two years after entry into force, Member States must compile and send to the Commission an inventory listing the processes for chromium plating subject to derogation, the amounts of PFOS used in and released into the environment, and existing stocks of fire-fighting foams.
+When reviewing derogations in the light of new information, the Commission ensure that: the uses of PFOS are phased out as soon as the use of safer alternatives is technically and economically feasible; a derogation is only continued for essential uses for which safer alternatives do not exist and where it has been reported what has been undertaken to find safer alternatives; releases of PFOS into the environment have been minimised, by applying best available techniques.
+Lastly, the Commission will keep under review the ongoing risk assessment activities and the availability of safer alternative substances or technologies related to the uses of perfluorooctanoic acid (PFOA) and related substances and propose any measures needed to reduce identified risks, including restrictions of marketing and use, in particular when safer alternative substances or technologies which are technically and economically feasible are available.
+Member States will have 18 months to enact the directive in national law, i.e. up to mid-2008.
+20061020IPR11883 Restrictions on the marketing and use of perfluorooctane sulfonates
+EN
+1
+LINK
+/oeil/file.jsp?id=5295432
+-//EP//DTD IM-PRESS 20050901 IPR DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 IPR DOC XML V0//EN

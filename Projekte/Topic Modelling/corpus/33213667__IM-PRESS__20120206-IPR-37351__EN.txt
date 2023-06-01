@@ -1,0 +1,33 @@
+Cyber-attacks: Industry Committee backs plan to strengthen EU defences
+Information society
+Committees Industry, Research and Energy
+2012-02-07 - 11:39
+Nora CHAAL BXL (+32) 2 28 32269 STR (+33) 3 881 78290 PORT (+32) 498 98 34 02 EMAIL indu-press@europarl.europa.eu A draft law to strengthen the European Network and Information Security Agency (ENISA) was approved by Industry, Research and Energy Committee MEPs on Monday.
+ENISA was founded in 2004, for an initial period of five years, to ensure a high and effective level of network information security within the EU. Its current mandate expires in September 2013.
+The new proposal would extend and strengthen ENISA's mandate to help the EU, Member States and private stakeholders develop their capabilities and preparedness to prevent, detect and respond to network and information security problems and incidents.
+Computer Emergency and Response Teams (CERT)
+The proposal should require ENISA to support the establishment and the functioning of a full-scale European Union Computer Emergency Response Team (EU CERT), to counter cyber attacks against the EU institutions, bodies and agencies, says the resolution by Giles Chichester (ECR, UK).
+It should also require the agency to promote and support cooperation among national CERTs in Member States and EU CERTs in the event of incidents, attacks or disruptions on networks or infrastructure managed or protected by them.
+In the event of a severe cyber-threat, and at the request of a Member State or an EU institution or body, ENISA will assist it in operational tasks to secure the affected network or data, adds the text.
+New mandate
+To enable ENISA to meet growing cyber security challenges, the proposal would establish its new mandate for seven years with effect from 13 September 2013. ENISA's governance structure would also be strengthened with a stronger supervisory role for the Management Board.
+ENISA has its seat in Heraklion. However, according to an EP amendment, technical staff engaged in the operational implementation of its mandate should be based in a branch office in Athens.
+This vote provides a mandate to start negotiations with a view to a possible first-reading agreement.
+Procedure: First reading
+Vote in committee: 52 votes in favour, 3 against and 1 abstention
+In the chair: Amalia SARTORI (EPP, IT)
+20120206IPR37351 Website of the Committee on Industry, Research and Energy Watch webstreaming live Catch up via Video On Demand (VOD)
+EN
+1
+LINK
+/committees/en/ITRE/home.html
+EN
+2
+LINK
+/wps-europarl-internet/frd/live/live-program?language=en
+EN
+3
+LINK
+/ep-live/en/committees/search?end-date=&start-date=&legislature=&organ-code=&pageIndex=
+-//EP//DTD IM-PRESS 20050901 IPR DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 IPR DOC XML V0//EN

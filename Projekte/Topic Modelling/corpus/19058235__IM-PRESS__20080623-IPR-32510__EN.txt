@@ -1,0 +1,30 @@
+Industry Committee calls for coordinated use of "digital dividend" spectrum
+Information society
+2008-06-26 - 14:59
+The use of spectrum frequencies released by the switchover from analogue to digital terrestrial TV should be coordinated at EU level, says an own-initiative report adopted by the Industry Committee on Thursday. MEPs call on Member States and Commission to identify common spectrum sub-bands to avoid interferences. The freed spectrum could be used for additional TV programmes, mobile broadband and new e-services such as e-government or e-health.
+Digitisation allows the transmission of 6 to 8 TV channels in the spectrum previously needed for one analogue channel alone. A study commissioned by Parliament estimates that the switchover from analogue to digital terrestrial TV by the end of 2012 will thus free up around 75% of high-quality spectrum, known as the "digital dividend".
+"The immediacy of switchover in some Member States and the differences in national switchover plans require a response at Community level that cannot wait until the reform directives [of the telecoms package] enter into force", says the own-initiative report drafted by Patrizia TOIA (ALDE, IT).
+Promote new e-services and media pluralism
+The report advocates "a common and balanced approach to the use of the digital dividend", which allows broadcasters to expand their services and electronic communications operators to deploy new services. In any event, the digital dividend should be allocated in a technology-neutral fashion, say MEPs.
+MEPs stress that around 100 MHz of the digital dividend could be reallocated to mobile broadband and other services such as public safety services, radio frequency identification (RFID), and road safety applications, without preventing broadcasting services from flourishing.
+The released spectrum can for example improve the provision of enhanced interoperable social services such as e-government, e-health, e-vocational training and e-education to citizens, especially those living in less favoured and isolated areas, says the report. At the same time, the digital dividend will enable public and private broadcasters to provide a much larger number of programmes serving general interest objectives such as the promotion of cultural and linguistic diversity, stress MEPs.
+A coordinated approach at EU level
+The report urges Member States to release their digital dividends as quickly as possible, "to allow European citizens to benefit from the deployment of new, innovative and competitive services". Following a common methodology, Member States should develop national digital dividend strategies by the end of 2009.
+The Industry Committee calls on the Commission to propose measures to Parliament and Council for better coordinating the use of the digital dividend at EU level. Member States, together with the Commission, should identify common spectrum sub-bands of the digital dividend for different application clusters that could be harmonised on a technology-neutral basis, it says. MEPs reason that a coordinated approach, based on different clusters of the UHF spectrum for uni-directional and bi-directional services, is "the most efficient way to avoid harmful interference".
+Unlicensed access
+Member States should also recognise the value of allowing unlicensed users access to the dividend, in particular for small and medium-sized enterprises and the not-for-profit sector, says the report, because unlicensed access would allow new technologies and services to emerge. Unlicensed uses of the spectrum should concentrate in the currently unused frequencies, also known as "white spaces".
+Common conditions for auctioning frequencies
+Member States should also agree on a common approach as regards the conditions and modalities for auctioning the frequencies freed by the switchover and the allocation of the generated resources, say MEPs.
+2008-06-25 Committee on Industry, Research and Energy In the Chair Angelika NIEBLER EPP-ED DE
+The report was adopted in committee with 41 votes in favour, one against and one abstention. -- Procedure: own-initiative -- Plenary vote: September I
+20080623IPR32510 Committee on Industry, Research and Energy website EP study on "A common European spectrum policy - Barriers and prospects" (December 2007)
+EN
+1
+LINK
+/activities/committees/homeCom.do?language=EN&body=ITRE
+EN
+2
+LINK
+/activities/committees/studiesCom/download.do?file=18931
+-//EP//DTD IM-PRESS 20050901 IPR DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 IPR DOC XML V0//EN

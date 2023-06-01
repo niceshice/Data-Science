@@ -1,0 +1,44 @@
+Galileo - the single market goes into orbit
+Research and innovation
+2005-09-07 - 19:08
+You may have heard of European agriculture policy, or European fisheries policy - but how about European space policy? It all sounds somewhat unworldly - until you realise that the EU is just a few years away from having its own orbiting satellites. This September, the European Parliament is set to authorise a further €1 billion in funding to ensure the continued development of the Galileo space programme - arguably the EU's most ambitious project so far.
+Galileo is an attempt by the EU to create its own civilian satellite navigation system that will be entirely independent of existing American technology. At present the world has two such satellite navigation systems, the American (GPS) and the Russian (GLONASS) system. Both were developed by the military although only the American system has successfully been applied to civilian usage. Given this, why develop a specifically European system?
+The main purpose is the management of Europe's transport infrastructure - railways, roads and sea lanes. Supporters of Galileo argue that these can be more effectively managed using satellite technology. In addition, the technology has telecommunication and civil protection usages which in turn should lead to diverse commercial uses. Hopefully will bring the necessary financial revenues to maintain Galileo. According to the European Commission who are coordinating the project, the relative benefits of Galileo "are that it will provide a real public service, be specifically for civilian use and offer greater precision". This is thanks to the constellation of satellites and ground based receivers.
+Galileo has in essence grown out of the massive increase in Global Satellite Navigation System (GNSS) infrastructure. It is estimated that the annual growth rate of this technology is 25% and that by 2020 there will be a staggering 3 billion receivers in place. The launching of the Galileo satellites will double the amount of available infrastructure. The existing EGNOS system (European Geostationary Navigation Overlay Service) has been developing since 1993. It is in effect Europe's first step in satellite navigation and uses 40 ground stations scattered throughout Europe designed to record, adjust and improve data from the American system GPS. Galileo has been developed using and improving upon this technology.
+EU-US space race?
+Naturally, the development of Galileo has prompted questions about exactly how it will work alongside the American GPS system. Will they be competitors or are they mutually complementary? Over the last few years a political and technological consensus has emerged that compatibility between GPS and Galileo is the best, and indeed only, way forward. The technical objective is to ensure that everyone will be able to use both GPS and Galileo signals with a single receiver. Nevertheless, when reading about Galileo it is impossible to miss the words "civilian use" which appear conspicuously frequently in the official literature. This is clearly to play down any suspicion that the technology could one day be used for non-civilian purposes should the EU continue to develop its own military capabilities - independent of the need for American technology.
+" Brussels, we have lift off "
+The development phase of the programme is drawing to a close after three years and the "deployment" phase (building and launching the satellites) will begin in 2006 and be completed in 2013. It is expected that the full commercial application of the Galileo satellites can begin in 2010 at the earliest. The European Space Agency (ESA) and outside contractors will be responsible for the logistics of putting the satellite in orbit.
+Who will pay for it?
+While the practical benefits of Galileo are well laid out, it is worth considering that space technology does not come cheap. This is why the European Parliament has been giving careful consideration to the cost. Thus far, the EU has spent €650 million (1) of its budget on developing the project. This funding has been matched by the countries who are members of the ESA. To put the satellites in orbit will cost €2.1 billion, of which €500 million will come from EU funds. The private sector will provide the rest. Once this is completed a further €500 million (2) will be needed to operate the satellite commercially from 2010. Mrs Etelka Barsi-Pataki is the Hungarian Conservative MEP who is guiding the issue through Parliament in her role as member of the Industry, Research and Energy committee. She says that this will be the biggest European PPP (public private partnership) ever and as such the EU should pay careful attention to it". Mrs Barsi-Pataki supports Galileo as it establishes a precedent as a specifically "made in Europe project". By authorising the spending of €1 billion of European money the European Parliament is ensuring that there will be no budget shortfalls in the project. To ensure the money is properly spent a Supervising Authority will be appointed to oversee the distribution of funds. It is envisaged that commercial revenues will ensure the long term financial stability of the project.
+The man himself
+Galileo Galilei (1564 -1642) the Italian astronomer and physicist is famous for using his verbal and mathematical skills to prove the theory of Copernicus that in fact the earth does rotate around the sun. This brought him denunciation from the Catholic Church and he was forced to recant and was placed under house arrest.
+(1) : €550 million from the Trans-European Network budget (5th budget framework) and €100 million from the 6th budget framework
+(2) : Estimate by Price Waterhouse Cooper in a 2001 Report
+20050819STO00999 A website giving all the details on the Galileo project An information brochure on Galileo Website of the European Space Agency All the details of the relevant Parliamentary Committee The life and works of Galileo Galilei
+EN
+1
+PHOTO
+20050818PHT00279.jpg
+EN
+2
+LINK
+http://ec.europa.eu/dgs/energy_transport/galileo/index_en.htm
+EN
+3
+LINK
+http://ec.europa.eu/dgs/energy_transport/galileo/doc/galileo_leaflet_en.pdf
+EN
+4
+LINK
+http://www.esa.int/esaCP/index.html
+EN
+5
+LINK
+/committees/itre_home.htm
+EN
+6
+LINK
+http://www.answers.com/topic/galileo-galilei
+-//EP//DTD IM-PRESS 20050901 STO DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 STO DOC XML V0//EN

@@ -1,0 +1,54 @@
+Launch of Europarltv, the webtv of the European Parliament
+Institutions
+2008-09-11 - 17:34
+On 17 September 2008, the European Parliament will launch on the Internet its own webTV channel: Europarltv. From that moment, anyone in the world with Internet access will be able to watch a regularly changing set of programmes based around the life of the Parliament.
+The following ten points developed in this background look to answer some of the questions that those interested in the channel might have.
+Parliament's webtv can be accessed at the following address from Wednesday 17 September:
+www.europarltv.europa.eu
+20080901BKG35904
+Why create a parliamentary channel?
+The European Parliament is committed to making its work as transparent and understandable as possible to European citizens. They have a right to know and be able to make sense of what happens in their Parliament. A parliamentary channel provides a means of bringing the life of the institution closer to its citizens in a modern and creative format.
+There has been significant growth in the number of parliamentary channels in Europe over the last decade. Some are run by national broadcasting companies (for example, BBC Parliament) but others have been established by national Parliaments themselves (for example, in France and in Greece).
+The European Parliament has chosen this second model.
+Why choose the web?
+A web television channel:
+- is much more cost-effective than a traditional broadcast channel; - fits much more readily with the direction of technology, in particular, the convergence of computer and television technologies and the rapid spread of broadband; - is oriented to the user's convenience rather than the broadcaster's, offering the viewer a wide choice of material to watch at the time and place of his or her choosing, a form of "democracy on demand"; - matches changing social patterns, with many Europeans, particularly the young, looking increasingly to the Internet for news and information; - is considerably better able to deliver multiple languages; - is the only effective way to reach people in third countries outside the European Union.
+The choice is more fully discussed in a report that the Parliament commissioned in the summer of 2005.
+What will be on the channel?
+Europarltv is not a single channel but rather is split into four channels, each directed to a different audience:
+Your Parliament, aimed at those with a particular interest in politics at the EU level: informed citizens, industry groups, social partners, lobbyists, academics as well as those working in the EU institutions.
+Your Voice, conceived for the general public and providing the possibility of featuring user-generated content.
+Young Europe, aimed particularly at school-aged children, high users of the Internet and the European electorate of the future.
+Parliament Live provides continuous coverage of live events in the Parliament, notably debates in the plenary sessions, with a link to the audiovisual archives of previous sessions, as well as in the coming months, the activities of the committees.
+Finally, a section entitled "Discovering the European Parliament" was designed to provide background material on the Parliament and including profiles of MEPs and Presidents of the Parliament, programmes on the political groups and committees and on the history and operation of the Parliament.
+How did the Parliament create the channel?
+The European Parliament decided to use external resources to create the channel. It organised an external tender to identify two companies, one to set up the web platform and organise the hosting of the channel, the other to create material for the channel.
+Parliament signed contracts in December 2006 and July 2007 with, respectively, TwoFour Digital, a UK-based company, for the platform, and Mostra, a Brussels-based company for the content.
+These two companies have worked for the Parliament (and together) to create first a prototype of the channel, unveiled in November 2007, and, now, the online version, with production estimated a minimum of 300 hours per year, excluding the live proceedings.
+How has the channel been tested?
+An internal prototype version of the channel was launched in November 2007, accessible to everyone working in the Parliament. From December 2007, all the Parliament’s Information Offices in the Member States were invited to set up focus groups in their respective countries. Altogether, some 300 people saw the prototype and completed a questionnaire. Their responses showed that:
+- 81 per cent of them enjoyed watching europarltv;
+- 78 per cent said it was easy to find their way around the site;
+- 80 per cent said the content was relevant to them.
+It was on the basis of these reactions and those garnered within Parliament that the decision was taken to produce the public version which is now online.
+Who can watch?
+Anyone with internet access will be able to watch the site. Internet users will be able to choose between Windows Media and Flash 9.
+To maximise the spread of programmes and to increase the number of viewers, users will be able to use embed codes and URLs to share videos with others on the Internet.
+How many languages?
+All programmes will be translated into more than 20 languages, making the site unique in the world. Some programmes will be voiced-over, others will be made with subtitles. All EU languages will be covered but with more limited material in Irish, following the pattern of the Parliament's website.
+What interactivity?
+The European Parliament is strongly committed to ensuring that the channel provides for interactivity. The Editorial Charter (see annex) states that "the channel shall be developed in such a way as to reinforce interactivity between the Parliament and European citizens. It shall enable citizens to express their views on the contents of the channel and to contribute to that content".
+Programmes are being developed to reflect this commitment.
+Who controls the channel?
+The channel is governed by an Editorial Charter that lays down the principles on which the channel is based. It underlines, in particular, that
+- "the channel shall be governed by the principles of public service to meet informational and educational purposes"; and
+- "the channel shall ensure that the plurality of opinion in the European Parliament is reflected, with due respect to the relative strengths of the political groups, in accordance with a neutral, non-partisan editorial policy".
+The Bureau of the European Parliament (composed of the EP President, Vice-Presidents and Quaestors) has invited an Advisory Panel composed of one Member per political group and chaired by the Vice-President responsible for Information and Communication to assist it in ensuring that the Charter is respected and that any complaints from inside or outside the institution are dealt with expeditiously.
+How much will it cost?
+The annual budget foreseen for the channel is € 9 million. The largest part is devoted to programme production and translation, with smaller amounts foreseen for hosting and developing the website and for marketing the channel.
+EN
+1
+A
+http://www.europarltv.europa.eu
+-//EP//DTD IM-PRESS 20050901 BKG DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 BKG DOC XML V0//EN

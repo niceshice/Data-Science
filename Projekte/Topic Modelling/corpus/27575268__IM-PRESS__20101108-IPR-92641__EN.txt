@@ -1,0 +1,29 @@
+Advertising: protecting consumers from abuse of new technologies
+Consumers
+Committees Internal Market and Consumer Protection
+2010-11-12 - 11:05
+Intrusive and misleading new advertising techniques should be tackled by requiring "behavioural advertisement" warnings and encouraging policing by forum moderators, said the Internal Market Committee in an own-initiative report voted on Monday.
+While the Unfair Commercial Practices Directive (UCPD) of 2005 does provide an essential legal framework for combating misleading and aggressive advertising, several difficulties are already apparent, notably regarding the new, more pervasive forms of advertising arising from the development of new advertising practices and technologies on the internet, notes the own-initiative report by Internal Market Committee rapporteur Philippe Juvin (EPP, FR).
+Data privacy and ads tailored to individuals
+The report voices concern about "the routine use of behavioural advertising and the development of intrusive advertising practices", such as third parties who read private emails or use social networks and geolocation to tailor advertising to individual consumers' interests. Such advertising constitute "an attack on the protection of privacy when it involves tracking individuals", e.g. through cookies or profiling, the report warns.
+"Behavioural ad" warning
+The report calls for the insertion, "as soon as possible", of "the clearly readable words 'behavioural advertisement' into the relevant online advertisements, along with a window containing a basic explanation of this practice". It also calls on the Europe Commission and Member States "to ensure that different levels of data collection are kept wholly separate" and stresses that consumers must receive clear, accessible and comprehensive information about how their data are collected and used. It adds that this information should be kept and used "only by explicit agreement by the consumer".
+Hidden advertising
+The report calls on the Commission and Member States to ensure that the UCPD, which does not yet cover the development of "hidden" internet advertising, is properly applied. "Hidden advertising", which takes place in forums where consumers post comments to one another about goods or services (e.g. recommendations for hotels), may not only mislead consumers, but can also ruin a company's reputation with just one click.
+Member States should "encourage the emergence of forum observers/moderators who are alert to the dangers of hidden advertising", the report says, as well as running information campaigns to warn consumers of such "hidden" forms of advertising.
+Transparency and education
+To improve consumer safety and transparency, the report calls on the Commission to develop an EU web site labelling system, modelled on the European Privacy Seal, that certifies a site's standard of data protection and encourages the use of EU-wide simultaneous web site "sweeps" carried out by Member States to rid the internet of unfair advertising practices. To protect vulnerable consumers such as children, the Commission is urged to develop an EU advertising literacy programme modelled on the UK's "Media Smart" initiative.
+Next steps
+The Juvin report was approved in committee with 30 votes in favour, 1 against and 2 abstentions, and is scheduled for a plenary vote in December.
+In the Chair: Committee Chair Malcolm Harbour (ECR, UK)
+20101108IPR92641 Website of the Internal Market and Consumer Protection Committee Watch the meeting
+EN
+1
+LINK
+/activities/committees/homeCom.do?language=EN&body=IMCO
+EN
+2
+LINK
+/wps-europarl-internet/frd/vod/search-committees?language=en
+-//EP//DTD IM-PRESS 20050901 IPR DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 IPR DOC XML V0//EN

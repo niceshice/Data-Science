@@ -1,0 +1,135 @@
+Telecoms package: more competition and improved consumer rights
+Information society
+2009-05-05 - 15:07
+The "telecoms package" seeks to strengthen consumer rights and privacy protection, boost investment in new high-speed communications infrastructure, ensure that regulatory measures are applied consistently across the EU and modernise radio spectrum use. MEPs will vote on the reform of the regulatory framework for electronic communications - including mobile and fixed telephones, broadcasting, wireless and fixed internet - following a political agreement reached with the Council.
+The revised framework directive for electronic communications networks and services will ensure that radio spectrum management is better co-ordinated and harmonised across the EU, especially with a view to the switchover from analogue to digital TV by 2012, which will release a large range of frequencies currently reserved for broadcasting.
+The report drafted by Catherine Trautmann (PES, FR), also seeks to strengthen co-operation among national regulatory authorities, the new Body of European Regulators and the Commission to improve the application of the regulatory framework. The proposed new rules expand the tools available to national regulators to include, as "an exceptional measure", functional separation, i.e. a regulatory instrument requiring incumbent operators to separate their network infrastructure from business units offering services that use this infrastructure.
+To ensure that the regulatory framework is applied consistently, MEPs, led by rapporteur Pilar del Castillo (EPP-ED, ES) agreed with the Council to set up a European body bringing together all 27 national regulators - the Body of European Regulators for Electronic Communications (BEREC).
+An important part of the package (report by Malcolm Harbour (EPP-ED, UK) aims to improve consumer rights, such as the obligation on operators to provide more transparent information on tariffs and contractual terms and easier access to e-services for users with disabilities. The aim is also to strengthen personal data and privacy protection, e.g. by requiring access providers to warn internet users of the risk of malicious use of their personal data or other illegal practices. A range of measures to enhance data protection were included in the initial proposal.
+This background note gives more detail on each section of the telecoms package.
+20090504BKG54930
+Respect fundamental rights of internet users
+At the initiative of MEPs, the compromise recognises the internet as “essential for education and for the practical exercise of freedom of expression and access to information”.
+The agreement therefore builds citizens’ rights under the European Convention for the Protection of Human Rights and Fundamental Freedoms into EU telecoms legislation. Binding provisions state that any actions taken by Member States which have an impact on users' access to, or use of, electronic communications services and applications must respect their fundamental rights and freedoms, especially their right to privacy, freedom of expression and access to information and their right to a judgment by an independent and impartial tribunal.
+The compromise also asks the European Commission to launch a wide public debate on the role of the internet in the practical exercise of fundamental rights. Telecoms: rapporteurs in 5 May plenary session - OR Telecoms: rapporteurs in 5 May plenary session - EN Telecoms: Commissioner Reding in 5 May plenary session - OR-EN Telecoms: political groups in 5 May plenary session - OR Telecoms: political groups in 5 May plenary session - EN
+Strengthen consumer rights to universal service
+The aim of the proposed changes to the directive on universal service and users’ rights in electronic communication is to improve consumer protection. It also seeks to modernise existing provisions by taking account of changes in technology and the market in this fast-expanding sector.
+The text, for which Malcolm Harbour (EPP-ED, UK) is the EP rapporteur, was the subject of lengthy negotiations between Parliament and Council. Among other things it will strengthen the obligation on operators to provide a minimum package of services of a specific quality, accessible to all final users at an affordable price. This "universal service" includes the right to a connection to a public communications network capable of supporting voice and facsimile of sufficient quality to permit functional internet access. The existing definition of functional internet access as limited to 56 kbit/s will be removed, to facilitate roll-out of broadband access.
+The user should also have guaranteed free access to emergency telephone numbers (both the pan-EU 112 number and national ones), the existence of at least one directory enquiries service and an adequate geographical coverage of public payphones and other telecommunication access points. The user's right to information has been considerably strengthened to improve consumer protection and also to facilitate choice among service suppliers.
+Clearer contracts
+The directive will give consumers the right to better information on prices, tariffs and terms and conditions. Contracts will need to specify the way emergency calls are made and their location traced, any restrictions on access to certain content or types of equipment (for example if VOIP – Voice Over Internet Protocol – calls are blocked on mobile phones which otherwise offer internet connections), the applicable legal conditions, the quality parameters of the service, the length of the contract, the prices and rates applied, the types of customer and after-sales service available, payments methods, charges, if any, for transferring a number to another operator or for terminating a contract.
+All this information should be transparent, comparable, appropriate and up to date, and it should be published in a form which is clear, comprehensible and easily accessible. The user should be able to obtain a contract from the operator of his or her choice before signing it. If the operator alters the terms of an existing contract, the subscriber will have the right to terminate the contract without any penalty.
+Well-informed users
+Better informed users can choose more easily from what is available on the market. For this purpose they will be provided with comparable information on prices and tariffs. Member States will be able to require suppliers to all provide users, free of charge, with standardised information on current practices relating to the illegal use of electronic communication and the distribution of malicious, illicit or copyright-infringing material. Consumers should be able to receive information on available methods to protect themselves against risks to the security of their personal data. This type of information should be standardised and produced by the public authorities.
+Number for emergency calls to be more easily available
+The revised directive aims to promote the use of and improve access to the European emergency number 112. Authorities must take steps to ensure the widest possible coverage for emergency telephone services, including via national emergency numbers. Emergency numbers should be available without interruption across the whole EU, even if there is a break in a communications network following a disaster or some other case of force majeure. Calls to the number 112 should receive an appropriate response and be dealt with at least as quickly and efficiently as calls to national emergency numbers.
+Another important change is the introduction of a right for users to have access to all numbers in the EU, whatever the technology involved (fixed line, mobile or VOIP). It will be up to Member States to ensure that this right is effective, if it is economically and technically feasible.
+Hotline for missing children and other services
+Member States will have to promote services of a "social value", which should begin with the number 116. Among these, the directive proposes the number 116000 for reporting missing children. The organisation of such services will remain a matter for Member States but the European Commission can take technical measures to speed up their introduction.
+The directive will also contribute to the speedier introduction of the European Telephony Numbering Space (ETNS) with a common code number "3883"for all EU Member States and a common European number for reporting thefts of mobile terminals and having them blocked immediately.
+Better recognition of rights of people with disabilities
+Further changes regarding the rights of people with disabilities will enable them to have access to electronic communication services equivalent to that available to other users. This aim can be achieved by using terminals tailored to the special needs of disabled and elderly people – for example, telephones with video or text facilities which facilitate access, also for elderly people, or sub-titling of television programmes.
+Number portability and length of contracts
+Consumers have the right to keep their number when they decide to change operator. But operators often find ways to frustrate this “number portability”, notably by imposing long waiting periods. Under the new directive the number must be transferred as quickly as possible. In all cases the number must be activated by the new operator within one working day of the agreement to change supplier. Member States must also take measures to prevent customers having their operator changed against their will. Many users have found themselves victims of this illegal practice known as “slamming”. Operators guilty of this practice or who do not respect the portability deadline may be penalised.
+As to the maximum length of contracts, this must not exceed 24 months for consumers and users should have the option to subscribe to a 12-month contract.
+Access restrictions
+Any limitations imposed by providers on access to, or use of, services, applications or equipment depend upon national law. The directive neither authorises or prohibits them, and hence in no way changes the existing situation. However, it does introduce an obligation to inform users where restrictions exist. The directive stipulates that Member States must respect the fundamental rights of citizens, including those to confidentiality and privacy, information society aims and market rules.
+The directive also aims to improve the quality of publicly available services. Some limitations may be necessary to prevent the deterioration of a service (e.g. slowing or blocking of an internet connection), but these are not specified in the directive. The directive nonetheless takes this reality into account, again so as to ensure that consumers are fully informed of any restrictions. It stipulates that e nd-users should be able to decide what content they want to send and receive, and which services, applications, hardware and software they want to use for such purposes, without prejudice to the need to preserve the integrity and security of networks and services.
+Better privacy protection and action against illegal activity on the internet
+The revision of the 2002 directive on the processing of personal data and privacy protection in the field of electronic communications, a further element of the “telecoms package”, aims to improve network security and integrity, better protect user data and improve measures against spam and “cyber attacks”.
+Better protection for personal data
+The existing directive harmonises various national rules with the aim of ensuring an equivalent level of protection for fundamental rights and freedoms in the processing of personal data. The revised directive extends this harmonisation to the right to privacy, confidentiality and to security of information technology.
+As electronic communication systems have developed, the quantity of personal data being held which can be linked back to the individual user is growing ever greater. This mass of information is stocked, passed between operators and processed in a variety of ways. This creates a situation conducive to ever more violations of data security, even if actual cases of serious damage to a user’s interest (destruction, loss or alteration of data, unauthorised access) are relatively rare.
+Network security - data breach notification
+Under new rules introduced for the first time in EU law, the directive provides that a security breach such as the theft of a list of customer from an internet service provider must immediately be notified to the regulator. Users should be alerted to the breach of their personal data and privacy if its seriousness makes this necessary. Service providers who have demonstrated to the competent authorities that they have taken appropriate technical protection measures would not be obliged to inform a subscriber of a breach of his or her personal data. Providers should nonetheless maintain an inventory of personal data breaches, to enable the authorities to ascertain that the protection measures are adequate.
+Service providers are already obliged to take appropriate steps to reduce the risks of security violations. MEPs have added systems to detect predictable vulnerabilities. Personal data may be accessed only by staff authorised to do so, and may not be stored without the prior consent of the person concerned. The text adds that “any legal or physical person” can process traffic data if technical measures to guarantee the security of electronic communications make it “strictly necessary”.
+Protection against spam and cyber-attacks
+The directive should also strengthen protection against spam. The processing of personal data by service providers, even if compliant with existing legislation, should require the prior consent of the user. The user should always be free to withdraw his or her consent at any time.
+The installation of “cookies” on users’ computers would also be subject to prior consent of the user. Commercial communication (including promotions, prizes and gifts) by telephone or via computer networks should be signed and identifiable with an address allowing users to request not to receive further material. The directive states that it is illegal to send e-mail containing links to malicious or fraudulent material.
+Finally, protection against viruses, Trojan horses or spyware will also be improved. These programmes are already banned, whatever the storage system (CD-ROM, flash memory, USB sticks) or download method (internet, telephone or mobile).
+Reform spectrum management to boost new wireless services
+Radio spectrum is the backbone of modern wireless technologies and services, such as broadband internet, mobile telephony and broadcasting, Bluetooth, satellite navigation systems, air traffic control, weather forecasting, etc. With more and more new applications emerging, frequencies have become a scarce resource that many stakeholders are bidding for.
+Make wireless services EU-wide interoperable
+Today spectrum is often inefficiently used. Spectrum allocation and management need to be reformed, to accommodate emerging new applications. Moreover, co-ordination at EU and international levels has become necessary to enable spectrum users to operate EU-wide services without harmful interference - e.g. to ensure that you are able to connect to mobile TV services while travelling abroad.
+The revised electronic communications framework directive therefore requires Member States to co-operate with each other and the Commission in the strategic planning, co-ordination and harmonisation of radio spectrum use. To this end, MEPs say the Commission should table legislative proposals for multiannual radio spectrum policy programmes, agreed between MEPs and the Council.
+Use the "digital dividend" to bridge the digital divide
+Up to now, specific services have been chosen for each frequency band. For example, wide bands in the range up to 1 GHz are reserved for broadcasters because they serve a specific general interest purpose. However, digitisation allows the transmission of 6 to 8 TV channels in the spectrum space previously needed for just one analogue channel. The switchover from analogue to digital terrestrial TV by the end of 2012 will therefore free up a significant amount of high-quality spectrum, known as the "digital dividend".
+This freed-up spectrum could, for example, be used for additional TV programmes, mobile broadband, radio-frequency identification (RFID) applications (such as road charge collection or biometric passports), road safety applications and new e-services such as e-government or e-health, stressed MEPs in a resolution on the digital dividend adopted in September 2008. The released frequencies could accommodate new and open broadband technologies and access services which will help overcome the "digital divide", said MEPs.
+Allow any frequency to be used for any application...
+The electronic communications framework reform seeks to introduce service and technology neutrality as binding principles, i.e. any frequency band may be used for any service using any technology. So a band currently used for broadcasting could, for instance, be switched to provide wireless broadband services in the future. A first example of this more flexible approach is amending the GSM directive (report by Francisca Pleguezuelos, PES, ES) to allow the use of universal mobile telecommunications (UMTS) technology (which is cost effective and gives users wider transmission capacity) in the band originally reserved for mobile telephony..
+This new, more flexible approach to spectrum management will also allow the transfer of frequencies, another novelty introduced by the revised framework directive. In future, users will be able to transfer or lease their individual rights to use frequencies in certain bands to other users, provided that this transfer complies with national procedures. Broadcasting bands are excluded from this new rule, so as to avoid unfair competition.
+...but safeguard media pluralism
+Only general interest aims - such as ensuring safety of life, promoting social, regional or territorial cohesion, avoiding inefficient use of radio frequencies, or promoting cultural and linguistic diversity and media pluralism - can justify measures which require a service to be supplied in a specific frequency band. Compromise text on the revision of the framework directive Compromise text on opening the GSM band to UMTS EP press release on Parliament's first reading (September 2008) EP resolution "Common approach to the use of the spectrum released by the digital switchover" (September 2008)
+Expand the regulators' tool box
+Any ex-ante, sector-specific regulation should be progressively reduced as competition in the electronic communications markets develops and the telecoms market should eventually be governed by competition law only, insisted MEPs when revising the electronic communications framework.
+National regulatory authorities should be able to define markets on a sub-national basis, says the revised framework directive for electronic communications networks and services. Thus a national regulator could lift regulatory obligations in geographic areas where there is already effective infrastructure competition, says the new text.
+Closer co-operation on market regulation
+The new legislation requires national regulatory authorities to consult the Commission and the new Body of European Regulators for Electronic Communications (BEREC) before taking regulatory decisions. BEREC will adopt an opinion in such cases by an absolute majority of its 27 members.
+The regulator will have to take "utmost account" of any "serious doubts" expressed by the Commission and BEREC that the proposed measure could create a barrier to the EU's single market. In that case, BEREC, the Commission and the national regulator should co-operate closely to identify "the most appropriate and effective measure" before the national regulator adopts the remedy, says the agreed text.
+Functional separation as "an exceptional measure"
+The compromise enables a national regulator to require an integrated incumbent operator to separate its network infrastructure from the units offering services using this infrastructure - a regulatory instrument known as "functional separation", which however does not change the overall ownership of network access and services.
+National regulators may only use this "exceptional measure" in cases of "important and persisting competition problems or market failures" on wholesale markets, where any other regulatory tools have failed to achieve effective competition and if there is little prospect of future infrastructure-based competition, MEPs agreed with the Council. In such cases, the separate business unit would then provide all network user firms with access products and services on the same timescale and equal terms regarding price and service levels.
+Infrastructure sharing
+Another regulatory tool that the revised framework directive will give national regulators is the possibility of requiring operators to share "network elements and associated facilities". Undertakings that have the right to install facilities on, over or under public or private property could, for example, be required to open the use of building wiring (including inside buildings), masts, antennae, towers, ducts, conduits, manholes and cabinets to competitors.
+Invest in next-generation networks
+National regulators should promote "efficient investment and innovation in new and enhanced infrastructures", such as new fibre-optic networks ("next-generation access networks"), says the agreement with the Council. Any access obligation to open this new infrastructure to competitors will have to take appropriate account of the risk incurred by the investing undertakings" and should allow for "co-operative agreements between investors and access-seeking parties", to diversify investment risks, it adds. Compromise text on the revision of the framework directive EP press release on Parliament's first reading (September 2008)
+Body of European Regulators for Electronic Communications
+MEPs led by Pilar del Castillo (EPP-ED, ES) and the Council Presidency agreed to set up a Body of European Regulators for Electronic Communications (BEREC). Unlike the European Electronic Communications Market Authority (EECMA), originally proposed by the Commission, BEREC will have the lean structure of a Board of Regulators composed of the heads of 27 national regulatory authorities and a non-voting observer representing the European Commission..
+As an independent expert advisory body, BEREC will issue opinions and recommendations to help the Commission, and upon request the European Parliament and the Council, to apply the electronic communications regulatory framework effectively and consistently. BEREC will adopt its opinions - e.g. on cross-border disputes - by two-thirds majority. It will thus help to ensure a level playing field for market players, fair competition and high-quality services across the EU by ensuring that national regulators use similar tools when faced with similar market situations.
+A small office will provide professional and administrative support services to BEREC. BEREC's office is to be funded by subsidies from the Community budget and voluntary financial contributions from Member States or their national regulatory authorities, says the text.
+ENISA keeps network and information security tasks
+BEREC will not take over any tasks relating to network and information security, agreed MEPs and the Council. The Commission had originally proposed merging the existing European Network and Information Security Agency (ENISA) with the new body. Compromise text on establishing the Body of European Regulators for Electronic Communications EP press release on Parliament's first reading (September 2008) European Network and Information Security Agency web page Telecoms: rapporteurs in 5 May plenary session - OR Telecoms: rapporteurs in 5 May plenary session - EN Telecoms: Commissioner Reding in 5 May plenary session - OR-EN Telecoms: political groups in 5 May plenary session - OR Telecoms: political groups in 5 May plenary session - EN
+EN
+1
+MULTIMEDIA
+20090505MLT55012.asf
+EN
+2
+MULTIMEDIA
+20090505MLT55006.asf
+EN
+3
+MULTIMEDIA
+20090505MLT55004.asf
+EN
+4
+MULTIMEDIA
+20090505MLT55008.asf
+EN
+5
+MULTIMEDIA
+20090505MLT55010.asf
+EN
+14
+LINK
+http://www.enisa.europa.eu/
+EN
+15
+MULTIMEDIA
+20090505MLT55012.asf
+EN
+16
+MULTIMEDIA
+20090505MLT55006.asf
+EN
+17
+MULTIMEDIA
+20090505MLT55004.asf
+EN
+18
+MULTIMEDIA
+20090505MLT55008.asf
+EN
+19
+MULTIMEDIA
+20090505MLT55010.asf
+-//EP//TEXT REPORT A6-2009-0272 0 NOT XML V0//EN
+-//EP//TEXT REPORT A6-2009-0276 0 NOT XML V0//EN
+-//EP//TEXT IM-PRESS 20080923IPR37898 0 NOT XML V0//EN
+-//EP//TEXT TA P6-TA-2008-0451 0 NOT XML V0//EN
+-//EP//TEXT REPORT A6-2009-0272 0 NOT XML V0//EN
+-//EP//TEXT IM-PRESS 20080923IPR37898 0 NOT XML V0//EN
+-//EP//TEXT REPORT A6-2009-0271 0 NOT XML V0//EN
+-//EP//TEXT IM-PRESS 20080923IPR37898 0 NOT XML V0//EN
+-//EP//DTD IM-PRESS 20050901 BKG DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 BKG DOC XML V0//EN

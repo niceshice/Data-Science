@@ -1,0 +1,35 @@
+The possibilities, drawbacks of renewable energy technologies
+Energy
+2011-03-28 - 12:26
+Burbo Bank, offshore wind turbine ©www.flickr.com/danishwindindustryassociation As the EU pursues a target of providing 20% of energy consumption via renewable resources by 2020, a study for Parliament's Energy Committee looks into the potential development and deployment of some of the more promising new technologies.
+The study, which looks into technologies that could play a key role over the next 10-20 years, was discussed during a meeting on 22 March. The European Commission predicts that the EU will surpass its target, reaching an overall share of renewables in the energy mix of 20.3% by 2020, up from around 9% in 2007. Below are some of the findings from the study.
+Offshore wind power (OWP) - ocean-based wind farms that generate electricity, taking advantage of the better wind speeds available offshore than on land. OWP is in the early stages of commercialisation stage. In the medium-term, offshore costs are expected to go down to or fall below costs of onshore wind power.
+Concentrating solar power (CSP) uses mirrors to concentrate a large area of sunlight, or solar thermal energy, onto a small area. Electrical power is produced when the concentrated light is converted to heat, which drives anengine connected to an electrical power generator . Some experts believe that up to 3% of EU electricity consumption will be produced by CSP by 2020.
+Bio-energy is a renewable energy from materials derived from biological sources. It includes biomass, the biological material used as biofuel. The study concludes that the potential of bio-energy is more limited than wind or solar energy.
+Ocean wave energy is the transport of energy by ocean surface waves, and the capture of that energy for electricity generation. Wave power devices extract energy directly from the surface motion of waves or from pressure fluctuations below the surface. Theoretical global wave power potential has been estimated to be in the same order of magnitude as world electrical energy consumption, but the use of ocean power applications raises many environmental issues.
+Geothermal energy comes from the difference in temperature (the geothermal gradient) between the surface of the earth and reservoirs deep in the earth . The geothermal gradient drives a continuous conduction of thermal energy in the form of heat from the core to the surface. Geothermal power can supply heat and electricity around the clock but in order to make it commercially viable, a significant cost reduction in technologies is necessary.
+Renewable energy targets will mean*
+Savings of 600-900 million tonnes of CO2 emissions a year
+200-300 million tonne reduction in fossil fuel consumption per year
+Boost for high-tech industries, new economic opportunities, jobs
+Cost about €13-18 billion a year. Investment should drive prices down
+*Source: European Commission
+20110324STO16429 Study on renewables Commission site on renewables Energy Committee
+EN
+1
+PHOTO
+20110323PHT16268.jpg
+EN
+2
+LINK
+/activities/committees/studies/download.do?language=fi&file=31648
+EN
+3
+LINK
+http://ec.europa.eu/energy/renewables/index_en.htm
+EN
+4
+LINK
+/activities/committees/homeCom.do?language=EN&body=ITRE
+-//EP//DTD IM-PRESS 20050901 STO DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 STO DOC XML V0//EN

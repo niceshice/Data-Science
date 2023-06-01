@@ -1,0 +1,41 @@
+Galileo lift off: EU satellite navigation is becoming a reality
+Research and innovation
+2011-10-17 - 16:18
+Janez VOUK BXL (+32) 2 28 31053 STR (+33) 3 881 74897 PORT (+32) 498 98 33 37 EMAIL janez.vouk@europarl.europa.eu On 20 October the first two operational Galileo satellites will be launched from European Spaceport in Kourou, French Guiana.
+Between now and 2014 another 16 satellites will follow, thus making the system operational. The full constellation will consist of 30 satellites providing accurate navigation to travellers, ships, aeroplanes, search and rescue services and other users around the globe.
+The Galileo programme got off to a slow start, with many delays after 1999, when EU leaders gave the go-ahead to develop a system to make Europe independent in satellite navigation. The real kick off was possible only when the Parliament, Council and the Commission struck a deal in 2008 to include funding for the programme in the EU's long-term budget.
+The new satellite navigation system is expected to deliver €60 billion to the European economy over 20 years in additional revenues for industry and public and social benefits, not counting the benefit of technological independence.
+20111017BKG29534
+What is Galileo?
+The Galileo programme is Europe's state-of-the-art global satellite navigation system, providing a highly accurate, guaranteed global positioning service under civilian control.
+Discussions on a European system started in the late nineties and in 1999 the Council called on the Commission to develop a global system managed by civil public authorities.
+After the failure of negotiations on a public-private partnership, Parliament and the Council decided in 2008 decided to complete it using EU funding, with a budget of €3.4 billion until 2014.
+While providing autonomous navigation and positioning services, the Galileo system will be interoperable with US GPS and Russian GLONASS, the other two global satellite navigation systems.
+The fully deployed system will have 30 satellites constantly circulating 23,000 km above the surface of the earth, 40 monitoring stations, 3 mission control centres and signal transponders on 3 geostationary satellites.
+Accurate navigation and services tailored for various users
+Satellite navigation has moved from strictly military use into everyday life, thus becoming critical for the economy and for the well-being of citizens.
+The positioning and the timing signals provided by satellite navigation systems are not only vital for police and emergency services, but are also becoming indispensable in many areas of the economy, including power grid synchronization, electronic trading and mobile phone networks. An estimated 6-7% of Europe's GDP, or €800 billion, already relies on satellite navigation applications.
+Galileo is the only global navigation satellite system specifically designed for civilian purposes and its performance will not be deteriorated for defence purposes. From 2014 it will provide three services:
+- Open Service with basic, free-of-charge signal;
+- Public Regulated Service with encrypted signals and controlled access for governmental bodies;
+- Search and Rescue Service using transponders on satellites to transfer users' distress signals to the Rescue Coordination Centre.
+The Safety-of-Life Service with enhanced signals, mostly for use in aviation and commercial service, with two encrypted signals for higher speed and accuracy, will be tested as of 2014 and will be provided as the system reaches full operational capability.
+Reasons for and advantages of Galileo
+Galileo should not only guarantee Europe’s autonomy and independence from other global navigation systems, but also win a share in this fast-growing worldwide high-tech market, today largely dominated by the US.
+As a second generation satellite navigation system, Galileo will offer improved accuracy, and more resistance to interference. It will introduce the global integrity and the authentication concept, a key difference compared to American GPS and Russia’s GLONASS. Because it is designed as a "civil system under civil control", the continuity of service is guaranteed.
+Even before the full constellation is deployed, Galileo will provide benefits in combination with the US GPS system. The higher number of satellites available to the user will offer higher precision. From most locations, six to eight Galileo satellites will be visible, which in combination with GPS signals will allow positions to be determined to within a few centimetres.
+The higher number of satellites will also improve reception in high-rise cities, where buildings can obstruct signals from satellites that are low on the horizon.
+Galileo will also provide a better coverage at high latitudes than GPS, thanks to the location and inclination of the satellites. This will be particularly useful in northern Europe.
+Further info at the links below. European Commission: Galileo Satellite Navigation Programme EP resolution on the mid-term review of the European satellite navigation programmes (8 June 2011) EP resolution on the financing of Galileo (20 June 2007) REGULATION (EC) No 683/2008 of 9 July 2008 on EU satellite navigation programmes
+EN
+1
+LINK
+http://ec.europa.eu/enterprise/policies/satnav/galileo/programme/index_en.htm
+EN
+4
+LINK
+http://REGULATION (EC) No 683/2008 OF THE EUROPEAN PARLIAMENT AND OF THE COUNCILof 9 July 2008on the further implementation of the European satellite navigation programmes (EGNOS and Galileo)
+-//EP//TEXT TA P7-TA-2011-0265 0 NOT XML V0//EN
+-//EP//TEXT TA P6-TA-2007-0272 0 NOT XML V0//EN
+-//EP//DTD IM-PRESS 20050901 BKG DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 BKG DOC XML V0//EN

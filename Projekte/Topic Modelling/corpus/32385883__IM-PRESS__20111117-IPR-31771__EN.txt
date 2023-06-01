@@ -1,0 +1,26 @@
+"EU Budget in your country" web tool updated with latest figures
+Budget
+Committees Budgets
+2011-11-18 - 13:48
+Ron KORVER BXL (+32) 2 28 44659 STR (+33) 3 881 74903 PORT (+32) 498 98 35 88 EMAIL budg-press@europarl.europa.eu We have updated our budget tool (see link below). How much money does the EU spend in your country? What is it spent on and how does that expenditure relate to EU spending in other countries? And where does all that money come from? These and other questions are answered in our updated multi-media application on the EU Budget.
+The application has been updated with the latest figures, which come from the annual financial report 2010, prepared by the European Commission. It should be helpful when you are reporting on EU annual budgets or putting discussion on the EU's future Multiannual Financial Framework (MFF) in your national context.
+NB. The application provides objective financial data. It does not reflect the underlying values of the EU budget. Nor does it take into account of the national budget savings that result of organising tasks on a European scale.
+20111117IPR31771 Multimedia Budget Application Website of the Budgets committee EU Budget 2010 - financial report Annexes to the 2010 financial report
+EN
+1
+LINK
+/en/headlines/content/20111107MUN30717/html/EU-budget-at-glance-updated-with-latest-figures
+EN
+2
+LINK
+/activities/committees/homeCom.do?language=EN&body=BUDG
+EN
+3
+LINK
+http://ec.europa.eu/budget/library/biblio/publications/2010/fin_report/fin_report_10_en.pdf
+EN
+4
+LINK
+http://ec.europa.eu/budget/library/biblio/publications/2010/fin_report/fin_report_10_data_en.pdf
+-//EP//DTD IM-PRESS 20050901 IPR DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 IPR DOC XML V0//EN

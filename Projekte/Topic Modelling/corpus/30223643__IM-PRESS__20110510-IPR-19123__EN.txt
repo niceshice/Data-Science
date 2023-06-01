@@ -1,0 +1,31 @@
+More frequencies for mobile internet by 2013
+Information society
+Plenary sittings
+2011-05-11 - 13:02
+Plans to speed up the spread of mobile internet were strongly endorsed by MEPs in Strasbourg. They also urged Europe to be bolder and take a global lead in this technology.
+Bringing fast broadband web access to all European citizens and businesses, including those located in rural areas or on remote islands, is impossible without wireless internet, which needs dedicated radio frequencies for uninterrupted connection. This can be achieved by allocating the "digital dividend" - the radio frequency bands that will be freed up when Member States switch from analogue to digital television broadcasting.
+The first radio spectrum policy programme (RSPP) is a central plank of the Digital Agenda that aims to deliver internet access throughout the EU by 2013 and reach high speed connections with at least 30 Mbps for all by 2020, thus bridging the digital divide.
+The allocation of frequencies is matter for national authorities not the EU but the rules on how to divide up the spectrum among internet providers and users need to be set at European level. RSPP will help coordinate the use of the spectrum and promote greater flexibility and availability. Mobile data traffic is increasing rapidly and demand doubles every year. It is set to increase nearly 40-fold between 2009 and 2014.
+Faster internet - a key to innovation boom
+"I want Europe to have the best broadband capacity and the highest speeds, because then we will be home to the development of all the new services that will be crucial to the modern economy. I want Europe to be the home to the next generation of Googles, Yahoos, Apples and all other companies that are manifestations of competitiveness and innovation," said Gunnar Hökmark (EPP, SE), who is steering the draft legislation through the House, in a debate on Monday.
+Parliament's support was reflected in the Wednesday vote on the amended text: 615 votes for, 26 against and 16 abstentions.
+800 MHz - mobile internet frequency from 2013
+Under the Commission's plans, EU countries would have to make the 800 MHz frequency band available for harmonised use of wireless broadband services by 1 January 2013. Parliament passed an amendment which would allow Member States to ask for a postponement until the end of 2015, or even longer, if they have problems in cross-border frequency coordination with neighbouring third countries.
+After 2013, MEPs want the EU to be even bolder: bands of 1.5 GHz and 2.3 GHz should also be made available for mobile broadband, while the spectrum allocated for mobile data traffic should reach at least 1200 MHz by 2015, they say. In addition, the Commission should monitor technological developments and the efficiency of spectrum use to assess whether additional frequencies (such as the 700 MHz band) should also be harmonised to make room for new users and services.
+Next steps
+The Council will discuss the plans on 27 May. There is no agreement yet on the final draft text between the Council and Parliament.
+20110510IPR19123 Adopted text will be available here (click on 11.05.2011) Video recording of debate (click on 9.05.2011) Profile of rapporteur Gunnar Hökmark (EPP, SE)
+EN
+1
+LINK
+/activities/plenary/ta/calendar.do?language=EN
+EN
+2
+LINK
+/wps-europarl-internet/frd/vod/research-by-date?language=en
+EN
+3
+LINK
+/members/expert/alphaOrder/view.do?language=EN&id=28124
+-//EP//DTD IM-PRESS 20050901 IPR DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 IPR DOC XML V0//EN

@@ -1,0 +1,32 @@
+MEPs discuss pros and cons of "intelligent transport systems"
+Transport
+2009-01-22 - 15:55
+The Transport Committee discussed on Thursday proposals to set up Intelligent Transport Systems - which will link travellers, vehicles and road infrastructure via new communication technology - throughout Europe. MEPs and experts considered the benefits - less congestion and fewer accidents - as well as possible problems relating to data protection.
+"Those systems will secure more efficient transport, a better flow of transport, greener transport and safer transport", said Anne E. Jensen (ALDE, DK) who will draft the committee's report on the proposed directive on the deployment of Intelligent Transport Systems (ITS) in road transport. "We should focus on how we could actually ease the life of lorry drivers driving down through Europe", she said, but "we don't want to end up with a surveillance society".
+Real-time information on weather conditions and traffic flow
+"If you're driving on an icy road, in future your car will automatically give this information to other drivers who use the same road", said Hermann Meyer of the public-private partnership ERTICO-ITS which is developing intelligent transport systems and services. He stressed that the new systems will optimise traffic flow: "When you're approaching an intersection, the traffic lights will already know that you're arriving and change to the green light".
+On the other hand, if a driver approaches a red traffic light without noticing it, explained Mr Meyer, the car can warn the driver and even intervene to save lives. Robert Evans (PES, UK) was worried about people relying on "this sort of autopilot of the car" and losing the skill to drive it themselves. "Is there a danger that we replace drivers with complacent computers?", he asked.
+eCall system and digital maps to save lives
+"Parliament and the Commission wanted eCall [a system which automatically summons help in case of a road accident, even if the driver is incapacitated] by 2010 as standard equipment", said Dieter-Lebrecht Koch (EPP-ED, DE) asking if that would still be feasible. "What we need is an understanding between the Member States and the vehicle industry concerning a roadmap to introduce the system in the infrastructure", answered Mr Meyer.
+Francesco Ferrari (ALDE, IT) added that thanks to an advanced traffic management system fatal motorway accidents had been considerably reduced in Italy. He hoped that new intelligent transport systems would also allow deaths in urban traffic to be reduced.
+Brian Simpson (PES, UK), on the other hand, asked the experts to "please come up with a system that stops lorry and bus drivers careering into our railway bridges". "Of course we can solve this problem with digital maps that have the heights or weight limits of bridges", said Michael Nielsen of the International Road Transport Union. "This kind of information is important for our drivers."
+For Eva Lichtenberger (Greens/EFA, AT) the hearing amounted to "a sales event to convince public institutions to invest in expensive technology". She had been in favour of an Italian pilot project for tracking dangerous substances by submitting, for example, data on chemicals to local fire workers but, she added, unfortunately that project had been abandoned after pressure from the chemical industry.
+Ensuring data protection: "Privacy by design"
+There was also a discussion of data protection issues. "Getting this right is a critical success condition for the development of Intelligent Transport Systems", underlined European Data Protection Supervisor Peter Hustinx. In his view it is essential making data and privacy protection "part of development, implementation and deployment so that there is 'privacy by design' to the extent possible".
+Procedure: co-decision -- Transport Committee vote: 30-31 March -- First reading vote in plenary: 21- 24 April 2009-01-22 Committee on Transport and Tourism In the chair Gilles Savary PES FR
+Public Hearing on Intelligent Transport Systems
+20090120IPR46700 Website of the Transport and Tourism Committee European Commission website on Intelligent Transport Systems European Commission press release on ITS Action Plan
+EN
+1
+LINK
+/activities/committees/homeCom.do?language=EN&body=TRAN
+EN
+2
+LINK
+http://ec.europa.eu/transport/its/index_en.htm
+EN
+3
+LINK
+http://europa.eu/rapid/pressReleasesAction.do?reference=IP/08/1979&format=HTML&aged=0&language=en&guiLanguage=en
+-//EP//DTD IM-PRESS 20050901 IPR DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 IPR DOC XML V0//EN

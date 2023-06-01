@@ -1,0 +1,39 @@
+Separate electricity generation from transmission, says industry committee
+Energy
+2008-05-06 - 19:51
+A European Commission plan for "ownership unbundling", i.e. separating electricity firms' generation assets from their transmission ones, was backed by the Industry committee on Tuesday. To ensure full separation, MEPs also rejected two alternative plans: one for an "independent system operator" to run unbundled transmission activities, and the other allowing firms to retain supply and transmission assets while ensuring "an effective separation of interests".
+The committee backed rapporteur Eluned Morgan (PES, UK)'s preference for full ownership unbundling, which is also the European Commission's preferred option. This would involve forbidding companies or countries from simultaneously exercising control over electricity generation or supply and "directly or indirectly exercising control over a transmission system operator" and vice versa.
+No ISO
+The committee rejected the European Commission's alternative proposal that firms could hand over control of their transmission assets (and over investment and commercial decisions) to an "Independent System Operator". The rapporteur argued that this would entail "bureaucracy and costly regulatory control".
+No third way
+The committee also rejected, by 22 votes in favour to 26 against with three abstentions, a “third option” plan, backed by eight Member States including France and Germany, which supporters said would enable countries "to further liberalise their markets without having to resort to ownership unbundling". This would allow Member States to choose between ownership unbundling, ISOs and "legal unbundling" (whereby a vertically integrated company could retain its network assets but ensure "an effective separation of interests" through rules on assets, equipment, staff, identity and compliance control).
+Members also backed a Commission proposal to prevent control of transmission systems or transmission system operators "by a person or persons from third countries".
+Consumer protection
+MEPs also added some consumer protection measures to the proposal. Customers should have:
+the right to withdraw from contracts with their electricity providers without charge,
+the right to compensation if service quality levels are not met (as with, for example, inaccurate and delayed billing),
+access to information on their rights through bills and electricity company web sites,
+access to information on procedures to be followed in the event of disputes,
+the right to change suppliers within two weeks,
+the right to be informed, at least quarterly, of actual electricity consumption and costs,
+access to smart meters within 10 years of the directive's entry into force,
+the right to have their electricity provided by a supplier regardless of the Member State in which the supplier is registered,
+access to information on the environmental impact (CO2 emissions and radioactive waste) resulting from the electricity produced by the supplier, and
+the right to protection against market abuse: to that end, national authorities must be able to impose " price caps in uncompetitive markets for a defined and limited period".
+The committee also sought specifically to protect vulnerable energy consumers. EU countries, it said, should take "appropriate measures [...] to ensure that the number of people in energy poverty" (i.e. those unable to afford heating the home to an acceptable standard, as defined by the WHO) "decreases in real terms."
+MEPs also urged Member States to cut the cost of energy to low-income households and inserted an amendment mandating national authorities "to introduce pricing formulas which increase for greater levels of consumption", so as to reward efficient consumption.
+Another amendment says that if and when electricity companies pass the costs of free-of-charge Emission Trading Scheme certificates to customers, "Member States may demand reimbursement from these companies through additional taxation".
+Energy efficiency and climate change
+Given the inextricable link between energy consumption and climate change, members also authorized national authorities to require system operators "to give priority to generating installations using renewable energy sources or waste or producing combined heat and power", except when the safety and reliability of the grid is compromised. Member States "may require that a minimum of 2% of all electricity revenues from domestic consumers is spent to fund energy efficiency".
+Regional integration
+National authorities should work together to integrate their national markets "at least at one or more regional levels" as "a first and intermediate step towards a fully liberalised common European market", said the committee, which also called for a concerted effort to integrate the EU's "electricity islands."
+The amended report, one of five components of the so-called "third energy package", was adopted with 31 votes in favour, 17 against and 2 abstentions.
+Procedure: co-decision -- Plenary vote: June II, Strasbourg
+2008-05-06 Committee on Industry, Research and Energy In the Chair Angelika Niebler EPP-ED DE
+20080505IPR28142 Committee on Industry, Research and Energy website
+EN
+1
+LINK
+/activities/committees/homeCom.do?language=EN&body=ITRE
+-//EP//DTD IM-PRESS 20050901 IPR DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 IPR DOC XML V0//EN

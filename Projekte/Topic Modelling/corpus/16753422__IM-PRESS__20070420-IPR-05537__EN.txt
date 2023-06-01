@@ -1,0 +1,30 @@
+Simpler, cheaper cross-border payments on the way
+Economic and monetary affairs
+2007-04-24 - 12:58
+MEPs have adopted a legal framework designed to make cashless payments – such as card transactions, bank transfers and direct debits – simpler and cheaper, paving the way for the creation a single Euro payments area. A deal with the Council means the legislation will enter force at this first reading stage, giving the banking industry the time it needs to meet its 2010 target.
+Although cash in the euro area has been the same since the euro notes and coins were introduced in 2002, non-cash payments still mostly rely on national systems, which can make cross-border payments slower and more expensive than national ones. Payment card systems are also national, which means consumers cannot always use their ordinary payments cards when they travel abroad. Individuals who regularly need to make payments in another country, because they have a holiday home or children studying abroad, for example, usually need to open a second bank account in that country. The same restrictions make cross-border business more expensive and complex for companies.
+The European payments industry – banks, clearing organisations and others – have committed themselves, with the EU’s support, to changing all of this by 2010. The single euro payment area project should mean that bank transfers, direct debits and similar payments will be made through a new European system, with domestic and cross-border transactions being made in the same way at the same speed. It will also mean payment card systems converging on a common standard, so that cards from all over Europe will be accepted all over Europe, without extra fees or technical barriers. Altogether, since the European and domestic systems will be the same, there should no longer be a need to have a second account in another country. There will be less fuss and lower costs for businesses and consumers alike, and, while there will be transitional costs for the banking sector, in the medium term they too should see lower running costs and be able to offer new products.
+All this can only happen if the national laws governing payment systems are adjusted to provide a common framework, and that is what is proposed in the Payment Services Directive. The Economic and Monetary Affairs Committee, adopted its report on the issue, drawn up by Jean-Paul Gauzès (EPP-ED, FR), in September 2006. Parliament has delayed putting it to a plenary vote in the hope of reaching a first reading agreement with the Council and completing the legislative process quickly. It took until 27 March 2007 for the Member States to reach agreement in the Council on a text; one of the main points at issue had been the extent to which capital requirements and other supervisory instruments imposed on banks should also apply to non-bank payment institutions.
+In today's vote, MEPs approved without further changes the compromise text worked out between the rapporteur and Council representatives. This already has the political support of the Council, so the legislative process will be completed at this first reading stage.
+Among the points set out in the compromise text are:
+the creation in European law of a new class of service provider, “payment institutions” which, essentially just process payments and do not take deposits in the way banks do;
+capital requirements and registration conditions to be imposed on these payment institutions are set out, with the provision that Member States may waive most of these for smaller-scale service providers (those dealing with transactions worth less that 3 million euro per month);
+payments should arrive at the latest the next working day, where these are made in euro, or are domestic payments made in the national currency of a Member State not in the euro area, or payments involving a single conversion between the euro and the national currency of a Member State not in the euro area;
+charges, where these are levied, will normally be on a shared basis with the payer and payee each paying the charge levied by their own service provider, but it is made clear that charges can be set at zero, or that all charges could be levied on the payee (as is often the case with merchants accepting card payments);
+It also sets out the rights and obligations of payment service providers and their customers.
+The directive applies to all Member States (and indeed the EEA as well), not just the euro area.
+20070420IPR05537 Community payments market: common framework for the integration and the rationalisation of national payment systems (amend. direct. 97/7/EC, 2000/12/EC and 2002/65/EC) European Central Bank SEPA Information European Commission - Single Euro Payments Area (SEPA)
+EN
+1
+LINK
+/oeil/file.jsp?id=5294872
+EN
+2
+LINK
+http://www.ecb.int/paym/pol/sepa/html/index.en.html
+EN
+3
+LINK
+http://ec.europa.eu/internal_market/payments/sepa/index_en.htm
+-//EP//DTD IM-PRESS 20050901 IPR DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 IPR DOC XML V0//EN

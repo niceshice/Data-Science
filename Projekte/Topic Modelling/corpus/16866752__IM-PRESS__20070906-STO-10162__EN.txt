@@ -1,0 +1,34 @@
+Q & A on Parliamentary immunity
+MEPs: immunity and statute
+2008-11-17 - 10:23
+The job of elected Members of any Parliament is to make laws that all of us are obliged to obey. When MPs or MEPs are found to have broken the law there is an inevitable and justifiable outcry from the public. The issue of to what extent MEPs have immunity is one people are of course interested in. Here we explain how and to what extent MEPs enjoy immunity.
+"Immunity is a groundless perk of MEPs and MPs…"
+False: Parliamentary immunity (or "privilege") is first and foremost intended as a defence of the Parliament itself as a democratically elected institution, protecting its collective independence from outside pressures and guaranteeing its members' freedom of word and deed when carrying out their duties.
+In ancient Rome the tribunes of the people enjoyed special protection so that they could freely exercise their functions. Anyone who infringed that prohibition was liable to punishment and could even be executed. Today's right to immunity is based on the same basic idea: the representatives of the people must enjoy certain guarantees to underline the importance of their office and to give them the peace of mind they need to implement their mandate.
+Italian MEP Giuseppe Gargani (EPP-ED) - Chair of the Legal Affairs Committee - describes it like this: "immunity should be seen not as impunity but as an opportunity to exercise one's mandate".
+Immunity has been included in EU law since 1965. The relevant provisions read as follows: "Members of the Parliament shall not be subject to any form of inquiry, detention or legal proceedings in respect of opinions expressed or votes cast by them in the performance of their duties".
+"Different MEPs have different forms of immunity"
+True: Aside from the general EU provisions outlined above, MEPs are elected under national electoral law and therefore, while at home, enjoy the same immunities and privileges as members of national parliaments, which are not all the same. While in some countries it is limited to a guaranteed freedom of speech in parliamentary debates, in others it amounts to a broader protection from prosecution.
+"MEPs cannot be jailed"
+False: Parliamentary immunity does not allow MEPs who have broken the law to evade justice. As voters we all expect our representatives to be fair and honest people. The European Parliament expects the same from its members. Parliament must therefore balance guarantees of members' independence against the need to maintain its integrity as a democratic legislative assembly. As long as it is convinced there is a case to answer, it can - and does - strip members of their parliamentary immunity to face judicial proceedings.
+"So MEPs cannot assume they will keep immunity until the end of their mandate?"
+True: The Rules of Procedure of the European Parliament precisely determines the way the MEP can lose his or her immunity:
+After a competent authority of a Member State asks the EP President to waive the immunity of the MEP, this request is announced in plenary. MEPs have right to defend their immunities.
+The EP Committee of Legal affairs recommends the adoption or rejection of the request for the waiver of immunity or for the defence of immunity and privileges. The committee may ask the requesting authority clarify or to explain its demand.
+The committee presents the report where it may decide whether the requesting MS authority is competent and the request acceptable. The committee must not judge the MEP concerned, neither the opinions nor acts attributed to him or her that have been used by the authority to justify the request.
+The members discuss the reasons for and against each proposal on the next plenary session. After the debate, an individual vote is taken.
+The President immediately communicates Parliament's decision to the Member concerned and to the competent authority of the Member State concerned.
+"An MEP keeps their seat even if he loses his immunity"
+Depends: Firstly, a waiver of immunity is not a "guilty" verdict, it merely enables national judicial authorities to proceed. Second, even if found guilty, entitlement to sit as an MEP is a separate issue from that of immunity, with different Member States having different criteria for disqualifying members from holding an electoral mandate. As MEPs are elected under national electoral law, if an MEP is found guilty of a criminal offence, it is for the member state's authorities to inform the Parliament if the individual is disqualified from office.
+20070906STO10162 Rules of Procedure Parliament's Legal Affairs Committee Protocol on the privileges and immunities of the European communities
+EN
+2
+LINK
+/comparl/juri/immunity/default_en.htm
+EN
+3
+LINK
+/meetdocs/2004_2009/documents/dv/treatyprotocoleimm/treatyprotocoleimmen.pdf
+-//EP//TEXT RULES-EP 20040720 RULE-005 NOT XML V0//EN
+-//EP//DTD IM-PRESS 20050901 STO DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 STO DOC XML V0//EN

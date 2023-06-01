@@ -1,0 +1,31 @@
+Radio spectrum: more frequencies for mobile internet users
+Industry
+Committees Industry, Research and Energy
+2011-04-12 - 18:31
+Better internet connections for Europe's citizens are on the way following a vote at Parliament's Industry Committee. Full broadband coverage by 2013 throughout the EU and universal high-speed internet access by 2020 are now firmly on the horizon.
+MEPs are keen for Europe to compete with other global players and meet increasing consumer and business demand for mobile internet with an array of new services.
+In its vote on Tuesday, the Industry Committee gave strong backing to the Commission's plans for a draft Radio Spectrum Policy Programme (RSPP), a central plank of the Digital Agenda for Europe, which aims to deliver universal fast broadband internet coverage with speeds of at least 30 Mbps for all Europeans by 2020.
+This can be done by allocating the "digital dividend" - the radio frequency bands that will be freed up when EU Member States switch from analogue to digital television broadcasting - to new services, particularly mobile internet.
+Rules on how to divide up the spectrum among providers and users of the net need to be set at European level. RSPP will help coordinate the use of the spectrum and also provide for maximum flexibility and availability.
+800 MHz - mobile internet frequency from 2013
+Under the Commission's plans, EU countries would have to make the 800 MHz waveband available for harmonised use of wireless broadband services by 1 January 2013. The Industry Committee passed an amendment which would allow Member States to ask for a postponement until the end of 2015, or even longer, if they have problems in cross-border frequency coordination with neighbouring third countries.
+After 2013, MEPs want the EU to be even bolder. They say spectrum allocated for mobile data traffic should reach at least 1200 MHz by 2015. In addition, the Commission should monitor technological developments and the efficiency of spectrum use to assess if additional frequencies (such as the 700 MHz band) should also be harmonised to make room for new users and services.
+Level playing field for all
+Regulators should encourage effective and efficient use of frequencies, while also carefully examining whether the assignment of new frequencies could distort competition in the market, says the Industry Committee.
+For example, Member States could limit the scope of the spectrum per operator or reserve part of it for future new providers. At the same time, procedures for allocating frequencies should be non-discriminatory and seek to prevent anti-competitive outcomes.
+This development of the internal market and digital services should eventually provide a pan-European level playing field for all market participants and lead to pan-European services in future.
+Precondition for the EU to take the global lead in mobile internet
+Rapporteur Gunnar Hökmark (EPP, SE) welcomed the overwhelmingly vote in the committee (46 votes in favour, 1 abstention) as "very good news for the European economy" and called for the programme to "pave the way for a development where the EU can take the global lead regarding broadband speeds, mobility, coverage and capacity".
+The full Parliament will vote at first reading on the Commission proposal as amended by the Industry Committee at the June plenary in Strasbourg.
+In the chair: Herbert Reul (EPP, DE)
+20110411IPR17410 Committee on Industry, Research and Energy Catch up via Video On Demand (VOD)
+EN
+1
+LINK
+/activities/committees/homeCom.do?language=EN&body=ITRE
+EN
+2
+LINK
+/wps-europarl-internet/frd/vod/search-committees?language=en
+-//EP//DTD IM-PRESS 20050901 IPR DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 IPR DOC XML V0//EN

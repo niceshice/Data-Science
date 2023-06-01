@@ -1,0 +1,29 @@
+Cheaper roaming - MEPs debate draft report on mobile charges
+Information society
+2007-02-27 - 19:52
+A single cap on wholesale roaming prices, an optional "Euro Tariff" and scrapping the transition period for the industry - these are some of the main ideas in a draft report on the Commission's proposals on mobile phone roaming charges, which was debated for the first time on Tuesday by MEPs in the Committee on Industry, Research and Energy.
+"Although some operators have recently introduced roaming charges that offer customers more favourable conditions, the evidence remains that prices still do not reflect costs properly" said Paul Rübig (EPP-ED, AT), the rapporteur on roaming, before presenting his draft first-reading report to fellow committee members. The main focus of the discussion was the scope of the proposed regulation, as well as the methods of calculating wholesale and retail price caps.
+Wholesale: a single cap?
+The Commission is proposing regulation at both the wholesale (charges between operators) and the retail (charges to customers) level. It has suggested a dual system of caps on wholesale charges, distinguishing between roaming calls made within one country (e.g. by a German tourist in Italy calling an Italian number) and calls made to another EU country (e.g. the same tourist calling Hungary). Mr Rubig’s draft report, however, proposes a single maximum wholesale charge for outgoing calls. This would mean, continuing the example, the Italian operator could not bill its German counterpart more than the maximum wholesale charge, no matter to which EU country the call is made.
+The wholesale cap, in both the Commission proposal and the EP draft report, would be a multiple of the so-called average mobile termination rate (MTR) -- the per-minute rate that mobile operators charge each other when calls are made across networks. The Commission would regularly publish the MTR in the Official Journal.
+An optional Euro Tariff?
+While the Commission proposed a compulsory cap on retail prices, the draft report argues that the "Euro Tariff" - as the capped retail price is called - should be optional. Although the Euro Tariff is to be offered by all home providers, reads the draft, "customers may switch to and from the Euro Tariff voluntarily." Moreover, "every home provider shall offer [in addition to the Euro Tariff] a fair-use, all-inclusive monthly flat-rate to which no charge limits shall apply." The "flat rate" for roaming would also cover data communication including SMS and MMS.
+A Commission representative told MEPs the intention was for consumers to have a choice, but for the Euro Tariff to be the default situation, with an opt-out available for those who wanted it. Reino Paasilinna (PES, FI) agreed, saying the new system should be "automatically applied to all consumers". Alexander Alvaro (ALDE, DE), however, did not. The EP, he argued, should be in favour an "opt-in" model, with consumers subscribing to their home operators' roaming plan -- and then choose whether to switch into the Euro Tariff.
+"We should be very hesitant about entering regulation on the retail side", added Gunnar Hökmark (EPP-ED, SE), turning to the scope of the draft law. "Price regulation on the retail level has always had negative effects on the consumer in the long term", he said. David Hammerstein Mintz (Greens/EFA, ES), on the other hand, favoured of regulating at the retail level, but was worried that the price caps currently proposed by the Council were excessively high: consumers should be charged "a maximum of fifty cents" per roaming call, he argued.
+Where to place the cap?
+Although both the Commission proposals and Mr Rübig's draft use the wholesale charge as a basis for calculating the retail charge, there are differences of detail. The Commission called for the retail price of outgoing roaming calls to be capped at 130% of the maximum wholesale charge and for incoming calls at 130% of the average MTR. The draft report leaves open for now the level of the outgoing call charge cap, but suggests that incoming calls should be charged at no more than one third of the cost of making a call.
+While the Commission proposes a six-month transition period for the implementing the "Euro Tariff" price cap, the rapporteur argues that this is unnecessary. "Industry seems already to anticipate price regulation," he said. "Therefore a further delay is not justified."
+SMS and MMS: next in line for regulation?
+The draft report draws attention to the prospect of regulating SMS and other data communication services, which currently lie outside the scope of the Commission's proposal. National authorities, it says, should monitor wholesale and retail prices for these services, informing the Commission of their findings every six months. If international roaming data charges are found not to have "decreased significantly", the Commission "shall assess the need for a regulation and [...] submit a proposal if appropriate".
+New roaming rates before the summer holidays?
+The committee is aiming to adopt a final report in April, with the plenary vote scheduled for May. A representative of the German presidency told MEPs the Council was aiming to reach a political agreement in the first half of the year.
+Procedure: co-decision, 1st reading
+Plenary Vote: May I, Brussels
+2007-02-26 Committee on Industry, Research and Energy In the chair: Catherine Trautmann PES FR
+20070226IPR03642 Draft report on roaming as discussed by the Committee
+EN
+1
+LINK
+/meetdocs/2004_2009/documents/pr/649/649863/649863en.pdf
+-//EP//DTD IM-PRESS 20050901 IPR DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 IPR DOC XML V0//EN

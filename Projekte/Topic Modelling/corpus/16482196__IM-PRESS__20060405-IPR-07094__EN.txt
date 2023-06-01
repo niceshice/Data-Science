@@ -1,0 +1,34 @@
+Less Fluorinated-gases in European atmosphere
+Environment
+2006-04-06 - 15:59
+Fluorinated gases are not the solution! Used since the 1990s to replace ozone-depleting CFCs they are found mostly in refrigeration and air-conditioning systems, but also in windows, fire extinguishers, insulating foam or even sport shoes. But they have now also been incriminated in global warming. The European Parliament adopted today two new laws to reduce, or prohibit, their use. This should help Member States to meet their commitments under the Kyoto Protocol.
+The European Parliament passed to the final hurdle of the codecision procedure, i.e. the conciliation negotiation, in order to influence the content of the new legislation. This negotiation was successfully concluded on 31 January 2006 and the results were endorsed today by two Plenary votes: 476 votes in favour, 46 against and 25 abstentions for the regulation to restrict the use of fluorinated gases covered by the Kyoto Protocol; MEPs approved the second report on the directive on air conditioning systems in motor vehicles (also called "MAC" directive for "mobile air conditioners") by a large majority..
+Fluorinated gases are less well known than CO² but they play a significant role in the greenhouse effect. They are widely used in air conditioners, refrigerators and insulating foam. If they are transmitted into the atmosphere, their damaging effects can last for hundreds, if not thousands, of years. Their potentially harmful nature or "global warming potential" (GWP) is measured on a scale from 1 (equal to CO²) to more than 20 000 for sulphur hexafluoride (SF6).
+These two legislations are the first step in regulating emissions of F-gases in the EU and they should be a contributing factor to meeting the European objectives in the frame of the Kyoto protocol: the Community is committed to achieving an 8 per cent reduction in emissions of greenhouse gases in the period from 2008 to 2012 compared to 1990 levels. In the longer-term, global emissions should even be reduced by approximately 70 per cent.
+The rapporteur for these two legislations, Avril DOYLE (EPP-ED, IE), declared: ...
+"I believe the legislation now agreed strikes an equitable balance between environmental protection and single market concerns. It reaffirms the European Community's commitment to reducing climate change and will provide a considerable stimulus to the development of new environmental technologies, thus contributing to our Lisbon Agenda "knowledge economy" goals. It will do so in a measured and proportionate way. These two reports are a positive step towards stopping global warming through the greenhouse effect by cutting down or cutting out the use of fluorinated gases where they are not necessary."
+Commissioner Kyprianou said before the final vote in plenary: " The Commission undertakes to re-evaluate the pending infringement procedures with regard to the use of f-gases in Denmark and Austria taking into account the final agreement which was reached during conciliation."
+Air conditioning systems in vehicles
+The directive on air conditioning systems in motor vehicles aims to regulate the use of these gases and to harmonise type-approval of vehicles as regards air conditioning systems in order to avoid discrepancies between the Member States. Parliament and Council opted for a ban on fluorinated gases with a GWP of more than 150 in new models planned from 2011 onwards and in all vehicles from 2017. This threshold would eliminate some gases currently used by manufacturers, notably HFC-134a (GWP of 1300), but would allow continued use of HFC-152a, which has a lower GWP (120) and should encourage technical innovation.
+This Directive will enter into force twenty days after the date of publication in the Official Journal. Member States will then have 18 months to transpose it into national laws.
+25 gases under stricter control
+The regulation seeks to reduce emissions of 25 fluorinated gases covered by the Kyoto Protocol: 17 hydrofluorocarbons (HFCs), 7 perfluorocarbons (PFCs) and the most dangerous of all, sulphur hexafluoride (SF6). It addresses the containment, use, recovery and destruction of these gases, the labelling and disposal of products containing these gases and the training of personnel involved in related activities. This regulation was the subject of a lively debate, in particular when discussing the dual legal base. Finally, article 175 of the EC Treaty (environment policy), which allows Members States to adopt more stringent national rules, will apply to containment, recovery, certification and reporting. Article 95 (single market) will apply to provisions concerning use bans, prohibitions and labelling.
+The regulation lists a small number of prohibitions with a compulsory deadline for each of them. For example, every F-gases should be prohibited from footwear (date of entry into force), tyres and windows for domestic use (1 year after), PFCs should be prohibited from fire extinguishers after 1 year, etc. A Member State having stricter national provisions as at 31 December 2005 may keep these measures until the end of 2012.
+The containment provisions will apply to industrial stationary applications. It includes the obligation to minimise leakages and to repair such leakages as quickly as possible. It details the inspections to be made by certified personnel. The regulation also defines the obligations for recovery of F-gases for various equipments like cooling circuits of refrigeration, air-conditioning and heat pump equipment, fire protection systems and fire-extinguishers. Labelling of equipments containing F-gases will also become compulsory. By the end of 2008, the Commission is invited to present, if appropriate, new legislative proposals relating to other air conditioning and refrigeration systems, including domestic applications.
+This regulation shall enter into force twenty days after its publication in the Official Journal and it shall apply from one year after, unless for the prohibitions with immediate effect. For this regulation as well as for the directive Member States may promote innovative systems in order to further reduce the climate impact.
+20060405IPR07094 Fluorinated greenhouse gases Emissions from air conditioning systems in motor vehicles Emissions from motor vehicle air-conditioning systems
+Fluorinated greenhouse gases
+EN
+1
+LINK
+/oeil/file.jsp?id=235552
+EN
+2
+LINK
+/oeil/file.jsp?id=5235412
+EN
+3
+LINK
+/activities/expert/jointText.do;jsessionid=B2980FFCA3A4655B55C8D9CBDC1496BB.node1?language=EN
+-//EP//DTD IM-PRESS 20050901 IPR DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 IPR DOC XML V0//EN

@@ -1,0 +1,35 @@
+Laboratory research: limiting animal testing without hampering scientific progress
+Agriculture
+2009-03-31 - 19:07
+For obvious ethical reasons, the use of animals in scientific experiments needs to be limited and their welfare improved. But this must be done without hindering research in Europe into fighting diseases, says the EP Agriculture Committee.
+Around 12 million animals are used for scientific research in the EU every year. This number should be reduced to a minimum and any planned tests subjected to compulsory ethical assessment to take account of the public's concerns, according to a draft directive that has be approved under the co-decision procedure by the European Parliament and the EU Council of Ministers.
+In adopting on Tuesday a report drafted by Neil Parish (EPP-ED, UK), the Agriculture Committee backed these goals by a large majority. In particular, MEPs endorsed a ban on the use of great apes (chimpanzees, bonobos, gorillas and orangutans), who are threatened with extinction, except for experiments intended to conserve these species.
+However, some aspects of the proposal, which would drastically restrict the use of primates such as ouistitis and macaques, could penalise European research to the advantage of its American or Asian competitors, which are less strict on animal welfare. MEPs therefore amended the directive to make it better balanced and enable medical research to go ahead. At the same time they suggested measures to promote alternatives to animal testing.
+Using fewer primates without compromising the fight against serious diseases
+MEPs rejected the idea that tests using non-human primates should be restricted to "life-threatening or debilitating" conditions, as this would seriously hinder research into some forms of cancer, multiple sclerosis and Alzheimer's disease. They pointed out that other European and international guidelines require that some drugs be tested on primates before they are approved, and they want tests using these animals to continue to be allowed in medical research as a whole.
+Feasibility studies before animal captures are halted
+MEPs support the goal of putting an end to the capturing of wild animals (F0 colonies, in the jargon) by using instead second-generation specimens born in laboratories (F2) but views differ over the possibility of setting up such colonies in the near future. MEPs therefore want the Commission to carry out feasibility studies to check whether the supply of animals will be enough for EU research purposes. Meanwhile they believe a transition period of ten years is needed instead of the seven years envisaged by the Commission.
+Classification of the severity of tests
+The Agriculture Committee also adopted amendments to clarify the text of the legislation, giving definitions for the three categories of pain inflicted during a test ("up to mild", "moderate" or "severe"). To avoid repeated suffering, the Commission wants to allow the same animals to be re-used only if the test entails pain classed as "up to mild". MEPs, however, believe that applying criteria that are too strict would result in even more animals being used for tests, which would defeat the object. They therefore ask for animals to be re-usable if the test entails "moderate" pain. This would includes blood tests or implants performed under anaesthetic.
+More effort to devise alternative methods
+One of the key features of the directive for reducing the number of tests on animals is the development of alternative methods. However, the directive is unclear about the role in this area of the European Centre for the Validation of Alternative Methods. MEPs believe the centre should be expanded to give it a genuine role in coordinating and promoting the development and use of methods that can replace animal testing. They add that the Commission and Member States must provide material support for the development of such new experimental approaches.
+More transparency without increasing red tape
+Other amendments seek to spell out the requirements for transparency regarding any tests performed and to prevent red tape which would bring little benefit in terms of animal welfare.
+In particular, MEPs want the prior authorisations required for animal tests to be limited to projects where the pain would be "severe" or to those carried out on primates.
+Lastly, they do not want the directive to cover larval forms and embryonic or foetal forms other than mammals, because of the complications of counting and recording the thousands of eggs laid by some female fish or amphibian species.
+The report was adopted by 19 votes to 7 with 3 abstentions -- Procedure: Co-decision, first reading -- Plenary vote: 4 to 7 May (Strasbourg) 2009-03-30 Committee on Agriculture and Rural Development Chair Neil Parish EPP-ED UK
+20090330IPR52906 Website of the EP Agriculture Committee Animal testing: file of the Legislative Observatory Website of the European Commission on laboratory animals
+EN
+1
+LINK
+/activities/committees/homeCom.do?language=EN&body=AGRI
+EN
+2
+LINK
+/oeil/file.jsp?id=5713682
+EN
+3
+LINK
+http://ec.europa.eu/environment/chemicals/lab_animals/home_en.htm
+-//EP//DTD IM-PRESS 20050901 IPR DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 IPR DOC XML V0//EN

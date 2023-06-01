@@ -1,0 +1,28 @@
+More competition in airline reservation systems - with protection for consumers
+Transport
+2008-05-29 - 18:46
+The Transport Committee is backing proposals to simplify and modernise the rules for the computerised reservation systems used by high-street and online travel agents to book airline tickets for their customers. MEPs believe this will mean more competition and therefore lower distribution costs, but they also want measures to ensure consumers get a fair deal - and can be presented with environment-friendlier travel options.
+The Code of Conduct for computerised reservation systems regulates how travel bookings are managed by air carriers, the CRS companies (e.g. Amadeus and Sabre), travel agents and, where relevant, rail operators. "This code was created 20 years ago in very different market conditions than the current ones. It is now increasingly ill-adapted to new market conditions, the deregulation of other CRSs markets around the world and the decrease of airline ownership in CRSs," says EP rapporteur Timothy Kirkhope (EPP-ED, UK).
+The existing Code includes strict requirements on non-discrimination between airlines which date from the time when the various CRSs were owned by airlines themselves. In most cases, the CRSs are now independent from airlines and the strict rules now have the effect of stifling competition and raising costs, according to the Commission, leading airlines to favour alternative approaches, such as selling tickets via their own websites.
+Competition on price and service quality
+The main aim of the Commission proposal is that airlines and CRSs should be able to negotiate freely the conditions of the distribution of air services. Systems should compete on price and service quality. Under the revision, the committee believes, CRSs will have to compete more aggressively with each other for air carrier participation on the basis of lower booking fees and better service quality.
+The MEPs voted on Thursday to give the legislation first-reading approval, but with some amendments to ensure genuine competition and fair treatment for customers.
+Definitions of parent carrier, control and participation in the capital
+The only exception to this new freedom to negotiate terms of business concerns carriers who are the parent of a CRS – they must provide all the same information to other CRSs as they do to their own CRS. The text adopted by the committee revises the key definitions of 'parent carrier' and 'control' to limit the influence of airlines over CRSs, but also to make an exception for accidental investments not conferring ownership rights in the CRS.
+Marketing Information Data Tapes and Data protection
+MEPs in the committee voted to allow airlines to make agreements with travel agents to use the agents’ booking and sales data for their core operations such as sales and marketing. Personal data collected through CRSs’ activities must be protected via the relevant EU legislation and the international agreements signed by the EU on the issue.
+A price is an inclusive price
+The price shown in the principal display of the CRS should effectively be the price the customer pays, say MEPs, who adopted an amendment insisting that it includes all applicable taxes, charges, surcharges and fees to be paid to the air carrier or rail-transport operator which are unavoidable and foreseeable at the time.
+If it's a short flight, offer train options too
+For air journeys of up to 90 minutes, the committee voted to include a requirement that where travel options are ranked, the best ranked alternative train services, including connecting services, must be featured on the first screen of the principal display. Where travel options serving the same departure and arrival cities are offered with connecting flights or the combination of scheduled air and rail services on the CRS, at least the best ranked option by scheduled air and rail service shall be featured on the first screen of the principle display.
+CO2 emissions
+The committee also adopted an amendment insisting that CRSs should, in future, contain easily understandable information about the CO2 emissions and fuel consumption of the flight. This would be shown via average fuel consumption data per person/litre/100km and average CO2 emissions per person/g/km, and could be compared with data of the best alternative train/bus connection for journeys of under five hours.
+Procedure: Co-decision, first reading -- Committee vote: 34 in favour, 2 against, no abstentions -- Plenary vote: July or September
+2008-05-28 Committee on Transport and Tourism In the Chair Paolo Costa ALDE IT
+20080526IPR29925 Committee on Transport and Tourism website
+EN
+1
+LINK
+/activities/committees/homeCom.do?language=EN&body=TRAN
+-//EP//DTD IM-PRESS 20050901 IPR DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 IPR DOC XML V0//EN

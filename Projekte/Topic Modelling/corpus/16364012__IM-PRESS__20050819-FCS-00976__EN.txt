@@ -1,0 +1,66 @@
+The European Parliament’s new website is aimed primarily at the citizens of the European Union.
+Institutions
+2005-09-10 - 19:00
+In this interview, Josep Borrell Fontelles, President of the European Parliament since July 2004, describes the philosophy behind Parliament’s new website, its layout and the editorial revolutions introduced by his teams.
+‘Encouraging an interest in Europe’
+How would you describe the spirit of the new site?
+By nature, Europe is a vast and extremely complex subject. However, this does not mean that it is impossible to help people to understand Europe, its workings and its issues. This is an important task. It is difficult, but it is expected of us. Everyone could see the scale of the debates surrounding the draft constitution in the Member States. This demonstrated that people are interested in Europe and want to understand it.
+Since it represents Europe’s citizens, the European Parliament has a duty to encourage this interest in Europe by providing access to all the views expressed within it.
+The first stage has already been completed with the current site, on which it is possible to consult all Parliament’s documents. However, although this is possible, it is not always easy, particularly for people who are unfamiliar with the technical vocabulary or with how our procedures are organised and how they operate. The new site continues to make all the documents available but also aims to make them accessible in both senses of the word: available and comprehensible. It does this by providing the best possible guidance to visitors to the site in their search for information.
+20050819FCS00976
+The site is structured around the answers to 5 questions
+How does the new site fulfil this duty to provide guidance?
+It does so in two complementary ways: firstly by means of its structure, its layout, and secondly by the editorial line taken.
+The site is divided into two areas. The first includes five main sections or headings, each of which answers a simple question.
+‘What happens at the European Parliament?’ This is the News section, which allows citizens not only to access up-to-date EP news every day, but also, in particular, to discover the extent to which our Institution interacts with the contemporary world. We are not an ivory tower on a mountain peak; we are an institution that is permanently in touch with the daily lives of EU citizens and we intend to convey this through the new site.
+The second question, ‘What is the European Parliament?’ , is answered in the Parliament section, which describes its role, powers and organisation. It also sets out all the services offered to citizens, such as Petitions and Correspondence with Citizens, and gives the addresses of our 31 information offices.
+The third section, Members of the European Parliament , is given over to the players in the EP: ‘who are they?’ It is very easy for visitors to the site to access information on their country’s MEPs or indeed any of the 732 Members of Parliament. They can consult a member’s file, which gives details of his or her career and parliamentary offices, as well as accessing the various documents which embody the very nature of an MEP’s work: parliamentary reports, parliamentary questions, amendments, etc. People must understand that MEPs work extremely hard. We are teased sometimes about the volume of documents and texts that we produce: well, bear in mind that these documents do not write themselves! They are the outcome of discussions, in parliamentary committees, for example, and of reflection and exchanges. They are amended and reworked in order to satisfy, if not everyone, then at least the majority. This is what is known as democracy.
+These documents are found in the section entitled Activities , which answers the big question: ‘What does the European Parliament do?’ Well, click and see for yourself! You can search for documents by institution, type or date and for the last three parliamentary terms, i.e. the last 15 years.
+Finally, the section EP Live answers the question ‘How can we see what goes on in Parliament?’ by broadcasting events taking place in the European Parliament using the webstreaming technique. The ‘S é ance en Direct’ service, which has been available for several years, makes it possible to follow the debates in plenary. Very soon EP Live will also be broadcasting important hearings such as the confirmation hearings of nominee Commissioners, which have already been broadcast live in the past, as well as committee debates and press conferences.
+Taking account of the various types of visitor to the site
+What is the editorial response?
+The editorial response is firstly to take account of the different types of visitor to the site. To put it simply, we have, on the one hand, citizens, the wider public to whom we would like to give up-to-date, clear and comprehensible information. For these visitors, the site is intended to be a permanent source of relevant and reliable information.
+On the other hand, our site is also intended to be a valuable tool for those working on European issues: officials, specialised journalists, lobbyists, etc.
+As you will understand, these two types of visitor to the site do not have the same expectations. That is why each of the five sections on the site is divided into three areas. This is the site’s second division. The first area addresses citizens in their mother tongue and the type of language they are used to, i.e. as directly as possible. The second provides content which is more technical and exhaustive. The last area contains the archives for each section. For example, the archives for ‘Members of the European Parliament’ bring together information on all MEPs elected to Parliament since 1979.
+The objective is to allow the wider public, by means of a simple click, to move from content in their mother tongue and everyday language to content which is more technical and for which a minimum number of key terms will be explained. There is no point in putting a report adopted in plenary online if no effort is made to explain it. What are the issues involved, the problems, the political positions? The areas given over to citizens are there to enable them to access the work carried out by MEPs.
+Interactivity, WAI standards and developments
+The new site does not offer an interactive tool such as a forum or the opportunity to post comments. Isn’t this odd for a democratic institution?
+That is not entirely true. Correspondence with Citizens, petitions and document requests are all services that are interactive and available online via the Parliament section. As regards the posting of comments and forums, obviously we are not opposed to this, but the language question requires some thought. On the Internet, control media is indispensable, but how can we exercise control in 20 languages? We also need to put in place technological media enabling us to offer interactive tools. We have already organised chat rooms on our site and will continue to do so. We just need a bit of time.
+Does the new site conform to the WAI (Web Accessibility Initiative) standards?
+In compliance with the decisions taken at the 2002 Lisbon European Council, our site endeavours to meet WAI standards which guarantee convenient access to people with disabilities. The WAI standards were taken into consideration very early in the lift of the project. They must become automatic for editorial teams; for example, images placed on the site must invariably be accompanied by a description. In order to further facilitate browsing, we are studying the possibility of putting an exclusively WAI version of the site online.
+Will the new site remain fixed or are there likely to be new developments?
+The site available to you corresponds to the end of the first phase of our Internet overhaul. Its structure rules out the possibility of standing still since it will be updated on an ongoing basis from now on. The second phase, which the European Parliament’s teams are working on, is aimed at enriching the editorial contribution and improving production tools and the numerous documentary channels which supply different areas of the site with information. Moreover, everything coming within the area of ‘rich media’, i.e. the dissemination of video data flows, live or pre-recorded with specific accompanying contents, is an inexhaustible source of developments. The next set of changes will certainly be less spectacular, but this new site is very much alive. It will grow and, I hope, attract an ever increasing audience. The website of Josep Borrell Fontelles, President of the European Parliament Correspondence with Citizens is a service which allows any citizen to contact the European Parliament, which will ensure that his or her questions are answered. At any time, any citizen, acting either alone or in a group, may approach the European Parliament thanks to their right of petition. Article 255 of the Treaty establishing the European Community provides that the citizens and residents of the European Union have a right of access to European Parliament, Council and Commission documents. Official website of recommendations by W3C on the WAI standards (in English)
+EN
+1
+PHOTO
+20050818PHT00232.jpg
+EN
+2
+PHOTO
+20050818PHT00230.jpg
+EN
+3
+PHOTO
+20050818PHT00234.jpg
+EN
+4
+LINK
+/president/defaulten.htm?home
+EN
+5
+LINK
+/parliament/public/staticDisplay.do?id=48&language=EN
+EN
+6
+LINK
+/parliament/public/staticDisplay.do?id=49&language=EN
+EN
+7
+LINK
+/parliament/public/staticDisplay.do?id=151&language=EN
+EN
+8
+LINK
+http://www.w3.org/WAI/
+-//EP//DTD IM-PRESS 20050901 FCS DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 FCS DOC XML V0//EN

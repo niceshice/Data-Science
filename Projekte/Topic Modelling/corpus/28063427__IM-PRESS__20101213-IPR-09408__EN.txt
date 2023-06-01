@@ -1,0 +1,28 @@
+Parliament stakes out its position on MiFID reform
+Economic and monetary affairs
+Plenary sittings
+2010-12-14 - 12:41
+Ahead of the Commission's review next year of the MiFID directive, the most wide-ranging EU law regulating trading venues and practices in the financial services sector, MEPs on Tuesday approved a resolution setting out Parliament's priorities on the matter.
+The Markets in Financial Instruments Directive (MiFID), comes up for review in spring 2011. The main point of Parliament's resolution today is that both standard and non-standard trading venues should be supervised in a transparent way, with all venue users having access to similar information on the price formation process.
+MiFID's success in reducing transaction costs has also resulted in trades slipping out of sight due to a fragmentation of trading among the proliferation of trading venues and the use made of the directive's exemptions, says the resolution authored by Kay Swinburne (ECR, UK).
+More broadly, the resolution urges the Commission to give priority to limiting the build-up of risk.
+More transparency and rules
+When performing activities similar to those of other standard trading venues, broker crossing networks (BCNs), or bilateral trading systems, must be obliged to conform to the same rules as those for the standard venues, says the resolution, in a bid to close up certain loopholes to the MiFID directive. It also calls for all BCNs to be obliged to submit information about their activities to supervisory authorities to enable them to enforce the MiFID rules when this is deemed necessary.
+The resolution asks ESMA to study the costs and benefits of high volume, high speed trading (algorithmic trading and high frequency trading (HFT)) on markets, look into the potential abusive manipulation of markets leading to an uneven playing field, and analyse the impact of these trading methods on overall market stability.
+OTC trading and derivatives
+Parliament notes that up to 40% of trading volume is still carried out over-the-counter (OTC), a similar figure to that existing before the MiFID rules, and argues that market players should be encouraged to transact more through organised trading venues. It therefore calls for a substantial reduction of this type of trading.
+Derivatives are also highlighted, with the resolution calling on the Commission and ESMA to consider introducing transparency requirements for derivatives too, as well as pushing the agenda of standardising OTC derivative products.
+Next steps
+This resolution is expected to feed into the wider debate of the reform of the MiFID directive, which will see the EP and the Council acting as co-legislators in determining how the whole gamut of trading venues operate. The Commission is expected to publish its proposal in the spring. Subsequently the EP and Council will begin negotiations to reach an agreement.
+20101213IPR09408 Adopted text will be available here (click on 14 December) Report on regulation of trading in financial instruments – ‘dark pools’ etc Profile of rapporteur Kay SWINBURNE (ECR, UK)
+EN
+1
+LINK
+/activities/plenary/ta/calendar.do?language=EN
+EN
+3
+LINK
+/members/expert/alphaOrder/view.do?language=EN&id=96920
+-//EP//TEXT REPORT A7-2010-0326 0 NOT XML V0//EN
+-//EP//DTD IM-PRESS 20050901 IPR DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 IPR DOC XML V0//EN

@@ -1,0 +1,16 @@
+Financial services rules: clearing and settlement and credit claims
+Economic and monetary affairs
+2008-12-18 - 13:03
+MEPs have adopted updates to European law on two aspects of the “plumbing” of the financial system: the aim, on the one hand, is to reflect in law the increasingly interconnected operation of clearing and settlement systems, and, on the other hand, to create a level playing field for central banks in Europe regarding the rules on accepting credit claims (receivable assets resulting from bank loans) as collateral from commercial banks.
+Clearing and settlement is the process by which, after trades are made in financial markets, ownership of the shares, financial instruments or other products is actually transferred to the buyer and the funds for the sale actually transferred to the seller. The EU has been encouraging competition and choice between the systems involved.
+There are also increasing links between different systems, enabling more efficient operation, but the law needs to be updated to provide a framework for such interlinked operation, to make it clear, for example, how supervisory arrangements work in these cases, and where liabilities lie in case of insolvencies of some of the actors concerned.
+MEPs adopted a number of amendments resulting from an informal agreement with the Council presidency, mostly aimed at improving definitions and clarifying the text.
+Credit claims (i.e. the fact that a bank has a loan outstanding with an individual or company) have been able to be used as collateral for commercial banks in their arrangements with the ECB since 2007; some central banks already accepted them, but with differing rules applying. The directive seeks to harmonise the rules on their acceptance. MEPs adopted several changes, again in informal agreement with the Council, notably regarding exceptions for consumer loans and to small enterprises and regarding formal notification arrangements.
+Given the informal agreement with the Council, these changes should now become law at this first-reading stage. The legislative resolution was adopted with 538 votes in favour, 17 against and 28 abstentions.
+20081216IPR44863 Text, as adopted by the EP, will be available here (click on 18 December)
+EN
+1
+LINK
+/activities/plenary/ta/calendar.do?language=EN
+-//EP//DTD IM-PRESS 20050901 IPR DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 IPR DOC XML V0//EN

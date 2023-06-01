@@ -1,0 +1,35 @@
+Controlling dual-use exports: deal with Council much likelier after Parliament vote
+External/international trade
+Plenary sittings
+2011-04-05 - 13:30
+Proposals to revise EU rules on dual-use (civilian/military) exports were amended by Parliament on Tuesday, which makes an early first-reading agreement with Council much more likely. Parliament has made it clear that it is willing to approve plans to extend the EU list of "non-sensitive" items that can be exported to "non-sensitive" countries, in exchange for more information-sharing and parliamentary oversight of the notification system.
+Dual-use items are goods that can be used for both civilian and military purposes, such as nuclear centrifuges, harmful viruses, or cryptography programmes. Exports of such items from the European Union are limited by a system of national and EU rules, which require that firms seek authorization from the authorities. For most dual-use items, exports to the United States, Canada, Australia, New Zealand, Switzerland and Norway require a so-called "Community General Export Authorization" (CGEA), which is granted by the EU. For all other items and countries, authorization needs to be requested from national authorities.
+The Commission has proposed adding six new annexes to the CGEA regulation, which would widen its scope to more dual-use goods. Parliament is willing to agree to this extension, but wants to exclude computer and related equipment from this list of goods that would no longer require authorisation. It also tightened rules on "low-value shipments," to ensure that larger orders cannot be broken up into smaller parts, thereby getting around export rules.
+Implementing the dual-use export regulation: deal with Council in sight
+The Commission also proposes revising some ways in which the regulation is implemented, e.g. by widening its scope to include transit and brokering activities, not just exports. Parliament is ready to agree to these changes to the implementing procedures. However, it has insisted on some additional provisions to ensure democratic control, such as obliging the Commission and Member States to set up a secure system for notifications, including instances where export authorizations were denied, and to inform the Parliament about how it works.
+Furthermore, Parliament wants to mandate an annual report by the Dual-Use Coordination Group (of Member State representatives, chaired by the Commission), to enhance transparency of the export control regime.
+The report had initially insisted that notifications of dual-use exports must be made before any shipments, and not afterwards, as the Commission has suggested. This was finally voted down, bringing the Parliament's position quite close to that of Council. A first-reading agreement is now therefore much more likely to emerge in the near future.
+Next steps
+By voting on the proposed amendments, Parliament has now clarified its own stance, and decided to refer the report back to committee, so that three-way talks with the Commission and the Council can begin to hammer out a first-reading agreement.
+Rapporteur Jörg Leichtfried (S&D, AT), said after the debate: "I regret that the house narrowly rejected my call for stricter, ex-ante notification and reporting requirements for dual-use exports. Although this is unfortunate, it brings Parliament's position much closer to that of Council, so I hope we can reach a first-reading compromise soon on this important subject."
+Procedure: Co-decision, 1st reading, trialogue ongoing
+20110405IPR16958 Draft report Video of the plenary debate (click on 04.04.2011.): Profile of rapporteur Jörg LEICHTFRIED (S&D, AT): Legislative observatory file: Dual-use items and technology Interview with rapporteur Jörg LEICHTFRIED (S&D, AT):
+EN
+2
+LINK
+/wps-europarl-internet/frd/vod/research-by-date?language=en
+EN
+3
+LINK
+/members/public/yourMep/view.do?name=leichtfried&partNumber=1&language=EN&id=28251
+EN
+4
+LINK
+/oeil/file.jsp?id=5845562
+EN
+5
+LINK
+/en/headlines/content/20110324FCS16438/4/html/MEPs-want-stricter-export-controls-over-dual-use-goods
+-//EP//TEXT REPORT A7-2011-0028 0 NOT XML V0//EN
+-//EP//DTD IM-PRESS 20050901 IPR DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 IPR DOC XML V0//EN

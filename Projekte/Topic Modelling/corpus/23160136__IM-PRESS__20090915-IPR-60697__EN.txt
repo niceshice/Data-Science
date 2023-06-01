@@ -1,0 +1,12 @@
+SWIFT: new EU-US agreement will be renegotiated next year
+Justice and home affairs
+2009-09-17 - 12:39
+Under pressure from MEPs, the Council of EU ministers has agreed to renegotiate a deal with the US on the transfer of banking data next year, by which time Parliament may have a final say on such agreements under the Lisbon Treaty. Meanwhile, Parliament adopted a resolution setting out guidelines to ensure privacy is not harmed under the deal being negotiated at present.
+In a resolution adopted today, MEPs repeated that the data transferred to the US authorities should be processed "only to fight terrorism" and that "storage and use must not be disproportionate" to this objective. MEPs evoked the need to "strike the right balance between security measures and the protection of civil liberties and fundamental rights". EU citizens and enterprises should be granted an equal level of defence rights, and "judicial redress mechanisms" should be set up to prevent abuse.
+During several debates in the Committee of Civil Liberties, Members had voiced their concern about Parliament being kept out of negotiations on the EU-US interim agreement on banking data transfers. Beatrice Ask, the Swedish Justice Minister, announced yesterday that the text being negotiated with the United States "will not be in force for more than 12 months". Then, according to Commissioner Jacques Barrot, "an immediate renegotiation will take place under the Treaty of Lisbon", which would give Parliament the final say on the text.
+Members questioned the choice of the legal basis by Council: in July, EU ministers decided unanimously to give the European Commission a negotiating mandate without involving Parliament. This, says the resolution, goes against the opinion of Council's legal service, who said this matter is of Community competence.
+Background :
+The question of SWIFT first arose in 2006 when the media revealed that the US administration was accessing data held by the Belgium-based financial network SWIFT on European citizens without their knowledge. Following pressure by the European Parliament, guarantees regarding privacy were given to ensure that the data collected was used purely for anti-terrorist purposes. In July this year, media articles appeared saying that a new agreement was to be negotiated following a change in the structure of the SWIFT company, which is building a new storage centre for its European data in Switzerland.
+20090915IPR60697
+-//EP//DTD IM-PRESS 20050901 IPR DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 IPR DOC XML V0//EN

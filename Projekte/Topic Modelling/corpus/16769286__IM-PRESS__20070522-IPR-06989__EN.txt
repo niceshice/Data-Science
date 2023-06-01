@@ -1,0 +1,105 @@
+MEPs deliver on cheaper roaming: calling rates to drop by the summer holidays
+Information society
+2007-05-23 - 12:36
+MEPs vote to reduce mobile phone roaming charges across the EU
+The European Parliament voted through a first-reading compromise agreement on "Roaming on public mobile networks", the fruit of recent talks between MEPs and the Council Presidency. In doing so – and in negotiating a prompt entry into force of the regulation – the EP and the other EU institutions are working to ensure that consumers can benefit from cheaper roaming rates in time for the summer holidays. The compromise was adopted by an overwhelming majority of members in a show of hands.
+The crux of the package reflects the very same issues which held the key to the roaming dossier from the outset: caps on wholesale and retail charges, the choice between ‘opt-in’ and ‘opt-out’ models, transparency requirements, entry into force and future review of the legislation. However, inasmuch as the issues are the same, the solutions – in the spirit of compromise – are slightly different.
+Prices
+According to the compromise, the average wholesale charge (excl. VAT) that a "visited" operator can levy on a roaming customer’s "home" operator for the provision of roaming calls will be capped at €0.30 per minute. ( The Council, at the outset of negotiations, had proposed placing a cap of €0.36 on the average wholesale price)
+The cap, in line with MEPs’ proposals, will decrease automatically by 2 eurocents per year over a three-year period after the regulation's entry into force. The maximum retail charge (excl. VAT) for regulated roaming calls, meanwhile, will be capped at €0.49 per minute for calls made and €0.24 per minute for calls received.
+(The Industry Committee had voted, in its original report, for caps of €0.40 for calls made and €0.15 for calls received. The Council, meanwhile -- having initially called for caps of €0.50 for calls made and €0.25 for calls received -- entered negotiations with the EP by proposing caps of €0.60 and €0.30, respectively.)
+The cap for outgoing calls will decrease automatically by 3 eurocents per year; the cap for incoming calls will decrease by 2 eurocents after the first year and 3 eurocents after the second year.
+As MEPs insisted, home providers will have to offer the Eurotariff to all their customers – and to do so actively, clearly and transparently. ( In addition to the Eurotariff, reads the compromise text, every home provider could also offer "a fair use, all-inclusive monthly flat-rate to which no charge limits apply". Such a flat rate would include both voice and data roaming services (including SMS and MMS).
+Summary table
+Retail outgoing (per minute)
+Retail incoming
+(per minute)
+Wholesale
+(per minute)
+€
+€
+€
+Commission proposal
+0.44 (x)
+0.30 (y)
+0.15
+0.34(x)
+0.23 (y)
+IMCO report
+0.50
+0.25
+0.25
+ITRE draft report
+Council Presidency
+0.50
+0.25
+0.30
+Council Presidency (19.4.07)
+0.60
+0.30
+0.36
+ITRE final report
+0.40
+0.15
+0.23
+Council - European Parliament compromise
+0.49 (2007)
+0.46 (2008)
+0.43 (2009)
+0.24 (2007)
+0.22 (2008)
+0.19 (2009)
+0.30 (2007)
+0.28 (2008)
+0.26 (2009)
+x - outgoing roaming calls made outside a visited network
+y - outgoing roaming calls made inside a visited network
+Opting
+One of the greatest bones of contention in the Parliament's negotiations with the Council was the issue of whether to make the Eurotariff subject to an "opt-in" or an "opt-out" model. The former leaves customers with their old roaming tariffs, unless they deliberately choose to "opt into" the new EU system of price caps; the latter ensures that the Eurotariff would apply by default (unless the customer chooses otherwise). The majority of the Industry Committee having voted in favour of the "opt-out", the EP's delegation defended this model vigorously throughout negotiations with the Presidency .
+According to the compromise package adopted today, operators will have a month following the entry into force to make the Eurotariff (or any other roaming tariff) available to its customers. The customer, the moment he or she is given such a choice, will have two months to decide whether or not to opt for the new roaming tariff. If the customer does make a choice, his or her operator – from that moment on – will have up to a month to activate the new tariff. If the customer does not make a choice, the Eurotariff will apply automatically at the end of the two months mentioned above.
+( At the same time, r oaming customers who have already made "a deliberate choice of a specific roaming tariff or package" before the regulation's entry into force "shall remain on their previously chosen tariff or package" – unless they choose otherwise. Operators, according to the text, must remind such clients of the terms of their contracts)
+In theory, therefore – assuming their operators waste no time in offering and activating the new rates and they themselves waste no time in choosing them – customers may be able to benefit from the Eurotariff immediately after the regulation's entry into force.
+The cap on the average wholesale price, meanwhile, will automatically take effect 2 months after the entry into force.
+Opting - timetable
+Assuming one makes the choice to switch into the Eurotariff at the earliest possible time, he or she can end up with it as soon as the date of entry into force or as late as two months afterwards. All normal customers who make no choice will receive the Eurotariff automatically by, at the very latest, 3 months after the entry into force.
+Information requirements and future regulation
+As to ensure that customers are fully aware of what they pay for roaming services under the different tariff plans, MEPs propped their compromise package with a series of transparency provisions. Home providers, they decided, will provide their customers with "personalised pricing information on the retail charges" to outgoing and incoming roaming calls.
+The Commission, according to the compromise text, will review the impact of the roaming dossier and report to the European Parliament and the Council "no later than eighteen months" after the regulation's entry into force. It will also keep track of developments in wholesale and retail charges for data communication services – including SMS and MMS – and, if necessary, make recommendations regarding the need to regulate in this area. Despite the fact that the compromise foresees the expiration of the roaming regulation after three years, it will also be up to the Commission to assess – in light of market developments and consumer protection concerns – whether there is need to propose a legislative act extending this period.
+Paul RÜBIG (EPP-ED, AT), the European Parliament's draftsman on roaming stated during the debate on Wednesday 23 May in Strasbourg: "People are hoping that when they're on holiday, or on business, they'll be able to make telephone calls safe in the knowledge that they're not going to end up getting a telephone bill at the end of the month that is higher than the cost of their accommodation." He was, he said, "very glad that it's not just in everyday telephone communications that we're going to get this kind of transparency, but also in data communications." The package being put forward, Mr Rübig continued, was a " user-friendly way of doing things in the whole area of roaming" that provided "new opportunities to act...in the interest of consumers" and was, above all, "a contribution to the overall future of telecommunications."
+Following the vote in plenary today on mobile roaming charges, the President of the European Parliament, Hans-Gert PÖTTERING stated:
+"By adopting the report of Parliament's rapporteur Mr. Rübig, the European Parliament once again has exercised with responsibility its legislative powers as given to it by the treaties.
+The compromise agreement reached after difficult negotiations with the Council demonstrated that the EP's representatives can make a real difference in jointly shaping EU legislation with the Council.
+Parliament has succeeded in finding a broad compromise involving all political groups and four parliamentary committees. The final deal will improve price transparency and will lead to a reduction in prices for millions of roaming customers all over Europe."
+During the debate, numerous MEPs took the floor to make the case for an accelerated adoption of the dossier. Roaming, an € 8.5 billion industry, affects 147 million consumers, said Šarūnas BIRUTIS (ALDE, LT). Eighty percent of roaming customers, said Joseph MUSCAT (PES, MT) citing a Commission paper, stand to benefit from new rates under the Eurotariff.
+The countdown to cheaper roaming
+The evening prior to the vote , Paul Rübig (EPP-ED, AT) issued a statement, in which he urged a speedy adoption of the dossier "to deliver its benefits to European citizens already by this summer". A "more than realistic" timetable, he remarked, "would include formal endorsement of the agreement by the Telecoms Council on 7 June". Urging the Council to make all possible efforts to ensure a fast-track entry into force, he underlined that the regulation can be published in the Official Journal "within 24 hours of its official signing by both institutions, the Parliament and the Council."
+The roaming law's prospective entry into force was also one of the most important issues covered during today's plenary debate. Joachim Wuermeling, speaking on behalf of the German Presidency, told MEPs that the Council secretariat "will pull out all the stops" to have the regulation in place "as fast as possible" – or, as he later explained, "on the 29 June". This, argued Viviane Reding, Commissioner for Information Society and Media, is not necessarily enough. Publication (in other words, entry into force, should take place "not at the end of June, but well before that.")
+British speakers in the debate preceding the vote
+Nigel FARAGE (IND/DEM, UK) questioned whether this was just a giant publicity stunt. Continuing he stated: "You want the EU to be loved, so you are telling people they are going to be better off. Frankly, it smacks of Communist central planning when bureaucrats and politicians think they know what the right market price is. They are always wrong. This will lead to higher costs for domestic consumers. It will lead to less competition and innovation in the market place. It is yet another giant EU folly."
+Giles CHICHESTER (EPP-ED, UK) stated that "we owe it to innocent tourists and consumers to save them from suffering that nasty shock when they come back from travelling on holiday – or even business – of being charged for receiving a call and having a huge bill. We owe it to them to fix it. We may hope for something like 60% savings on the average charge for a roaming call, and this is of material benefit to our consumers.
+Mr Chichester was glad that his amendment requiring the operators to give information, the ‘icon’ amendment, has been incorporated into the text. He paid tribute to the consensus across Parliament between the groups, along with the Commission, the Council, consumer groups, and the regulators, in supporting this measure.
+Alyn SMITH (Greens/EFA; UK) echoed the Commissioner’s phrase ‘a Europe of results’. Roaming is, he said, clearly best dealt with at EU level, as we have a need to act. There is a clear case of market failure. Our citizens, he said, are clearly losing out because of it. Something had to be done.
+The package before us today, Mr Smith continued, is a proportionate response supported by his group. It will impose transparency, rights to information and a protective tariff which will see reductions of up to 70%, and will protect vast swathes – hundreds of millions – of our citizens. Crucially, it is time-limited to three years to specifically correct the market failure, whereupon we will revisit the subject. At a time when we hear too much talk of institutional minutiae, Mr Smith stated that he will have no difficulty commending this Europe of results to his constituents in Scotland.
+Arlene McCARTHY (PES, UK) stated that consumers will see the cost of calls halved under this new law. They will receive automatic information on the cost of making and receiving calls and they will benefit from an automatic Eurotariff. The Internal Market Committee first raised this issue in 2005 when in a hearing we responded to consumer complaints on excessive charging and now in 2007 this Parliament has shown it can deliver for consumers.
+We want consumers, she stated, to continue to benefit from this, even after the three years when the law will lapse, but consumers should be aware that the costs of using their mobile phone for internet access or texting is still excessive. She asked the Commissioner to act in this area. The industry itself should move to reduce these prices. We have, she concluded, shown that we will act here on behalf of consumers if they are being ripped off and she hoped the industry will take this message seriously.
+Eluned MORGAN (PES UK) stated that many mobile operators have been charging customers extortionate prices and, in Parliament’s view, very unnecessary tariffs. She warned them to put their house in order. We gave them, she said, the chance to do the right thing but they persisted and it is for that reason that we have had to introduce legislation that gives protection to anyone who uses a mobile while abroad.
+Let this be a lesson to other industries, she stated. One of the things that was discovered in discussions with mobile companies was that much roaming traffic is kept in-house as customers are directed on to partner networks. So for many roaming companies, wholesale prices are simply a way of ensuring different parts of the same company benefit. When we understand this, she said, the market price for consumers becomes even more exorbitant. This is a victory for consumers, a victory for the European Parliament and a victory for the European Union, she concluded.
+20070522IPR06989 Electronic communications: regulatory framework for networks and services, reductions on mobile roaming charges across the Community (amend. direct. 2002/21/EC) Text, as adopted by the EP on 23 May, will shortly be available here European Commission website on roaming
+EN
+1
+PHOTO
+20070523PHT07015.jpg
+EN
+2
+LINK
+/oeil/file.jsp?id=5372302
+EN
+3
+LINK
+/activities/expert/ta/calendar.do?language=EN
+EN
+4
+LINK
+http://ec.europa.eu/information_society/activities/roaming/index_en.htm
+-//EP//DTD IM-PRESS 20050901 IPR DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 IPR DOC XML V0//EN

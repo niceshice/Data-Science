@@ -1,0 +1,32 @@
+Telecoms package conciliation: MEPs and Council representatives agree on internet access safeguards
+Information society
+2009-11-05 - 08:20
+A user's internet access may be restricted, if necessary and proportionate, only after a fair and impartial procedure including the user's right to be heard. MEPs and Council representatives agreed in negotiations on Wednesday night on this, the last open issue in the telecoms package.
+The two sides had already agreed in May that internet is essential for the exercise of fundamental rights such as the right to education, freedom of expression and access to information . So MEPs insisted in Wednesday's conciliation meeting on establishing adequate procedural safeguards for internet access, in line with the European Convention for the Protection of Human Rights and Fundamental Freedoms guaranteeing effective judicial protection and due process.
+Parliament insists on adequate safeguards for internet access
+Restrictions on a user's internet access may "only be imposed if they are appropriate, proportionate and necessary within a democratic society", agreed MEPs and Council representatives. Such measures may be taken only "with due respect for the principle of presumption of innocence and the right to privacy" and as a result of "a prior, fair and impartial procedure" guaranteeing "the right to be heard (...) and the right to an effective and timely judicial review", says the compromise text on the electronic communications framework directive. "In duly substantiated cases of urgency" appropriate procedural arrangements may be made provided they are in line with the European Human Rights Convention.
+In future, internet users may refer to these provisions in court proceedings against a decision of a Member State to cut off their internet access.
+Parliament's delegation approved the joint text unanimously. The compromise still has to be approved by the full Parliament and Council.
+Protecting internet users' fundamental rights
+Neither the Commission's original proposal nor the Council's common position included safeguards against unduly restricting a user's internet access. However, Parliament twice adopted an amendment requiring national regulatory authorities to promote the interests of EU citizens, inter alia by "applying the principle that no restriction may be imposed on the fundamental rights and freedoms of end-users, without a prior ruling by the judicial authorities, notably in accordance with Article 11 of the Charter of Fundamental Rights of the European Union on freedom of expression and information, save when public security is threatened in which case the ruling may be subsequent" .
+The Council twice rejected this amendment, thus initiating the third and last stage of the EU legislative process, known as conciliation.
+On the other hand, there were serious doubts as to the legal validity of the amendment, as it would seem to go beyond the European Community's competences in this field. This wording would arguably have required a harmonisation of Member States' judicial systems - a condition that goes beyond what the Community can adopt under the legal basis of EC Treaty Article 95 on harmonisation measures for the internal market. Consequently, if the old amendment had been adopted, the European Court of Justice might have annulled the electronic communications framework directive at a later stage.
+Background: Improved consumer rights and cooperation of national regulators
+The Council confirmed on 26 October an agreement reached in May between Parliament and Council on the two other telecoms package laws. One is a regulation setting up a new European body, BEREC, to improve co-operation among the EU's national telecoms regulators. The other is a directive to strengthen consumer rights, e.g. by allowing customers to have their mobile telephone number transferred within one working day when changing operators or requiring a user's consent before “cookies” are installed on his computer.
+Next steps
+Parliament's third-reading vote is scheduled for 23-26 November. In their third and last readings of the electronic communications framework directive both Parliament and Council may only approve or reject the joint text as a whole without any further amendments: Parliament needs a simple majority of votes cast, whereas the Council decides by qualified majority.
+If Parliament or the Council do not approve the joint text at third reading, the electronic communications framework directive is deemed not adopted. In this case, the co-decision procedure can be restarted only by a new legislative proposal from the Commission.
+20091103IPR63570 Members of the EP conciliation delegation Press release: Parliament and Council open formal conciliation proceedings (22 Oct 2009) Press release: EP conciliation delegation constituted (29 Sept 2009) Press release: Parliament's second-reading vote (6 May 2009) European Convention on the Protection of Human Rights
+EN
+1
+LINK
+/code/dossier/2009/2007_0247_telecom/default_en.htm
+EN
+5
+LINK
+http://conventions.coe.int/Treaty/Commun/QueVoulezVous.asp?NT=005&CL=ENG
+-//EP//TEXT IM-PRESS 20091019IPR62731 0 NOT XML V0//EN
+-//EP//TEXT IM-PRESS 20090928IPR61380 0 NOT XML V0//EN
+-//EP//TEXT IM-PRESS 20090505IPR55085 0 NOT XML V0//EN
+-//EP//DTD IM-PRESS 20050901 IPR DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 IPR DOC XML V0//EN

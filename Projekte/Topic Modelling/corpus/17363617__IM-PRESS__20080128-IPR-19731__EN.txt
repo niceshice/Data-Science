@@ -1,0 +1,24 @@
+Telecom package: MEPs voice concerns
+Information society
+2008-01-30 - 10:44
+During a first exchange of views on the proposed telecom package in the Industry Committee, several MEPs asked whether a new Electronic Communications Market Authority was necessary and raised concerns about the increase in powers for the European Commission. Some MEPs also queried the costs and benefits of functional separation - that is separating the transmission infrastructure from content.
+"The telecom industry is in general satisfied with the current legal framework", said Industry Committee Chair Angelika Niebler (EPP-ED, DE) at the meeting on Tuesday. "Only a few adjustments are necessary", she added, because "on the whole the market has developed quite well".
+What will be the role of the Electronic Communications Market Authority?
+"Who is guaranteeing the independence of the new agency?", asked Pilar del Castillo (EPP-ED, ES) who will draft the EP's report on the proposal to establish a European Electronic Communications Market Authority. The EP's rapporteur on the framework directive for electronic communications, Catherine Trautmann (PES, FR), wanted to know how the Commission intends to deal with possible conflicts of competencies between national regulators and the new agency.
+"I'm not sure whether this would lock two different species into one cage", said Alexander Alvaro (ALDE, DE) with regard to the Commission's proposal that the new authority shall also take over the tasks of the existing European Network and Information Security Agency. His worries about "the gain in powers for the Commission that underlies all the proposals" were supported by Francisca Pleguezuelos (PES, ES) who stressed that "we are breaking the balance with the Member States. Shifting more powers to the Commission will only cause more problems".
+"Some decisions have to be taken on EU level", said Fabio Colasanti, Director General for Information Society and Media at the European Commission, in response, adding that besides strengthening the cooperation of national regulators "the authority shall do a number of things, for example, in terms of technological assistance, cooperation with third-world countries or information on the use of frequencies".
+Costs and benefits of functional separation
+Patrizia Toia (ALDE, IT) asked what economic impact assessment the Commission had carried out and whether the new legislation would hamper competition rather than encouraging it. Several MEPs were concerned about the costs and benefits of functional separation and wanted to know who would have to pay the costs for establishing infrastructure. "Functional separation tries to achieve an equivalence of access", said Mr Colasanti, adding that "functional separation is already possible under the present framework" and that the Commission wants to "re-establish the equality of opportunity".
+The Commission adopted its proposed package of reforms for the telecom sector in November 2007. The two proposed directives and one regulation concerned will be considered by Parliament and the Council under the co-decision procedure.
+2008-01-29 Committee on Industry, Research and Energy In the chair Angelika Niebler EPP-ED DE
+20080128IPR19731 Committee on Industry, Research and Energy The European Commission's website on its telecom reform proposals
+EN
+1
+LINK
+/activities/committees/homeCom.do?language=EN&body=ITRE
+EN
+2
+LINK
+http://ec.europa.eu/information_society/policy/ecomm/tomorrow/reform/index_en.htm
+-//EP//DTD IM-PRESS 20050901 IPR DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 IPR DOC XML V0//EN

@@ -1,0 +1,35 @@
+Parliament and climate change: Carbon Capture and Storage
+Environment
+2008-05-14 - 12:14
+The International Energy Agency predict a 70% increase in coal burning by 2030
+You may have heard about "Carbon Capture and Storage" - it's a way of keeping CO2 from entering the atmosphere and contributing to global warming. This January a proposed Europe-wide directive was proposed, which would regulate the emerging practice. British Liberal Chris Davies is preparing a report calling for it to be mandatory. He wants all new coal burning power stations to be required to capture 90% of their CO2 by 2015 and all stations to be fitted out within a decade of that target.
+At present 24% of the European Union's CO2 emissions come from the burning of coal. This is why Chris Davies sees it as a crucial area to cut emissions using CO2 capture and storage. He also points to the fact that the International Energy Agency predicts a 70% increase in coal burning between now and 2030. Mr Davies warns that "as long as we are building traditional coal-fired power stations we are never going to get to grips with global warming".
+The UN's Climate Change panel is optimistic about the benefits the process can bring. They estimate that in the next century it could conceivably account for 15-55% of the CO2 cuts required to avert the worst causes of global warming.
+Is it scientifically possible and where will the carbon be stored?
+Although the process is at an early stage it is scientifically possible with Canada, Algeria and Norway already carrying out trials. Essentially there are three methods of carbon capture and storage (CCS). With pre-combustion the fuel is gasified before use and separated into CO2 and hydrogen. With post-combustion, the CO2 is filtered out of the smoke. Finally, there is the Oxyfuel technique where fossil fuels are burned in pure oxygen rather than normal air - with the resulting emissions having a high concentration of C02 which can be captured.
+After the CO2 is captured it will have to be transported by ship or pipeline to its final destination. It can be stored in depleted oil and gas fields or in underground salt water streams. Another possibility is the world's oceans although this is little understood at present. Some of the dangers of storage are either seepage or that they could be a health threat to humans and animals if C02 escaped.
+A problem acknowledged by Mr Davies is that power plants with CCS technology require between 10% and 40% more energy. Also, the cost of fitting the systems (he wants them in existing power plants by 2025), transport and preparing storage sites is likely to be substantial.
+The proposals as they stand
+The proposal presented in January by the European Commission doesn't envisage making CCS compulsory. It aims to provide a framework to manage environmental risks and remove barriers in existing legislation. It sets out how appropriate storage sites should be assessed, designated and subsequently monitored as well as who would be responsible for what.
+Ms Davies wants to kick-start CCS by giving captured and stored CO2 a "double credit" under the European Emissions Trading Scheme. This would mean that companies would be released from having to buy emission allowances and get extra credit that they could sell on emission markets.
+The 54 year old MEP is due to present his report to the Environment Committee on 28 May. MEPs will have until the end of the year to reach agreement with EU Ministers on any legislation. Before then the parliament is planning to organise a workshop with experts in the field. Striking a realistic tone, Mr Davies said what he envisages "isn't a magic bullet, but it can help the world buy time to develop zero carbon technology for the long term".
+20080513STO28752 Commission proposal Commission Climate Package First part of series: Turmes report on renewable IPCC Report on CCS
+EN
+1
+PHOTO
+20080514PHT28841.jpg
+EN
+2
+LINK
+http://ec.europa.eu/prelex/detail_dossier_real.cfm?CL=en&DosId=196657
+EN
+3
+LINK
+http://ec.europa.eu/commission_barroso/president/focus/energy-package-2008/index_en.htm
+EN
+5
+LINK
+http://www.ipcc.ch/ipccreports/srccs.htm
+-//EP//TEXT IM-PRESS 20080331STO25142 0 NOT XML V0//EN
+-//EP//DTD IM-PRESS 20050901 STO DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 STO DOC XML V0//EN

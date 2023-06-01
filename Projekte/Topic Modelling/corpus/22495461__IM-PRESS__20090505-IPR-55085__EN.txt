@@ -1,0 +1,75 @@
+No agreement on reform of telecom legislation
+2009 elections
+Information society
+2009-05-06 - 16:01
+How far the next generation of wireless will go? Thetelecoms reports aims to boost competition and consumer rights and should encourage investment in next generation fibre and wireless networks. ©BELGA_JULIEN WARNAND A user's Internet access cannot be restricted without prior ruling by the judicial authorities, insists the European Parliament reinstating one of its first-reading amendments. By amending an informal agreement reached with Council, MEPs send the whole "telecom package" to conciliation. The EP does, however, agree with the Council on investments in new communications infrastructure, the reform of radio spectrum use, clear consumer rights and privacy protection.
+MEPs amend a political agreement reached with the Council on the reform of the regulatory framework for electronic communications - including mobile and fixed telephones, broadcasting, wireless and fixed internet. Therefore, the whole "telecom package" is likely to be subject to conciliation in Parliament's next legislative term aftr the European elections.
+The package includes the revision of the electronic communications framework (report by Catherine Trautmann , PES, FR), the citizens' rights directive (report by Malcolm Harbour , EPP-ED, UK) and the establishment of a new European body of telecom regulators called BEREC (report by Pilar del Castillo , EPP-ED, ES).
+Parliament and Council do agree on the citizens' right directive and the establishment of a new European body of telecom regulators called BEREC but amend the compromise reached with Council on the framework directive. Since all three proposals are interlinked, it is likely that the whole package will go to conciliation.
+Remaining open issue: No restrictions on access to services without prior ruling by judicial authorities
+Parliament reinstated by 407 votes in favour with 57 votes against and 171 abstentions a first-reading amendment saying that "no restriction may be imposed on the fundamental rights and freedoms of end users, without a prior ruling by the judicial authorities (...) save when public security is threatened".
+Council had rejected this amendment in first-reading.
+Strengthen consumer rights to universal service (report by Malcolm Harbour)
+The aim of the proposed changes to the directive on universal service and users’ rights in electronic communication is to improve consumer protection. It also seeks to modernise existing provisions by taking account of changes in technology and the market in this fast-expanding sector.
+The text, for which Malcolm Harbour (EPP-ED, UK) is the EP rapporteur, was the subject of lengthy negotiations between Parliament and Council. Among other things it will strengthen the obligation on operators to provide a minimum package of services of a specific quality, accessible to all final users at an affordable price. This "universal service" includes the right to a connection to a public communications network capable of supporting voice and facsimile of sufficient quality to permit functional Internet access. The existing definition of functional internet access as limited to 56 kbit/s will be removed, to facilitate roll-out of broadband access
+The user should also have guaranteed free access to emergency telephone numbers (both the pan-EU 112 number and national ones), the existence of at least one directory enquiries service and an adequate geographical coverage of public payphones and other telecommunication access points. The user's right to information has been considerably strengthened to improve consumer protection and also to facilitate choice among service suppliers.
+Clearer contracts
+The directive will give consumers the right to better information on prices, tariffs and terms and conditions. Contracts will need to specify the way emergency calls are made and their location traced, any restrictions on access to certain content or types of equipment (for example if VOIP – Voice Over Internet Protocol – calls are blocked on mobile phones which otherwise offer internet connections), the applicable legal conditions, the quality parameters of the service, the length of the contract, the prices and rates applied, the types of customer and after-sales service available, payments methods, charges, if any, for transferring a number to another operator or for terminating a contract.
+All this information should be transparent, comparable, appropriate and up to date, and it should be published in a form which is clear, comprehensible and easily accessible. The user should be able to obtain a contract from the operator of his or her choice before signing it. If the operator alters the terms of an existing contract, the subscriber will have the right to terminate the contract without any penalty.
+Hotline for missing children
+Member States will have to promote services of a "social value", which should begin with the number 116, among these the number 116000 for reporting missing children.
+Better recognition of rights of people with disabilities
+Further changes regarding the rights of people with disabilities will enable them to have access to electronic communication services equivalent to that available to other users.
+Number portability and length of contracts
+Consumers have the right to keep their number when they decide to change operator. Under the new directive the number must be transferred as quickly as possible, at the latest within one working day from the agreement to change supplier.
+As to the maximum length of contracts, this must not exceed 24 months for consumers and all users should have the option to subscribe to a 12 month contract.
+Access restrictions
+Any limitations imposed by providers on access to, or use of, services, applications or equipment depend upon national law. The directive neither authorises or prohibits them, and hence in no way changes the existing situation. However, it does introduce an obligation to inform users where restrictions exist.
+The directive also stipulates that Member States must respect the fundamental rights of citizens, including those to confidentiality and privacy, information society aims and market rules.
+The directive aims to improve the quality of publicly available services. It introduces the principle of "minimum quality of service requirement" .Some limitations may be necessary to prevent the deterioration of a service (e.g. slowing or blocking of an internet connection), but these are not specified in the directive. The directive nonetheless takes this reality into account, again so as to ensure that consumers are fully informed of any restrictions. It stipulates that end-users should be able to decide what content they want to send and receive, and which services, applications, hardware and software they want to use for such purposes, without prejudice to the need to preserve the integrity and security of networks and services.
+Better privacy protection and action against illegal activity on the internet
+The revision of the 2002 directive on the processing of personal data and privacy protection in the field of electronic communications, a further element of the “telecoms package”, aims to improve network security and integrity, better protect user personal data and improve measures against spam and “cyber attacks”. The revised directive extends the existing processing of personal data harmonisation to the right to privacy, confidentiality and to security of information technology.
+Network security - Data breach notification
+Under new rules introduced for the first time in EU law, the directive provides that a security breach such as the theft of a list of customer from an internet service provider must immediately be notified to the regulator. Users should be alerted to the breach of their personal data and privacy if its seriousness makes this necessary. Service providers who have demonstrated to the competent authorities that they have taken appropriate technical protection measures would not be obliged to inform a subscriber of a breach of his or her personal data. Providers should nonetheless maintain an inventory of personal data breaches, to enable the authorities to ascertain that the protection measures are adequate.
+Service providers are already obliged to take appropriate steps to reduce the risks of security violations. MEPs have added systems to detect predictable vulnerabilities. Personal data may be accessed only by staff authorised to do so., and may not be stored without the prior consent of the person concerned. The text adds that “any legal or physical person” can process traffic data if technical measures to guarantee the security of electronic communications make it “strictly necessary”.
+Protection against spam and cyber-attacks
+The directive should also strengthen protection against spam. The processing of personal data by service providers should require the consent of the user.
+The installation of “cookies” on users’ computers would also be subject to consent by the user. Commercial communication (including promotions, prizes and gifts) by telephone or via computer networks should be signed and identifiable with an address allowing users to request not to receive further material. The directive states that it is illegal to send e-mail containing links to malicious or fraudulent material.
+Finally, protection against viruses, Trojan horses or spyware will also be improved. These programmes are already banned, whatever the storage system (CD-ROM, flash memory, USB sticks) or download method (internet, telephone or mobile).
+Commission and national regulators to cooperate on market regulation (report by Catherine Trautmann)
+Parliament and Council also agree that national regulatory authorities consult the Commission and the new Body of European Regulators for Electronic Communications (BEREC) before taking regulatory decisions.
+The regulator will have to take "utmost account" of any "serious doubts" expressed by the Commission and BEREC that the proposed measure could create a barrier to the EU's single market. In that case, BEREC, the Commission and the national regulator should co-operate closely to identify "the most appropriate and effective measure" before the national regulator adopts the remedy, says the agreed text.
+Functional separation as last resort
+The compromise enables a national regulator, as "an exceptional measure", to require an integrated incumbent operator to separate its network infrastructure from the units offering services using this infrastructure - a regulatory instrument known as "functional separation", which however does not change the overall ownership of network access and services.
+Investments in next-generation networks and infrastructure sharing
+National regulators should promote "efficient investment and innovation in new and enhanced infrastructures", such as new fibre-optic networks ("next-generation access networks"), says the agreement with the Council. Any access obligation to open this new infrastructure to competitors will have to take appropriate account of the risk incurred by the investing undertakings" and should allow for "co-operative agreements between investors and access-seeking parties", to diversify investment risks, it adds.
+Modernise radio spectrum use
+To improve cooperation, strategic planning and harmonisation of spectrum use among Member States, the Commission should table a legislative proposal for a multiannual radio spectrum action programme, says the text as adopted by Parliament.
+The electronic communications framework reform introduces service and technology neutrality as binding principles, i.e. any frequency band may be used for any service using any technology. So a band currently used for broadcasting could, for instance, be switched to provide wireless broadband services in the future.
+Body of European Regulators for Electronic Communications (report by Pilar del Castillo)
+Moreover, MEPs and the Council agree to set up a Body of European Regulators for Electronic Communications (BEREC) composed of a board of the heads of the 27 national regulators and a European Commission representative. As an independent expert advisory body, BEREC will issue opinions and recommendations to help the Commission, and upon request the European Parliament and the Council, to apply the electronic communications regulatory framework effectively and consistently. BEREC will adopt its opinions - e.g. on cross-border disputes - by two-thirds majority.
+A small secretariat will provide professional and administrative support services to BEREC. BEREC's office is to be funded by subsidies from the Community budget and voluntary financial contributions from Member States or their national regulatory authorities, states the text.
+20090505IPR55085 Adopted texts Telecoms package: more competition and improved consumer rights - background note audio, 18:20 - debate in plenary 05.05.09 - Rapporteurs audio, 08:09 - Commissioner V. Reding audio, 20:01 - Political group speakers
+EN
+1
+PHOTO
+20090505PHT55014.jpg
+EN
+2
+LINK
+/activities/plenary/ta/calendar.do?language=EN
+EN
+4
+MULTIMEDIA
+20090505MLT55006.asf
+EN
+5
+MULTIMEDIA
+20090505MLT55004.asf
+EN
+6
+MULTIMEDIA
+20090505MLT55010.asf
+-//EP//TEXT IM-PRESS 20090504BKG54930 0 NOT XML V0//EN
+-//EP//DTD IM-PRESS 20050901 IPR DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 IPR DOC XML V0//EN

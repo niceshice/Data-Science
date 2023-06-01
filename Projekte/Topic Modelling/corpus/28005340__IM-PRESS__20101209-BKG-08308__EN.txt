@@ -1,0 +1,113 @@
+Q & A on the citizens' initiative
+Constitutional affairs
+2012-03-30 - 09:37
+Federico DE GIROLAMO BXL (+32) 2 28 31389 STR (+33) 3 881 72850 PORT (+32) 498 98 35 91 EMAIL constit-press@europarl.europa.eu From 1 April onwards, EU citizens will be able to ask the European Union to introduce new legislation - provided the organisers can muster one million signatures. This new tool, known as the European Citizens' Initiative (ECI), is designed to give the public a more direct say over the EU.
+Parliament approved the legislation in December 2010 and the Council endorsed it in February 2011. As the Member States have 12 months to put the new rules into effect in their national laws, the first initiatives can be launched in April 2012. The answers below all refer to what will happen once the rules are in place.
+20101209BKG08308
+1. I want to launch a citizens' initiative. How do I start?
+To launch a citizens' initiative you must form a citizens' committee of at least seven people living in at least seven different European Union countries. You should register your initiative with the European Commission in one of the 23 official languages of the EU. The Commission will establish a point of contact which provides information and assistance on this.
+When registering your initiative, you will need to give the Commission the title of your initiative, describe its subject-matter and objectives, state which EU treaty provisions you consider relevant, give the contact details of the seven members of the citizens' committee and indicate all sources of funding and support.
+2. Can I propose anything in a citizens' initiative?
+No. After you have registered your initiative, the Commission will get back to you within two months to tell you whether your initiative meets the requisite conditions. These are:
+the citizens' committee has been formed and the contact persons designated,
+the initiative does not manifestly fall outside the sphere of the Commission's powers to submit a proposal for a legal act of the Union for the purpose of implementing the Treaties,
+the initiative is not manifestly abusive, frivolous or vexatious, and
+the initiative is not manifestly contrary to the values of the European Union as set out in the Treaty.
+If your initiative does not fulfil the conditions, the Commission will tell you why and give you information on all possible legal and other steps you can take. All accepted initiatives will be published in the online register that the Commission will set up for this purpose.
+3. How can the signatures be collected? How much time do I have?
+You can collect the signatures either on paper or online. There are two different kinds of model forms that should be used when collecting "statements of support". The choice of form depends on the country where the signatures are collected.
+If you want to use an online collection system, you will first need to have it certified by a competent authority of the relevant Member State. In this way, all signatories can be sure that, for example, data protection issues have been taken into account. The Member States will have to issue this certificate within one month.
+The Commission will make available an open-source software for online collection systems, free of charge.
+You will have one year to collect the one million signatures. The time starts running from the moment the Commission has listed your initiative on its public register.
+4. What personal data do people need to give if they want to sign an initiative ?
+That depends on the country which is responsible for verifying the validity of your statement of support. Most Member States will require the following details: name, permanent address, date and place of birth, nationality and signature with a date.
+Most Member States will also require you to give an ID card number. There are nine countries that do not require this: Belgium, Denmark, Estonia, Finland, Germany, Ireland, Netherlands, Slovakia, and the United Kingdom.
+5. Who can sign a citizens' initiative?
+To be eligible to support a proposed citizens' initiative, you should be a citizen of the European Union and old enough to be entitled to vote in European elections. This means 18 years in all EU countries other than Austria, where it is 16 years.
+6. Can I collect the one million signatures in one country?
+No. The signatories have to come from at least one fourth of the EU Member States. Since there are currently 27 Member States this means you have to obtain signatures from at least seven.
+You will also need to obtain a minimum number of signatures in each Member State for them to count towards this one fourth. This minimum number is obtained by multiplying the number of the Members of the European Parliament elected in each Member State by 750.
+The good news is that these minimum numbers of signatures have already been calculated:
+Austria
+12750
+Belgium
+16500
+Bulgaria
+12750
+Cyprus
+4500
+Czech republic
+16500
+Denmark
+9750
+Estonia
+4500
+Finland
+9750
+France
+54000
+Germany
+74250
+Greece
+16500
+Hungary
+16500
+Ireland
+9000
+Italy
+54000
+Latvia
+6000
+Lithuania
+9000
+Luxembourg
+4500
+Malta
+3750
+Netherlands
+18750
+Poland
+37500
+Portugal
+16500
+Romania
+24750
+Slovakia
+9750
+Slovenia
+5250
+Spain
+37500
+Sweden
+13500
+United Kingdom
+54000
+7. What happens after I have collected one million signatures?
+First you will have to submit all your statements of support to the EU Member States concerned for verification of their validity. They will verify them within three months, and if everything is fine, you will get a certificate saying so.
+After you have received the necessary certificates you can submit your initiative to the Commission. You must also give information on any support and funding received for the initiative.
+The Commission will publish all this information on its web site. You will then be invited to the Commission to explain in detail the matters raised by your initiative. You will also be given the opportunity to present your initiative in a public hearing at the European Parliament. The Commission and Parliament will ensure that this hearing is organised.
+The Commission will inform you within three months of its legal and political conclusions on your initiative, the actions it intends to take, if any, and its reasons for taking that action or not. This information will be made public.
+8. What do I do with the signatures after this?
+You will be responsible for the proper handling of the signatories' personal data throughout the process, together with the competent authorities of the Member States. You will have to destroy all statements of support and their copies within one month of submitting the initiative to the Commission, or within 18 months of the date of registration, whichever is the earlier.
+The Member States that verified the statements of support will also have to destroy them and any copies within one month of the date when they gave you a certificate.
+9. What was the input from the MEPs in setting up the rules?
+MEPs did a lot to make the citizens' initiative more user-friendly than was initially proposed. Here are some of the improvements that they managed to negotiate:
+the Commission will check the admissibility of your initiative right at the outset, rather than after you have collected already 300,000 signatures, as originally proposed,
+the minimum number of Member States from which signatures must be obtained was reduced from one third to one fourth,
+the Commission will help the organisers of an initiative by providing a user-friendly guide, by setting up a point of contact and by providing online collection software free of charge,
+if an initiative is backed by one million signatures, a proper follow-up will be guaranteed, including an invitation to the Commission and a public hearing, and
+the Commission has three months, instead of the original four months, to reply to an initiative. ECI official register EP page on the ECI EC guide on the ECI
+EN
+1
+LINK
+http://ec.europa.eu/citizens-initiative/public/welcome
+EN
+2
+LINK
+/aboutparliament/en/001eb38200/Inicjatywa-obywatelska.html
+EN
+3
+LINK
+http://ec.europa.eu/citizens-initiative/public/guide
+-//EP//DTD IM-PRESS 20050901 BKG DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 BKG DOC XML V0//EN

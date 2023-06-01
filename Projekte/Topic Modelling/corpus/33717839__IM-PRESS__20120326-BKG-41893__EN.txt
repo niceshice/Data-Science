@@ -1,0 +1,45 @@
+Transfer of air passengers' data to the US - What's at stake?
+Justice and home affairs
+2012-03-26 - 20:42
+Natalia DASILVA BXL (+32) 2 28 44301 STR (+33) 3 881 73661 PORT (+32) 498 98 39 85 EMAIL libe-press@europarl.europa.eu A new agreement on the transfer of EU air passengers' personal data to the US Department of Homeland Security will be voted by the Civil Liberties Committee on Tuesday. The deal sets the legal conditions for the transfer of this data and covers issues such as storage periods, purpose of the data use, data protection safeguards, administrative and judicial redress. The agreement is intended to replace another deal applied provisionally since 2007.
+Passenger Name Record (PNR) data is information provided by passengers and collected by air carriers during reservation and check-in procedures.
+It includes information such as the name, address, phone number, credit card details, travel agency data, baggage information, (such as the number of bags), and seat number.
+PNR can also include "sensitive" data, most frequently tied to a religious meal choice or requests for assistance due to a medical condition. PNR data is stored in airlines' reservation and departure control databases and made available to the US Department of Homeland Security (DHS).
+20120326BKG41893
+What is the data used for?
+PNR data is intended mainly to prevent, detect, investigate and prosecute terrorism and serious transnational crimes. Transnational crimes are defined as crimes punishable by 3 years of imprisonment or more under US law.
+PNR data can also be used case-by-case in the event of a serious threat or if ordered by a US court. The agreement negotiated by the Commission in 2011 says that PNR data could also serve "to identify persons who would be subject to closer questioning or examination". This has raised concerns among MEPs, including rapporteur Sophie in'T Veld (ALDE, NL), who wonders whether this means that PNR data can be used for border security purposes.
+Retention period: MEPs raise concerns
+A number of MEPs have raised concerns about the duration for which passengers' data will be stored and about the vagueness of the various processed data categories.
+Thus, the new agreement says that PNR data will be stored by the US authorities in an active data base for up to 5 years. After the first 6 months, all information which could be used to identify a passenger would be "depersonalized", apparently meaning that data such as the passenger's name or her/his contact information would be masked out.
+After the first 5 years, the data would be moved to a "dormant database" for up to 10 years, with stricter access requirements for US officials. Thereafter, the agreement says, data would be fully "anonymized" by deleting all information which could serve to identify the passenger. Data related to any specific case would be retained in an active PNR database until the investigation is archived.
+Some MEPs, including the rapporteur, have also voiced concerns that the retention period is too long. Since the 2004 agreement the maximum retention period has grown from 11.5 years under the 2004 agreement to 15 years under the 2007 one and indefinite retention under the latest one (after 15 years, the data will no longer be deleted but "anonymized").
+MEPs have also repeatedly asked the Commission to demonstrate the necessity and proportionality of the mass collection and storage of data.
+How is the data transferred? - Push vs Pull
+Airlines will be required to transfer PNR data to the DHS agency using the "push" method, meaning that carriers will send the data themselves. All air carriers will be required to apply the "push" method within 2 years of the agreement's entry into force.
+However, in some cases, if an airline is unable for technical reasons to send the data on time, the US authorities could require access to the carrier's data system ("pull" method).
+What happens if Parliament approves the deal?
+The agreement will be put to a plenary vote on 19 April. If Parliament gives its consent, the Council will adopt a decision concluding the agreement, which would then be in force for seven years. If approved, the new agreement would replace the current one, which has been applied provisionally since 2007.
+... and if it rejects it?
+If Parliament rejects the 2011 PNR agreement, the 2007 deal would continue to apply provisionally (its expiry date is July 2014).
+In May 2010, Parliament postponed its vote on the 2007 agreement and called on the Commission to negotiate a new text. So if the 2011 deal is rejected, Parliament might have to vote on the 2007 deal too.
+If the 2007 deal were also voted down in plenary, then there would be no common EU legal basis for transferring EU air passengers' data to the US, and air carriers supplying it could find themselves in a legal vacuum as regards common EU rules.
+Do I have access to my PNR data?
+Yes. The new agreement gives EU citizens the right to access their own PNR data and seek rectification by the DHS, including the possibility of erasure, if the information is inaccurate.
+What can I do if my personal data is misused?
+Should their data be misused, EU citizens will have the right to administrative and judicial redress in accordance with US law.
+If an individual presents a claim to the DHS and is not satisfied with the way in which it is handled, he or she may bring a US court case under the Freedom of Information Act, the Electronic Communications Privacy Act or the Computer Fraud and Abuse Act, among other laws.
+Timeline of the EU-US PNR agreements
+- May 2004: First EU-US PNR agreement concluded.
+- May 2006: following a legal challenge by the European Parliament, the Court of Justice annuls the agreement because the internal market is considered to be the wrong legal basis.
+- October 2006: a new interim agreement enters into force on a new legal basis (under police and judicial cooperation)
+- July 2007: a new agreement applies provisionally, pending ratification by the Member States.
+- December 2009: the Lisbon Treaty enters into force. Parliament gets right to consent in most international agreements.
+- May 2010: Parliament withholds its consent to the 2007 agreement and urges the European Commission to come up "with a coherent approach to the use of PNR".
+- January 2011: Commission starts new negotiations on PNR agreements with the US, Canada and Australia.
+- November 2011: Commission negotiates the agreement and recommends that the Council sign and conclude it.
+- December 2011: Council signs the agreement and sends it to Parliament with a request for its consent.
+- March 2012: Civil Liberties Committee votes on the agreement.
+- April 2012: Parliament as a whole votes on the agreement.
+-//EP//DTD IM-PRESS 20050901 BKG DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 BKG DOC XML V0//EN

@@ -1,0 +1,53 @@
+EU funds needed to get Galileo into orbit by 2013
+Research and innovation
+2008-04-23 - 14:49
+Galileo - will the project move?
+After negotiations with the private sector to set up Galileo, the EU's satellite radio-navigation system, hit a dead-end, the European Commission last year recommended that the satellites, their launch and the earth infrastructure should be publicly funded.
+During Tuesday's session in Stasbourg, MEPs returned to Europe's satellite radionavigation programme, discussing a report drafted in the Industry Committee by Hungarian Etelka Barsi-Pataky (EPP-ED).
+The Chair of Parliament's industry Committee Angelika Niebler (EPP-ED) noted that "it is a good day for Europe, we're about to give the green light for one of the main projects of the EU. The EP has given its support to Galileo from the start." Danish Liberal Anne Jensen told the House that "it is important that Europe has its own technology. With Galileo safer transport will be possible, we are going to be able to control transport better. Without EP Galileo would not be possible."
+Some MEPs fear that Galileo could end up having military purposes, or that it could have a huge impact on the environment.
+However, some are keen on the economic impact it could have in Europe. German Socialist MEP Norbert Glante told his fellow MEPs that "Galileo is not only a system to get people home faster. It's also a technological development of the highest level. Now it's up to industry, we can't afford a second failure."
+Who will fund Galileo?
+In May last year the Commission presented a report on the future of Galileo saying that the most realistic and economic option is for the public sector to put the initial infrastructure in place. The system would be operated by a p rivate concession holder.
+Originally, the Community planned to establish a public-private partnership to take over the deployment and commercial operation of the satellite navigation system. However, after concession negotiations with the private sector failed, Parliament has agreed with the Council 2007 to finance the deployment ( € 3,4 billion) entirely from EU funds.
+In June last year MEPs on the Budget Committee agreed on the following principles for Galileo:
+Galileo should be financed from the EU budget
+The EU Budget should be increased accordingly
+Galileo is "of an enormous European added value".
+What is it all about?
+Currently, there are two radio navigation satellite networks: the American GPS and the Russian Glonass systems. Both were designed during the Cold War for military purposes, but Glosnass is no longer fully operational.
+GPS is widely used but it has short-comings :
+a mediocre and varying degree of accuracy
+limited reliability, especially in regions in extreme latitudes (crossed by many aviation routes), in densely populated areas and town centres.
+its predominantly military character means civilian users could be cut off in the event of a crisis.
+no guarantees or liability in the event of an accident caused by GPS error.
+The EU decided to develop Galileo, over which it has control, which meets accuracy, reliability and security needs and which covers difficult areas such as Northern Europe and which will ensure continuity of public service. The political decision to launch the Galileo project was taken at the Nice European Council in December 2000 and the aim was that it would be in operation in 2008, after development and the deployment of the satellites.
+Under the original Public Private Partnership plan, public funds would cover development costs, while construction and deployment would mainly be financed by the private sector, which would also operate the system.
+Where it went wrong
+The project hit delays with its testing timetable and over negotiations with the private sector and is now five years behind schedule. So far only one of the three satellites has been launched. Giove A1 was launched in December 2005 and began transmitting Galileo navigation signals in January 2006. The Giove B satellite, which should have been launched in 2006 has been postponed until the end of 2007.
+Negotiations with Euro-GNSS, the private consortium of 8 European companies, failed at the beginning of the year because of the companies' fears of additional costs. Transport ministers agreed in June that the EU's collaboration with the consortium should end and that the next stage should be managed by the public sector.
+So what does Galileo entail?
+Galileo will be based on 30 satellites placed in three orbits at an altitude of 24,000 km and covering the entire surface of the Earth with a network of ground control stations. Each satellite will be equipped with an atomic clock providing extremely precise time measurements, making it possible to determine the location of any stationary or moving object to within 1 metre.
+Most appliances will be able to use Galileo and GPS.
+20070615STO07872 Getting Galileo into orbit by 2013 Industry Committee approves first-reading deal on Galileo deployment phase Resolution on Galileo More on Galileo Supervisory Agency
+EN
+1
+PHOTO
+20070618PHT08028.jpg
+EN
+5
+LINK
+http://ec.europa.eu/dgs/energy_transport/galileo/index_en.htm
+EN
+6
+LINK
+http://www.gsa.europa.eu/
+EN
+7
+MULTIMEDIA
+20080422MLT27262.wmv
+-//EP//TEXT IM-PRESS 20080414BKG26528 0 NOT XML V0//EN
+-//EP//TEXT IM-PRESS 20080407IPR25928 0 NOT XML V0//EN
+-//EP//TEXT REPORT A6-2008-0144 0 NOT XML V0//EN
+-//EP//DTD IM-PRESS 20050901 STO DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 STO DOC XML V0//EN

@@ -1,0 +1,26 @@
+Ensuring pan-European coverage for mobile satellite services
+Industry
+2008-05-21 - 13:26
+Rules providing for systems providing mobile satellite services - such as broadband internet or mobile TV - to be selected at EU level in the future were backed by the European Parliament. MEPs approved a first-reading compromise, negotiated with Council beforehand, which aims to improve accessibility, speed, and quality of electronic communications services especially in rural areas.
+The report was adopted by 652 votes in favour with 16 votes against and 10 abstentions.
+Mobile satellite systems can offer a wide range of pan-European telecommunications and broadcasting services - from high-speed internet through mobile TV to emergency communications. The decision as adopted by Parliament lays down Community procedures for the selection of operators providing mobile satellite services as well as provisions for a coordinated authorisation by national authorities.
+The aim is "to facilitate the development of a competitive internal market for mobile satellite services across the Community and to ensure gradual coverage in all Member States", says the text.
+Services have to reach at least half of the EU's population in the future
+The text of the decision says that no more than 15 MHz for Earth to space and 15 MHz for space to Earth can be assigned to one applicant.
+"MEPs and ministers from Member States on the periphery of the EU were very concerned that the selection criteria might favour operators who could only provide a service covering the centre of Europe", said the rapporteur Fiona Hall (ALDE, North East, Liberal Democrat, UK) during the plenary debate in Strasbourg. She stressed that the text on which Parliament, Council and Commission agreed offered "a realistic compromise given the technical and economic constraints that the industry is under".
+The new legislation obliges a system operator to cover at least 60% of the EU's overall land area from the time the system starts operating. After 7 years at the latest the mobile satellite service must be provided within all Member States covering at least 50% of their population and 60% of each Member States land area.
+Selection should emphasise pan-European coverage
+If the demand exceeds the amount of radio spectrum available, the European Commission will select operators following certain criteria. Strong emphasis will be put on pan-European geographic coverage (with 40% weighting). Consumer and competitive benefits, spectrum efficiency and public policy objectives like protection of health, safety and security shall each account for 20% of the eligibility.
+Background
+The International Telecommunications Union (ITU) has designated the 2 GHz radio frequency band for use by mobile satellite systems. The radio spectrum from 1980 to 2010 MHz is used for Earth to space (upstream) communications and the spectrum from 2170 to 2200 MHz for space to Earth (downstream) communications. Member States, who own the radio spectrum, have agreed to give up their national rights on spectrum allocation to make these frequency bands available for a common European approach.
+20080520IPR29481 Selection and authorisation of systems providing mobile satellite services (MSS) Text, as adopted by the EP, will be available here (click on 21 May)
+EN
+1
+LINK
+/oeil/file.jsp?id=5521432
+EN
+2
+LINK
+/activities/plenary/ta/calendar.do?language=EN
+-//EP//DTD IM-PRESS 20050901 IPR DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 IPR DOC XML V0//EN

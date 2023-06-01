@@ -1,0 +1,47 @@
+Climate Change package 2020: the EU’s Emission Trading System’s 3rd Phase
+Environment
+2008-07-04 - 00:24
+Is the future bright or dark for CO2 trading? What will be the future shape of the European Emission Trading System (ETS), a cornerstone of the EU’s efforts to curb greenhouse gases? The EU Commission proposed in January to extend ETS to other sectors and greenhouse gases. Parliament rapporteur Avril Doyle agrees, but her draft report for the Environment Committee calls for adjustments to channel ETS auction revenues towards climate protection measures and to give industry more clarity of how exactly the system will work after 2012.
+The Emission Trading System (ETS) is a "cap and trade system". At present "National Allocation Plans" prepared by each country define allocations - or "caps" - of how much CO2 each country and each industrial emitter in the scheme may emit. If companies emit more they must purchase permits. If they emit less, they can sell - "trade" - their unused allowances. An allowance for a ton of CO2 currently trades €28.
+The aim is to reduce greenhouse gases by 8 % by 2012 compared to 1990 levels and at least by 20% by 2020. These are based on commitments made at and after the Kyoto agreement. If further agreement is reached these cuts could be raised to 30%.
+ETS "cornerstone" of climate change package
+There are three phases envisaged for the ETS from 2005 to 2020. The sectors covered are power and heat generation, oil refineries, metals, pulp and paper and other energy intensive industries - for example cement production.
+The Scheme has drawn criticism from several quarters - especially in the first phase. Having said that, the importance of the Scheme has been defended by the rapporteur, Irish centre right (EPP-ED) MEP Avril Doyle. She told us that as it covers sectors which make up half of the CO2 emissions the Scheme is "the cornerstone of the EU strategy for fighting climate change".
+Rapporteur wants more revenue for environmental measures
+The Commission proposals for the third phase of the ETS are planned to be adopted by the end of 2008: They include extending it to other industries such as chemical and aluminium production. They also include a single EU-wide cap for the Greenhouse gases - as opposed to national plans and allocations. It also wants future allocations to be by auctioning and for free allocation to be exceptional and to be decreased.
+Ms Doyle presented a draft report in the Environment Committee at the end of June. She praised proposal as "balanced" and says that it would "significantly improve and strengthen" the ETS.
+Nevertheless, she put forward a number of draft amendments:
+Notably that 50% (rather than 20% as foreseen by the Commission) of revenues from auctioning should be directed towards environmental and climate protection measures such as reducing deforestation.
+Strict rules to be applied to which kind of credits / emission allowances are given for investment in green and renewable energy projects.
+Emission credits are to be awarded to the operators of the first 12 facilities that are using Carbon Capture and Storage (CCS) technology before 2013.
+Ms Doyle wants that EC, by the end of 2010, to indicate the amount of allowances to be auctioned for the period 2013 to 2020. This will ensure planning and predictability for industries.
+Avoiding the risk of “carbon leakage” in energy intensive industries (see box). Ms Doyle is against already naming these sectors in the Directive, as it would be “detrimental to the chances of international negotiations reaching an international climate agreement".
+Dublin born Avril Doyle is a vice-chair of the Fisheries Committee and a member of the Environment and Climate Change Committee. She was first elected to the European Parliament in 1999.
+What happens next? The deadline for amendments in the Environment Committee was 2 July, MEPs in that Committee will hold a vote on 7 October and the matter will be debated by the full plenary probably in December.
+Jargon buster - become a climate change guru
+Carbon leakage: the risk that high emitting industries are either delocalised to sites outside the EU or that competitors outside the EU take over the market share of European companies.
+Clean Development Mechanism & Joint Implementation: Possibilities under the Kyoto protocol (for countries and companies) to receive emission credits by investing in climate friendly technologies in another country.
+Windfall profits: In the first phase of ETS especially power companies made profits by selling allowances that they had received for free but did not need.
+20080627STO32878 Draft Doyle report Original EC proposals Climate 2020 series Climate 2020 series Climate 2020 series EP press release: Agreement to include aviation in ETS Environment Committee
+EN
+1
+PHOTO
+20080701PHT33144.jpg
+EN
+2
+LINK
+/activities/committees/draftReports.do?committeeBean.comId=815&language=EN
+EN
+3
+LINK
+/activities/committees/draftReports.do?committeeBean.comId=815&language=EN
+EN
+8
+LINK
+/activities/committees/homeCom.do?language=EN&body=ENVI
+-//EP//TEXT IM-PRESS 20080513STO28752 0 NOT XML V0//EN
+-//EP//TEXT IM-PRESS 20080616STO31715 0 NOT XML V0//EN
+-//EP//TEXT IM-PRESS 20080331STO25142 0 NOT XML V0//EN
+-//EP//TEXT IM-PRESS 20080627IPR32955 0 NOT XML V0//EN
+-//EP//DTD IM-PRESS 20050901 STO DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 STO DOC XML V0//EN

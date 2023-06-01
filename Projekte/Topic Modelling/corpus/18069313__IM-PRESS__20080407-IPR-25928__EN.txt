@@ -1,0 +1,37 @@
+Industry Committee approves first-reading deal on Galileo deployment phase
+Industry
+2008-04-08 - 13:15
+The Industry Committee’s approval of a first-reading compromise on Galileo's deployment phase paves the way for the European satellite radio navigation system to be operational by 2013. A new regulation lays down security requirements for Galileo and the European Geostationary Satellite Navigation Service (EGNOS), to be managed by the Commission and the European Global Navigation Satellite System Supervisory Authority. Galileo infrastructure contracts will be put out to competitive tender.
+The deployment phase, in which all space and ground-based infrastructure is to be established, will run from 2008 to 2013. The exploitation phase will follow. The compromise text, negotiated with Council and Commission in informal meetings, took on board most of the amendments proposed by the committee on 29 January. A comprehensive background note on Galileo's various phases is available via the link below.
+Controlled access to security technologies
+The amended regulation asks the European Commission to lay down the main technical requirements for controlling access to the technologies that provide security to Galileo and EGNOS. Member States should adopt national security regulations that guarantee at least the same level of protection for EU classified information on the two programmes as is required for the industrial security of EURATOM, says the new text. If the operation of the systems should pose a risk to the security of the EU or the Member States, joint action should be taken under the Common Foreign and Security Policy.
+European GNSS Supervisory Authority will monitor security procedures
+Following MEPs’ criticism that the role of the European GNSS Supervisory Authority (GSA) was not clearly set out in the Commission proposal for the deployment phase, the agency’s tasks were revised.
+Originally designed to be the licensing authority for private undertakings within the public-private partnership first planned, the GSA will now instead monitor the implementation of security procedures and perform system security audits. The authority’s tasks will also include the preparation of the commercialisation of the systems, including market analysis. The Commission is asked to formally align the structures for the programmes' management with the GSA's new role.
+The compromise also took on board the Industry Committee’s call for the Commission to guarantee the protection of personal data and privacy by integrating it into Galileo's technical set-up.
+Guarantee fair competition and minimise dependence on one supplier
+The regulation will also stipulate public procurement rules. Infrastructure contracts will be split into six main packages (system engineering support, ground mission infrastructure completion, ground control infrastructure completion, satellites, launchers and operations) and additional work packages. The competitive tendering of all packages should take place in a single procedure and any one company or group may bid for no more than two of the six main work packages.
+In order to prevent any possible abuse of dominance or long-term dependency on single suppliers, the amended text takes up the Industry Committee’s suggestion to apply dual sourcing – i.e. using two different suppliers for one product. The aim of this procurement procedure is to improve the overall control of programme, cost and schedule. Moreover, at least 40% of the total value of the activities should be subcontracted to companies which do not belong to the prime contractor of any of the main work packages, says another Industry Committee amendment taken up.
+High-quality services at fair prices
+Galileo's deployment phase, which runs until 2013, will entirely funded by the EU, which, by investing €3.4 billion, will become “the owner of all tangible and intangible assets created or developed under the programmes”. Member States, third countries or international organisations may provide additional funding.
+In 2010, the Commission should table a proposal on the public funds and commitments needed for the exploitation phase over the next financial programming period, starting in 2014, says the compromise text. This proposal would also have to include a revenue-sharing mechanism and objectives for a pricing policy to guarantee that costumers receive high-quality services at fair prices adds the text.
+Galileo Inter-institutional Panel
+Given the uniqueness of the programmes and the Community’s ownership of the satellite radio navigation systems, Parliament, Council and Commission agreed to set up a new inter-institutional framework, the Galileo Inter-institutional Panel (GIP) which will be composed of three representatives each of the Council and the Parliament, and one representative of the Commission. The GIP will follow closely the implementation of the GNSS programmes, the international agreements with third countries, and the preparation of the satellite navigation markets.
+The compromise package was approved almost unanimously in committee (just one abstention). --
+Plenary vote: April II 2008 (Strasbourg)
+2008-04-07 Committee on Industry, Research and Energy In the Chair Angelika NIEBLER EPP-ED DE
+Procedure: Co-decision
+Rapporteur: Etelka Barsi-Pataky (EPP-ED, HU)
+20080407IPR25928 Committee on Industry, Research and Energy Press release on the Industry Committee's vote on the draft report (29 January 2008) Council General Approach on the European Satellite Radio Navigation Programmes (7 April 2008) BACKGROUND NOTE: Getting Galileo into orbit by 2013
+EN
+1
+LINK
+/activities/committees/homeCom.do?language=EN&body=ITRE
+EN
+3
+LINK
+http://www.consilium.europa.eu/ueDocs/cms_Data/docs/pressData/en/trans/99802.pdf
+-//EP//TEXT IM-PRESS 20080128IPR19732 0 NOT XML V0//EN
+-//EP//TEXT IM-PRESS 20080414BKG26528 0 NOT XML V0//EN
+-//EP//DTD IM-PRESS 20050901 IPR DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 IPR DOC XML V0//EN

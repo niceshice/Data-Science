@@ -1,0 +1,569 @@
+EP at the forefront in capping bank bonuses
+2010-07-01 - 17:25
+The text of the EU directive on bank capital requirements and bonuses, as agreed between Council and the EP negotiating team, will be discussed by the full Parliament in Strasbourg on Tuesday and put to a vote on Wednesday. All through the process Parliament's rapporteur has pushed for limits on bonuses and the negotiated text now provides for the first-ever capping of bankers' bonuses. It also seeks to ensure that banks are sitting on stronger capital reserves than before the financial crisis, so that they can weather storms better.
+Bonuses
+The legislation now states that bonuses must not be disproportionate to fixed salary and should conform to EU guidelines. Cash bonuses will be capped at 30% of the total bonus and to 20% for particularly large bonuses. The payment of a large part of any bonus must be postponed for at least three years and can be recovered if investments do not perform as expected. Moreover at least 50% of a total bonus would be paid as "contingent capital" (funds to be called upon first in case of bank difficulties). This would avoid taxpayers being the first line of defence if a bank runs into difficulties.
+The directive introduces harsher measures for bailed-out banks, such as requiring that no bonuses should be paid to the directors of such a bank unless this can be justified. The rules also require that the repayment of taxpayers is the priority.
+Capital requirements
+The new capital rules will ensure banks are properly covering the risks they are running with regard to their trading activity, including for investments such as mortgage-backed securities that were central to the crisis.
+Procedure: Codecision (1st reading)
+Debate: 6 July 2010
+Vote: 7 July 2010 Press release on committee vote Report regarding capital requirements for the trading book and for re-securitisations, and the supervisory review of remuneration policies Profile of rapporteur Arlene McCARTHY (S&D, UK)
+EN
+3
+LINK
+/members/public/yourMep/view.do?name=mccarthy&partNumber=1&language=EN&id=2173
+-//EP//TEXT IM-PRESS 20100614IPR76012 0 NOT XML V0//EN
+-//EP//TEXT REPORT A7-2010-0205 0 NOT XML V0//EN
+-//EP//DTD IM-PRESS 20050901 NEW-ITEM DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 NEW-ITEM DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20100618NEW76363 FULL-TEXT DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20100618NEW76363 ITEM-002-EN DOC XML V0//EN
+Time to step up a gear on financial supervision
+2010-07-01 - 17:25
+On Tuesday MEPs will discuss the question of EU-level supervision of financial organisations as well as the powers the EU supervisory bodies should have. The vote to adopt Parliament's position on this package may take place on Wednesday. The EP's major political groups have long argued that the new system must be strong at European level, with the EU supervisory authorities sufficiently empowered to avoid the fragmented and nationalistic approach experienced during the latest banking crisis. In the ongoing negotiations with the Council of Ministers they have warned that governments must show more ambition towards reaching this objective and commitment to securing a deal sooner rather than later.
+Parliament is expected to vote on the package, which should include amendments on which agreement with Council has already been reached, but also amendments on points where an agreement is still lacking, notably on certain powers to be granted to the supervisory authorities for banking, insurance, and securities and markets businesses. The MEPs steering the different legislative proposals through Parliament believe that it is time to signal that Parliament is firmly behind strong European supervision to ensure that this is effective.
+Separately, a resolution on banking crisis management will also be put to the vote. The goal is to set up a structure to ensure that crises are resolved earlier and avoid rushed, weekend bank bailouts costing the taxpayer hundreds of billions of euros. The growing size, complexity and interconnectedness of banks means that such a system must be established at European level and that an EU insolvency regime is needed, says the resolution.
+Procedure: Consultation and Codecision (1st reading)
+Debate: 6 July 2010
+Vote: 7 July 2010 Press release on committee vote 10.05.2010 Report on specific tasks for the European Central Bank concerning the functioning of the European Systemic Risk Board Report on powers of the European Banking Authority, the European Insurance and Occupational Pensions Authority and the European Securities and Markets Authority Report on establishing a European securities and Markets Authority Report on macro-prudential oversight of the financial system and establishment of a European Systemic Risk Board Report on establishing a European Banking Authority Report on establishing a European Insurance and Occupational Pensions Authority Report on cross-border crisis management in the banking sector Profile of rapporteur Ramon TREMOSA i BALCELLS (ALDE, ES) Profile of rapporteur Antolín SÁNCHEZ PRESEDO (S&D, ES) Profile of rapporteur Sven GIEGOLD (Greens/EFA, DE) Profile of rapporteur Sylvie GOULARD (ALDE, FR) Profile of rapporteur José Manuel GARCÍA-MARGALLO Y MARFIL (EPP, ES) Profile of rapporteur Peter SKINNER (S&D, UK) Profile of rapporteur Elisa FERREIRA (S&D, PT)
+EN
+8
+LINK
+/oeil/file.jsp?id=5838232
+EN
+9
+LINK
+/members/expert/alphaOrder/view.do?language=EN&id=97203
+EN
+10
+LINK
+/members/expert/alphaOrder/view.do?language=EN&id=28295
+EN
+11
+LINK
+/members/expert/alphaOrder/view.do?language=EN&id=96730
+EN
+12
+LINK
+/members/expert/alphaOrder/view.do?language=EN&id=97137
+EN
+13
+LINK
+/members/expert/alphaOrder/view.do?language=EN&id=1992
+EN
+14
+LINK
+/members/expert/alphaOrder/view.do?language=EN&id=2081
+EN
+15
+LINK
+/members/expert/alphaOrder/view.do?language=EN&id=28308
+-//EP//TEXT IM-PRESS 20100510IPR74360 0 NOT XML V0//EN
+-//EP//TEXT REPORT A7-2010-0167 0 NOT XML V0//EN
+-//EP//TEXT REPORT A7-2010-0163 0 NOT XML V0//EN
+-//EP//TEXT REPORT A7-2010-0169 0 NOT XML V0//EN
+-//EP//TEXT REPORT A7-2010-0168 0 NOT XML V0//EN
+-//EP//TEXT REPORT A7-2010-0166 0 NOT XML V0//EN
+-//EP//TEXT REPORT A7-2010-0170 0 NOT XML V0//EN
+-//EP//DTD IM-PRESS 20050901 NEW-ITEM DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 NEW-ITEM DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20100618NEW76363 FULL-TEXT DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20100618NEW76363 ITEM-001-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20100618NEW76363 ITEM-003-EN DOC XML V0//EN
+New SWIFT deal, with European data scheme on the way
+2010-07-01 - 17:25
+Four months after Parliament rejected the SWIFT agreement on bank data transfers to the USA, MEPs will be asked to approve a fresh version of the accord, after safeguards were negotiated with the Council and the USA. Thanks to MEPs, the EU will also be setting up a data processing system of its own so that bulk data transfers to non-EU countries can be avoided in future.
+For the immediate future, bulk data transfers to the USA are set to continue. However, under the agreement, data can only be transferred with the approval of Europol, on a case-by-case basis and in the smallest possible quantities.
+And, whether regarding checks on the need for data transfers, the supervision of data extraction or the nature of research done by the American authorities, MEPs have imposed limits on the system and squeezed a commitment from the US authorities that Europeans can seek redress if data is misused.
+A European "Terrorism Finance Tracking Programme"
+Above all, however, in exchange for MEPs' backing for the agreement, work will start within 12 months on creating a European equivalent of the American "Terrorism Finance Tracking Programme" (TFTP), so that bulk data transfers to non-EU governments will no longer be needed. The EU will have a system enabling it to analyse data on its own territory and will only transfer information where there is specific evidence of terrorism.
+The new accord, which was approved by the Council of Ministers on Monday 28 June, will be examined by the Civil Liberties Committee on Monday 5 July before being put to a vote by the full Parliament on 7 July.
+Procedure: Consent
+Debate: 6 July 2010
+Vote: 7 July 2010 Debate in Civil Liberties Committee 24.06.2010 Background note on the rejection of SWIFT 1 Profile of rapporteur Alexander ALVARO (ALDE, DE)
+EN
+3
+LINK
+/members/expert/groupAndCountry/view.do?language=EN&group=2966&partNumber=1&country=DE&id=28246
+-//EP//TEXT IM-PRESS 20100621IPR76422 0 NOT XML V0//EN
+-//EP//TEXT IM-PRESS 20100205BKG68527 0 NOT XML V0//EN
+-//EP//DTD IM-PRESS 20050901 NEW-ITEM DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 NEW-ITEM DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20100618NEW76363 FULL-TEXT DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20100618NEW76363 ITEM-002-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20100618NEW76363 ITEM-004-EN DOC XML V0//EN
+Rights for boat, bus and coach passengers
+2010-07-01 - 17:25
+Boat travellers are set to gain new rights similar to those laid down in the EU air passenger rights charter, provided an agreement with Council is confirmed by Parliament next week. The new legislation covers compensation for delays and cancellations, payments in the event of accidents and assistance for disabled passengers. An agreement on bus and coach passengers' rights has still not been reached, however, and negotiations with ministers are likely to continue into the autumn.
+Boat passengers' rights
+The following key demands of MEPs on boat passengers' rights have been accepted by transport ministers:
+Financial compensation or re-routing in the event of delays of more than 90 minutes,
+Free assistance for disabled passengers and people with reduced mobility,
+All passenger boats carrying over 12 passengers fall within the scope of the rules, with some exceptions such as for excursion and sightseeing tours.
+Delays or cancellation of boat trips
+Maritime transport companies would have to reimburse the ticket price or provide re-routing to passengers whose journey is delayed at departure for over 90 minutes, unless the company could prove that the delay was caused by weather conditions or extraordinary circumstances beyond its control. Passengers would also be able to choose to receive the reimbursement in the form of flexible travel vouchers. Passengers who are obliged to stay overnight at their port of departure would be entitled to the reimbursement of their hotel costs, u p to a limit of € 80 per night for a maximum of three nights .
+Rights of people with disabilities or reduced mobility
+The Transport Committee adopted amendments stating that a passenger's disability may not be used as a reason for denying the passenger the right to board. Free assistance will be provided to disabled people in ports, on condition that the carrier or the port operator is notified when the reservation is made or at least 48 hours before boarding.
+Bus travel: negotiations ongoing
+For bus and coach travel, Transport MEPs are also asking for financial compensation or re-routing in delays of more than two hours, and for passengers to be compensated with up to €1,800 in the event of loss of baggage. MEPs are calling for unlimited liability and advance payment obligation for companies responsible for passenger injury or death. Lastly, they want bus and coach operators to provide their staff with specific training to enable them to assist disabled passengers properly or even accompany them when necessary, without extra cost.
+The rules on boat travel are planned to come into force in 2012, but negotiations will have to continue before rules on bus and coach travel are finalised.
+Procedure: Codecision (2nd reading)
+Debate: 5 July 2010
+Vote: 6 July 2010 Press release after committee vote 01.06.2010 Report on rights of passengers in bus and coach transport Report on rights of passengers when travelling by sea and inland waterway. Profile of rapporteur Antonio CANCIAN (EPP, IT) Profile of rapporteur Inés AYALA SENDER (S&D, ES)
+EN
+4
+LINK
+/members/expert/alphaOrder/view.do?language=EN&id=96733
+EN
+5
+LINK
+/members/expert/alphaOrder/view.do?language=EN&id=28292
+-//EP//TEXT IM-PRESS 20100531IPR75274 0 NOT XML V0//EN
+-//EP//TEXT REPORT A7-2010-0174 0 NOT XML V0//EN
+-//EP//TEXT REPORT A7-2010-0177 0 NOT XML V0//EN
+-//EP//DTD IM-PRESS 20050901 NEW-ITEM DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 NEW-ITEM DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20100618NEW76363 FULL-TEXT DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20100618NEW76363 ITEM-003-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20100618NEW76363 ITEM-005-EN DOC XML V0//EN
+Cloned animal meat off the menu?
+2010-07-01 - 17:25
+Ban on meat from cloned animals? Risk assessments for nanotechnology Meat and dairy products from cloned animals and their descendants could be banned under new EU legislation on novel foods, if Parliament backs amendments proposed by its Environment Committee. In addition, food produced using nanotechnology should undergo specific risk assessments and be labelled as such, says the committee, whose second-reading report was drafted by Kartika Liotard (GUE/NGL, NL).
+The novel foods legislation regulates new food types, or food that has not been traditionally consumed in the EU. These foods need EU-level approval to be placed on the market.
+Parliament's vote in Strasbourg would also have to be accepted by the Council or else the two institutions will need to seek agreement under the conciliation procedure.
+Procedure: Codecision (2nd reading)
+Debate: 6 July 2010
+Vote: 7 July 2010 Press release - Committee vote 04.05.2010 Profile of rapporteur Kartika Liotard (GUE/NGL, NL) Procedure file - Novel foods (repeal. Regulation (EC) No 258/97)
+EN
+2
+LINK
+/members/expert/alphaOrder/view.do;jsessionid=3EEBFF885606B48A60B28B0405D1EBD2.node1?language=EN&id=28182
+EN
+3
+LINK
+/oeil/file.jsp?id=5583302
+-//EP//TEXT IM-PRESS 20100503IPR74029 0 NOT XML V0//EN
+-//EP//DTD IM-PRESS 20050901 NEW-ITEM DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 NEW-ITEM DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20100618NEW76363 FULL-TEXT DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20100618NEW76363 ITEM-004-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20100618NEW76363 ITEM-006-EN DOC XML V0//EN
+Fresh curbs on industrial emissions
+2010-07-01 - 17:25
+Tighter restrictions on dust, nitrous oxides and sulphur dioxides Later deadline possible for some fossil fuel power stations MEPs are set to approve stringent updated rules on industrial air pollution, with strict limits for nitrous oxides, sulphur dioxides and dust particles, which are particularly harmful to health and the environment. Thousands of industrial plants across the EU will be affected by the Industrial Emissions Directive, which will impose tougher restraints on emissions of nitrous oxides, sulphur dioxide and dust by 2016. Parliament will vote at second reading on an agreement negotiated between MEPs and Council, under which Member States would be allowed to grant certain fossil fuel power stations up to mid-2020 to meet the rules.
+Cleaner air, important for the millions of current and potential sufferers of respiratory problems, is just one aspect. Industrial and agricultural installations with a high pollution potential, such as refineries and metal plants, will need to apply the best techniques available to minimise their overall environmental impact, including soil, water or noise pollution.
+Procedure: Codecision (2nd reading)
+Debate: 6 July 2010
+Vote: 7 July 2010 Press release after Committee vote 04.05.2010 Profile of rapporteur Holger Krahmer (ALDE, DE) Procedure file . Integrated pollution prevention and control: industrial emissions, titanium dioxide industry, use of organic solvents, incineration of waste, large combustion plants
+EN
+2
+LINK
+/members/expert/groupAndCountry/view.do?group=2966&country=DE&partNumber=1&language=EN&id=28247
+EN
+3
+LINK
+/oeil/file.jsp?id=5578652
+-//EP//TEXT IM-PRESS 20100503IPR74027 0 NOT XML V0//EN
+-//EP//DTD IM-PRESS 20050901 NEW-ITEM DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 NEW-ITEM DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20100618NEW76363 FULL-TEXT DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20100618NEW76363 ITEM-005-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20100618NEW76363 ITEM-007-EN DOC XML V0//EN
+MEPs set to back Iceland's EU membership bid
+2010-07-01 - 17:25
+The recent decision by EU leaders to open membership talks with Iceland will be the subject of a debate with Council and Commission, followed by a vote on a resolution. The prospect of Iceland becoming the 28th EU Member State has been welcomed by the Foreign Affairs Committee, which also stresses in its draft resolution that the controversy of repayments to British and Dutch governments needs to be solved "bilaterally".
+Iceland's accession would allow the EU to play a more active role in the Arctic Region, said Foreign Affairs Committee MEPs, who underline in their draft resolution the country's "strong democratic culture". Iceland is already part of the Schengen zone and a member of NATO and has had a free-trade agreement with the EU since 1973.
+On the controversial issue of repayments to the British and Dutch governments, the draft resolution by Cristian Dan Preda (EPP, RO) stresses that this should be solved bilaterally. MEPs note that Iceland is obliged to ensure payment of the minimum compensation to Icesave depositors in the United Kingdom and the Netherlands, as the EFTA Surveillance Authority said in its letter of formal notice of 26 May. In a referendum on March 6, Iceland's voters vetoed a repayment plan following the collapse of Icesave.
+MEPs also pointed out that although, as a member of the European Economic Area, Iceland complies with most EU laws (notably single market legislation), it still needs to reform substantially the organisation and functioning of its financial supervisory system and the way judges, prosecutors and supreme judicial authorities are appointed. The policy areas that will have to be fully negotiated with Iceland are agriculture, fisheries, taxation, economic and monetary policy and external relations.
+Public support in Iceland for EU membership has declined since summer 2009, points out the draft resolution. The Icelandic authorities are therefore asked to initiate a public debate to address the concerns of Icelandic citizens regarding EU membership.
+Procedure: Council and Commission statements + resolution
+Debate: 7 July 2010
+Vote: 7 July 2010 Press release on committee vote: MEPs back Iceland's EU bid Profile of rapporteur Cristian Dan PREDA (EPP, RO)
+EN
+2
+LINK
+/members/expert/alphaOrder/view.do?language=EN&id=96838
+-//EP//TEXT IM-PRESS 20100621IPR76416 0 NOT XML V0//EN
+-//EP//DTD IM-PRESS 20050901 NEW-ITEM DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 NEW-ITEM DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20100618NEW76363 FULL-TEXT DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20100618NEW76363 ITEM-006-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20100618NEW76363 ITEM-008-EN DOC XML V0//EN
+EU diplomatic service: MEPs to vote on deal
+2010-07-01 - 17:25
+The deal struck by Parliament's negotiators on the operation of the European External Action Service will be put to the vote in the Foreign Affairs Committee on Tuesday and then in the full Parliament on Thursday. The deal lays the basis for a strong EU diplomatic service, according to MEPs Elmar Brok (EPP, DE), Guy Verhofstadt (ALDE, BE) and Roberto Gualtieri (S&D, IT), who negotiated the agreement. The service's Community identity will be strengthened and its political and budgetary accountability to Parliament is guaranteed, they believe.
+MEPs are to debate and vote on amendments presented by Mr Brok to the proposal for a Council decision - on which Parliament is being consulted - establishing the organisation and functioning of the service (known as the EEAS). These amendments are part of the political agreement reached earlier this month with the High Representative, the Council and the Commission.
+The negotiators also reached agreement on two declarations on the political accountability of the service and on the basic organisation of the EEAS central administration. These declarations will be presented to MEPs by EU High Representative Catherine Ashton during a plenary debate.
+Changes to the Financial Regulation, to the Staff Regulation and to the 2010 budget, on which Parliament has joint decision-making powers with Council, will be put to the vote after the summer recess and after Council has endorsed Parliament's position on the operation of the service.
+Procedure: Consultation
+Debate: 7 July 2010
+Vote: 8 July 2010 EU Diplomatic service: Madrid deal likely to be endorsed next week (press release on committee vote, 29.6.2010) Profile of rapporteur Elmar BROK (EPP, DE)
+EN
+2
+LINK
+/members/expert/alphaOrder/view.do?language=EN&id=1263
+-//EP//TEXT IM-PRESS 20100628IPR77090 0 NOT XML V0//EN
+-//EP//DTD IM-PRESS 20050901 NEW-ITEM DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 NEW-ITEM DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20100618NEW76363 FULL-TEXT DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20100618NEW76363 ITEM-007-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20100618NEW76363 ITEM-009-EN DOC XML V0//EN
+Cutting illegal timber out of the EU market
+2010-07-01 - 17:25
+Illegally-sourced timber could be banned Responsibility and traceability through the supply chain Consumers currently have only limited assurances that the furniture they buy is not made from illegally-harvested timber. New EU legislation would outlaw such timber and punish unscrupulous dealers. MEPs will vote on a second-reading agreement with Council providing for an outright prohibition of illegal timber, which accounts for an estimated 20% of the EU market. The deal includes financial penalties for non-compliance and also seeks to ensure responsibility and traceability right the way through the supply chain.
+The cost of illegal deforestation can be devastating, whether it occurs within the EU or across the globe. Local soil degradation and landslides, lost tax revenue, lost biodiversity and social effects are all concerns, not to mention the fact that deforestation is estimated to contribute one fifth of greenhouse gas emissions.
+Satu Hassi (Greens/EFA, FI) is now Parliament's rapporteur, having taken over from Caroline Lucas, who was elected to the UK House of Commons in May.
+Procedure: Codecision (2nd reading)
+Debate: 6 July 2010
+Vote: 7 July 2010 Tougher measures against illegal timber - Environment Committee press release (04/05/10): Profile of rapporteur Satu Hassi (Greens/EFA, FI) Procedure File - Obligations of operators who place timber and timber products on the market
+EN
+2
+LINK
+/members/expert/committees/view.do;jsessionid=2C895DB221AE5104BE138A1EE86E45F9.node2?language=EN&id=28321
+EN
+3
+LINK
+/oeil/file.jsp?id=5704232
+-//EP//TEXT IM-PRESS 20100503IPR74018 0 NOT XML V0//EN
+-//EP//DTD IM-PRESS 20050901 NEW-ITEM DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 NEW-ITEM DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20100618NEW76363 FULL-TEXT DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20100618NEW76363 ITEM-008-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20100618NEW76363 ITEM-010-EN DOC XML V0//EN
+Oil exploration and extraction: risks, liability and prevention
+2010-07-01 - 17:25
+Following the environmental disaster in the Gulf of Mexico, MEPs will discuss the hazards of oil exploration and extraction with the Council and Commission. Council and Commission statements
+Debate: 7 July 2010 Oral question
+EN
+1
+LINK
+/QP-WEB/home.jsp?language=en
+-//EP//DTD IM-PRESS 20050901 NEW-ITEM DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 NEW-ITEM DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20100618NEW76363 FULL-TEXT DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20100618NEW76363 ITEM-009-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20100618NEW76363 ITEM-011-EN DOC XML V0//EN
+Spain hands over EU presidency to Belgium
+2010-07-01 - 17:25
+MEPs will give their verdict on Spain's six-month presidency of the European Union and then look ahead to Belgium's stint at the helm of the EU, in separate debates with the prime ministers of each country. On Tuesday, Spanish Prime Minister José Luis Rodríguez Zapatero will review the work done during his country's period of office since January, the first of the Spain-Belgium-Hungary trio of presidencies.
+On Wednesday, Belgian Prime Minister Yves Leterme will outline his country's programme for the EU over the coming six months. The priorities will be implementation of the Lisbon Treaty, economic and financial governance, employment and social cohesion, enlargement, environment and climate, and the Area of Freedom, Security and Justice.
+Debate: 6 July 2010 (Review of Spanish Presidency)
+Debate: 7 July 2010 (Belgian Presidency) Belgian Presidency of the Council of the European Union Spanish Presidency of the Council of the European Union
+EN
+1
+LINK
+http://eutrio.be/
+EN
+2
+LINK
+http://www.eu2010.es/en/
+-//EP//DTD IM-PRESS 20050901 NEW-ITEM DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 NEW-ITEM DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20100618NEW76363 FULL-TEXT DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20100618NEW76363 ITEM-010-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20100618NEW76363 ITEM-012-EN DOC XML V0//EN
+Kosovo and Albania close to EU membership?
+2010-07-01 - 17:25
+MEPs will debate with High Representative Catherine Ashton the progress made by Albania and Kosovo towards EU membership. Corruption, organised crime and weak institutions are seen as key problems in the two countries. Parliament will vote on draft resolutions urging the two countries to consolidate their institutions, democracy and the rule of law, but also asking for visa requirements to be eased and for EU states to align their approaches towards Kosovo.
+MEPs "would welcome the recognition by all Member States of the independence of Kosovo", according to the Foreign Affairs Committee's draft resolution by Ulrike Lunacek (Greens/EFA, AT). The EU countries which still do not recognise Kosovo's independence are Cyprus, Greece, Romania, Slovakia and Spain. On the other hand, Serbia should be pragmatic about the status issue and refrain from blocking Kosovo's membership in international organisations.
+Regarding Albania, the draft resolution confirms support for the country's "European perspective" once all the Copenhagen criteria are met. MEPs call for an end to the political stalemate following the 2009 elections and for the creation of fully functioning institutions and a transparent, impartial and efficient judiciary as key conditions for EU integration.
+The European Commission proposed in May 2010 that Albanian citizens (and those of Bosnia and Herzegovina) be permitted to travel with biometric passports to the Schengen countries without needing a visa. However, a monitoring exercise should take place over the summer to remedy the outstanding shortcomings, so that the Parliament and Council can take a final decision by the end of 2010.
+Procedure: own-initiative
+Debate: 7 July 2010
+Vote: 8 July 2010 Press release on committee vote: EU membership prospects of Albania and Kosovo Albania: profile of rapporteur Nikolaos Chountis (GUE/NGL, EL) Kosovo: Profile of rapporteur Ulrike Lunacek (Greens/EFA, AT)
+EN
+1
+LINK
+/pdfs/news/expert/infopress/20100621IPR76430/20100621IPR76430_en.pdf
+EN
+2
+LINK
+/members/public/yourMep/view.do?name=Chountis&partNumber=1&language=EN&id=26851
+EN
+3
+LINK
+/members/public/yourMep/view.do?name=Lunacek&partNumber=1&language=EN&id=97017
+-//EP//DTD IM-PRESS 20050901 NEW-ITEM DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 NEW-ITEM DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20100618NEW76363 FULL-TEXT DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20100618NEW76363 ITEM-011-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20100618NEW76363 ITEM-013-EN DOC XML V0//EN
+Managing bio-waste: is separate collection the answer?
+2010-07-01 - 17:25
+Compulsory separate collection and recycling of bio-waste is needed to reach the goal of a "resource-efficient Europe" as laid down in the EU2020 strategy, according to a draft resolution by the Environment Committee. MEPs want a specific bio-waste directive to be introduced and are also urging the Commission and Member States to raise public awareness of waste prevention and recycling as well as to encourage research and innovation in the field.
+The draft resolution, which is a response to the Commission Green Paper on the management of bio-waste in the EU, urges the Commission to review existing legislation and draw up a proposal for a directive by the end of 2010, including:
+the establishment of a mandatory separate collection system for Member States, except where this is not the appropriate option from the environmental and economic point of view;
+the recycling of bio-waste;
+a quality-based classification of the different types of compost from bio-waste.
+Every year, between 118 and 138 million tons of bio-waste (food and garden waste from households and industry) are produced in the EU. Full implementation of existing bio-waste legislation could result in environmental and financial benefits of €1.5 billion to €7 billion, yet it is not sufficiently enforced.
+Procedure: own-initiative
+Short presentation in plenary: 5 July 2010
+Vote: 6 July 2010 Draft report on the Commission Green Paper on the management of bio-waste in the European Union Profile of rapporteur José Manuel Fernandes (EPP, PT)
+EN
+2
+LINK
+/members/public/yourMep/view.do?name=Fernandes&partNumber=1&language=EN&id=96899
+-//EP//TEXT REPORT A7-2010-0203 0 NOT XML V0//EN
+-//EP//DTD IM-PRESS 20050901 NEW-ITEM DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 NEW-ITEM DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20100618NEW76363 FULL-TEXT DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20100618NEW76363 ITEM-012-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20100618NEW76363 ITEM-014-EN DOC XML V0//EN
+Greener, more competitive farming after 2013
+2010-07-01 - 17:25
+How should the EU's farm policy be reshaped and how should it be funded after 2013? Parliament will set out its views ahead of the publication this autumn of the Commission's agricultural reform plans. The big challenges facing the farming world include climate change, the need for secure food supplies, food quality and business competitiveness, notes a draft resolution drawn up for the EP Agriculture Committee by George Lyon (ALDE, UK), which seeks to influence the debate on how best to remodel the common agriculture policy (CAP) in time for the EU's next multi-annual budget discussions.
+The committee stresses that the funds allocated to finance the CAP must be "at least maintained during the next financial period" (from 2013). In addition, agriculture policy should not be "renationalized" (i.e. returned to national control) and direct payments to farmers should be fully funded from the EU budget to avoid any co-financing by governments that could erode fair competition within the single market.
+"A fair distribution of CAP payments (...), fair to farmers in both new and old Member States" should be the guiding principle of CAP reform, says the resolution. MEPs call for more objective criteria to reduce disparities in direct payments, seeing the current "hectare basis" as inappropriate, and to reflect regional diversity. The level of direct payments should be maintained for the sake of both farmers and consumers.
+Since the Lisbon Treaty, the overall EU reform plans and any EU agricultural legislation cannot be approved without Parliament's agreement.
+Procedure: own-initiative
+Debate &Vote: 8 July 2010
+Draft report on the future of the Common Agricultural Policy after 2013 Press release on committee vote 16.06.2010 Profile of rapporteur George Lyon (ALDE, UK) Procedure file on future of the CAP after 2013
+EN
+3
+LINK
+/members/expert/alphaOrder/view.do?language=EN&id=96959
+EN
+4
+LINK
+/oeil/file.jsp?id=5831472
+-//EP//TEXT REPORT A7-2010-0204 0 NOT XML V0//EN
+-//EP//TEXT IM-PRESS 20100614IPR76020 0 NOT XML V0//EN
+-//EP//DTD IM-PRESS 20050901 NEW-ITEM DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 NEW-ITEM DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20100618NEW76363 FULL-TEXT DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20100618NEW76363 ITEM-013-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20100618NEW76363 ITEM-015-EN DOC XML V0//EN
+The future of EU fish imports
+2010-07-01 - 17:25
+Fish imports are crucial for supplying the EU market but they should meet the same standards as European-produced fish, says a draft resolution by the Fisheries Committee, which adds that fishery products should be classified as "sensitive" in trade talks. The resolution, which is intended to contribute to the debate on the upcoming reform of the common fisheries policy, stresses that one of the main goals of the reform must be to preserve viable fishery and aquaculture sectors in Europe. Fisheries and aquaculture are strategic industries that cannot be dealt with by a purely free-trade approach, argue MEPs.
+Around 60% of European demand for fish is currently met by imports, and dependence on non-EU production is likely to grow. With market liberalisation already having a damaging impact on some European fishing regions, the Fisheries Committee believes that reasonable, adjustable customs protection should remain a legitimate instrument to regulate imports.
+MEPs also believe that responsibility for leading the EU's trade talks on fishery and aquaculture products should be transferred from the Trade Commissioner to the Fisheries Commissioner. Lastly, concerned that a massive influx of imports in times of crisis could influence Europeans' eating habits, MEPs call for strict criteria for traceability and labelling of fish products.
+Procedure: own-initiative
+Debate & vote: 8 July 2010 Press release after committee vote 23.06.2010 Report on the arrangements for importing fishery and aquaculture products into the EU with a view to the future reform of the CFP Profile of rapporteur Alain CADEC (EPP, FR)
+EN
+3
+LINK
+/members/expert/alphaOrder/view.do?language=EN&id=96849
+-//EP//TEXT IM-PRESS 20100621IPR76432 0 NOT XML V0//EN
+-//EP//TEXT REPORT A7-2010-0207 0 NOT XML V0//EN
+-//EP//DTD IM-PRESS 20050901 NEW-ITEM DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 NEW-ITEM DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20100618NEW76363 FULL-TEXT DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20100618NEW76363 ITEM-014-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20100618NEW76363 ITEM-016-EN DOC XML V0//EN
+Mercosur agreement: a threat to European farmers?
+2010-07-01 - 17:25
+Europe's farmers could face major challenges if the EU signs an association agreement with the Mercosur countries (Argentina, Brazil, Paraguay and Uruguay), states an oral question to the Commission, which decided in May to resume talks on an accord. Not only farmers' economic interests but also food safety, labour conditions, environmental protection and animal welfare are at stake. Procedure: Oral question to the Commission
+Debate: 8 July 2010 European Commission website on trade relations with Mercosur Oral question on the implications for EU agriculture of the reopening of negotiations with Mercosur with a view to concluding an Association Agreement
+EN
+1
+LINK
+http://ec.europa.eu/trade/creating-opportunities/bilateral-relations/regions/mercosur/index_en.htm
+-//EP//TEXT OQ O-2010-0079 0 NOT XML V0//EN
+-//EP//DTD IM-PRESS 20050901 NEW-ITEM DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 NEW-ITEM DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20100618NEW76363 FULL-TEXT DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20100618NEW76363 ITEM-015-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20100618NEW76363 ITEM-017-EN DOC XML V0//EN
+More local input into Baltic Sea Strategy
+2010-07-01 - 17:25
+Regional and local authorities should be more involved in implementing the EU Strategy for the Baltic Sea Region, says a draft resolution by the Regional Development Committee. Funds for environmental protection and the development of infrastructure should also be managed more effectively, believe MEPs. The Strategy for the Baltic Sea Region is the first, and so far the only, attempt to create a complex common development strategy for a "macro-region" - a cross-border region with common development goals or problems. The four pillars of the Strategy, steered by the European Commission and aimed at making better use of Community programmes and national policies, are the protection of the environment, enhancing the region’s prosperity, increasing accessibility and attractiveness, and ensuring safety and security in the region.
+Procedure: own-initiative
+Short presentation: 5 July 2010
+Vote: 6 July 2010 Report on the European Union Strategy for the Baltic Sea Region and the role of macro-regions in the future cohesion policy Profile of rapporteur Wojciech Michał OLEJNICZAK (S&D, PL)
+EN
+2
+LINK
+/members/expert/alphaOrder/view.do?language=EN&id=96783
+-//EP//TEXT REPORT A7-2010-0202 0 NOT XML V0//EN
+-//EP//DTD IM-PRESS 20050901 NEW-ITEM DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 NEW-ITEM DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20100618NEW76363 FULL-TEXT DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20100618NEW76363 ITEM-016-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20100618NEW76363 ITEM-018-EN DOC XML V0//EN
+Lithuania to face legal proceedings?
+2010-07-01 - 17:25
+Following a decision taken by the Lithuanian authorities against an MEP, Lithuania could face infringement proceedings for failure to comply with EU law if a proposal by the Legal Affairs Committee is backed by the full Parliament in Strasbourg. The committee is recommending that Parliament ask the Commission to intervene with the Lithuanian authorities to ensure that EU law is respected and, if necessary, to launch proceedings against Lithuania for infringing Community law.
+The matter revolves around a decision by the Lithuanian Chief Official Ethics Commission "publicly admonishing" MEP Valdemar Tomaševski (ECR, LT) because of statements he made about alleged discrimination against the Polish minority in Lithuania.
+Procedure: Immunity
+Debate: 5 July 2010
+Vote: 6 July 2010 Draft report on request for the defence of parliamentary immunity of Valdemar Tomaševski Profile of rapporteur Bernhard RAPKAY (S&D, DE) Profile of Valdemar TOMAŠEVSKI (ECR, LT)
+EN
+1
+LINK
+/oeil/FindByProcnum.do?lang=2&procnum=IMM/2010/2047
+EN
+2
+LINK
+/members/public/yourMep/view.do?name=rapkay&partNumber=1&language=EN&id=1906
+EN
+3
+LINK
+/members/expert/alphaOrder/view.do?language=EN&id=96697
+-//EP//DTD IM-PRESS 20050901 NEW-ITEM DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 NEW-ITEM DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20100618NEW76363 FULL-TEXT DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20100618NEW76363 ITEM-017-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20100618NEW76363 ITEM-019-EN DOC XML V0//EN
+Cutting red tape in maritime transport
+2010-07-01 - 17:25
+Ships entering and departing from EU ports will not be submitted to complex, repetitive administrative formalities under a new directive requiring all Member States to recognise a standard form and set up a shared electronic system for fast and easy exchange of information between ships and ports. MEPs are expected to endorse a first-reading agreement with Council on this law when they vote on Tuesday. Procedure: ordinary legislative procedure, 1st reading
+Debate: 5 July 2010
+Vote: 6 July 2010 Report on reporting formalities for ships arriving in and/or departing from ports of the Member States of the Community Profile of rapporteur Dirk STERCKX (ALDE, BE)
+EN
+2
+LINK
+/members/public/yourMep/view.do?name=sterckx&partNumber=1&language=EN&id=4243
+-//EP//TEXT REPORT A7-2010-0064 0 NOT XML V0//EN
+-//EP//DTD IM-PRESS 20050901 NEW-ITEM DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 NEW-ITEM DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20100618NEW76363 FULL-TEXT DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20100618NEW76363 ITEM-018-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20100618NEW76363 ITEM-020-EN DOC XML V0//EN
+Work of the Petitions Committee in 2009
+2010-07-01 - 17:25
+Petitions sent to the European Parliament are a valuable way for EU citizens to raise their problems directly with Brussels. In 2009, according to the EP Petitions Committee's annual report, frequently-raised issues included freedom of movement, residence permits for non-EU family members, recognition of qualifications and the environment. The committee is calling for an interactive petitions website to be set up and an electronic register to enable citizens to express support for a petition. Procedure: own-initiative
+Debate: 5 July 2010
+Vote: 6 July 2010 Press release after committee vote 01.06.2010 - Citizens' petitions: a right yet to be fully recognised Report on the deliberations of the Committee on Petitions during the year 2009 Profile of rapporteur Carlos José ITURGAIZ ANGULO (EPP, ES)
+EN
+3
+LINK
+/members/expert/alphaOrder/view.do?language=EN&id=28398
+-//EP//TEXT IM-PRESS 20100531IPR75294 0 NOT XML V0//EN
+-//EP//TEXT REPORT A7-2010-0186 0 NOT XML V0//EN
+-//EP//DTD IM-PRESS 20050901 NEW-ITEM DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 NEW-ITEM DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20100618NEW76363 FULL-TEXT DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20100618NEW76363 ITEM-019-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20100618NEW76363 ITEM-021-EN DOC XML V0//EN
+Young people not to be unemployed for more than four months
+2010-07-01 - 17:25
+A "European Youth Guarantee" to ensure that young people who are unemployed do not remain jobless for more than four months is among proposals made by the Employment Committee in a draft resolution on improving access to the labour market for young people. MEPs want the EU to devise a new system to give every young person in the EU the right to a job, an apprenticeship, further training or a job combined with training, if they have been out of work for over four months. Other key demands are a right for young people to get a decent income and good quality traineeships.
+Amid the economic crisis, youth unemployment is increasing faster than the average rate. In December 2009, 5.5 million people under 25 were unemployed in the EU, a rate of 21.4%, which is twice as high as the overall unemployment rate.
+Procedure: own-initiative
+Debate: 5 July 2010
+Vote: 6 July 2010 Report on promoting youth access to the labour market, strengthening trainee, internship and apprenticeship status Profile of rapporteur Emilie TURUNEN (Greens/EFA, DK)
+EN
+2
+LINK
+/members/public/yourMep/view.do?name=turunen&partNumber=1&language=EN&id=96703
+-//EP//TEXT REPORT A7-2010-0197 0 NOT XML V0//EN
+-//EP//DTD IM-PRESS 20050901 NEW-ITEM DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 NEW-ITEM DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20100618NEW76363 FULL-TEXT DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20100618NEW76363 ITEM-020-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20100618NEW76363 ITEM-022-EN DOC XML V0//EN
+Equal rights for part-time and contract workers
+2010-07-01 - 17:25
+Any reform of labour law should seek to protect workers in "non-standard" employment, such as part-time or temporary work, and make it easier to move between various types of employment and unemployment, according to a draft resolution by the Employment Committee. MEPs also believe that most jobs should be based on indefinite contracts and that national governments should implement "flexicurity" in a fairer and more balanced way. Procedure: own-initiative
+Short presentation: 5 July 2010
+Vote: 6 July 2010 Report on atypical contracts, secured professional paths, flexicurity and new forms of social dialogue Profile of rapporteur Pascale GRUNY (EPP, FR)
+EN
+2
+LINK
+/members/public/yourMep/view.do?name=gruny&partNumber=1&language=EN&id=96983
+-//EP//TEXT REPORT A7-2010-0193 0 NOT XML V0//EN
+-//EP//DTD IM-PRESS 20050901 NEW-ITEM DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 NEW-ITEM DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20100618NEW76363 FULL-TEXT DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20100618NEW76363 ITEM-021-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20100618NEW76363 ITEM-023-EN DOC XML V0//EN
+On-line piracy: why not make legal content more attractive?
+2010-07-01 - 17:25
+Removing barriers to a digital single market through a pan-European licensing system would help combat infringements of intellectual property rights (IPR) on the internet, argues a draft resolution by the Legal Affairs Committee. The resolution, drafted by Marielle Gallo (EPP, FR), states that "the enormous growth of unauthorised file sharing of copyrighted works and recorded performances is an increasing problem for the European economy". It urges the European Commission to look at "the balance between free access to the Internet and the measures to be taken to combat this scourge effectively".
+The Commission is asked to propose a comprehensive strategy which will remove obstacles to creating a single market in the online environment and adapt the European legislative framework in the field of IPR to current trends in society as well as to technical developments.
+The Commission is also asked to think broadly about methods of facilitating industry access to the digital market without geographical borders, through multi-territory licences and harmonised legislation on copyright.
+A pan-European licensing system would provide consumers "with access to the widest possible choice of content", says the resolution, although this must not be at the expense of European local content.
+Procedure: Own-initiative
+Debate: 5 July 2010
+Vote: 8 July 2010 Press release on committee vote 01.06.2010 Procedure file: Enforcement of intellectual property rights in the internal market Profile of rapporteur Marielle GALLO (EPP, FR)
+EN
+2
+LINK
+/oeil/file.jsp?id=5817632
+EN
+3
+LINK
+/members/public/yourMep/view.do?name=gallo&partNumber=1&language=EN&id=96896
+-//EP//TEXT IM-PRESS 20100531IPR75276 0 NOT XML V0//EN
+-//EP//DTD IM-PRESS 20050901 NEW-ITEM DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 NEW-ITEM DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20100618NEW76363 FULL-TEXT DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20100618NEW76363 ITEM-022-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20100618NEW76363 ITEM-024-EN DOC XML V0//EN
+Human rights and democracy issues
+2010-07-01 - 17:25
+Debates on the following will take place at 3pm on Thursday (8 July) followed by votes on the resolutions
+Venezuela, in particular the case of Maria Lourdes Afiuni
+Zimbabwe, in particular the case of Farai Maguwu
+North Korea
+-//EP//DTD IM-PRESS 20050901 NEW-ITEM DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 NEW-ITEM DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20100618NEW76363 FULL-TEXT DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20100618NEW76363 ITEM-023-EN DOC XML V0//EN
+Newsletter - 5-8 July 2010 - Strasbourg plenary session
+2010-07-01 - 17:25
+20100618NEW76363 Draft agenda - 5-8 July 2010 EP Live - watch the plenary live EuroparlTV - watch live broadcasts
+-//EP//TEXT IM-PRESS 20100618NEW76363 ITEM-001-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20100618NEW76363 ITEM-002-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20100618NEW76363 ITEM-003-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20100618NEW76363 ITEM-004-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20100618NEW76363 ITEM-005-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20100618NEW76363 ITEM-006-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20100618NEW76363 ITEM-007-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20100618NEW76363 ITEM-008-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20100618NEW76363 ITEM-009-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20100618NEW76363 ITEM-010-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20100618NEW76363 ITEM-011-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20100618NEW76363 ITEM-012-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20100618NEW76363 ITEM-013-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20100618NEW76363 ITEM-014-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20100618NEW76363 ITEM-015-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20100618NEW76363 ITEM-016-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20100618NEW76363 ITEM-017-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20100618NEW76363 ITEM-018-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20100618NEW76363 ITEM-019-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20100618NEW76363 ITEM-020-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20100618NEW76363 ITEM-021-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20100618NEW76363 ITEM-022-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20100618NEW76363 ITEM-023-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20100618NEW76363 ITEM-024-EN DOC XML V0//EN
+EN
+1
+LINK
+/sides/indexPartSession.do?reference=2010-07&language=EN
+EN
+2
+LINK
+/wps-europarl-internet/frd/live/live-video?language=en
+EN
+3
+VIDEOLINK
+http://www.europarltv.europa.eu/ParliamentLive.aspx
+-//EP//DTD IM-PRESS 20050901 NEW-FULL DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 NEW-FULL DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20100618NEW76363 ITEM-001-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20100618NEW76363 ITEM-002-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20100618NEW76363 ITEM-003-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20100618NEW76363 ITEM-004-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20100618NEW76363 ITEM-005-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20100618NEW76363 ITEM-006-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20100618NEW76363 ITEM-007-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20100618NEW76363 ITEM-008-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20100618NEW76363 ITEM-009-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20100618NEW76363 ITEM-010-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20100618NEW76363 ITEM-011-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20100618NEW76363 ITEM-012-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20100618NEW76363 ITEM-013-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20100618NEW76363 ITEM-014-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20100618NEW76363 ITEM-015-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20100618NEW76363 ITEM-016-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20100618NEW76363 ITEM-017-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20100618NEW76363 ITEM-018-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20100618NEW76363 ITEM-019-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20100618NEW76363 ITEM-020-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20100618NEW76363 ITEM-021-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20100618NEW76363 ITEM-022-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20100618NEW76363 ITEM-023-EN DOC XML V0//EN
+-//EP//TEXT IM-PRESS 20100618NEW76363 ITEM-024-EN DOC XML V0//EN

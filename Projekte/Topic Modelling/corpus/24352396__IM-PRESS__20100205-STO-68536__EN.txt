@@ -1,0 +1,38 @@
+SWIFT: MEPs to vote on backing or sacking EU/US data sharing deal
+Justice and home affairs
+2010-02-05 - 15:30
+Committee rejects interim agreement on SWIFT The rejection by MEPs on Parliament's justice committee of a controversial EU/US data sharing deal has set the scene for a transatlantic row if a majority of MEPs back their decision on Thursday. Prior to the vote a debate will be held Wednesday in Strasbourg. The case centres on the Belgium based SWIFT company which handles 80% of the world's electronic financial transfers from 208 countries. The extent to which the US should be able to access this to fight terrorism is key.
+Meeting on Thursday MEPs on the Civil Liberties, Justice and Home Affairs
+Committee voted 29- 23 in favour of recommending the whole Parliament withhold is consent. Such a move would render it void.
+After the 9/11 attacks the US subpoenaed SWIFT to get access to bank transactions - including by most of Europe's banks.
+When SWIFT's cooperation came to light in 2006 it created a furore and following demands from European data protection authorities that EU privacy laws not be violated an agreement was signed in 2007. A new interim agreement between the European Union's Council of Ministers and Washington was agreed last November. Although EU governments endorsed the deal there is opposition among Members of the European Parliament.
+"Violates the basic principles of data protection"
+On Thursday 4 February, Parliament's Civil Liberties Committee decided to follow its rappporteur on the issue, Dutch Liberal Jeanine Hennis-Plasschaert, and reject the latest agreement. In her recommendation she said it "violates the basic principles of data protection law, i.e. the principles of necessity and proportionality".
+SWIFT has suspended implementation of the agreement, which should have come into effect 1 February, until Parliament gives its support. Should the House reject it then it would not come into force.
+Security/Civil Liberties balance sought
+In resolution adopted on 17 September last year the House said that data should be gathered "only for the purposes of fighting terrorism" and "the right balance" must be struck between security measures and the protection of civil liberties.
+The US data-gathering is done under the Terrorist Financing and Tracking Programme (TFTP) and the EU's anti-terror coordinator Gilles de Kerchove, is on record as saying that Europe's security has benefited from the US TFTP monitoring of banking data flows.
+In a debate on 20 January many MEPs were furious with the agreement and the way it had been reached by national governments. "Irritation", "a kamikaze action", "unacceptable" were just some of the comments flying around the Chamber. Expect the debate in Strasbourg on Wednesday from 1500 CET to be a passionate one.
+20100205STO68536 SWIFT: Civil Liberties Committee recommends rejecting the agreement SWIFT debate 20 Jan in Strasbourg MEPs questioned Council SWIFT agreement in October EP resolution 17.9.2009 Civil Liberties, Justice and Home Affairs Committee Watch debate & vote live swift.com
+EN
+1
+EUROPARL-TV
+http://www.europarltv.europa.eu/swf/EmbedPlayer.swf?vid=4533b54c-076c-4495-b758-931b8741ea32&cid=0c8dedcf-1098-46c9-9b85-6f2b0f0b120d&lang=en&bitrate=512&loop=off&autoplay=off&startVolume=medium&showTitle=on&showBottom=on
+EN
+6
+LINK
+/activities/committees/homeCom.do?language=EN&body=LIBE
+EN
+7
+LINK
+/wps-europarl-internet/frd/live/live-video?language=en
+EN
+8
+LINK
+http://www.swift.com/
+-//EP//TEXT IM-PRESS 20100201IPR68323 0 NOT XML V0//EN
+-//EP//TEXT CRE 20100120 ITEM-010 NOT XML V0//EN
+-//EP//TEXT WQ E-2009-5294 0 NOT XML V0//EN
+-//EP//TEXT TA P7-TA-2009-0016 0 NOT XML V0//EN
+-//EP//DTD IM-PRESS 20050901 STO DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 STO DOC XML V0//EN

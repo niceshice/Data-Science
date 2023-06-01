@@ -1,0 +1,43 @@
+Liberalising the gas market - Industry Committee seeks consensus approach
+Industry
+2008-05-20 - 14:04
+Monday evening's vote in the Industry Committee on gas market liberalisation saw support emerge for the Commission's latest compromise proposals, designed to address the concerns of countries opposed to "full ownership unbundling" (the complete separation of gas supplies from gas transmission networks). But the final vote was postponed to allow more discussion with a view to achieving a broader consensus on key issues.
+The Commission's original proposal would have given Member States two options: ownership unbundling; or the preservation of integrated supply and transmission companies, provided that the operation of the transmission network was handed over to a separate body. Eight Member States had proposed a third option which kept the transmission network with the suppliers but with a structure to ensure it operates independently in practice.
+Although the committee rejected this "third option" by the narrowest of margins (24 votes to 24 against, so the amendment fell), it did endorse (by 38 votes to 10) a proposal along similar lines based on a recent Commission compromise text, involving the creation of "independent transmission operators" (ITOs). The latter, like the "third option", would allow a company to retain the ownership of pipelines, if management of them is in the hands of a transmission system operator with "effective decision-making rights", but with some further safeguards of these rights.
+If this choice is ultimately confirmed, Member States and companies could chose between complete ownership separation ("full ownership unbundling") or this new plan (the "independent transmission operator" (ITO) model).
+Details of the ITO model
+The ITO model leaves ownership of pipelines with the with the gas supply companies, but hands the management over to an ITO whose operational independence would be guaranteed by
+an 'independent trustee”, meant to protect “the asset value of the transmission system operator”;
+a “supervisory body” – composed of gas company representatives, third party shareholders, transmission system operator representatives, as well as the Trustee – responsible for decisions “which may have a significant impact on the value of the assets of the shareholders”;
+a “compliance programme” setting out measures that prevent “discriminatory conduct”;
+a “compliance officer” responsible for monitoring the implementation of the compliance programme.
+No later than five years after the directive's entry into force, the energy regulators' Agency would report on whether requirements have managed to ensure the independence of transmission system operators.
+Members also voted in favour of the Commission's proposal to prevent control of transmission systems by third countries unless there is an EU-third country international agreement.
+Consumer protection measures
+MEPs also bolstered the draft legislation with a number of consumer protection measures. Customers, they decided, should have:
+the right to withdraw from contracts with their gas providers without charge;
+the right to compensation if service quality levels are not met (as with, for example, inaccurate and delayed billing);
+access to information on their rights through bills and gas company web sites;
+access to information on procedures to be followed in case of disputes;
+the right to be informed, at least quarterly, of actual gas consumption and costs;
+access to smart meters within 10 years of the directive's entry into force.
+As in the vote on the electricity market, the Committee also sought to address the needs of vulnerable energy consumers. It decided, therefore, that EU countries should take "appropriate measures [...] to ensure that the number of people in energy poverty" – those unable to afford heating the home to an acceptable standard, as defined by the WHO – "decreases in real terms." MEPs also insisted that countries work towards cutting the cost of energy to low income households. In the same vein, they backed an amendment mandating national authorities "to introduce pricing formulas which increase for greater levels of consumption".
+This was far from the only amendment to heighten the role for national regulatory authorities. In parallel with the introduction of the new alternative to unbundling, MEPs also voted to mandate national authorities:
+to ensure energy efficiency and integrate renewables (e.g. biogas) in both transmission and distribution grids;
+to “facilitate the access to the grid [...] for new market entrants and renewable energies”;
+to approve the annual investment plans of the transmission system operators;
+to fix or approve network access tariffs;
+to impose sanctions - including penalties of up to 10% of yearly turnover - against gas companies non-compliance with their obligations or for discriminatory behaviour.
+Regional Cooperation
+The Committee supported provisions that would see Member States having to ensure that transmission system operators have "one or more integrated systems at regional level covering several Member States for capacity allocation and for checking the security of the network."
+Next steps
+Given the very short time since the Commission presented its new compromise plans, the committee decided to hold the vote on the amendments on the table to signal their position on them, but not to hold the final vote on the report to allow time for further discussions with a view to finding a broader consensus on some key issues. The Industry Committee will therefore return to the report and may vote on further compromise texts at its next meeting.
+Procedure: Co-decision, first reading -- Plenary vote: June (to be confirmed after the final committee vote)
+2008-05-19 In the Chair Angelika Niebler EPP-ED DE
+20080519IPR29253 Homepage of the Industry Research and Energy Committee
+EN
+1
+LINK
+/activities/committees/homeCom.do?language=EN&body=ITRE
+-//EP//DTD IM-PRESS 20050901 IPR DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 IPR DOC XML V0//EN

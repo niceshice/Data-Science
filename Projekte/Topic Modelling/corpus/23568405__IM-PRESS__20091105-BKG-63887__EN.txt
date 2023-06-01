@@ -1,0 +1,32 @@
+FAQs on internet access safeguards and the telecoms package
+Information society
+2009-11-05 - 19:35
+A user's internet access may be restricted, if necessary and proportionate, only after a fair and impartial procedure including the user's right to be heard. In the early hours of Thursday 5 November, MEPs and Council representatives agreed on this, the last open issue in the telecoms package.
+MEPs insisted in Wednesday's conciliation meeting on establishing adequate procedural safeguards for internet access, in line with the European Convention for the Protection of Human Rights and Fundamental Freedoms guaranteeing effective judicial protection and due process.
+The FAQs below look more closely at the internet access safeguards included in the telecoms package.
+20091105BKG63887
+Q1. What did Parliament achieve with the Telecoms Package of two directives and one regulation?
+A1: Parliament ensured today (Thursday 5 November) that internet users who are suspected of breaking the law cannot be cut off without due process . In negotiations with the EU telecommunication ministers (mostly represented by their ambassadors), MEPs successfully demanded that any restriction has to be the result of "a prior, fair and impartial procedure" including the user's right to be heard - to defend himself. This means that only when there is real proof of a criminal act can restrictions be imposed: there is a presumption of innocence until otherwise proven.
+Q2: Why was safeguarding the right to internet access important to Parliament?
+A2: MEPs considered access to the internet to be a fundamental right but so far there has been no specific EU legislation protecting this right . Since this area was not covered by EU law, it has until now been the Member States who decide on access to internet.
+Q3: What did Parliament do to secure this right to access?
+A3: In the original draft legislation no mention was made of protecting internet users' right to access and thus to freedom of information and freedom of expression. The EP therefore decided to amend the bill to ensure this right of access. It did this by adopting the now famous "amendment 138", which sought safeguards against unduly restricting a user's internet access by requiring a "prior ruling by the judicial authorities". The EU ministers rejected the amendment, so Parliament adopted it again at second reading. Once again the ministers rejected it. And so a "conciliation procedure" with Parliament and government representatives was required to negotiate a final compromise.
+Q4: There were reports that, in these negotiations with the Council, Parliament changed its position? Is that true?
+A4: Yes and no. As far as the substance of the amendment is concerned, Parliament stuck to its guns and won a victory. But in order to do that it had to change the wording of the amendment, so that the final text would stand up in the European Court of Justice, which rules on the validity of EU legislation.
+Q5: What are the safeguards obtained by Parliament?
+A5: When a national judicial or competent administrative authority wants to cut off a user's access to the internet, a specific procedure must be followed. Before being cut off, users must have the opportunity to state their case and defend themselves before any decision is taken. The burden of proof rests with the party who lays charges and an appeal will be possible.
+Part of the negotiated text reads:
+"these measures may only be taken with due respect for the principle of presumption of innocence and the right to privacy . A prio r fair and impartial procedure shall be guaranteed , including the right to be heard of the person or persons concerned, subject to the need for appropriate conditions and procedural arrangements in duly substantiated cases of urgency in conformity with the European Convention for the Protection of Human Rights and Fundamental Freedoms. The right to an effective and timely judicial review shall be guaranteed ."
+Q6: On what grounds could internet access be cut off? Does this concern only illegal downloading?
+A6: The new legislation does not give any explicit examples of internet use which are to be deemed illegal and hence count as potential grounds for cutting off internet access. It is the Member States that decide on the basis of their national legislation what constitutes a criminal act which can lead to cutting off a user's internet access . Examples might be the distribution of child pornography, terrorist content.
+Q7 Was internet access the only matter dealt with in this package?
+A7: Far from it! This was only the last remaining issue. Parliament and Council had already agreed on the bulk of the package in May this year. This covered:
+- improved consumer rights, e.g. by allowing customers to have their mobile telephone number transferred within one working day when changing operators;
+- requiring a user's consent before “cookies” are installed on his computer;
+- an obligation for providers to simplify their contracts;
+- easier access to the internet for people with disabilities.
+Q8. Does this prevent the adoption of national laws such as the "three strikes and you're out" law?
+A8: Not necessarily, but any law will have to provide for due process for anyone whose internet access a national authority wants to cut off. It will be impossible to cut off a person automatically without first giving them the chance to state their case. See Answer 5.
+Member States are free to have even stronger access guarantees than provided in the EU legislation if they wish, i.e. they will not be obliged to water down any existing legislation granting such guarantees.
+-//EP//DTD IM-PRESS 20050901 BKG DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 BKG DOC XML V0//EN

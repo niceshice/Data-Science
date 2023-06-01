@@ -1,0 +1,36 @@
+Where man meets machine: the ethics of information technology
+Information
+2011-04-11 - 11:50
+Internet is changing society in unforeseeable ways ©Belga/XinHua/Liu Wei Isaac Asimov's first law of robotics - "a robot may not harm a human being" - is no longer about some distant future. In the emerging era of the Digital Citizen and omnipresent information technology, it is already vital as "technology is not neutral: it determines what we do, how we think and how we live," according to a participant in the EU-funded ETICA or "Ethical Issues of Emerging ICT Applications" project.
+On 31 March Malcolm Harbour , chair of Parliament's Internal Market Committee, opened this "necessary debate about ethics in the emerging new technologies". ETICA's final event, presenting its findings, was hosted by the EP's science assessment panel, STOA.
+Digital citizenship shaping personalities, societies
+Digital citizenship and rapidly increasing man-machine interaction are already a fact of life. However they create multiple ethical dilemmas that need to be addressed. Philip Virgo, General Secretary of EURIM, The Information Society Alliance, said, technology has changed a lot but "ethical questions haven't". What has changed is that the potential "for damage has increased".
+Social media and other forms of interaction on the web shape personalities, especially of the young, while the very existence of the internet is reshaping our society in unforeseeable ways.
+Professor Bernd Stahl , ETICA's project coordinator, said by addressing these issues "we can have an understanding of the future and shape the society we want to live in in that future" which will be marked by "much more interaction between humans and technology".
+"Targeted marketing on social network sites, the shaping of personalities" especially of the younger and often heavier users "are also ethical issues which need to be addressed," according to Simon Rogerson, Director of the Centre for Computing and Social Responsibility.
+ICT - the invisible revolution
+Information and communication technology is already omnipresent, but often invisible. This raises the question of privacy when surfing the web and the related question of ICT as an instrument of control.
+"There are decisions, more or less automatic, based on profiles, the presumption that somebody is a risk or an attractive target," Peter Hustinx, the European Data Protection Supervisor (EDPS) warned. "The way in which this is happening and the way in which it is developing in our societies is rather worrying."
+Florent Frederix from EC, Networked Enterprise and RFID said, "You will notice that sometimes the system remembers more than you did", for example, traffic management systems, "smart" cities, homes, hotel room doors etc.
+Alan Freeland from IBM, who was also on the ethics panel, said ICT technology is essentially neutral, "it is how it is applied". He gave the example of GPS systems that can help guide cars but can also help control how people drive
+"When you have a large powerful informational tool (Google), which is built from recycling human intelligence, it also recycles the ugly parts...Where is the border with censorship?" Alma Whitten from Google asked.
+20110408STO17329 The ETICA project STOA Ethical dilemmas in scientific research EC - 7th framework Programme: Ethical issues of emerging ICT applications
+EN
+1
+PHOTO
+20110401PHT16832.jpg
+EN
+2
+LINK
+http://www.etica-project.eu/
+EN
+3
+LINK
+/stoa/default_en.htm
+EN
+5
+LINK
+http://cordis.europa.eu/fetch?CALLER=FP7_PROJ_EN&ACTION=D&DOC=1&CAT=PROJ&QUERY=012f342f4c22:93f4:744432de&RCN=91290
+-//EP//TEXT IM-PRESS 20110324STO16435 0 NOT XML V0//EN
+-//EP//DTD IM-PRESS 20050901 STO DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 STO DOC XML V0//EN

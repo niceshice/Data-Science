@@ -1,0 +1,35 @@
+Clampdown on derivatives trading
+Economic and monetary affairs
+Committees Economic and Monetary Affairs
+2011-05-24 - 18:40
+New EU legislation designed to regulate the trade in derivatives - widely believed to have contributed to the global financial crisis - moved a step closer on Tuesday with a vote by Parliament's Economic Affairs Committee.
+The draft regulation - on over-the-counter derivatives (OTCs), central clearing parties (CCPs) and trade repositories - aims to bring greater safety, transparency and stability to the OTC derivatives market, which was valued at around €425 trillion in 2009. Information on OTC derivative contracts would have to be reported to 'trade repositories' and be accessible to supervisory authorities. OTC derivative contracts would need to be cleared through central counterparties (CCPs), thus reducing counterparty credit risk, i.e. the risk that one party to the contract defaults. A key supervisory role is envisaged for the new European Securities and Markets Authority (ESMA).
+The Commission's draft was approved with amendments by the Economic Affairs Committee and will now go to the full Parliament for a vote in July. The result of today's committee vote was 36 in favour, 1 against and 2 abstentions.
+Supervision
+The committee envisages a central role for ESMA. The new European supervisor will work closely with national supervisory authorities, have an important stake in authorising new CCPs to the market and should be allowed to carry out on-site inspections.
+Narrow scope, few exemptions
+MEPs rejected suggestions by some EU Member States that all derivatives should be governed by this regulation. Instead they want the rules to apply only to OTC derivatives, as the Commission proposes and was agreed by the G20 group. However, to ensure ESMA has the full picture, they want reporting obligations to apply to all derivatives.
+The committee's report, drafted by Werner Langen (EPP, DE), is strict regarding exemptions to the clearing obligation. However, for pension funds there will be a special regime, provided that the national capital requirements provide a guarantee similar to cleared contracts.
+Interoperability option
+Co-operation arrangements between clearing houses, known as "interoperability", whereby traders would be allowed to choose where their trades are cleared, are limited to cash securities. A CCP has to have functioned in line with the standards for at least three years before it can apply for authorisation for interoperability.
+Considering retroactivity
+The Economic Affairs Committee accepts that applying clearing obligations retroactively, to existing contracts, would result in legal difficulties and create major problems for counterparties. Therefore, clearing will only be mandatory from the moment the regulation enters into force. It does, however, provide for this possibility with regard to reporting obligations and asks ESMA to assess how reporting retroactivity could be introduced if the information in question were essential to the supervisory authorities.
+20110523IPR19948 Website of the Economic and Monetary Affairs Committee Watch the meeting Profile rapporteur Werner Langen (EPP, DE) What is a derivative
+EN
+1
+LINK
+/activities/committees/homeCom.do?language=EN&body=ECON
+EN
+2
+LINK
+/wps-europarl-internet/frd/vod/search-committees?language=en&search_parameter_legislature=7&select_searchcommittees_field=ECON&search_date_start_0=&search_date_end_0=
+EN
+3
+LINK
+/members/public/yourMep/view.do?name=langen&partNumber=1&language=EN&id=1928
+EN
+4
+LINK
+/en/pressroom/content/20100923BKG83508/13/html/Derivatives
+-//EP//DTD IM-PRESS 20050901 IPR DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 IPR DOC XML V0//EN

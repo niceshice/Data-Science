@@ -1,0 +1,17 @@
+European Parliament calendar for 2011
+Institutions
+Plenary sittings
+2010-05-19 - 14:04
+The European Parliament's calendar of plenary sessions for 2011 has been adopted. To view the calendar, click on the link below.
+.
+20100518IPR74738 Broadcast quality video, audio and photo coverage of the plenary via FTP server EP Calendar 2011
+EN
+1
+LINK
+ftp://epavvideoget:mo12ssb@ftpeps01.europarl.eu.int//epavvideo/EBS/Strasbourg/week20/
+EN
+2
+MULTIMEDIA
+20100519MLT74803.pdf
+-//EP//DTD IM-PRESS 20050901 IPR DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 IPR DOC XML V0//EN

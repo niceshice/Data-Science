@@ -1,0 +1,46 @@
+EU visa information system to help prevent visa shopping
+Justice and home affairs
+2007-06-07 - 12:17
+The European Parliament adopted two reports from Baroness Ludford, (ALDE, UK) on the Visa Information System relating to the Schengen area. The first report relates to an agreement on a regulation setting up a database for exchange of data between Member States on short-stay visas and visa applications from third country citizens who wish to enter the EU's Schengen area.
+The second report says that i nformation obtained from the EU's proposed Visa Information System (VIS) should be limited only to "limited to those who 'have a need to know' and possess appropriate knowledge about data security and data protection rules", according to a report adopted by the European Parliament.
+EU visa information system to help prevent visa shopping
+The European Parliament backed a regulation setting up a database for exchange of data between Member States on short-stay visas and visa applications from third country citizens who wish to enter the EU's Schengen area. The text is the result of an agreement with Council so the legislative process has been completed at the first reading stage.
+More than a hundred countries' citizens are required to have a visa issued by a Member State to enter the Schengen area. The Visa Information System (VIS) should improve the implementation of a 'common visa policy' in Europe. It aims: to prevent an applicant who is refused a visa by one Schengen country applying to others ("visa shopping"); to facilitate the fight against fraud and checks at external borders; to assist in the identification of those not meeting the conditions for entry, stay or residence in Schengen Member States; to ease the application of Dublin II regulation on asylum; and to help prevent threats to the internal security of Member States.
+Information stored
+The personal data from visa applications stored in VIS will include biometrics (photographs and fingerprints) and written information such as the name, address and occupation of the applicant, date and place of the application, and any decision taken by the Member State responsible to issue, refuse, annul, revoke or extend the visa. The regulation stresses that biometrics will be used under controlled circumstances, with the emphasis on first using the visa sticker number for verification, in conjunction with fingerprints, and with fallback procedures being put in place. Photographs will not be used for identification purposes as the technology is not yet ready.
+Preventing terrorism
+The draft regulation states that designated authorities from Member States and Europol may also access data contained in the VIS in specific cases and following a substantiated written request, if this can contribute to the prevention or investigation of terrorist offences and other serious criminal offences. This access will be indirect, via central access points which will have to check that all the relevant conditions for accessing the data are complied with. In exceptional cases of urgency, these checks can be made afterwards.
+Transfer of data to third countries or international organisations may take place only "in an exceptional case of urgency, exclusively for the purposes of the prevention and detection of terrorist offences and of other serious criminal offences" and with the consent of the Member State who entered the data. Such transfers will be fully recorded and made available to national data protection authorities.
+Strong data protection
+The regulation contains strong data protection safeguards, something which has been a key goal for Parliament's rapporteur, Sarah LUDFORD (ALDE, UK), in her negotiations with Council.
+Access to data by internal security authorities will be always controlled and will happen only under specific and justified circumstances. The Visa Information System database will be managed in the future by a permanent Management Authority - funded from the EU budget - which will gather information from all Schengen countries. Only duly authorised staff of the relevant national visa, border control, immigration, asylum and internal security authorities will have access to the VIS. Such access will take place only if needed for verification at external borders, to examine an application for asylum or for one of the limited number of other purposes set out in the Regulation.
+Additional provisions which have been included to ensure adequate data protection and data security standards include the training of specialised staff to deal with data and mandatory scrutiny by national data protection authorities.
+Finally, the regulation provides that each visa application file will be stored in the VIS for a maximum of 5 years.
+Respect for human dignity
+As a result of Parliament's negotiation with Council, an additional paragraph has been added to ensure that any processing of VIS data "will be proportionate to the objectives" and that "human dignity and integrity of the persons whose data is requested are respected". Use of the data cannot lead to discrimination between visa applicants or visa holders on grounds of sex, racial or ethnic origin, religion, disability, age or sexual orientation, MEPs added to the text.
+The German presidency committed itself, through two political declarations, also to reach an agreement on two further dossiers linked to the VIS: the Framework decision on data protection and the Directive for the Return of illegal immigrants.
+------------------
+Second report on Visa information should be obtained only in "clearly defined and monitored circumstances"
+The information obtained from the EU's proposed Visa Information System (VIS) should be limited only to "limited to those who 'have a need to know' and possess appropriate knowledge about data security and data protection rules", according to a report adopted by the European Parliament.
+The author of the report, Baroness Sarah LUDFORD (ALDE, UK), says that the exchange of such information "may be necessary for the purposes of preventing and combating terrorism and serious crimes", but that any requests for access to the VIS must involve "a verification whether all conditions for access are fulfilled."
+Preventing serious crime
+The report also states that "it is necessary to designate the competent Member States’ authorities", within which are " duly empowered staff with a right to access the VIS [.]" There should also be "a list of the operating units within the designated authorities" that have access to the information kept on the VIS.
+These authorities, the report adds, should "only search data contained in the VIS when they have reasonable grounds to believe that such a search will provide information that will substantially assist them in preventing, detecting or investigating serious crime."
+Data protection
+The report stresses that "adequate provisions have to be provided for to ensure the necessary data protection", and that such data "shall only be processed for the purposes of the prevention, detection, investigation and prosecution of terrorist offences or other serious criminal offences."
+The report states that "personal data obtained...from the VIS shall not be transferred or made available to a third country or to an international organisation."
+It is only in "an exceptional case of urgency [that] such data may be transferred", in which case, "Member States shall ensure that records are kept of such transfers and make them available to national data protection authorities on request."
+UK and Ireland's participation
+The Commission's proposal states that both Ireland and the United Kingdom are taking part in this Decision, in accordance with Article 5 of the Protocol integrating the Schengen acquis. MEPs adopted a non-binding amendment which says that neither the UK or Ireland are taking part and are not bound by it or subject to its application.
+As to access to information by UK and Ireland, the House adopted amendment whcih states: "In accordance with Framework Decision 2006/960/JHA, information contained in the VIS can be provided to the United Kingdom and Ireland by the competent authorities of the Member States whose designated authorities have access to the VIS pursuant to this Decision and information held in the national visa registers of the United Kingdom and Ireland can be provided to the competent law enforcement authorities of the other Member States. Any form of direct access for central authorities of the United Kingdom and Ireland to the VIS would, under the present state of their participation in the Schengen acquis, require an Agreement between the Community and those Member States, possibly to be supplemented by other rules specifying the conditions and procedures for such access."
+20070606IPR07543 Visa Information System VIS: exchange of data on Schengen short-stay visas including the national long-stay visas which are concurrently valid as short-stay visas Combating terrorism and internal security: access for consultation of the Visa Information System VIS by the authorities of Member States and by Europol
+EN
+1
+LINK
+/oeil/file.jsp?id=5223192
+EN
+2
+LINK
+/oeil/file.jsp?id=5293032
+-//EP//DTD IM-PRESS 20050901 IPR DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 IPR DOC XML V0//EN

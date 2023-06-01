@@ -1,0 +1,27 @@
+More daylight and stricter rules for the derivatives market
+Economic and monetary affairs
+Plenary sittings
+2010-06-15 - 13:33
+Proposed EU rules on derivatives trading must be made clearer and tougher, so as to reduce speculative trading and ensure that as many derivatives as possible are traded through open channels that are subject to rules, the European Parliament said in a resolution adopted on Tuesday. The resolution also suggests ways to regulate the trade in credit default swaps and reduce the regulatory burden on corporate end-users of derivatives.
+Caught in the eye of the storm of the Greek debt crisis and widely criticised for the opaque way in which they are traded, derivative products are currently being scrutinised at national level, EU level and also by the G20. This resolution comes a few weeks before the European Commission publishes its legislative proposals to regulate derivative trading.
+More transparency and also strict rules
+The resolution, which was adopted by show of hands, advocates "abandoning the prevailing view that derivatives need no further regulation because they are only used by experts and specialists" Instead, it calls for strict rules to prevent inexperienced users and speculators from building up dangerous levels of risk.
+The proposed legislation should include rules banning purely speculative trading in commodities and agricultural products, adds the resolution. Upper risk limits should be considered for trade in agricultural products and in each specific commodity, including greenhouse gas emission allowances so as to reduce speculation and help these markets to function transparently.
+Lowering the risk factor
+A central tenet of the resolution is that many more derivative contracts need to be dealt with through a process (central clearing) which prevents higher levels of risk building up. To allow this, the resolution says that central counterparty clearing facilities (CCPs) need to be strengthened. It proposes establishing regulatory standards to ensure that they remain resilient even under significant stress, and calls for compulsory standards for their establishment and decision-making and management structures.
+The resolution stresses that CCPs must not be organised wholly by users and that their risk management systems must not be in competition with each other. Neither should market players have a controlling influence on CCP governance and risk management.
+Corporate end-users
+The resolution calls for lighter regulation of over-the-counter trading in derivatives when carried out by corporate end-users, recognising that companies may at times need tailor-made derivatives to better cover the particular risks to which they are exposed. Although more tolerant of such bilateral derivatives contracts, it is suggested that the European Securities and Markets Authority (ESMA) should decide on thresholds beyond which central clearing will always be required.
+Credit default swaps
+The resolution calls for a ban on speculative credit default swap (CDS) trading demands that financial compensation payout rights resulting from owning CDS are granted only if the bearer also owns the related bonds, and insists that CDS should be centrally cleared though a European CCP.
+Finally, the resolution highlights the serious lack of information on the role that sovereign credit default swaps played in some Eurozone countries and calls for very strong guarantees on access to comprehensive information and the empowerment of supervisors.
+Next steps
+In September the Commission will publish the new EU draft legislation on derivatives. Work will then start in earnest in the European Parliament and the Council, the two institutions that share decision-making power.
+20100614IPR76030 Adopted text will be available here (click on 15 June) Press Release on committee vote - 02.06.10
+EN
+1
+LINK
+/activities/plenary/ta/calendar.do?language=EN
+-//EP//TEXT IM-PRESS 20100531IPR75291 0 NOT XML V0//EN
+-//EP//DTD IM-PRESS 20050901 IPR DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 IPR DOC XML V0//EN

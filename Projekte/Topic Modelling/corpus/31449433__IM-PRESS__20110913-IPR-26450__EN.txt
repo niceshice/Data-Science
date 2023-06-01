@@ -1,0 +1,28 @@
+Galileo satellite navigation for defence and security services
+Industry
+Plenary sittings
+2011-09-13 - 13:14
+Janez VOUK BXL (+32) 2 28 31053 STR (+33) 3 881 74897 PORT (+32) 498 98 33 37 EMAIL indu-press@europarl.europa.eu Paola BUONADONNA STR (+33) 3 881 74822 PORT (+44) 7 786 060 531 EMAIL Press-en@europarl.europa.eu EMAIL paola.buonadonna@europarl.europa.eu ADDINFO (+44) 207 227 43 35 From 2014, European satellite navigation system Galileo will provide satellite navigation signals for government users such as the police, military or security services in addition to signals for navigation devices for cars and shipping. On Tuesday Parliament approved detailed rules governing the future "public regulated service" of the Galileo, to be launched in mid-October.
+The rules specify who will have the access to encrypted signals and the conditions under which companies will be allowed to develop and sell the software applications or navigation devices. MEPs adopted the proposal with 556 votes in favour against 71 and 30 abstentions.
+Galileo will provide five different services: the open service, the commercial service, the safety-of-life service, the search-and-rescue service and the public regulated service (PRS). PRS is one of three initial services which could be provided from 2014 and will be restricted to government-authorised users for sensitive applications, such as critical infrastructure, transport, defence, security and emergency services. These services will use powerful, encrypted signals, as they will need a high level of precision and reliability.
+The general public will not have access to PRS - it will be restricted to Member States and EU institutions, while EU agencies, non-member countries and international organisations will be able to use it by special authorisation.
+Conditons of use
+The rules make a clear distinction between PRS participants, such as Member States, the Council, the Commission (as well as EU agencies, non-member countries and international organisations) and PRS users, who are companies, authorities and persons authorised by the participants to manufacture, own or use a PRS receiver. Users will have to undergo security checks and apply encryption keys when operating the receivers.
+Potential uses of the service will be left to the Member States' discretion, but they will have to meet the minimum security standards and the Member States will have to appoint a Competent PRS Authority to manage and supervise all authorised users. Manufacturers of receivers will need a EU-wide authorisation, while the export of the equipment and technology will be restricted.
+Participation will be optional for each Member State, as well as the way the service will be used and whether users should pay for it.
+Procedure: Co-decision (1st reading)
+20110913IPR26450 Adopted text will be available here (click on 13.09.2011) Profile of rapporteur Norbert Glante (S&D, DE) Legislative Observatory file: rules for access to the public regulated service
+EN
+1
+LINK
+/activities/plenary/ta/calendar.do?language=EN
+EN
+2
+LINK
+/members/expert/alphaOrder/view.do?language=EN&id=1902
+EN
+3
+LINK
+/oeil/FindByProcnum.do?lang=en&procnum=COD/2010/0282
+-//EP//DTD IM-PRESS 20050901 IPR DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 IPR DOC XML V0//EN

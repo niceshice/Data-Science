@@ -1,0 +1,46 @@
+MEPs ensure security of gas supplies by beefing up draft regulation
+Energy
+2010-03-18 - 18:14
+MEPs have beefed up rules to ensure that households will not be deprived of gas in winter, as has happened in both 2008 and 2009. Parliament's Industry Committee made proposed gas crisis prevention measures more stringent, and laid down new requirements for plans to offset any serious disruptions to gas supplies from third countries.
+The proposal, prompted by the 2008 and 2009 gas crises, when supplies of Russian gas through Ukraine to the EU were disrupted by disputes between Moscow and Kiev, is a draft regulation to remedy a lack of co-ordination and interconnected infrastructure among EU Member States. It "is a true response to a real problem", said Alejo Vidal-Quadras (EPP, ES), who is steering the legislation through Parliament.
+Preventive action plans
+Member states will need to ensure that even if their biggest gas infrastructure fails, the remaining infrastructure (N-1) is capable of meeting total daily gas demand on a day of "exceptionally high demand" (which, statistically, happens once every 20 years).
+National authorities should also comply with an infrastructure standard, notably by introducing reverse flows under certain conditions, ensuring connections to the integrated EU gas network and by breaking dependence on one single third country gas supplier.
+MEPs changed the original proposal by adding a requirement that the Commission develop a long-term supply strategy. One year after the regulation enters into force, the Commission must present a report assessing factors such as Liquified Natural Gas installations, storage capacities and regional co-operation, including recommendations for improving preventive and emergency action plans.
+Emergency measures
+If, despite these preventive measures, an emergency should occur as result of a serious disruption or exceptionally high demand where market mechanisms can no longer ensure supplies to households, then the EU will activate an emergency response. In the event of an emergency, plans must ensure that cross-border access to storage facilities and the flow of gas across borders are maintained.
+EU emergency response triggers
+MEPs changed the threshold for declaring a "Union emergency", and extended the range of cases in which the Commission may act, e.g. to help specifically affected regions.
+According to the amended version, an EU emergency response would be triggered automatically (though the circumstances are verified by the Commission) when:
+- more than one Member State has declared a national emergency,
+- the EU suffers a loss of more than 20% of its daily gas imports from third countries, or
+- a Member State within a specific EU region has declared an emergency or the region as a whole suffers a loss of more than 10% of its daily gas imports from a third country.
+The text notes that co-operation between the following countries, among others, could enhance their gas supply security:
+- Spain, Portugal and France,
+- Ireland and United Kingdom,
+- Bulgaria, Greece and Romania,
+- Denmark and Sweden,
+- Slovenia, Italy, Austria, Hungary and Romania,
+- Poland and Germany,
+- France, Germany, Belgium, Netherlands and Luxembourg.
+Furthermore, the Commission may declare an EU emergency when one Member State requests this (the original proposal would have permitted this if the EU were to lose more than 10% of its daily gas imports from third countries.
+Single market and customer protection
+MEPs emphasized that market mechanisms are the first and best line of defence against possible supply disruptions. Member State should base their preventive plans primarily on such measures, leaving non-market measures as a very last resort when the markets alone cannot solve a supply disruption.
+Nevertheless, householders are, by definition, customers whose gas supplies are protected - MEPs deleted the original definition which included also small and medium-sized enterprises, schools and hospitals and left this decision to the Member States. Member States may declare additional protected customers, but meeting their obligations to these customers should not endanger their solidarity guarantees vis-à-vis other Member States.
+MEPs stressed that gas suppliers should ensure supplies to protected customers in the event of extreme temperatures during a seven day peak period and for 45 days of exceptionally high demand, during the coldest weather. The Commission had originally proposed 60 days.
+Next steps
+The European Parliament considers the security of gas supply regulation a priority for this legislature and is likely to seek a compromise with the Council of Ministers.
+The amended draft regulation was unanimously approved in committee, with 52 votes in favour. It is likely to be put to a plenary vote at the May II session in Brussels.
+Procedure: co-decision
+In the chair: Herbert REUL (EPP, DE)
+20100315IPR70623 Committee on Industry, Research and Energy Procedure file
+EN
+1
+LINK
+/activities/committees/homeCom.do?language=EN&body=ITRE
+EN
+2
+LINK
+/oeil/FindByProcnum.do?lang=2&procnum=COD/2009/0108
+-//EP//DTD IM-PRESS 20050901 IPR DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 IPR DOC XML V0//EN

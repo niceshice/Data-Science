@@ -1,0 +1,43 @@
+Telecoms package: strengthening users' rights and internet security
+Information society
+2009-03-31 - 17:09
+Consumer rights must be strengthened, above all to reflect new telecommunications technology, says the EP Internal Market Committee in its report on the aspects of the telecoms package dealing with privacy and access to universal services.
+Members of the committee approved almost unanimously on Tuesday, at a second-reading vote, ten compromises on key aspects of the draft directive that will form the basis for further negotiations with the Council.
+Guaranteeing access to networks
+The text adopted by MEPs strengthens and guarantees a user's right to a connection to the public communications network at a fixed location, by cable or wireless, and at an affordable price. The connection must be of sufficient quality to allow internet access.
+Member States will have to guarantee access to public telephones, not only through the network of public payphones as at present, but more broadly through "public voice telephony access points". And disabled users must have guaranteed access to services, equipment and products at an "equivalent" level to that of other users.
+Anyone connected to a telephone network must have the right to be included in public directories or directory enquiry services, on a non-discriminatory basis. Phone numbers stored in this way must be accessible by voice call or SMS.
+Simplifying life for users
+MEPs believe users should also be allowed to switch mobile phone operators more easily without changing their number and within one working day. They should also be protected against being switched against their will.
+The information to be provided by an operator to a user before the signing of a contract is laid down in detail, notably on access restrictions, for example any restrictions on internet access from a mobile phone designed for this. Subscribers must also be given better information and advice on tariffs by the operator.
+In addition, the maximum length of contracts should be harmonised and not exceed 24 months, while consumers should have the right to terminate a subscription after 12 months.
+A competitive market should ensure a satisfactory level of service is provided, say MEPs. Technical traffic management measures taken by Member States to ensure network quality must not impair the internal market or competitiveness. If necessary the European Commission could take technical measures to make sure this condition is met.
+Data confidentiality and internet security
+The draft directive approved by MEPs also seeks to harmonise Member States' laws on fundamental rights, notably on privacy and confidentiality. It states clearly that only persons authorised by law can have access to personal data. The overall compromise covers the treatment of data on traffic (which is needed for example for billing subscribers), protection against spam and breaches of data security.
+Further negotiations with Council
+The vote by the Internal Market Committee paves the way for the adoption of the draft directive in plenary, even though negotiations with Council are still continuing. The two sides hope to wind up the procedure at second reading but eight rounds of negotiations on the entire telecoms package (which also includes radio frequencies and the establishment of a body of European regulators) have not ironed out all the differences between Parliament and the Member States.
+Outstanding issues chiefly relate to the difference of approach between opting-in (where Member States must apply the measures), as preferred by MEPs, or opting-out (where a Member State is free to comply with the common rules or not), as preferred by Council. Questions such as caller location (to locate people who have called emergency numbers), access to numbers starting with 116 (notably the hotline when a child disappears) and the European emergency number 112, as well as the right to change company in a single day while keeping one's old phone number, still divide Parliament and Council.
+Negotiations will also continue on the protection of private data stored on computer or transferred by the web, including notification of any breach of network security and unsolicited communications (spam). On most of these points, MEPs stuck to their first-reading position.
+Next steps
+The Council's common position, as modified by Parliament's amendments, was approved by the Internal Market Committee almost unanimously (with two votes against and one abstention). "Today's vote enables us to confirm our stance in negotiations with the Council. We are determined, as is the Council, to reach agreement before the European elections", commented rapporteur Malcolm Harbour (EPP-ED, UK). A further meeting of the two institutions is set for 2 April. If the talks produce an agreement, Parliament could approve it at its May plenary session.
+2009-03-30 Committee on the Internal Market and Consumer Protection Chair Arlene McCarthy PES UK
+Committee on the Internal Market and Consumer Protection
+20090330IPR52900 Website of the Internal Market and Consumer Protection Committee Creation of the European Electronic Communications Market Authority ("Telecoms Package") Electronic communications: common regulatory framework for networks and services, access, interconnection and authorisation ("Telecoms Package" [amend. Directives 2002/19/EC to 2002/21/EC]) Electronic communications: universal service, users' rights relating to networks and services, processing of personal data, protection of privacy, consumer protection cooperation
+EN
+1
+LINK
+/activities/committees/homeCom.do?language=EN&body=IMCO
+EN
+2
+LINK
+/oeil/file.jsp?id=5563982
+EN
+3
+LINK
+/oeil/file.jsp?id=5563972
+EN
+4
+LINK
+/oeil/file.jsp?id=5563642
+-//EP//DTD IM-PRESS 20050901 IPR DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 IPR DOC XML V0//EN

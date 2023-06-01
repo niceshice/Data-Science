@@ -1,0 +1,25 @@
+MEPs say that broadband can help bridge the digital divide
+Industry
+2007-06-19 - 12:37
+Rolling out broadband Internet connections to bring e-government, e-health, or e-learning on-line services to remote or rural areas like Greek islands or Andalusian mountains is vital to making Europe a world-leading knowledge-based economy. In an own-initiative report adopted by MEPs on broadband policy options, the European Parliament sets out measures to bridge the "digital divide" between urban and rural areas.
+At the end of 2006, 28% of all households within the EU27 had broadband internet access at home, says the Commission's latest Eurobarometer 'E-Communications household survey'. Measured by numbers of broadband lines rolled out, Europe has been ahead of the USA since October 2005. However, internet connection performance varies markedly across Europe, with some connections carrying more data, and faster, than others. Whereas in the Netherlands and Denmark broadband is quite common, very few households in Greece, Cyprus, Slovakia, and Romania have access to this technology.
+A critical mass of 500 million users
+Broadband availability is limited, especially, in inaccessible and rural areas like islands and mountains because the low demand outside metropolitan centres discourages service providers. Yet the report by Gunnar Hökmark (EPP-ED, SE) points out that a single market of nearly 500 million people with broadband connections would create "a globally unique critical mass of users", helping Europe to become "a world leading knowledge-based economy".
+MEPs note that it is precisely in the EU's less-developed regions that broadband internet connections may contribute most to "more sophisticated, inclusive" health-care and education systems, by enabling distance-diagnosis and distance-healing as well as distance-learning applications in regions that lack a satisfactory school infrastructure. The report as approved by the European Parliament calls on Member States to promote broadband connections at every school, university and educational centre in the EU "with a view to a future where 'no European child and no individual involved in educational programmes is left off line in Europe'".
+Invest in broadband, but don't distort the market
+Improving broadband infrastructure should therefore be a special priority for the use of EU structural and rural funds. MEPs believe that these funds could also be used for upgrading or replacing broadband networks that do not provide connections with "suitable functional capacity". Nevertheless, the report also calls on the Commission to closely examine whether the EU regulatory framework is fully implemented and whether state aid rules are applied whenever those funds are used for broadband investments. EU funding should not favour specific players or technological options, but "only the most efficient solutions" and should only be permitted "in under-served areas". The EU's role would be to provide "a regulatory framework that invites competition and private investment" and by the use of relevant funds to drive demand for broadband services.
+The House also urges the Community institutions and Member States to work with industry to solve problems (such as micro-payments, security and trust, interoperability and Digital Rights Management) that hamper the development of new business models in the broadband field.
+Ensure equal access for service providers, stimulate competition
+The Commission should ensure that all service providers have equal access to any broadband networks that have been rolled out with the help of EU structural and rural funds. The House therefore advocates a "functional unbundling of access networks of market incumbents from their operating activities", so as to ensure fair and equal treatment of all operators. Moreover, for MEPs it is "imperative" that national regulators, competition authorities, national and local governments promote "more vigorous competition and investment in broadband markets". They should also take legal measures against abuses of dominant positions and cartels.
+2007-06-18
+20070615IPR07887 Building a European policy on broadband Text, as adopted by the EP on 19 June, will shortly be available here
+EN
+1
+LINK
+/oeil/file.jsp?id=5407032
+EN
+2
+LINK
+/activities/expert/ta/calendar.do?language=EN
+-//EP//DTD IM-PRESS 20050901 IPR DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 IPR DOC XML V0//EN

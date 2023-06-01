@@ -1,0 +1,35 @@
+Safer and easier e-money transactions
+Economic and monetary affairs
+2009-02-11 - 17:37
+E-money services - which store cash in electronic form - should be enhanced by boosting innovation and improving consumer confidence, according to the Economics Committee, which approved on Wednesday an update of the EU legal framework.
+The committee also backed a Commission proposal to update legislation on cross border payments between bank accounts, with the aim of eliminating remaining differences between national and European payments.
+E-money: room for market expansion
+Updating the existing legislation on e-money businesses to achieve a true single market, allowing the industry to expand, is the objective of the amendments approved in the first-reading vote on Wednesday by the Economic and Monetary Affairs Committee on a report from John Purvis (EPP-ED, UK).
+While welcoming the substance of the Commission proposal, MEPs amended the text to improve in particular the provisions protecting individuals' funds in case problems arise.
+Systems like the Belgium's "Proton, the French "Moneo" or the German " Geldkarte" are "electronic money" i.e. cash stored in electronic form. This can also work via an online payment account, a pre-paid mobile phone account or an electronic gift voucher. E-money is a payment option for those without access to bank account, such as children or recent immigrants.
+Facilitating innovation
+Decreasing the required initial capital could help innovation in this field. Members in committee decided that the threshold for setting-up an e-money institution (EMI) should go down from €1 million to just €200 000 -the Commission had proposed €125 000.
+Moreover, to encourage the growth of e-money services, the committee backed the proposal to delete the rule forbidding EMIs to provide any service other than that of e-money. The new provision would, for example, allow public transport stored-value cards like London's Oyster to act as e-money for other purchases.
+In July 2007, e-money systems in the EU carried an outstanding amount of €1 053 million, compared to €670 million in 2005.
+Boosting consumers' confidence in e-money services
+Electronic money institutions cannot use the funds received for e-money transactions to grant credit, MEPs insisted. Ensuring that all consumers can convert their electronic credit into cash is necessary to boost citizens' confidence and thus increase business in e-money.
+E-money issuers would be obliged to give the consumer, upon his request, the monetary value of his electronic credit at any time during the validity of the contract, according to an amendment approved by the committee. EMIs could charge a fee for redemption before the end of the contract only where this is clearly provided in the contract and is proportionate with the actual costs. At the end of the contract it should be free of charge.
+Cross-border payments: rules improved
+MEPs in the committee also adopted plans to update rules on cross border payments in line with recent developments, notably the creation of the Single Euro Payment Area.
+Their first reading co-decision report, drafted by Margarita Starkevičiūtė (ALDE, LT), supports the aim of facilitating electronic payments between different EU countries. MEPs amended the draft legislation to stress the obligation for Member States' competent authorities effectively to monitor the correct implementation of the legislation by financial institutions.
+For both reports: Procedure: Codecision, 1st reading -- Plenary vote: March I (Strasbourg) 2009-02-11 Committee on Economic and Monetary Affairs In the chair Pervenche Berès PES FR
+20090209IPR48766 Website of the Economic and Monetary Affairs Committee Legislative Observatory File (e-money) - text adopted will appear here in due course Legislative Observatory File (cross border payments) - text adopted will appear here in due course
+EN
+1
+LINK
+/activities/committees/homeCom.do?language=EN&body=ECON
+EN
+2
+LINK
+/oeil/file.jsp?id=5699642
+EN
+3
+LINK
+/oeil/file.jsp?id=5700232
+-//EP//DTD IM-PRESS 20050901 IPR DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 IPR DOC XML V0//EN

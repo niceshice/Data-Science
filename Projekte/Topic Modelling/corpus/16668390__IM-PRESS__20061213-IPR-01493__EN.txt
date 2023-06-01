@@ -1,0 +1,54 @@
+Parliament adopts REACH - new EU chemicals legislation and new chemicals agency
+Environment
+2006-12-13 - 12:31
+Parliament adopts REACH - new EU chemicals legislation
+Parliament adopted the compromise it negotiated with Council on the new regulation for chemicals, REACH, which will oblige producers to register all those chemical substances produced or imported above a total quantity of 1 tonne per year. Registration will affect about 30,000 substances. For more hazardous substances, producers will have to submit a substitution plan to replace them with safer alternatives.
+When no alternative exists, producers will have to present a research plan aimed at finding one. The compromise package agreed with the Council and tabled by 4 political groups (EPP-ED, PES, ALDE and UEN), was approved with 529 in favour, 98 against and 24 abstentions.
+The regulation will enter into force progressively from June 2007, and the registration process will take 11 years to be completed. The calendar for registration depends on the risk of the substance and the quantity produced. All covered substances will have to be registered by 2018. REACH also creates a new Chemicals Agency, to be based in Helsinki, which will be responsible for the authorisation process.
+Registration will affect about 30,000 substances. The calendar for registration depends on the risk of the substance and the quantity produced. All covered substances will have to be registered by 2018.
+European Parliament President Josep Borrell commenting on the EP adoption of REACH said: "This vote, on one of the most complex texts in the history of the EU, sets up an essential piece of legislation to protect public health and the environment from the risks of chemical substances, without threatening European competitiveness. It offers EU citizens true protection against the multitude of toxic substances in everyday life in Europe."
+REACH will replace the current dual system which differentiates between:
+- "new" chemicals, i.e. the roughly 3,000 substances placed on the market after 1981, the year since which formal authorisation has been required by Community legislation,
+- "existing" substances, placed on the market before 1981 and numbering around 100,000. REACH replaces the current 40 legislative texts with a single regulation establishing a single system called REACH (Registration, Evaluation and Authorisation of Chemicals).
+Helsinki Chemicals Agency
+REACH replaces the current 40 legislative texts with a single regulation establishing a single system called REACH (Registration, Evaluation and Authorisation of Chemicals). It also creates a new Chemicals Agency, to be based in Helsinki, which will be responsible for the registration and authorisation process.
+The authorisation process will cover about 3 000 substances considered more dangerous. The Agency will be responsible to authorise them and the producers will have to present either replacement proposals or research plans to develop alternatives. The authorisation will be for a limited time period.
+The regulation transfers the burden of proof regarding testing and evaluation of the risks of chemicals from the authorities to industry.
+It also includes obligations of duty of care for the industry and of communication to the public about dangerous substances in products. It also includes safeguards for confidential information and provisions to avoid duplication of animal testing.
+The issues at second reading
+The EP Environment Committee, voting on 10 October 2006, adopted a very firm position by 42 votes to 12 with six abstentions. Essentially following the recommendations of its rapporteur Guido Sacconi (PES, IT), it made no less than 172 amendments to the Council text, seeking to reinstate several points from first reading which had not been accepted by the Member States. Apart from the substitution of the most hazardous substances, the amendments related to the operators' "duty of care", a compulsory chemical safety report for chemicals in amounts of less than 10 tonnes and the promotion of alternatives to animal testing.
+A series of trialogues - EP, Council and Commission - was then held to narrow the gap between the different institutions and, if possible, clinch an agreement on REACH at second reading so that it can be implemented swiftly. The talks concluded successfully on 30 November after the sixth trialogue, less than a week before the deadline (6 December at 6pm) for tabling amendments for the plenary vote.
+The amendments adopted on 13 December reflect the compromise thrashed out with representatives of the Member States, the REACH regulation, once rubber-stamped by the Council, will enter into force progressively from June 2007.
+The main features of the compromise struck between Parliament and the Council and adopted by the European Parliament are:
+- Authorisation of hazardous substances
+For the most dangerous substances, there will be an obligation for producers to submit a substitution plan to replace them with safer alternatives. Where no alternative exists, producers will have to present a research and development plan aimed at finding one. Under a review clause, it will be decided after six years, on the basis of the latest scientific data, whether endocrine disruptors should be included in a list of substances which can only be authorised in the light of an analysis of their socio-economic costs and benefits. A clause was agreed to review after six years, on the basis of the latest scientific data, the inclusion of these substances among those which can only be authorised in the light of an analysis of the socio-economic costs and benefits.
+- Registration of substances
+The Commission must decide in 12 years' time whether or not to recommend extending the requirement for chemical safety reports for substances produced or imported in amounts of less than 10 tonnes per year. This deadline was shortened to seven years for cancerous or mutagenic substances or those toxic to reproduction. The intellectual property provisions were strengthened, with data protection extended from three to six years.
+- Duty of care
+As MEPs wanted, the "duty of care" principle will be enshrined in the regulation. It will be in a recital stipulating that the manufacturing, import or placing on the market of substances must be done prudently and responsibly, to ensure that, under reasonably foreseeable circumstances, human health or the environment are not adversely affected. This will involve collecting all necessary information on the substances in question and relaying all recommendations about risk management along the distribution chain.
+- Animal welfare
+The promotion of alternatives to the animal testing of chemicals, an issue of prime concern to MEPs, is now included among the goals of REACH. To avoid duplication of animal testing, interested parties will have 45 days to state their views before each new plan for animal tests. Information on toxicity to human beings should if possible be discovered using means other than tests on vertebrate animals, through alternative methods such as in vivo procedures. These alternative methods must be validated by the Commission, once recognised by the agency, or international institutions. The Commission will submit a report every three years on the use of alternative tests and, if necessary, bring forward fresh legislative proposals.
+- Evaluation of substances
+Parliament will appoint two members of the Helsinki-based European Chemicals Agency and the Executive Director will have to undergo a hearing with MEPs before his/her appointment is confirmed. However, Parliament's demands for guarantees of the independence of the agency's members vis-à-vis industry and the publication of declarations of interest were not accepted.
+- Communication of information
+A clause was added on the duty to inform the public about dangerous substances contained in products. The distribution chain, including consumers who request it, must be informed of the presence of any chemical in an amount greater than 0.1% of the total product weight. The Commission must consider the possibility of establishing a European quality mark for chemical products.
+- Comitology
+The Council accepted a number of amendments bringing REACH into line with the new comitology provisions, which give the EP a right of scrutiny over certain Commission decisions.
+Entry into force
+Following the compromise, REACH is due to enter into force progressively from 1 June 2007.
+20061213IPR01493 European Chemicals Agency (REACH) Amendment of Directive 67/548/EEC on dangerous substances (REACH) European Parliament position at first-reading
+EN
+1
+PHOTO
+20061213PHT01494.jpg
+EN
+2
+LINK
+/oeil/file.jsp?id=237952
+EN
+3
+LINK
+/oeil/file.jsp?id=237962
+-//EP//TEXT IM-PRESS 20051118IPR02581 0 NOT XML V0//EN
+-//EP//DTD IM-PRESS 20050901 IPR DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 IPR DOC XML V0//EN

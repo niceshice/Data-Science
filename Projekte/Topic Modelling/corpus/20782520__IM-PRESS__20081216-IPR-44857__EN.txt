@@ -1,0 +1,48 @@
+European Parliament seals climate change package
+2009 elections
+Environment
+2008-12-17 - 12:06
+After eleven months of legislative work, the European Parliament gave its backing to the EU's climate change package which aims to ensure that the EU will achieve its climate targets by 2020: a 20% reduction in greenhouse gas emissions, a 20% improvement in energy efficiency, and a 20% share for renewables in the EU energy mix.
+Ahead of Parliament's first-reading vote, MEPs had reached informal agreements with the French Presidency on the six proposals which all fall under the co-decision procedure, placing the European Parliament and Council on an equal footing as co-legislators. (Full details on the six pieces of legislation can be found in the background note - see link below)
+Revising the EU's Emission Trading System - report by Avril Doyle (EPP-ED, IE)
+The revised EU Emission Trading System (ETS) is a key tool for achieving the EU's aim of reducing its greenhouse gas emissions. It will apply from 2013 to 2020 and should lead to a reduction in greenhouse gas emissions of 21 % compared to reported 2005 levels. The EU ETS is a "cap and trade" system: it caps the overall level of emissions allowed but, within that limit, allows participants buy and sell allowances as they require, so as to cut emissions cost effectively. The Community-wide quantity of allowances issued each year will decrease in a linear fashion, so as gradually to reduce the overall level of emissions each year.
+The ETS currently covers over 10,000 installations in the energy and industrial sectors, which are collectively responsible for close to half of the EU's emissions of CO2 and 40% of its total greenhouse gas (GHG) emissions (the remaining 60 % will be covered by the 'non-ETS' Effort Sharing decision).
+In the first and second ETS trading periods (2005 -2012) the great majority of allowances were allocated free of charge to installations. The revised directive establishes auctioning from 2013 in principle (as proposed by the Commission and backed by the Environment Committee) but it includes several exceptions, as advocated by the European Council on 12 December 2008.
+The legislative resolution was adopted with 610 votes in favour 60 against and 29 abstentions.
+Effort sharing: Member States targets for CO 2 reduction - report by Satu Hassi (Greens/EFA, FI)
+The "effort sharing" decision sets binding national targets for each EU Member State to reduce greenhouse gas emissions from non-ETS sources (e.g. road and sea transport, buildings, services, agriculture and smaller industrial installations), between 2013 and 2020. These sources currently account for about 60% of all EU greenhouse gas emissions. The decision aims to reduce these emissions by 10% overall between 2013 and 2020, so as to contribute towards the EU's overall aim of a 20% reduction in total greenhouse gas emissions by 2020. The effort sharing decision is the first of its kind worldwide.
+National targets for UK and Ireland
+Member State greenhouse gas emission limits by 2020 compared to 2005 greenhouse gas emission levels for sources not covered under Directive 2003/87/EC:
+Ireland - minus 20%
+United Kingdom - minus 16%
+The legislative resolution was adopted with 555 votes in favour, 93 against and 60 abstentions.
+Equipping power plants to store CO 2 underground - report by Chris Davies (ALDE, UK)
+Parliament also approved a proposed directive providing for the legal framework for the new carbon dioxide capture and storage technology (CCS). To cut their CO2 emissions, industrial installations and power plants could in future use this new technology to capture CO2 and store it "permanently and safely underground" in geological formations. MEPs secured the funding of demonstration projects by ensuring that 300 million ETS allowances will be awarded to large scale CCS projects in the EU.
+The legislative resolution was adopted with 623 votes in favour, 68 against and 22 abstentions.
+20% renewable energy in the EU's energy mix by 2020 - report by Claude Turmes (Greens/EFA, LU)
+A new directive will lay down mandatory national targets to be achieved by the Member States through promoting the use of renewable energy in the electricity, heating and cooling, and transport sectors in order to ensure that by 2020 renewable energy makes up at least 20% of the EU's total energy consumption. The agreement foresees that by 2020 renewable energy - biofuels, electricity and hydrogen produced from renewable sources - account for at least 10% of the EU's total fuel consumption in all forms of transport.
+The legislative resolution was adopted with 635 votes in favour, 25 against and 25 abstentions.
+National targets for UK and Ireland
+National overall targets for the share of energy from renewable sources in final consumption of energy in 2020.
+Share of energy from renewable sources in final consumption of energy, 2005 (S 2005 )
+UK - 1.3%
+Ireland - 3.1%
+Target for share of energy from renewable sources in final consumption of energy, 2020 (S 2020 )
+15% UK
+16% Ireland
+Reducing CO 2 emissions from new cars - report by Guido Sacconi (PES, IT)
+A new regulation will set emission performance standards for new passenger cars registered in the EU. The compromise backs the Commission's proposed target of an average of 120g of CO2/km for the whole car industry by 2012, compared to the current levels of 160g/km. The regulation sets an average target of 130g CO2/km for new passenger cars to be reached by improvements in vehicle motor technology. It will be supplemented by additional measures to achieve a further 10g/km reduction, so as to reach the 120g/km target, through other technical improvements. The compromise introduces a long term target for 2020 for the new car fleet of average emissions of 95 g CO2/km.
+Manufacturers will be given interim targets of ensuring that average CO2 emissions of 65% of their fleets in January 2012, 75% in January 2013, 80% in January 2014 and 100% from 2015, have to comply with each manufacturer's specific CO2 emissions target. In case the average emissions of CO2 exceed the targets, manufacturers will have to pay fines.
+The legislative resolution was adopted with 559 votes in favour, 98 against and 60 abstentions.
+Less greenhouse gas emissions from fuels - report by Dorette Corbey (PES, NL)
+The revised fuel quality directive requires fuel suppliers to reduce greenhouse gas emissions caused by extraction or cultivation, including land-use changes, transport and distribution, processing and combustion of transport fuels (i.e. fossil fuels like petrol, diesel and gas-oil and also biofuels, blends, electricity and hydrogen) of up to 10% by 2020.
+The legislative resolution was adopted with 670 votes in favour, 20 against and 25 abstentions.
+20081216IPR44857 Background Note : Climate Change Package up for plenary vote Briefing article : Climate change and energy package 20 20 20 by 2020 Text, as adopted by the EP, will be available here (click on 17 December)
+EN
+3
+LINK
+/activities/plenary/ta/calendar.do?language=EN
+-//EP//TEXT IM-PRESS 20081208BKG44004 0 NOT XML V0//EN
+-//EP//TEXT IM-PRESS 20081208BRI43933 ITEM-002-EN NOT XML V0//EN
+-//EP//DTD IM-PRESS 20050901 IPR DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 IPR DOC XML V0//EN

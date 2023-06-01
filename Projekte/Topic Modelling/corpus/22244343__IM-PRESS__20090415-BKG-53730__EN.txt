@@ -1,0 +1,100 @@
+Further liberalisation of the EU electricity and gas markets
+Energy
+2009-04-20 - 15:40
+New rules to further liberalise the European electricity and gas markets and to strengthen consumer rights will be put to a second-reading plenary vote on 22 April after an agreement with the Council Presidency.
+MEPs have reached an informal agreement with the Council Presidency on the "third energy package", proposed by the Commission in September 2007, for the liberalisation of the EU's electricity and gas markets. The package consists of:
+- a directive on rules for the EU internal electricity market - EP rapporteur: Eluned Morgan (PES, UK),
+- a directive on rules for the EU internal natural gas market - EP rapporteur: Antonio Mussa (UEN, IT),
+- a regulation on conditions for access to the electricity network - EP rapporteur: Alejo Vidal-Quadras (EPP-ED, ES),
+- a regulation on conditions for access to the natural gas network - EP rapporteur: Atanas Paparizov (PES, BG), and
+- a regulation setting up the Agency for the Co-operation of Energy Regulators - EP rapporteur: Giles Chichester (EPP-ED, UK).
+Member States will have one and a half years to put most of the new rules into effect.
+This background note gives an overview on the most important aspects of the legislative package.
+20090415BKG53730
+Separating transmission network operations from supply and production
+Member States will have to choose among three options for separating supply and production activities from gas and electricity transmission networks:
+full ownership unbundling (Morgan/Mussa article 9),
+the independent system operator (ISO) (Morgan article 13 / Mussa article 14), or
+the independent transmission operator (ITO) (Morgan chapter V / Mussa chapter IV).
+These three "unbundling" options will apply to transmission networks - such as the high-voltage power lines which connect distant power plants to sub-stations in populated regions or in another Member State. Distribution networks, by contrast, are the local grids which deliver energy from the transmission network to consumers.
+Member States will have one and a half years to transpose one of these options into national law. (Morgan article 48/ Mussa article 53)
+Ownership unbundling
+If a Member State decides to impose full ownership unbundling, all integrated energy companies would have to sell off their gas and electricity grids, thus establishing separate transmission system operators which handle all network operations. In this case, no supply and production company would be allowed to hold a majority share in a transmission system operator, stipulates the compromise text agreed by MEPs and the Council (Morgan/Mussa article 9).
+Major new gas infrastructure, such as pipelines connecting various Member States, liquid natural gas and storage facilities, could be exempted from unbundling requirements, says the text, in order to support investments which strengthen competition and security of supply (Mussa article 35).
+Independent system operator
+As alternatives to ownership unbundling, the ISO and ITO options allow energy companies to retain the ownership of their transmission networks.
+Under the ISO option, Member States could oblige integrated energy companies to hand over the technical and commercial operation of their transmission networks to a separate body designated by the Member State - the independent system operator (ISO) (Morgan article 13 / Mussa article 14).
+Independent transmission operator
+The ITO model preserves integrated production, supply and transmission companies but compels them to conform to certain rules to ensure that these two sections of the company operate independently in practice:
+a “supervisory body” - composed of energy company representatives, third party shareholders, and transmission system operator representatives - will take the decisions “which may have a significant impact on the value of the assets of the shareholders” (Morgan / Mussa article 20),
+a “compliance programme” will set out measures that prevent “discriminatory conduct”; (Morgan / Mussa article 21),
+a “compliance officer” will monitor the implementation of the compliance programme; (Morgan / Mussa article 21),
+mandatory "cooling-off" periods ensure that management staff cannot work for the supply and generation company for three years before and for four years after being employed with the transmission system operator (Morgan / Mussa article 19), and
+all commercial and financial agreements between the integrated company and the transmission system operator will have to be approved by the national regulatory authority (Morgan article 36 / Mussa article 40).
+Level playing field
+Since Member States may choose between the three options, the new legislation will also allow them to take "proportionate, non-discriminatory and transparent" measures to ensure a level playing field for all energy companies operating on their territory (Morgan article 42, Mussa article 46).
+Non-EU companies
+The legislative package also includes provisions to prevent control of transmission systems or their owners by companies from non-EU countries until they fulfil certain conditions, i.e. a national regulator will have the right to refuse certification of a transmission system operator controlled by "a person or persons from a third country", if:
+- this company does not comply with the unbundling requirements, and
+- its market entry would jeopardise the Member State's or the EU's security of supply (Morgan/Mussa article 11) .
+EU countries will have three and a half years to give effect to the provisions concerning non-EU companies. (Morgan article 48 / Mussa article 53). Directive on the EU internal market in electricity Directive on the EU internal market in natural gas Parliament's first reading of the electricity market legislation Parliament's first reading of the gas market legislation
+Improved consumer rights
+MEPs insisted that the new legislation must also strengthen consumer rights. In the future, customers will have the right:
+to change their gas and electricity suppliers within three weeks and free of charge,
+to receive the final closure account at the latest six weeks after switching suppliers,
+to receive all relevant gas and electricity consumption data,
+to compensation if service quality levels are not met (e.g. inaccurate and delayed billing),
+to "independent mechanisms" for efficient processing of complaints and out-of-court dispute settlements, such as an energy ombudsman or a consumer body,
+to choose between different payment methods,
+to be informed, on their bills and in promotional material, about the contribution of the different energy sources to the electricity supplier's fuel mix,
+to information, e.g. on web-pages, on the environmental impact of the supplier's electricity production such as CO2 emissions or radioactive waste, and
+to information on their rights, which must be "clearly communicated" through bills and company websites (Morgan / Mussa article 3 plus annex A).
+The Commission should put forward a clear and concise "Energy Consumer Checklist", of practical information on consumer rights, says the compromise text. (Morgan/Mussa article 3).
+Smart meters
+Subject to an economic assessment, at least 80% of electricity consumers should have access to intelligent metering systems by 2020, says the text (Morgan annex A). Such "smart meters" measure consumption in detail - for example, they are able to provide the specific time when energy is consumed. This technology would enable suppliers to offer different tariffs for consumption based on the time of day and season.
+Universal service supply of electricity
+Member States are obliged to guarantee universal service supply of electricity to all household customers and, if necessary, small enterprises (with fewer than 50 employees and an annual turnover or balance sheet of less than €10 million), says the new legislation. Those customers would then have the right to be supplied with electricity of a specified quality at "reasonable, easily and clearly comparable, transparent and non-discriminatory prices" (Morgan article 3).
+Protecting vulnerable consumers
+At Parliament's initiative, the new legislation includes special protection measures for vulnerable energy consumers. EU countries should take "appropriate measures” to address energy poverty, such as National Energy Action Plans, social security benefits to guarantee the necessary energy supply to vulnerable customers or support for energy efficiency improvements, says the text (Morgan/Mussa article 3). Directive on the EU internal market in electricity Directive on the EU internal market in natural gas
+Better cross-border co-operation
+Member States and national regulatory authorities should co-operate at regional level "as a first step towards a fully liberalised internal market", says the text (Morgan article 6 / Mussa article 7).
+Co-operation in emergency situations
+The legislation also seeks to promote "regional solidarity". It requires Member States to co-operate in the event of "severe disruptions" of gas supply, by co-ordinating national emergency measures or developing and upgrading electricity and gas interconnections (Mussa article 6).
+Agency for the Co-operation of Energy Regulators
+To strengthen EU-wide co-operation, the third energy package sets up a new EU Agency for the Co-operation of Energy Regulators. The agency will, for example, monitor the implementation of new interconnection projects and regional co-operation among transmission system operators (Chichester article 6).
+The new agency should also co-operate with national regulators and transmission system operators to ensure that the different regulatory frameworks are compatible between regions, says the text. (Morgan article 6 / Mussa article 7).
+The agency may also take regulatory decisions in cases where different national regulators are not able to agree within six months on the terms and conditions for access to cross-border infrastructure, agreed MEPs and Council (Chichester article 8).
+European Networks of Transmission System Operators for Electricity and Gas
+The legislative package also establishes European Networks of Transmission System Operators (ENTSOs) for Electricity and Gas, through which all transmission system operators will co-operate at EU level, in order to ensure the "sound technical evolution" of the European electricity and gas transmission networks (Vidal-Quadras/Paparizov article 4).
+Common network codes
+The new agency will establish non-binding framework guidelines, says the text (Vidal-Quadras/Paparizov article 6). On the basis of these guidelines, the agency and ENTSOs will develop binding network codes - e.g. on interoperability, operational procedures in an emergency, and energy efficiency of the networks - to ensure the "optimal management" of the European transmission network (Vidal-Quadras/Paparizov articles 4 and 8). These binding network codes will have to be approved by the Commission, stipulates the regulation (Vidal-Quadras/Paparizov articles 6 and 8). Regulation on the conditions for access to the electricity network Regulation on the conditions for access to the gas network Regulation establishing an Agency for the Co-operation of Energy Regulators
+Infrastructure investments
+The new rules require all transmission system operators to submit to the national regulatory authorities each year a 10-year network development plan based on existing and forecast supply and demand. This plan should indicate the main transmission infrastructure which needs to be built or upgraded over the next ten years, says the text (Morgan / Mussa article 22).
+To identify investment gaps, especially in cross-border capacities, the ENTSOs will have to publish every two years a non-binding EU-wide 10-year network development plan, based on the national network development plans, states the new legislation (Vidal-Quadras/Paparizov article 8).
+The national regulator may require a transmission operator to amend its 10-year network development plan if it is not in line with the EU-wide plan (Morgan / Mussa article 22 paragraph 5). Moreover, the directives enable national regulators to take measures to ensure that the investments listed in the network development plan are actually made (Morgan / Mussa article 22). Directive on the EU internal market in electricity Directive on the EU internal market in natural gas
+Truly independent national regulators
+The legislative package also aims to guarantee that all national regulatory authorities are independent, both of governments and of industry interests. Each Member State must guarantee that its national regulatory authority exercises its powers "impartially and transparently", say the two directives (Morgan article 34 /Mussa article 38).
+To protect the national regulator's independence, a Member State will have to ensure that:
+- the regulator has separate annual budget allocations and can autonomously implement this budget
+- the members of the regulator's board or top management are appointed for a fixed term of five to seven years, renewable once.
+Regulatory powers
+The new laws also strengthen the national regulators' powers and duties, for example, to:
+- fix or approve regulated transmission or distribution tariffs,
+- ensure that there are no cross-subsidies between transmission, distribution and supply activities,
+- issue binding decisions on energy companies, and
+- impose "effective, proportionate and dissuasive penalties" on energy companies that fail to comply with third energy package requirements, including penalties of up to 10% of the company's annual turnover (Morgan article 36 / Mussa article 40). Directive on the EU internal market in electricity Directive on the EU internal market in natural gas
+-//EP//TEXT REPORT A6-2009-0216 0 NOT XML V0//EN
+-//EP//TEXT REPORT A6-2009-0238 0 NOT XML V0//EN
+-//EP//TEXT IM-PRESS 20080616IPR31781 0 NOT XML V0//EN
+-//EP//TEXT IM-PRESS 20080708IPR33699 0 NOT XML V0//EN
+-//EP//TEXT REPORT A6-2009-0216 0 NOT XML V0//EN
+-//EP//TEXT REPORT A6-2009-0238 0 NOT XML V0//EN
+-//EP//TEXT REPORT A6-2009-0213 0 NOT XML V0//EN
+-//EP//TEXT REPORT A6-2009-0237 0 NOT XML V0//EN
+-//EP//TEXT REPORT A6-2009-0235 0 NOT XML V0//EN
+-//EP//TEXT REPORT A6-2009-0216 0 NOT XML V0//EN
+-//EP//TEXT REPORT A6-2009-0238 0 NOT XML V0//EN
+-//EP//TEXT REPORT A6-2009-0216 0 NOT XML V0//EN
+-//EP//TEXT REPORT A6-2009-0238 0 NOT XML V0//EN
+-//EP//DTD IM-PRESS 20050901 BKG DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 BKG DOC XML V0//EN

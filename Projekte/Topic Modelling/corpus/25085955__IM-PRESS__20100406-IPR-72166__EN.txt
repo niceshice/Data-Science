@@ -1,0 +1,25 @@
+SWIFT: MEPs want to limit data transfers to USA
+Justice and home affairs
+Committees Civil Liberties, Justice and Home Affairs
+2010-04-08 - 10:42
+MEPs called on Wednesday for bulk transfers of personal data to the USA to be avoided, if necessary by processing them within the EU, and for Europe's citizens to be guaranteed the right of appeal to the US authorities. These demands were made in a debate on the key points of a new draft accord on transfers of bank data to the United States for anti-terrorism purposes.
+The EP Civil Liberties Committee was discussing the negotiating mandate adopted by the European Commission on 24 March for a new agreement on bank data exchanges with the United States to combat terrorism. On 11 February the European Parliament had rejected the previous draft agreement.
+The new draft mandate, access to which is limited although MEPs have been allowed to see it, will be considered by the Council on 23 April, to enable talks with the USA to begin. The Commission wants to have an agreement signed by the end of June. Parliament's consent is required for any accord to enter into force.
+Bulk data transfers: needle in a haystack
+"There is still talk, in these guidelines, of bulk data transfers", complained rapporteur Jeanine Hennis-Plasschaert (ALDE, NL). "Even with this new mandate, the idea would be to transfer 90 million pieces of data each month!". Yet "even the smallest bank is capable of individualising data", argued Birgit Sippel (S&D, DE). "We must avoid bulk data transfers from the start", added Simon Busuttil (EPP, MT). "There is a clear political will on this matter. For us, it's a key point".
+"The United States is looking for a needle and we're sending them the entire haystack", complained Sophie In't Veld (ADLE, NL), rapporteur on transfers of passenger name records (PNR). She added "the Koreans, Indians and Saudis will be asking us for data too, so let's not create a precedent" with SWIFT.
+SWIFT did not allow an individualised approach, according to the Commission representative, Jonathan Faull. He did not think the haystack could be whittled down entirely but he promised safeguards to ensure that data was not exploited for any purpose other than the fight against terrorism.
+MEPs propose data processing at European level
+"I am a bit disappointed the Commission hasn't tried to find an alternative" to a SWIFT agreement, said Jeanine Hennis-Plasschaert. She feared that it all remained too general and did not deal with the long-term issues, in particular the option of a "dual approach" in which data would be processed on EU territory before being transferred. "Couldn't we do the work of processing the data in Europe to avoid these bulk transfers?" asked Stavros Lambrinidis (S&D, EL), who was concerned that the new mandate did not cover possible transfers of data from the United States to other non-EU countries. "We would be reassured if the American authorities were committed to dealing with an agency like Europol rather than dealing directly with SWIFT", argued Simon Busuttil.
+Could EU citizens appeal to US authorities?
+The question whether EU citizens would have a right of appeal to the American authorities if their personal data were misused was also discussed. "There too, we'd like to have more detail", said Simon Busuttil. "Would a European citizen have the same rights in the United States as an American citizen?", he asked. "Our starting point is that European citizens must have the same rights", replied Jonathan Faull, but "the US privacy act is discriminatory" in this matter, he added.
+Doubts about constitutionality of future accord
+"We have a duty to assess this in constitutional terms", maintained Jan-Philipp Albrecht (Greens/EFA, DE), who believed the draft mandate "does not guarantee respect for the Charter of Fundamental Rights". "Think of the recent judgment of the German Constitutional Court on data retention. There is a risk that Germany will feel impelled to reject this mandate on constitutional grounds". He also urged that Parliament request the opinion of the Court of Justice on the envisaged agreement, as provided for in the Treaty, and that it do so before the negotiations finish.
+In the chair: Juan Fernando López Aguilar (S&D, ES)
+20100406IPR72166 Committee on Civil Liberties, Justice and Home Affairs
+EN
+1
+LINK
+/activities/committees/homeCom.do?language=EN&body=LIBE
+-//EP//DTD IM-PRESS 20050901 IPR DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 IPR DOC XML V0//EN

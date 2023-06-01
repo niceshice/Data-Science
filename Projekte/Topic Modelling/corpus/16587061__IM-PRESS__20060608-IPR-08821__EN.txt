@@ -1,0 +1,17 @@
+Ensuring free public access to environmental data
+Environment
+2006-06-13 - 14:39
+INSPIRE – or Infrastructure for Spatial Information in the European Community – is a Commission proposal aiming to create a system for access to and exchange of spatial information needed to monitor the state of the environment, in particular the quality of air, water, soil and the countryside. The European Parliament is aiming to ensure free public access to this information as the legislation returns at second reading.
+INSPIRE aims to involve citizens more in environmental policy, give a larger role to local and regional authorities in the field and to enable better targeting and efficiency of environmental action at a cross-border level.
+At its first reading Parliament aimed to reduce the obstacles in the way of public authorities seeking to share data and to reinforce the subsidiarity principle in the operation of INSPIRE, ensuring Member States and their local and regional authorities all play their proper part. Parliament also decided that intellectual property rights should not prevent the supply of data, although there was room for special access conditions. Altogether, some 49 amendments were adopted at first reading.
+When it agreed its Common Position, the Council took account of just ten or so of these amendments, rejecting all of the most significant. The Environment Committee is therefore proposing that Parliament should reinstate them, including the removal of intellectual property rights from the list of exceptions to the general rule of access to data.
+Free access, according to the committee, should without payment for members of the public - not only for those searching the data, but also for those consulting the data itself. MEPsare willing to take account of the costs of providing information to other public authorities, but in any case a fee should be limited to the costs actually incurred in processing the request.
+The plenary session followed the advice of the Environment Committee and reinstated the main first reading amendments, the issue is therefore likely to go to conciliation. Parliament and Council will have to agree on a joint text before the measure can be finally adopted.
+At the July plenary session, Parliament is scheduled to consider a third reading of legislation dealing with the similar issue of access to environmental data, specifically the application of the Aarhus convention to the EU institutions.
+20060608IPR08821 Public access to information: legal framework for an infrastructure for spatial information in Europe (INSPIRE) specially for monitoring environmental policy
+EN
+1
+LINK
+/oeil/file.jsp?id=5192262
+-//EP//DTD IM-PRESS 20050901 IPR DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 IPR DOC XML V0//EN

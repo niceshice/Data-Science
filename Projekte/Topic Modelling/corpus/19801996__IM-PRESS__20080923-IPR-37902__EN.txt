@@ -1,0 +1,43 @@
+Telecoms: better services for consumers and a safer internet
+Industry
+2008-09-24 - 13:37
+Malcolm Harbour MEP on better services for consumers and a safer internet The European Parliament adopted a legislative report at first-reading aimed at providing wider access to telecoms services, more information for consumers and stronger data protection. All the major political groups in Parliament agreed a compromise before the plenary vote which does not alter the main goal of the draft legislation - to improve the position of telecom users - but they greatly clarify its aims, notably as regards protection of privacy and fundamental rights.
+Right to universal service
+In a report by Malcolm Harbour (EPP-ED, UK) on the directive on universal service requirements for telecoms operators, Parliament's amendments beef up the obligations for operators to provide a minimum service of specific quality at an affordable price for everyone. Under current EU law, this "universal service" includes public phone services, free emergency numbers (the European number 112 and national numbers), an information service and phone directory, and sufficient geographical coverage with public payphones and other telecom access points. The EP wants the Commission by autumn 2008 to submit plans to include mobile phone and broadband in the scope of universal service rules. The report was adopted with 548 votes in favour, 88 against and 14 abstentions.
+Better information and protection for users
+Parliament goes further than the Commission on consumer rights to information on prices, tariffs and contract conditions. MEPs say that contracts must give full, clear and up-to-date details of access to emergency services, restrictions on content or equipment use (e.g. blocking of VOIP services on mobiles supposed to provide internet access), client and after-sales services, payment methods and charges for number portability or for terminating a contract.
+Emergency numbers, disabled rights
+The European emergency number 112 needs to be better known, say MEPs, and emergency phone services must be more widely available in the EU, including in network breakdowns during a disaster. Member States must ensure access to the European emergency number 116 for when a child disappears. In addition, users must be able to call all EU numbers, including emergency numbers, whether using landline, mobile or VOIP.
+Disabled people must have the same access rights to telecom services as other users and more equipment needs to be provided that is suited to their needs.
+Number portability and duration of contracts
+MEPs back the Commission proposal that number transfers to a new provider should be completed in one day but they add a provision for sanctions on operators who fail to comply. However, they would also allow the national regulator to extend this period to prevent subscribers being switched without their knowledge to a new operator from one day to the next ("slamming"). MEPs also want to harmonise the maximum length of contracts at 24 months but allow subscribers to cancel the contract after 12 months.
+Technological neutrality
+The EU legislation says that Member States should not impose any mandatory technical requirements on telecom devices, if this would act as a restraint on trade in such equipment within the internal market. However, some technical constraints may be justified, e.g. an operator could legally block some functions of a SIM card to limit the client's access to rival networks if the user had agreed to use only that operator's network in exchange for cheap equipment. The client must be informed of this before signing up.
+Data protection
+Turning to the legislation on personal data privacy in the telecoms sector, the existing directive already harmonises some national rules on the protection of fundamental rights in this area. MEPs want it to clearly cover the right to privacy and confidentiality as well as to security of information technology systems. Data protection rules must cover private and not just public networks, so data stored on social networking sites such as Facebook and Myspace will be covered by the rules.
+Network security and spam
+Access providers must take steps to combat violations of security but MEPs go further. A security violation such as the theft of a client list must be notified to the regulator by the operator. Users must be warned of any infringement of their personal data if the case is serious enough to warrant it, and the perpetrator could be prosecuted by the Member State. Other amendments by Parliament would boost protection against spam, cookies, viruses, trojans and spyware.
+Information as a preventive measure
+All subscribers must be given information by operators on unlawful activities such as the distribution of content that infringes copyright. Consumers must also be given information on ways of protecting their personal data.
+Parliament says that national authorities should be able to produce and have disseminated, with the aid of providers, public interest information related to the use of communications services (public interest warnings regarding copyright infringement, other unlawful uses and dissemination of harmful content, advice and means of protection against risks to personal security, etc.). Regulators should also encourage cooperation between operators and anyone with an interest in promoting legal content.
+Community law does not define what content is lawful or harmful, nor any penalties, since this is up to each Member State. However, all consumers must be informed of national rules on this.
+20080923IPR37902 Electronic communications: universal service, users' rights relating to networks and services, processing of personal data, protection of privacy, consumer protection cooperation ("Telecoms Package" [amend. Directives 2002/22/EC, 2002/58/EC and Regulation (EC) No 2006/2004]) Text, as adopted by the EP, will be available here (click on 24 September) Telecoms: fair competition and flexible spectrum allocation to boost new wireless services - other three reports Press Conference - - Rapporteurs Trautmann, Del Castillo, Harbour and Alvaro - EN
+EN
+1
+PHOTO
+20080922PHT37839.jpg
+EN
+2
+LINK
+/oeil/file.jsp?id=5563642
+EN
+3
+LINK
+/activities/plenary/ta/calendar.do?language=EN
+EN
+5
+MULTIMEDIA
+20080924MLT38066.asf
+-//EP//TEXT IM-PRESS 20080923IPR37898 0 NOT XML V0//EN
+-//EP//DTD IM-PRESS 20050901 IPR DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 IPR DOC XML V0//EN

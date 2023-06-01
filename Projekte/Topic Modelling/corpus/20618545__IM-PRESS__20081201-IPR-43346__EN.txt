@@ -1,0 +1,26 @@
+Future price cap proposals for mobile phone roaming services debated
+Information society
+2008-12-02 - 16:01
+Price caps for sending text messages abroad and other data roaming services such as video downloads or mobile TV were debated at a hearing of Parliament's Industry Committee on Tuesday. MEPs also discussed with mobile operators, regulators and consumer organisations whether there was a need to set voice-call roaming price caps for 2010-13.
+"Retail and wholesale price caps for roaming calls are unfortunately still necessary", said Parliament's rapporteur Adina-Ioana Vālean (ALDE, RO) because "many charges remain disproportionately high". Regulation should, however, "continue to be an exceptional measure" as "a healthy roaming market will not be able to prosper under a long-term regulation", she said.
+Set Eurotariffs for 2010 to 2013?
+The Commission proposes to extend the existing regulation, which expires in 2010, by setting new Eurotariffs as maximum retail charges for roaming calls. Home operators may currently charge their customers a maximum of €0.46 per minute (excluding VAT) for outgoing roaming calls and a maximum of €0.22 per minute (excluding VAT) for incoming ones. The Commission proposes to lower this price ceiling to EUR 0.34 for calls made and EUR 0.10 for calls received in July 2012.
+The Commission's proposed retail and wholesale roaming voice-call price caps for 2010 to 2013 leave a margin for profit even to the highest cost operators, said Dániel Pataki of the European Regulators Group. He estimated that billing per second would remove approximately 80% of hidden charges added to roaming call bills by operators' charging by minute.
+Levi Nietvelt of the European Consumers' organisation BEUC called for still lower voice retail costs by setting price caps at EUR 0.23 for making and EUR 0.11 for receiving phone calls abroad. Martin Whitehead of the association of mobile phone operators GSMA Europe, on the other hand, said that the review of the 2007 regulation was "premature" as it was initially based on 9 months figures. He explained that roaming call prices were 10% below the Eurotariff caps.
+Syed Kamall (EPP-ED, UK), who will draft the Internal Market Committee's opinion on the proposed regulation, warned of "Soviet-style economics". The new regulation should take account of different business models, he stressed, as companies could make profit in one part of business while losing in others. He was worried that "the very poorest in society are paying more for domestic calls" to make up for lower roaming tariffs.
+Patrizia Toia (ALDE, IT), however, was convinced that "when prices are unrealistically high and there is no technical reason for it, it is inevitable to have a Eurotariff mechanism as a temporary measure".
+Cutting the prices of roamed text messages
+The Commission's proposed price cap of EUR 0.11 for roaming text messages would actually be below the domestic level in many Member States, warned Mr Whitehead. Erzsebet Fitori of the European Telecoms Associations ECTA agreed with him stressing that a higher SMS roaming cap of EUR 0.15 "is still reasonably low but allows for more competition below this cap".
+Avoid bill shocks caused by data roaming
+Mr Nietvelt reported that a Belgian customer had suffered a bill of more than EUR 19 000. Consumers should be protected from such "bill shocks", he stressed, stating that a five-minute movie download abroad can cost up to EUR 100. Ms Fitori advocated a wholesale price cap for data roaming of EUR 0.25 per megabyte - a price already offered by some smaller operators. The Commission proposes a ceiling of EUR 1 per megabyte.
+Paul Rübig (EPP-ED, AT) said that his own mobile operator had advised him against downloading a YouTube video while travelling in Cyprus because one megabyte would have cost EUR 14.
+Answering a question by Reino Paasilinna (PES, FI) on "the future of this Formula One competition", Christian Salbaing of alternative mobile operator Hutchison Europe stressed that there was "a fundamental market failure" which required wholesale price caps for data roaming. He said that some operators charged small mobile companies higher wholesale fees for data roaming than they charged their own retail customers.
+The EP would "try to strike a balance between the stakeholders' views", aiming for an agreement with Council in first reading before the end of the legislative term, concluded Ms Vālean who will present her draft report to the committee on 20 January 2009.
+Procedure: co-decision, first reading -- Committee vote: 9 March 2009 (Strasbourg) -- First reading in plenary: April or May 2009 2008-12-02 Committee on Industry, Research and Energy In the chair Angelika Niebler EPP-ED DE
+20081201IPR43346 Website of the Industry, Research and Energy Committee
+EN
+1
+LINK
+/activities/committees/homeCom.do?language=EN&body=ITRE
+-//EP//DTD IM-PRESS 20050901 IPR DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 IPR DOC XML V0//EN

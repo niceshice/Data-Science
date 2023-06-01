@@ -1,0 +1,27 @@
+The internet of things and internet governance
+Information society
+Plenary sittings
+2010-06-15 - 13:50
+The European Parliament gave its backing to the development of an "internet of things", the new information technology combining electronic chips and internet addresses, in a resolution adopted on Tuesday. However, MEPs called for a proper assessment of any consequences regarding health, privacy and personal data protection. In a second resolution, Parliament stressed that the internet is a global public good and should thus be run in the general interest of society.
+The first resolution, drafted by Maria Badia i Cutchet (S&D, ES) and adopted by an overwhelming majority, was on the internet of things, which is revolutionising "person‑to‑thing and thing‑to-thing interaction". In future it will be possible for all the information on a product to be stored, received and transmitted in wireless mode via a chip stuck on the product and measuring just a few millimetres.
+Exploiting the potential of the internet of things
+With real-time information set to be available on a vast range of things, from tyre pressure to inventory management, from the organisation of public transport to pollution levels and waste collection, the economic and research opportunities are immense, believe MEPs. They urge the Commission to help the EU play a pioneering role and continue funding pilot projects. They also stress the need to establish principles and rules on internet governance and the internet of things with trade partners such as the WTO.
+However, Parliament also believes a thorough assessment must be made of any impact of this technology on health, privacy and data protection. The European consumer should have the right to opt for a product that is not equipped or connected. The development of the internet of things will depend on the trust consumers place in the system.
+The internet, a global public good
+In a separate resolution drafted by Francisco Sosa Wagner(NI, ES) and also adopted by a large majority, MEPs call for more attention to be given to questions of internet governance. The internet, they say, is a global public good and should be run in the common interest. Governments should avoid involvement in day-to-day internet management, which is carried out by the Internet Corporation for Assigned Names and Numbers (ICANN), a non-profit organisation subject to Californian law. However, they would like to see improvements, including a gradual diversification of the organisation's funding structure.
+For their part, governments should focus on infrastructure security, privacy, data protection and dispute settlement, while ensuring respect for the EU's fundamental values, say MEPs. Censorship, filtering and surveillance should not be practised. Essential restrictions, relating for example to the protection of minors, should be justified in law and be effective and proportionate.
+20100614IPR76044 Texts of adopted resolutions will be available here (click on 15.6.2010) Profile of rapporteur Maria Badia y Cutchet (S&D, ES) Profile of rapporteur Francisco Sosa Wagner (NI, ES)
+EN
+1
+LINK
+/activities/plenary/ta.do?language=EN
+EN
+2
+LINK
+/members/public/yourMep/view.do?name=badia*&partNumber=1&language=FR&id=28342
+EN
+3
+LINK
+/members/public/yourMep/view.do?name=sosa*&partNumber=1&language=FR&id=97170
+-//EP//DTD IM-PRESS 20050901 IPR DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 IPR DOC XML V0//EN

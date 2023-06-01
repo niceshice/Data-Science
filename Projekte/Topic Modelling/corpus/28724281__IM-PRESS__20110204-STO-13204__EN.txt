@@ -1,0 +1,35 @@
+Short selling: banking on others' misfortune or just hedging bets?
+Economic and monetary affairs
+2011-02-08 - 10:52
+Pascal Canfin discusses his report on short selling and CDS Favours ban on naked CDS, short selling More transparency, reporting of positions Need for uniform implementation of rules across the EU Most people who invest in shares and bonds only profit if prices rise. But, short sellers make money if and when markets fall and have been blamed for exploiting the misfortune of other investors and raising the cost of borrowing for governments. French Green Pascal Canfin's report on short selling and credit default swaps (CDS) was discussed in the Economic Affairs Committee in January. He talked to us about what needs to be done to make the business of short selling safer for everybody.
+The aim is to identify "the potential risks in the financial system that could trigger the next crisis", he said."We have seen with the financial crisis the costs of having a self regulated financial system; I was not elected to let that happen again."
+So, what is short selling?
+It's a trading strategy that allows an investor to profit from falling prices. Say you expect shares in a company to lose value, you could borrow 1000 shares at €10 a share, sell them for €10,000, wait until the share drops to, say, €9, buy back 1000 shares for €9,000, return the shares and pocket €1000 in profit. But you had better be right because if the share price rises, you lose money.
+And a CDS?
+A credit default swap is a form of insurance against default. If you have bought bonds in a company, but are afraid the company will go bust, you buy a CDS and the seller reimburses the money owed to you by the company if it goes bust and can't buy back the bond. If the company stays in business you simply lose the price of the CDS.
+Pros and cons
+Short selling makes markets more efficient, as investors can trade on rising as well as falling prices and the CDS allows investors to insure against risk. However, "these products can lead to increased volatility and market overreaction," Mr Canfin said.
+Particular problems can arise with "naked" short selling and CDS , which involve selling shares you don't own or taking out insurance on an instrument you don't own - it's a bit like taking out insurance on your neighbour's house, giving you the incentive to burn it down and collect the insurance. Many jurisdictions are moving to ban or seriously limit naked instruments.
+For example, when the US financial system wobbled and everyone expected an implosion, they rushed to sell bank shares. Short sellers borrowed shares and dumped them on the market leading to large price drops, fostering instability and contagion . The US prohibited short selling of bank shares for a while
+When Greece had problems, investors rushed to buy CDS , including investors who did not own Greek bonds, but who would get paid in the event of a default. Greater demand for CDS means higher prices for this form of insurance, making the bonds seem riskier, so forcing higher interest rates on the government and hurting the economy.
+Possible solutions
+Mr Canfin is in favour of banning naked CDS and short sales . "Of course the ban on naked CDS will not solve the fiscal problems of Greece or Ireland. Nevertheless, when you face such a situation, you can choose to add fuel to the fire or put water on it. These instruments should not be used as a speculative tool anymore."
+His report also calls for more transparency and reporting of positions to boost confidence and avoid panic.
+As to concerns that more burdensome rules will push financial firms to relocate away from the EU , Mr Canfin said, I am not sure European companies have an interest in relocating to the US, where the administrative burden is heavier. "Unfair competition between European trading venues is a more important risk. That is why we really need a strong ESMA" (European securities and markets authority) in order to have a uniform implementation of rules across the EU.
+20110204STO13204 Financial markets: short selling and certain aspects of credit default swaps Commission on short selling, CDS More transparency on derivatives? Financial glossary
+EN
+1
+PHOTO
+20110207PHT13259.jpg
+EN
+2
+LINK
+/oeil/file.jsp?id=5872692
+EN
+3
+LINK
+http://europa.eu/rapid/pressReleasesAction.do?reference=MEMO/10/409&format=HTML&aged=0&language=EN&guiLanguage=en
+-//EP//TEXT IM-PRESS 20100607FCS75591 0 NOT XML V0//EN
+-//EP//TEXT IM-PRESS 20100414FCS72750 0 NOT XML V0//EN
+-//EP//DTD IM-PRESS 20050901 STO DOC XML V0//EN
+-//EP//STYLESHEET IM-PRESS 20050901 STO DOC XML V0//EN
