@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+    <key attr.name="label" attr.type="string" for="node" id="label"/>
+    <key attr.name="Edge Label" attr.type="string" for="edge" id="edgelabel"/>
+    <key attr.name="weight" attr.type="double" for="edge" id="weight"/>
+    <key attr.name="Gender" attr.type="string" for="node" id="gender"/>
+    <key attr.name="Person group" attr.type="boolean" for="node" id="person-group"/>
+    <key attr.name="Number of spoken words" attr.type="int" for="node" id="number-of-words"/>
+    <graph edgedefault="undirected">
+        <node id="coelestin">
+            <data key="label">Cölestin</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">1429</data>
+        </node>
+        <node id="tatjana">
+            <data key="label">Tatjana</data>
+            <data key="gender">FEMALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">214</data>
+        </node>
+        <node id="fuerst">
+            <data key="label">Fürst</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">2706</data>
+        </node>
+        <node id="katharina">
+            <data key="label">Katharina</data>
+            <data key="gender">FEMALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">1409</data>
+        </node>
+        <node id="schwigerling">
+            <data key="label">Schwigerling</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">4124</data>
+        </node>
+        <node id="enjuscha">
+            <data key="label">Enjuscha</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">68</data>
+        </node>
+        <node id="alioscha">
+            <data key="label">Alioscha</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">67</data>
+        </node>
+        <node id="fuerstin">
+            <data key="label">Fürstin</data>
+            <data key="gender">FEMALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">971</data>
+        </node>
+        <node id="kolja">
+            <data key="label">Kolja</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">252</data>
+        </node>
+        <node id="mitja">
+            <data key="label">Mitja</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">8</data>
+        </node>
+        <edge id="coelestin|tatjana" source="coelestin" target="tatjana">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="coelestin|fuerst" source="coelestin" target="fuerst">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="coelestin|schwigerling" source="coelestin" target="schwigerling">
+            <data key="weight">10</data>
+        </edge>
+        <edge id="coelestin|katharina" source="coelestin" target="katharina">
+            <data key="weight">6</data>
+        </edge>
+        <edge id="coelestin|enjuscha" source="coelestin" target="enjuscha">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="coelestin|alioscha" source="coelestin" target="alioscha">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="coelestin|fuerstin" source="coelestin" target="fuerstin">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="coelestin|kolja" source="coelestin" target="kolja">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="tatjana|schwigerling" source="tatjana" target="schwigerling">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="tatjana|katharina" source="tatjana" target="katharina">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="tatjana|fuerstin" source="tatjana" target="fuerstin">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="fuerst|katharina" source="fuerst" target="katharina">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="fuerst|schwigerling" source="fuerst" target="schwigerling">
+            <data key="weight">9</data>
+        </edge>
+        <edge id="fuerst|enjuscha" source="fuerst" target="enjuscha">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="fuerst|alioscha" source="fuerst" target="alioscha">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="fuerst|kolja" source="fuerst" target="kolja">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="fuerst|mitja" source="fuerst" target="mitja">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="fuerst|fuerstin" source="fuerst" target="fuerstin">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="katharina|enjuscha" source="katharina" target="enjuscha">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="katharina|alioscha" source="katharina" target="alioscha">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="katharina|schwigerling" source="katharina" target="schwigerling">
+            <data key="weight">6</data>
+        </edge>
+        <edge id="katharina|fuerstin" source="katharina" target="fuerstin">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="schwigerling|enjuscha" source="schwigerling" target="enjuscha">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="schwigerling|alioscha" source="schwigerling" target="alioscha">
+            <data key="weight">5</data>
+        </edge>
+        <edge id="schwigerling|fuerstin" source="schwigerling" target="fuerstin">
+            <data key="weight">5</data>
+        </edge>
+        <edge id="enjuscha|alioscha" source="enjuscha" target="alioscha">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="alioscha|fuerstin" source="alioscha" target="fuerstin">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="kolja|mitja" source="kolja" target="mitja">
+            <data key="weight">1</data>
+        </edge>
+    </graph>
+</graphml>

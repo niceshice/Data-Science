@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns">
+    <key attr.name="label" attr.type="string" for="node" id="label"/>
+    <key attr.name="Edge Label" attr.type="string" for="edge" id="edgelabel"/>
+    <key attr.name="weight" attr.type="double" for="edge" id="weight"/>
+    <key attr.name="Gender" attr.type="string" for="node" id="gender"/>
+    <key attr.name="Person group" attr.type="boolean" for="node" id="person-group"/>
+    <key attr.name="Number of spoken words" attr.type="int" for="node" id="number-of-words"/>
+    <graph edgedefault="undirected">
+        <node id="marktschreier">
+            <data key="label">Marktschreier</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">270</data>
+        </node>
+        <node id="woyzeck">
+            <data key="label">Woyzeck</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">2553</data>
+        </node>
+        <node id="marie">
+            <data key="label">Marie</data>
+            <data key="gender">FEMALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">1010</data>
+        </node>
+        <node id="tambourmajor">
+            <data key="label">Tambourmajor</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">192</data>
+        </node>
+        <node id="andres">
+            <data key="label">Andres</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">346</data>
+        </node>
+        <node id="karl_narr">
+            <data key="label">Karl/Narr</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">80</data>
+        </node>
+        <node id="barbier">
+            <data key="label">Barbier</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">308</data>
+        </node>
+        <node id="maedchen">
+            <data key="label">Mädchen</data>
+            <data key="gender">FEMALE</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">36</data>
+        </node>
+        <node id="erstes_kind">
+            <data key="label">Erstes Kind</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">29</data>
+        </node>
+        <node id="zweites_kind">
+            <data key="label">Zweites Kind</data>
+            <data key="gender">UNKNOWN</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">39</data>
+        </node>
+        <node id="grossmutter">
+            <data key="label">Großmutter</data>
+            <data key="gender">FEMALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">144</data>
+        </node>
+        <node id="erste_person">
+            <data key="label">Erste Person</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">23</data>
+        </node>
+        <node id="zweite_person">
+            <data key="label">Zweite Person</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">40</data>
+        </node>
+        <node id="kaethe">
+            <data key="label">Käthe</data>
+            <data key="gender">FEMALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">45</data>
+        </node>
+        <node id="wirth">
+            <data key="label">Wirth</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">21</data>
+        </node>
+        <node id="gerichtsdiener">
+            <data key="label">Gerichtsdiener</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">25</data>
+        </node>
+        <node id="margreth">
+            <data key="label">Margreth</data>
+            <data key="gender">FEMALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">87</data>
+        </node>
+        <node id="alter_mann">
+            <data key="label">Alter Mann</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">14</data>
+        </node>
+        <node id="ausrufer">
+            <data key="label">Ausrufer</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">117</data>
+        </node>
+        <node id="herr">
+            <data key="label">Herr</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">4</data>
+        </node>
+        <node id="student">
+            <data key="label">Student</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">10</data>
+        </node>
+        <node id="erster_handwerksbursch">
+            <data key="label">Erster Handwerksbursch</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">233</data>
+        </node>
+        <node id="zweiter_handwerksbursch">
+            <data key="label">Zweiter Handwerksbursch</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">49</data>
+        </node>
+        <node id="unterofficier">
+            <data key="label">Unterofficier</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">28</data>
+        </node>
+        <node id="doctor">
+            <data key="label">Doctor</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">1182</data>
+        </node>
+        <node id="hauptmann">
+            <data key="label">Hauptmann</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">1046</data>
+        </node>
+        <node id="andre_im_chor">
+            <data key="label">Andre im Chor</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">true</data>
+            <data key="number-of-words">27</data>
+        </node>
+        <node id="eine">
+            <data key="label">Eine</data>
+            <data key="gender">FEMALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">4</data>
+        </node>
+        <node id="andre">
+            <data key="label">Andre</data>
+            <data key="gender">FEMALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">2</data>
+        </node>
+        <node id="jud">
+            <data key="label">Jud</data>
+            <data key="gender">MALE</data>
+            <data key="person-group">false</data>
+            <data key="number-of-words">67</data>
+        </node>
+        <edge id="marktschreier|woyzeck" source="marktschreier" target="woyzeck">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="marktschreier|marie" source="marktschreier" target="marie">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="marktschreier|tambourmajor" source="marktschreier" target="tambourmajor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="woyzeck|marie" source="woyzeck" target="marie">
+            <data key="weight">10</data>
+        </edge>
+        <edge id="woyzeck|andres" source="woyzeck" target="andres">
+            <data key="weight">10</data>
+        </edge>
+        <edge id="woyzeck|karl_narr" source="woyzeck" target="karl_narr">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="woyzeck|maedchen" source="woyzeck" target="maedchen">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="woyzeck|erstes_kind" source="woyzeck" target="erstes_kind">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="woyzeck|zweites_kind" source="woyzeck" target="zweites_kind">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="woyzeck|grossmutter" source="woyzeck" target="grossmutter">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="woyzeck|kaethe" source="woyzeck" target="kaethe">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="woyzeck|wirth" source="woyzeck" target="wirth">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="woyzeck|margreth" source="woyzeck" target="margreth">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="woyzeck|unterofficier" source="woyzeck" target="unterofficier">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="woyzeck|tambourmajor" source="woyzeck" target="tambourmajor">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="woyzeck|doctor" source="woyzeck" target="doctor">
+            <data key="weight">4</data>
+        </edge>
+        <edge id="woyzeck|hauptmann" source="woyzeck" target="hauptmann">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="woyzeck|erster_handwerksbursch" source="woyzeck" target="erster_handwerksbursch">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="woyzeck|zweiter_handwerksbursch" source="woyzeck" target="zweiter_handwerksbursch">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="woyzeck|andre_im_chor" source="woyzeck" target="andre_im_chor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="woyzeck|eine" source="woyzeck" target="eine">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="woyzeck|andre" source="woyzeck" target="andre">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="woyzeck|jud" source="woyzeck" target="jud">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="marie|tambourmajor" source="marie" target="tambourmajor">
+            <data key="weight">3</data>
+        </edge>
+        <edge id="marie|maedchen" source="marie" target="maedchen">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="marie|erstes_kind" source="marie" target="erstes_kind">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="marie|zweites_kind" source="marie" target="zweites_kind">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="marie|grossmutter" source="marie" target="grossmutter">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="marie|margreth" source="marie" target="margreth">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="marie|unterofficier" source="marie" target="unterofficier">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="marie|erster_handwerksbursch" source="marie" target="erster_handwerksbursch">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="marie|zweiter_handwerksbursch" source="marie" target="zweiter_handwerksbursch">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="marie|andre_im_chor" source="marie" target="andre_im_chor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="marie|karl_narr" source="marie" target="karl_narr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="tambourmajor|barbier" source="tambourmajor" target="barbier">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="tambourmajor|unterofficier" source="tambourmajor" target="unterofficier">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="tambourmajor|eine" source="tambourmajor" target="eine">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="tambourmajor|andre" source="tambourmajor" target="andre">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="karl_narr|kaethe" source="karl_narr" target="kaethe">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="karl_narr|wirth" source="karl_narr" target="wirth">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="barbier|gerichtsdiener" source="barbier" target="gerichtsdiener">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="maedchen|erstes_kind" source="maedchen" target="erstes_kind">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="maedchen|zweites_kind" source="maedchen" target="zweites_kind">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="maedchen|grossmutter" source="maedchen" target="grossmutter">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="erstes_kind|zweites_kind" source="erstes_kind" target="zweites_kind">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="erstes_kind|grossmutter" source="erstes_kind" target="grossmutter">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="zweites_kind|grossmutter" source="zweites_kind" target="grossmutter">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="erste_person|zweite_person" source="erste_person" target="zweite_person">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="kaethe|wirth" source="kaethe" target="wirth">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="alter_mann|ausrufer" source="alter_mann" target="ausrufer">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="alter_mann|herr" source="alter_mann" target="herr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="alter_mann|student" source="alter_mann" target="student">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="ausrufer|herr" source="ausrufer" target="herr">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="ausrufer|student" source="ausrufer" target="student">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="herr|student" source="herr" target="student">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="erster_handwerksbursch|zweiter_handwerksbursch" source="erster_handwerksbursch" target="zweiter_handwerksbursch">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="erster_handwerksbursch|andre_im_chor" source="erster_handwerksbursch" target="andre_im_chor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="zweiter_handwerksbursch|andre_im_chor" source="zweiter_handwerksbursch" target="andre_im_chor">
+            <data key="weight">1</data>
+        </edge>
+        <edge id="doctor|hauptmann" source="doctor" target="hauptmann">
+            <data key="weight">2</data>
+        </edge>
+        <edge id="eine|andre" source="eine" target="andre">
+            <data key="weight">1</data>
+        </edge>
+    </graph>
+</graphml>
